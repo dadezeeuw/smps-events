@@ -42,43 +42,43 @@ for chapter in chapters:
     event_links = []
     seen = set()
 
-        for a in soup.find_all("a", href=True):
-            href = a.get("href")
-            label = a.get_text(strip=True)
+    for a in soup.find_all("a", href=True):
+        href = a.get("href")
+        label = a.get_text(strip=True)
 
-            if href and "meetinginfo.php?id=" in href:
-                full_url = urljoin(chapter["url"], href)
+        if href and "meetinginfo.php?id=" in href:
+            full_url = urljoin(chapter["url"], href)
 
-                if full_url not in seen:
-                    seen.add(full_url)
-                    event_links.append(full_url)
+            if full_url not in seen:
+                seen.add(full_url)
+                event_links.append(full_url)
 
-        event_link_index = 0
+    event_link_index = 0
 
-        for i, line in enumerate(lines):
-            if date_pattern.match(line):
-                title = lines[i - 1] if i > 0 else ""
-                date = line
-                time = lines[i + 1] if i + 1 < len(lines) else ""
-                location = lines[i + 2] if i + 2 < len(lines) else ""
-                description = lines[i + 3] if i + 3 < len(lines) else ""
+    for i, line in enumerate(lines):
+        if date_pattern.match(line):
+            title = lines[i - 1] if i > 0 else ""
+            date = line
+            time = lines[i + 1] if i + 1 < len(lines) else ""
+            location = lines[i + 2] if i + 2 < len(lines) else ""
+            description = lines[i + 3] if i + 3 < len(lines) else ""
 
-                if time_pattern.match(time):
-                    detail_url = event_links[event_link_index] if event_link_index < len(event_links) else chapter["url"]
-                    event_link_index += 1
+            if time_pattern.match(time):
+                detail_url = event_links[event_link_index] if event_link_index < len(event_links) else chapter["url"]
+                event_link_index += 1
 
-                    all_events.append({
-                        "chapter": chapter["chapter"],
-                        "title": title,
-                        "date": date,
-                        "sort_date": make_sort_date(date),
-                        "time": time,
-                        "location": location,
-                        "description": description,
-                        "detail_url": detail_url
-                    })
+                all_events.append({
+                    "chapter": chapter["chapter"],
+                    "title": title,
+                    "date": date,
+                    "sort_date": make_sort_date(date),
+                    "time": time,
+                    "location": location,
+                    "description": description,
+                    "detail_url": detail_url
+                })
 
-    browser.close()
+browser.close()
 
 all_events.sort(key=lambda event: event.get("sort_date", ""))
 
