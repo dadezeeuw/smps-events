@@ -23,18 +23,24 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
-    for chapter in chapters:
-        print(f"\nScraping: {chapter['chapter']}")
+for chapter in chapters:
+    print(f"\nScraping: {chapter['chapter']}")
 
-        page.goto(chapter["url"], wait_until="networkidle")
+    try:
+        page.goto(chapter["url"], wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(3000)
         html = page.content()
-        soup = BeautifulSoup(html, "lxml")
+    except Exception as e:
+        print(f"Failed to load {chapter['chapter']}: {e}")
+        continue
 
-        text = soup.get_text("\n", strip=True)
-        lines = [line.strip() for line in text.split("\n") if line.strip()]
+    soup = BeautifulSoup(html, "lxml")
 
-        event_links = []
-        seen = set()
+    text = soup.get_text("\n", strip=True)
+    lines = [line.strip() for line in text.split("\n") if line.strip()]
+
+    event_links = []
+    seen = set()
 
         for a in soup.find_all("a", href=True):
             href = a.get("href")
