@@ -20,7 +20,7 @@ def make_sort_date(date_text):
         return ""
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)
+    browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
     for chapter in chapters:
