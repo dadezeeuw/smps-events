@@ -8,31 +8,20 @@ import json
 with open("chapters.json", "r", encoding="utf-8") as f:
     chapters = json.load(f)
 
-date_pattern = re.compile(
-    r"^(January|February|March|April|May|June|July|August|September|October|November|December|"
-    r"Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\.?\s+\d{1,2},\s+\d{4}$"
-)
+date_pattern = re.compile(r"^[A-Z][a-z]+ \d{1,2}, \d{4}$")
+time_pattern = re.compile(r"^\d{1,2}:\d{2} [AP]M to \d{1,2}:\d{2} [AP]M$")
 
-time_pattern = re.compile(
-    r"^\d{1,2}(:\d{2})?\s*[AP]M\s*(to|-|–)\s*\d{1,2}(:\d{2})?\s*[AP]M$",
-    re.IGNORECASE
-)
 all_events = []
 
 def make_sort_date(date_text):
-    date_text = date_text.replace(".", "")
-    for fmt in ("%B %d, %Y", "%b %d, %Y"):
-        try:
-            return datetime.strptime(date_text, fmt).strftime("%Y-%m-%d")
-        except:
-            pass
-    return ""
+    try:
+        return datetime.strptime(date_text, "%B %d, %Y").strftime("%Y-%m-%d")
+    except:
+        return ""
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
-    page = browser.new_page(
-        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-)
+    page = browser.new_page()
 
     for chapter in chapters:
         print(f"\nScraping: {chapter['chapter']}")
@@ -41,11 +30,6 @@ with sync_playwright() as p:
             page.goto(chapter["url"], wait_until="domcontentloaded", timeout=60000)
             page.wait_for_timeout(3000)
             html = page.content()
-
-            if "Just a moment..." in html or "Cloudflare" in html or "Enable JavaScript and cookies" in html:
-                print(f"Blocked by Cloudflare: {chapter['chapter']}")
-                continue
-    
         except Exception as e:
             print(f"Failed to load {chapter['chapter']}: {e}")
             continue
@@ -54,16 +38,12 @@ with sync_playwright() as p:
 
         text = soup.get_text("\n", strip=True)
         lines = [line.strip() for line in text.split("\n") if line.strip()]
-        print(f"Found {len(lines)} lines for {chapter['chapter']}")
-        for line in lines[:50]:
-            print(line)
-            
+
         event_links = []
         seen = set()
 
         for a in soup.find_all("a", href=True):
             href = a.get("href")
-            label = a.get_text(strip=True)
 
             if href and "meetinginfo.php?id=" in href:
                 full_url = urljoin(chapter["url"], href)
@@ -76,10 +56,6 @@ with sync_playwright() as p:
 
         for i, line in enumerate(lines):
             if date_pattern.match(line):
-                print("\nDATE MATCH:", line)
-                print("TITLE:", lines[i - 1] if i > 0 else "")
-                print("TIME CANDIDATE:", lines[i + 1] if i + 1 < len(lines) else "")
-                
                 title = lines[i - 1] if i > 0 else ""
                 date = line
                 time = lines[i + 1] if i + 1 < len(lines) else ""
@@ -104,12 +80,12 @@ with sync_playwright() as p:
     browser.close()
 
 all_events.sort(key=lambda event: event.get("sort_date", ""))
+
 if len(all_events) == 0:
-    print("ERROR: No events found. Site may be blocking scraper. Not overwriting events.json.")
+    print("ERROR: No events found. Not overwriting events.json.")
     raise SystemExit(1)
+
 with open("docs/events.json", "w", encoding="utf-8") as f:
     json.dump(all_events, f, indent=2)
-    
-print("\nFINAL EVENT COUNT:", len(all_events))
 
 print(f"\nSaved {len(all_events)} total events")
