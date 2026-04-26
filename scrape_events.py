@@ -38,9 +38,14 @@ with sync_playwright() as p:
         print(f"\nScraping: {chapter['chapter']}")
 
         try:
-            page.goto(chapter["url"], wait_until="networkidle", timeout=60000)
-            page.wait_for_timeout(8000)
+            page.goto(chapter["url"], wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_timeout(3000)
             html = page.content()
+
+        if "Just a moment..." in html or "Cloudflare" in html or "Enable JavaScript and cookies" in html:
+            print(f"Blocked by Cloudflare: {chapter['chapter']}")
+            continue
+    
         except Exception as e:
             print(f"Failed to load {chapter['chapter']}: {e}")
             continue
