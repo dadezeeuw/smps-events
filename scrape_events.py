@@ -30,14 +30,16 @@ def make_sort_date(date_text):
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
-    page = browser.new_page()
+    page = browser.new_page(
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
     for chapter in chapters:
         print(f"\nScraping: {chapter['chapter']}")
 
         try:
-            page.goto(chapter["url"], wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(3000)
+            page.goto(chapter["url"], wait_until="networkidle", timeout=60000)
+            page.wait_for_timeout(8000)
             html = page.content()
         except Exception as e:
             print(f"Failed to load {chapter['chapter']}: {e}")
@@ -97,7 +99,9 @@ with sync_playwright() as p:
     browser.close()
 
 all_events.sort(key=lambda event: event.get("sort_date", ""))
-
+if len(all_events) == 0:
+    print("ERROR: No events found. Site may be blocking scraper. Not overwriting events.json.")
+    raise SystemExit(1)
 with open("docs/events.json", "w", encoding="utf-8") as f:
     json.dump(all_events, f, indent=2)
     
