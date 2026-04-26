@@ -47,7 +47,10 @@ with sync_playwright() as p:
 
         text = soup.get_text("\n", strip=True)
         lines = [line.strip() for line in text.split("\n") if line.strip()]
-
+        print(f"Found {len(lines)} lines for {chapter['chapter']}")
+        for line in lines[:50]:
+            print(line)
+            
         event_links = []
         seen = set()
 
@@ -97,5 +100,7 @@ all_events.sort(key=lambda event: event.get("sort_date", ""))
 
 with open("docs/events.json", "w", encoding="utf-8") as f:
     json.dump(all_events, f, indent=2)
+    
+print("\nFINAL EVENT COUNT:", len(all_events))
 
 print(f"\nSaved {len(all_events)} total events")
