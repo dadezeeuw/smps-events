@@ -42,9 +42,9 @@ with sync_playwright() as p:
             page.wait_for_timeout(3000)
             html = page.content()
 
-        if "Just a moment..." in html or "Cloudflare" in html or "Enable JavaScript and cookies" in html:
-            print(f"Blocked by Cloudflare: {chapter['chapter']}")
-            continue
+            if "Just a moment..." in html or "Cloudflare" in html or "Enable JavaScript and cookies" in html:
+                print(f"Blocked by Cloudflare: {chapter['chapter']}")
+                continue
     
         except Exception as e:
             print(f"Failed to load {chapter['chapter']}: {e}")
