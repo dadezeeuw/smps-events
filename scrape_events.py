@@ -8,16 +8,25 @@ import json
 with open("chapters.json", "r", encoding="utf-8") as f:
     chapters = json.load(f)
 
-date_pattern = re.compile(r"^[A-Z][a-z]+ \d{1,2}, \d{4}$")
-time_pattern = re.compile(r"^\d{1,2}:\d{2} [AP]M to \d{1,2}:\d{2} [AP]M$")
+date_pattern = re.compile(
+    r"^(January|February|March|April|May|June|July|August|September|October|November|December|"
+    r"Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\.?\s+\d{1,2},\s+\d{4}$"
+)
 
+time_pattern = re.compile(
+    r"^\d{1,2}(:\d{2})?\s*[AP]M\s*(to|-|–)\s*\d{1,2}(:\d{2})?\s*[AP]M$",
+    re.IGNORECASE
+)
 all_events = []
 
 def make_sort_date(date_text):
-    try:
-        return datetime.strptime(date_text, "%B %d, %Y").strftime("%Y-%m-%d")
-    except:
-        return ""
+    date_text = date_text.replace(".", "")
+    for fmt in ("%B %d, %Y", "%b %d, %Y"):
+        try:
+            return datetime.strptime(date_text, fmt).strftime("%Y-%m-%d")
+        except:
+            pass
+    return ""
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
@@ -57,6 +66,10 @@ with sync_playwright() as p:
 
         for i, line in enumerate(lines):
             if date_pattern.match(line):
+                print("\nDATE MATCH:", line)
+                print("TITLE:", lines[i - 1] if i > 0 else "")
+                print("TIME CANDIDATE:", lines[i + 1] if i + 1 < len(lines) else "")
+                
                 title = lines[i - 1] if i > 0 else ""
                 date = line
                 time = lines[i + 1] if i + 1 < len(lines) else ""
