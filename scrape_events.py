@@ -68,12 +68,15 @@ with sync_playwright() as p:
 
                     all_events.append({
                         "chapter": chapter["chapter"],
+                        "state": chapter.get("state", ""),
+                        "region": chapter.get("region", ""),
                         "title": title,
                         "date": date,
                         "sort_date": make_sort_date(date),
                         "time": time,
                         "location": location,
                         "description": description,
+                        "is_virtual": "virtual" in location.lower() or "online" in location.lower() or "webinar" in location.lower(),
                         "detail_url": detail_url
                     })
 
