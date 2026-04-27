@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "Coffee (or Cocktails) and Connections",
-    "date": "April 10, 2026",
-    "sort_date": "2026-04-10",
-    "time": "8:00 AM to 12:00 PM",
-    "location": "Meeting Location TBD",
-    "description": "Read More",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=171&ts=1775849622"
-  },
-  {
     "chapter": "SMPS Greater Cincinnati",
     "state": "Ohio",
     "region": "Heartland",
@@ -65,6 +52,19 @@
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=402&ts=1776271969"
   },
   {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Spring Senior Leadership Roundtable",
+    "date": "May 08, 2026",
+    "sort_date": "2026-05-08",
+    "time": "8:30 AM to 10:00 AM",
+    "location": "Kitchell, 7600 N. Capital of Texas Highway (Building B - 1st Floor Conference Room), Austin, TX 78731",
+    "description": "A quarterly, peer-driven forum for senior marketing and business development leaders in the A/E/C industry.",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
+  },
+  {
     "chapter": "SMPS Greater Cincinnati",
     "state": "Ohio",
     "region": "Heartland",
@@ -72,8 +72,8 @@
     "date": "May 12, 2026",
     "sort_date": "2026-05-12",
     "time": "11:30 AM to 1:30 PM",
-    "location": "The Atriums Cincinnati Reds Conference Room",
-    "description": "221 East Fourth Street, Suite 100",
+    "location": "The Atriums Cincinnati Reds Conference Room, 221 East Fourth Street, Suite 100, Cincinnati, OH 45202",
+    "description": "Winning in Higher Education: What Decision-Makers Value",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=396&ts=1776184321"
   },
@@ -85,10 +85,23 @@
     "date": "May 12, 2026",
     "sort_date": "2026-05-12",
     "time": "11:30 AM to 1:00 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center",
-    "description": "2201 Fred Taylor Dr.",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=152&ts=1775835665"
+  },
+  {
+    "chapter": "SMPS West Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "SMPS WM Spring Happy Hour - Sponsored by Rockford!",
+    "date": "May 12, 2026",
+    "sort_date": "2026-05-12",
+    "time": "4:00 PM EDT to 6:00 PM EDT",
+    "location": "Silva, 975 Ottawa Ave NW, Grand Rapids, MI 49503",
+    "description": "Join us for a happy hour + facility tour of Silva!",
+    "is_virtual": false,
+    "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=76&ts=1774280749"
   },
   {
     "chapter": "SMPS Indiana",
@@ -104,6 +117,32 @@
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=407&ts=1776365664"
   },
   {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "AI and A/E/C: From Curious to Capable",
+    "date": "May 14, 2026",
+    "sort_date": "2026-05-14",
+    "time": "2:30 PM to 5:00 PM",
+    "location": "Pop's for Italian, 280 W Nine Mile Rd, Ferndale, MI 48220, https://www.popsforitalian.com/",
+    "description": "Stop experimenting. Start implementing.",
+    "is_virtual": false,
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=285&ts=1776699891"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Drinks with Developers May 14, 2026",
+    "date": "May 14, 2026",
+    "sort_date": "2026-05-14",
+    "time": "5:00 PM to 8:00 PM",
+    "location": "The Junior League of Austin, 5330 Bluffstone Cv, Austin , TX 78759",
+    "description": "Diamond Sponsorships Available!",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=344&ts=1776099094"
+  },
+  {
     "chapter": "SMPS Northeast Ohio",
     "state": "Ohio",
     "region": "Heartland",
@@ -115,6 +154,32 @@
     "description": "This session shines a light on strategic planning and equips attendees with foundational insight and ideas that they can take back to their firm leadership to start breaking down the barriers that prevent meaningful involvement.",
     "is_virtual": true,
     "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=205&ts=1774900827"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Get More AEC Leads from Google and ChatGPT",
+    "date": "May 21, 2026",
+    "sort_date": "2026-05-21",
+    "time": "11:00 AM to 1:00 PM",
+    "location": "Virtual Meeting - Zoom link included in registration receipt and registration confirmation screen",
+    "description": "The session breaks down how Google SEO and AI search tools like ChatGPT actually work\u2014and how AEC firms can use them to generate consistent, high-quality leads beyond referrals and RFPs.",
+    "is_virtual": true,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=306&ts=1776989905"
+  },
+  {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "Spring Appreciation & Networking Event",
+    "date": "May 28, 2026",
+    "sort_date": "2026-05-28",
+    "time": "4:30 PM to 7:30 PM",
+    "location": "Mother Handsome, 14661 W Eleven Mile Rd Ste 500, Oak Park, MI 48237, https://motherhandsome.com/",
+    "description": "Member Appreciation Event",
+    "is_virtual": false,
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=286&ts=1776873460"
   },
   {
     "chapter": "SMPS Indiana",
@@ -137,10 +202,36 @@
     "date": "June 16, 2026",
     "sort_date": "2026-06-16",
     "time": "8:30 AM to 1:30 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center",
-    "description": "2201 Fred Taylor Dr.",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
+  },
+  {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "*NEW DATE*  Tours & Toasts",
+    "date": "June 17, 2026",
+    "sort_date": "2026-06-17",
+    "time": "3:00 PM to 7:00 PM",
+    "location": "Southeast Michigan Psychiatric Hospital, 18471 Haggerty Road, Northville Township, MI 48168",
+    "description": "Join us for an exclusive behind-the-scenes look at the Southeast Michigan Psychiatric Hospital\u2014a project redefining behavioral healthcare in our region.",
+    "is_virtual": false,
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=283&ts=1777305899"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "June Luncheon Program",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
+    "description": "Stay Tuned!",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
   },
   {
     "chapter": "SMPS Indiana",
@@ -163,8 +254,8 @@
     "date": "July 15, 2026",
     "sort_date": "2026-07-15",
     "time": "4:00 PM to 5:30 PM",
-    "location": "Madtree Brewing",
-    "description": "3301 Madison Rd",
+    "location": "Madtree Brewing, 3301 Madison Rd, Cincinnati, OH 45209, https://madtree.com/",
+    "description": "Join us for networking and happy hour with the chapter!",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=398&ts=1777303615"
   },
@@ -176,8 +267,8 @@
     "date": "July 30, 2026",
     "sort_date": "2026-07-30",
     "time": "3:00 PM to 5:30 PM",
-    "location": "Xavier's College of Osteopathic Medicine Hard Hat Tour",
-    "description": "Dana Avenue",
+    "location": "Xavier's College of Osteopathic Medicine Hard Hat Tour, Dana Avenue",
+    "description": "HARD HAT TOUR: Xavier's College of Osteopathic Medicine - REGISTER NOW!",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=395&ts=1772821396"
   },
@@ -202,8 +293,8 @@
     "date": "August 19, 2026",
     "sort_date": "2026-08-19",
     "time": "4:00 PM to 7:00 PM",
-    "location": "Oswald Conference Center",
-    "description": "950 Main Avenue",
+    "location": "Oswald Conference Center, 950 Main Avenue, Cleveland, OH 44113",
+    "description": "Join us for the Annual Awards event to celebrate all the outstanding achievements in marketing and communications within the Northeast Ohio A/E/C industry!",
     "is_virtual": false,
     "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=206&ts=1776953212"
   },
@@ -215,8 +306,8 @@
     "date": "August 26, 2026",
     "sort_date": "2026-08-26",
     "time": "7:00 AM to 4:00 PM",
-    "location": "The Golf Club of Dublin",
-    "description": "5805 Eiterman Road",
+    "location": "The Golf Club of Dublin, 5805 Eiterman Road, Dublin, OH 43016",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1777048724"
   },
@@ -230,7 +321,7 @@
     "time": "8:00 AM to 10:00 AM",
     "location": "The Coffee Haus @ Guggman",
     "description": "Hot Takes & Hot Coffee returns with a new set of conversation starters focused on the realities of today\u2019s marketing and BD teams.",
-    "is_virtual": true,
+    "is_virtual": false,
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=406&ts=1776365543"
   },
   {
@@ -241,8 +332,8 @@
     "date": "September 30, 2026",
     "sort_date": "2026-09-30",
     "time": "8:00 AM to 4:00 PM",
-    "location": "Hilton Netherlands Plaza Hotel",
-    "description": "35 W. Fifth Street",
+    "location": "Hilton Netherlands Plaza Hotel, 35 W. Fifth Street, Cincinnati, OH 45202",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1767892396"
   },
@@ -254,8 +345,8 @@
     "date": "November 17, 2026",
     "sort_date": "2026-11-17",
     "time": "11:30 AM to 1:00 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center",
-    "description": "2201 Fred Taylor Dr.",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1757429739"
   }
