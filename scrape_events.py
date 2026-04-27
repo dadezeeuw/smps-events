@@ -9,7 +9,10 @@ with open("chapters.json", "r", encoding="utf-8") as f:
     chapters = json.load(f)
 
 date_pattern = re.compile(r"^[A-Z][a-z]+ \d{1,2}, \d{4}$")
-time_pattern = re.compile(r"^\d{1,2}:\d{2} [AP]M to \d{1,2}:\d{2} [AP]M$")
+time_pattern = re.compile(r"^\d{1,2}:\d{2}\s?[AP]M\s?(to|-|\u2013)\s?\d{1,2}:\d{2}\s?[AP]M$",
+    re.IGNORECASE
+)
+
 
 all_events = []
 
@@ -20,7 +23,7 @@ def make_sort_date(date_text):
         return ""
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=False)
+    browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
     for chapter in chapters:
@@ -69,30 +72,36 @@ with sync_playwright() as p:
                     print(f"Date found but time rejected: {date} | next line: {time}")
                     continue
 
-                    combined_text = f"{title} {location} {description}".lower()
+                location = lines[i + 2] if i + 2 < len(lines) else ""
+                description = lines[i + 3] if i + 3 < len(lines) else ""
 
-                    is_virtual = any(word in combined_text for word in [
-                        "virtual",
-                        "online",
-                        "webinar",
-                        "zoom",
-                        "teams",
-                        "remote"
-                    ])
+                detail_url = event_links[event_link_index] if event_link_index < len(event_links) else ""
+                event_link_index += 1
 
-                    all_events.append({
-                        "chapter": chapter["chapter"],
-                        "state": chapter.get("state", ""),
-                        "region": chapter.get("region", ""),
-                        "title": title,
-                        "date": date,
-                        "sort_date": make_sort_date(date),
-                        "time": time,
-                        "location": location,
-                        "description": description,
-                        "is_virtual": is_virtual,
-                        "detail_url": detail_url
-                    })
+                combined_text = f"{title} {location} {description}".lower()
+
+                is_virtual = any(word in combined_text for word in [
+                    "virtual",
+                    "online",
+                    "webinar",
+                    "zoom",
+                    "teams",
+                    "remote"
+                ])
+
+                all_events.append({
+                    "chapter": chapter["chapter"],
+                    "state": chapter.get("state", ""),
+                    "region": chapter.get("region", ""),
+                    "title": title,
+                    "date": date,
+                    "sort_date": make_sort_date(date),
+                    "time": time,
+                    "location": location,
+                    "description": description,
+                    "is_virtual": is_virtual,
+                    "detail_url": detail_url
+                })
 
     browser.close()
 
