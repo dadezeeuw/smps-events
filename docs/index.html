@@ -3,7 +3,8 @@
 <head>
   <title>SMPS Events</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <style>
     * {
       box-sizing: border-box;
@@ -340,7 +341,7 @@
     <option value="in-person">In-Person</option>
   </select>
 </div>
-
+<div id="map" style="display:none;"></div>
     <p id="event-count" class="event-count">Loading events...</p>
 <div class="filter-row">
   <label for="chapter-filter">Filter by chapter:</label>
