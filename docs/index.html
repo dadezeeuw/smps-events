@@ -240,6 +240,41 @@
   background: #000;
   color: #fff;
 }
+.filters-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+  margin: 0 0 20px;
+}
+
+.filters-grid select {
+  height: 38px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  font-family: inherit;
+}
+
+#map {
+  height: 420px;
+  margin: 0 0 28px;
+  border: 1px solid #ddd;
+}
+
+.virtual-label {
+  display: inline-block;
+  background: #55c5e5;
+  color: #000;
+  padding: 5px 10px;
+  margin-left: 8px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 900px) {
+  .filters-grid {
+    grid-template-columns: 1fr;
+  }
+}
   </style>
 </head>
 
@@ -278,6 +313,33 @@
         </div>
       </div>
     </div>
+<div class="filters-grid">
+  <select id="chapter-filter">
+    <option value="">All Chapters</option>
+  </select>
+
+  <select id="state-filter">
+    <option value="">All States</option>
+  </select>
+
+  <select id="region-filter">
+    <option value="">All Regions</option>
+  </select>
+
+  <select id="month-filter">
+    <option value="">All Months</option>
+  </select>
+
+  <select id="year-filter">
+    <option value="">All Years</option>
+  </select>
+
+  <select id="format-filter">
+    <option value="">Virtual + In-Person</option>
+    <option value="virtual">Virtual</option>
+    <option value="in-person">In-Person</option>
+  </select>
+</div>
 
     <p id="event-count" class="event-count">Loading events...</p>
 <div class="filter-row">
@@ -295,10 +357,118 @@
     </div>
   </footer>
 
- <script>
+<script>
   let allEvents = [];
-  let currentSearch = "";
-  let currentChapter = "";
+  let map;
+  let markersLayer;
+
+  const filters = {
+    search: "",
+    chapter: "",
+    state: "",
+    region: "",
+    month: "",
+    year: "",
+    format: ""
+  };
+
+  function getMonthName(dateText) {
+    if (!dateText) return "";
+    return dateText.split(" ")[0];
+  }
+
+  function getYear(dateText) {
+    if (!dateText) return "";
+    const parts = dateText.split(", ");
+    return parts.length > 1 ? parts[1] : "";
+  }
+
+  function populateSelect(id, values) {
+    const select = document.getElementById(id);
+    const current = select.value;
+
+    values.forEach(value => {
+      if (!value) return;
+      const option = document.createElement("option");
+      option.value = value;
+      option.textContent = value;
+      select.appendChild(option);
+    });
+
+    select.value = current;
+  }
+
+  function setupFilters(events) {
+    populateSelect("chapter-filter", [...new Set(events.map(e => e.chapter))].sort());
+    populateSelect("state-filter", [...new Set(events.map(e => e.state))].sort());
+    populateSelect("region-filter", [...new Set(events.map(e => e.region))].sort());
+    populateSelect("month-filter", [...new Set(events.map(e => getMonthName(e.date)))].sort((a, b) => {
+      const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+      return months.indexOf(a) - months.indexOf(b);
+    }));
+    populateSelect("year-filter", [...new Set(events.map(e => getYear(e.date)))].sort());
+
+    document.getElementById("chapter-filter").addEventListener("change", e => {
+      filters.chapter = e.target.value;
+      applyFilters();
+    });
+
+    document.getElementById("state-filter").addEventListener("change", e => {
+      filters.state = e.target.value;
+      applyFilters();
+    });
+
+    document.getElementById("region-filter").addEventListener("change", e => {
+      filters.region = e.target.value;
+      applyFilters();
+    });
+
+    document.getElementById("month-filter").addEventListener("change", e => {
+      filters.month = e.target.value;
+      applyFilters();
+    });
+
+    document.getElementById("year-filter").addEventListener("change", e => {
+      filters.year = e.target.value;
+      applyFilters();
+    });
+
+    document.getElementById("format-filter").addEventListener("change", e => {
+      filters.format = e.target.value;
+      applyFilters();
+    });
+  }
+
+  function getFilteredEvents() {
+    const q = filters.search.toLowerCase().trim();
+
+    return allEvents.filter(event => {
+      const matchesSearch = !q || [
+        event.title,
+        event.chapter,
+        event.state,
+        event.region,
+        event.city,
+        event.date,
+        event.time,
+        event.location,
+        event.description
+      ].some(value => (value || "").toLowerCase().includes(q));
+
+      const matchesChapter = !filters.chapter || event.chapter === filters.chapter;
+      const matchesState = !filters.state || event.state === filters.state;
+      const matchesRegion = !filters.region || event.region === filters.region;
+      const matchesMonth = !filters.month || getMonthName(event.date) === filters.month;
+      const matchesYear = !filters.year || getYear(event.date) === filters.year;
+
+      const matchesFormat =
+        !filters.format ||
+        (filters.format === "virtual" && event.is_virtual) ||
+        (filters.format === "in-person" && !event.is_virtual);
+
+      return matchesSearch && matchesChapter && matchesState && matchesRegion && matchesMonth && matchesYear && matchesFormat;
+    });
+  }
 
   function renderEvents(events) {
     const container = document.getElementById("events");
@@ -314,11 +484,13 @@
     container.innerHTML = events.map(event => `
       <article class="event">
         <div class="chapter-label">${event.chapter || "SMPS Chapter"}</div>
+        ${event.is_virtual ? `<span class="virtual-label">Virtual</span>` : `<span class="virtual-label">In-Person</span>`}
         <h2>${event.title || "Untitled Event"}</h2>
         <div class="event-meta">
           <strong>Date:</strong> ${event.date || "TBD"}<br>
           <strong>Time:</strong> ${event.time || "TBD"}<br>
-          <strong>Location:</strong> ${event.location || "TBD"}
+          <strong>Location:</strong> ${event.location || "TBD"}<br>
+          <strong>State/Region:</strong> ${event.state || "N/A"} / ${event.region || "N/A"}
         </div>
         <div class="event-description">${event.description || ""}</div>
         <div class="event-actions">
@@ -328,62 +500,88 @@
     `).join("");
   }
 
-  function applyFilters() {
-    const q = currentSearch.toLowerCase().trim();
+  function initMap() {
+    map = L.map("map").setView([39.5, -95.7], 4);
 
-    let filtered = allEvents.filter(event => {
-      const matchesSearch = !q || [
-        event.title,
-        event.chapter,
-        event.date,
-        event.time,
-        event.location,
-        event.description
-      ].some(value => (value || "").toLowerCase().includes(q));
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 18,
+      attribution: "© OpenStreetMap"
+    }).addTo(map);
 
-      const matchesChapter = !currentChapter || event.chapter === currentChapter;
-
-      return matchesSearch && matchesChapter;
-    });
-
-    renderEvents(filtered);
+    markersLayer = L.layerGroup().addTo(map);
   }
 
-  function populateChapterFilter(events) {
-    const chapterFilter = document.getElementById("chapter-filter");
-    const chapters = [...new Set(events.map(event => event.chapter).filter(Boolean))].sort();
+  function updateMap(events) {
+    markersLayer.clearLayers();
 
-    chapters.forEach(chapter => {
-      const option = document.createElement("option");
-      option.value = chapter;
-      option.textContent = chapter;
-      chapterFilter.appendChild(option);
+    const chapterMap = new Map();
+
+    events.forEach(event => {
+      if (!event.latitude || !event.longitude) return;
+
+      const key = event.chapter;
+
+      if (!chapterMap.has(key)) {
+        chapterMap.set(key, {
+          chapter: event.chapter,
+          city: event.city,
+          state: event.state,
+          region: event.region,
+          latitude: event.latitude,
+          longitude: event.longitude,
+          count: 0
+        });
+      }
+
+      chapterMap.get(key).count += 1;
     });
 
-    chapterFilter.addEventListener("change", event => {
-      currentChapter = event.target.value;
-      applyFilters();
+    const markers = [];
+
+    chapterMap.forEach(chapter => {
+      const marker = L.marker([chapter.latitude, chapter.longitude])
+        .bindPopup(`
+          <strong>${chapter.chapter}</strong><br>
+          ${chapter.city || ""}, ${chapter.state || ""}<br>
+          ${chapter.region || ""}<br>
+          ${chapter.count} event${chapter.count === 1 ? "" : "s"}
+        `);
+
+      marker.addTo(markersLayer);
+      markers.push(marker);
     });
+
+    if (markers.length) {
+      const group = L.featureGroup(markers);
+      map.fitBounds(group.getBounds().pad(0.25));
+    }
+  }
+
+  function applyFilters() {
+    const filtered = getFilteredEvents();
+    renderEvents(filtered);
+    updateMap(filtered);
   }
 
   fetch("events.json?v=" + Date.now())
     .then(response => response.json())
     .then(events => {
       allEvents = events;
-      populateChapterFilter(allEvents);
-      renderEvents(allEvents);
+      initMap();
+      setupFilters(allEvents);
+      applyFilters();
 
       const searchInput = document.getElementById("search");
       const form = document.querySelector(".search-form");
 
       searchInput.addEventListener("input", event => {
-        currentSearch = event.target.value;
+        filters.search = event.target.value;
         applyFilters();
       });
 
       form.addEventListener("submit", event => {
         event.preventDefault();
-        currentSearch = searchInput.value;
+        filters.search = searchInput.value;
         applyFilters();
       });
     });
