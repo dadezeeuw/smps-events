@@ -1,26 +1,50 @@
 [
   {
-    "chapter": "SMPS Indiana",
-    "url": "https://smpsindiana.starchapter.com/meetinginfo.php"
-  },
-  {
     "chapter": "SMPS Greater Cincinnati",
-    "url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php"
+    "state": "Ohio",
+    "region": "Heartland",
+    "url": "http://www.greatercincinnatismps.org/"
+  },  
+  {
+    "chapter": "SMPS Northeast Ohio",
+    "state": "Ohio",
+    "region": "Heartland",
+    "url": "http://www.smpsneo.org/"
   },
   {
     "chapter": "SMPS Columbus",
-    "url": "https://smpscolumbus.starchapter.com/meetinginfo.php"
+    "state": "Ohio",
+    "region": "Heartland",
+    "url": "http://www.smpscolumbus.org/"
   },
   {
-    "chapter": "SMPS Northeast Ohio",
-    "url": "https://smpsneo.starchapter.com/meetinginfo.php"
+    "chapter": "SMPS Indiana",
+    "state": "Indiana",
+    "region": "Heartland",
+    "url": "http://www.smpsindiana.org/"
+  },
+   {
+    "chapter": "SMPS Kentucky",
+    "state": "Kentucky",
+    "region": "Heartland",
+    "url": "http://www.smpskentucky.org/"
+  },
+  {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "url": "https://smps-southeastmichigan.org/"
+  },
+  {
+    "chapter": "SMPS West Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "url": "https://smpswm.org/"
   },
   {
     "chapter": "SMPS Austin",
-    "url": "https://smpsaustin.starchapter.com/meetinginfo.php"
-  },
-  {
-    "chapter": "SMPS Kentucky",
-    "url": "https://smpskentucky.starchapter.com/meetinginfo.php"
+    "state": "Texas",
+    "region": "Southern",
+    "url": "https://smpsaustin.org/"
   }
 ]
