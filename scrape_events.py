@@ -20,7 +20,7 @@ def make_sort_date(date_text):
         return ""
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
+    browser = p.chromium.launch(headless=False)
     page = browser.new_page()
 
     for chapter in chapters:
@@ -38,6 +38,11 @@ with sync_playwright() as p:
 
         text = soup.get_text("\n", strip=True)
         lines = [line.strip() for line in text.split("\n") if line.strip()]
+
+        print(f"Loaded {len(lines)} lines from {chapter['chapter']}")
+        print("First 80 lines:")
+        for debug_line in lines[:80]:
+            print(debug_line)
 
         event_links = []
         seen = set()
@@ -59,12 +64,10 @@ with sync_playwright() as p:
                 title = lines[i - 1] if i > 0 else ""
                 date = line
                 time = lines[i + 1] if i + 1 < len(lines) else ""
-                location = lines[i + 2] if i + 2 < len(lines) else ""
-                description = lines[i + 3] if i + 3 < len(lines) else ""
 
-                if time_pattern.match(time):
-                    detail_url = event_links[event_link_index] if event_link_index < len(event_links) else chapter["url"]
-                    event_link_index += 1
+                if not time_pattern.match(time):
+                    print(f"Date found but time rejected: {date} | next line: {time}")
+                    continue
 
                     combined_text = f"{title} {location} {description}".lower()
 
