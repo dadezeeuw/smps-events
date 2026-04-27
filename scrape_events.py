@@ -66,6 +66,17 @@ with sync_playwright() as p:
                     detail_url = event_links[event_link_index] if event_link_index < len(event_links) else chapter["url"]
                     event_link_index += 1
 
+                    combined_text = f"{title} {location} {description}".lower()
+
+                    is_virtual = any(word in combined_text for word in [
+                        "virtual",
+                        "online",
+                        "webinar",
+                        "zoom",
+                        "teams",
+                        "remote"
+                    ])
+
                     all_events.append({
                         "chapter": chapter["chapter"],
                         "state": chapter.get("state", ""),
@@ -76,7 +87,7 @@ with sync_playwright() as p:
                         "time": time,
                         "location": location,
                         "description": description,
-                        "is_virtual": "virtual" in location.lower() or "online" in location.lower() or "webinar" in location.lower(),
+                        "is_virtual": is_virtual,
                         "detail_url": detail_url
                     })
 
