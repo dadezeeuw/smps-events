@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -49,55 +48,3 @@
     "url": "https://smpsaustin.org/"
   }
 ]
-=======
-[
-  {
-    "chapter": "SMPS Greater Cincinnati",
-    "state": "Ohio",
-    "region": "Heartland",
-    "url": "http://www.greatercincinnatismps.org/"
-  },  
-  {
-    "chapter": "SMPS Northeast Ohio",
-    "state": "Ohio",
-    "region": "Heartland",
-    "url": "http://www.smpsneo.org/"
-  },
-  {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "url": "http://www.smpscolumbus.org/"
-  },
-  {
-    "chapter": "SMPS Indiana",
-    "state": "Indiana",
-    "region": "Heartland",
-    "url": "http://www.smpsindiana.org/"
-  },
-   {
-    "chapter": "SMPS Kentucky",
-    "state": "Kentucky",
-    "region": "Heartland",
-    "url": "http://www.smpskentucky.org/"
-  },
-  {
-    "chapter": "SMPS Southeast Michigan",
-    "state": "Michigan",
-    "region": "Heartland",
-    "url": "https://smps-southeastmichigan.org/"
-  },
-  {
-    "chapter": "SMPS West Michigan",
-    "state": "Michigan",
-    "region": "Heartland",
-    "url": "https://smpswm.org/"
-  },
-  {
-    "chapter": "SMPS Austin",
-    "state": "Texas",
-    "region": "Southern",
-    "url": "https://smpsaustin.org/"
-  }
-]
->>>>>>> 8a5918c7b5f5c13ce10933c5da3728aeb82cc922
