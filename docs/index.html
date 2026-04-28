@@ -53,6 +53,8 @@
       --smps-black: #000;
       --smps-gray: #f5f5f5;
       --smps-border: #ddd;
+      --smps-text: #252525;
+      --smps-muted: #5f6770;
     }
 
     * {
@@ -63,9 +65,9 @@
       margin: 0;
       font-family: var(--font-body);
       font-weight: 300;
-      font-size: 14px;
-      line-height: 1.42857143;
-      color: #333;
+      font-size: 15px;
+      line-height: 1.55;
+      color: var(--smps-text);
       background: #fff;
     }
 
@@ -101,7 +103,7 @@
     .page-title {
       padding: 34px 0 22px;
       border-bottom: 1px solid #e5e5e5;
-      margin-bottom: 24px;
+      margin-bottom: 22px;
     }
 
     .page-title h1 {
@@ -115,20 +117,20 @@
 
     .page-title p {
       margin-top: 8px;
-      color: #555;
+      color: var(--smps-muted);
       font-size: 16px;
     }
 
     .search-box-wrapper {
       background: transparent;
-      color: #333;
-      margin-bottom: 28px;
+      color: var(--smps-text);
+      margin-bottom: 18px;
     }
 
     .search-elements {
       background: var(--smps-gray);
       border: 1px solid var(--smps-border);
-      padding: 18px 0;
+      padding: 16px 0;
     }
 
     .search-inner {
@@ -181,38 +183,42 @@
     }
 
     .event-count {
-      margin: 0 0 18px;
-      color: #666;
+      font-family: var(--font-regular);
+      margin: 6px 0 16px;
+      color: var(--smps-muted);
       font-size: 14px;
     }
 
     .event-list {
+      display: grid;
+      gap: 16px;
       margin-bottom: 50px;
     }
 
     .event {
-      border-bottom: 1px solid var(--smps-border);
-      padding: 24px 0;
-    }
-
-    .event:first-child {
-      border-top: 1px solid var(--smps-border);
+      display: grid;
+      grid-template-columns: 92px minmax(0, 1fr);
+      gap: 22px;
+      border: 1px solid var(--smps-border);
+      border-left: 6px solid var(--smps-blue);
+      padding: 22px 24px 22px 18px;
+      background: #fff;
     }
 
     .event h2 {
       font-family: var(--font-label);
-      font-size: 24px;
-      line-height: 1.25;
+      font-size: 22px;
+      line-height: 1.2;
       color: var(--smps-navy);
       font-weight: 700;
-      margin: 0 0 10px;
+      margin: 8px 0 12px;
     }
 
     .event-meta {
       font-size: 15px;
-      line-height: 1.6;
-      color: #333;
-      margin-bottom: 10px;
+      line-height: 1.65;
+      color: var(--smps-text);
+      margin-bottom: 12px;
     }
 
     .event-meta strong {
@@ -222,21 +228,63 @@
     }
 
     .event-description {
-      font-size: 15px;
-      line-height: 1.6;
-      color: #333;
+      font-size: 16px;
+      line-height: 1.65;
+      color: var(--smps-text);
       max-width: 900px;
     }
 
     .chapter-label {
       font-family: var(--font-regular);
       display: inline-block;
-      background: #fff3c7;
-      color: var(--smps-black);
-      padding: 5px 10px;
-      margin-bottom: 10px;
+      color: var(--smps-muted);
+      padding: 0;
+      margin: 0 10px 0 0;
+      font-size: 13px;
+      font-weight: 400;
+    }
+
+    .event-date-card {
+      border-top: 4px solid var(--smps-gold);
+      background: var(--smps-gray);
+      min-height: 92px;
+      padding: 12px 8px;
+      text-align: center;
+    }
+
+    .event-date-month {
+      font-family: var(--font-label-bold);
+      color: var(--smps-navy);
       font-size: 13px;
       font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .event-date-day {
+      font-family: var(--font-headline);
+      color: var(--smps-black);
+      font-size: 34px;
+      font-weight: 900;
+      line-height: 1;
+      margin-top: 4px;
+    }
+
+    .event-date-year {
+      font-family: var(--font-regular);
+      color: var(--smps-muted);
+      font-size: 13px;
+      margin-top: 4px;
+    }
+
+    .event-content {
+      min-width: 0;
+    }
+
+    .event-tags {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
     }
 
     .site-footer {
@@ -264,7 +312,7 @@
       }
     }
 .event-actions {
-  margin-top: 14px;
+  margin-top: 16px;
 }
 
 .event-button {
@@ -272,7 +320,7 @@
   display: inline-block;
   background: var(--smps-gold);
   color: var(--smps-black);
-  padding: 10px 18px;
+  padding: 9px 16px;
   text-decoration: none;
   font-weight: 400;
 }
@@ -283,13 +331,30 @@
 }
 .filters-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 12px;
-  margin: 0 0 20px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin: 0 0 18px;
+  padding: 16px;
+  border: 1px solid var(--smps-border);
+  background: #fff;
+}
+
+.filter-field {
+  min-width: 0;
+}
+
+.filter-field label {
+  display: block;
+  font-family: var(--font-label-bold);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--smps-black);
+  margin-bottom: 6px;
 }
 
 .filters-grid select {
   font-family: var(--font-label-bold);
+  width: 100%;
   height: 38px;
   padding: 6px 10px;
   border: 1px solid #ccc;
@@ -303,17 +368,42 @@
 }
 
 .virtual-label {
-  font-family: var(--font-label);
+  font-family: var(--font-regular);
   display: inline-block;
   background: var(--smps-blue);
   color: var(--smps-black);
-  padding: 5px 10px;
-  margin-left: 8px;
+  padding: 4px 9px;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 @media only screen and (max-width: 900px) {
+  .filters-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .event {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    padding: 18px;
+  }
+
+  .event-date-card {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 8px;
+    min-height: 0;
+    text-align: left;
+  }
+
+  .event-date-day {
+    font-size: 30px;
+    margin-top: 0;
+  }
+
   .filters-grid {
     grid-template-columns: 1fr;
   }
@@ -356,33 +446,51 @@
         </div>
       </div>
     </div>
-<div class="filters-grid">
-  <select id="chapter-filter">
-    <option value="">All Chapters</option>
-  </select>
+    <div class="filters-grid">
+      <div class="filter-field">
+        <label for="chapter-filter">Chapter</label>
+        <select id="chapter-filter">
+          <option value="">All Chapters</option>
+        </select>
+      </div>
 
-  <select id="state-filter">
-    <option value="">All States</option>
-  </select>
+      <div class="filter-field">
+        <label for="state-filter">State</label>
+        <select id="state-filter">
+          <option value="">All States</option>
+        </select>
+      </div>
 
-  <select id="region-filter">
-    <option value="">All Regions</option>
-  </select>
+      <div class="filter-field">
+        <label for="region-filter">Region</label>
+        <select id="region-filter">
+          <option value="">All Regions</option>
+        </select>
+      </div>
 
-  <select id="month-filter">
-    <option value="">All Months</option>
-  </select>
+      <div class="filter-field">
+        <label for="month-filter">Month</label>
+        <select id="month-filter">
+          <option value="">All Months</option>
+        </select>
+      </div>
 
-  <select id="year-filter">
-    <option value="">All Years</option>
-  </select>
+      <div class="filter-field">
+        <label for="year-filter">Year</label>
+        <select id="year-filter">
+          <option value="">All Years</option>
+        </select>
+      </div>
 
-  <select id="format-filter">
-    <option value="">Virtual + In-Person</option>
-    <option value="virtual">Virtual</option>
-    <option value="in-person">In-Person</option>
-  </select>
-</div>
+      <div class="filter-field">
+        <label for="format-filter">Format</label>
+        <select id="format-filter">
+          <option value="">Virtual + In-Person</option>
+          <option value="virtual">Virtual</option>
+          <option value="in-person">In-Person</option>
+        </select>
+      </div>
+    </div>
 <div id="map" style="display:none;"></div>
     <p id="event-count" class="event-count">Loading events...</p>
     <div id="events" class="event-list"></div>
@@ -418,6 +526,24 @@
     if (!dateText) return "";
     const parts = dateText.split(", ");
     return parts.length > 1 ? parts[1] : "";
+  }
+
+  function getDateParts(dateText) {
+    if (!dateText) {
+      return { month: "TBD", day: "", year: "" };
+    }
+
+    const match = dateText.match(/^([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})$/);
+
+    if (!match) {
+      return { month: dateText, day: "", year: "" };
+    }
+
+    return {
+      month: match[1].slice(0, 3),
+      day: match[2],
+      year: match[3]
+    };
   }
 
   function populateSelect(id, values) {
@@ -518,23 +644,36 @@
       return;
     }
 
-    container.innerHTML = events.map(event => `
+    container.innerHTML = events.map(event => {
+      const dateParts = getDateParts(event.date);
+
+      return `
       <article class="event">
-        <div class="chapter-label">${event.chapter || "SMPS Chapter"}</div>
-        ${event.is_virtual ? `<span class="virtual-label">Virtual</span>` : `<span class="virtual-label">In-Person</span>`}
-        <h2>${event.title || "Untitled Event"}</h2>
-        <div class="event-meta">
-          <strong>Date:</strong> ${event.date || "TBD"}<br>
-          <strong>Time:</strong> ${event.time || "TBD"}<br>
-          <strong>Location:</strong> ${event.location || "TBD"}<br>
-          <strong>State/Region:</strong> ${event.state || "N/A"} / ${event.region || "N/A"}
+        <div class="event-date-card">
+          <div class="event-date-month">${dateParts.month}</div>
+          <div class="event-date-day">${dateParts.day}</div>
+          <div class="event-date-year">${dateParts.year}</div>
         </div>
-        <div class="event-description">${event.description || ""}</div>
-        <div class="event-actions">
-          ${event.detail_url ? `<a class="event-button" href="${event.detail_url}" target="_blank">View Details</a>` : ""}
+        <div class="event-content">
+          <div class="event-tags">
+            <span class="chapter-label">${event.chapter || "SMPS Chapter"}</span>
+            <span class="virtual-label">${event.is_virtual ? "Virtual" : "In-Person"}</span>
+          </div>
+          <h2>${event.title || "Untitled Event"}</h2>
+          <div class="event-meta">
+            <strong>Date:</strong> ${event.date || "TBD"}<br>
+            <strong>Time:</strong> ${event.time || "TBD"}<br>
+            <strong>Location:</strong> ${event.location || "TBD"}<br>
+            <strong>State/Region:</strong> ${event.state || "N/A"} / ${event.region || "N/A"}
+          </div>
+          <div class="event-description">${event.description || ""}</div>
+          <div class="event-actions">
+            ${event.detail_url ? `<a class="event-button" href="${event.detail_url}" target="_blank">View Details</a>` : ""}
+          </div>
         </div>
       </article>
-    `).join("");
+    `;
+    }).join("");
   }
 
   function initMap() {
