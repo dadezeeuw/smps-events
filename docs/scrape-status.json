@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T16:51:31-04:00",
+  "last_updated": "2026-04-28T11:38:55",
   "total_events": 27,
   "chapters": [
     {
@@ -8,9 +8,9 @@
       "region": "Heartland",
       "url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 4,
-      "lines_loaded": 0,
+      "lines_loaded": 83,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -20,9 +20,9 @@
       "region": "Heartland",
       "url": "https://smpsneo.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 3,
-      "lines_loaded": 0,
+      "lines_loaded": 63,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -32,11 +32,11 @@
       "region": "Heartland",
       "url": "https://smpscolumbus.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 5,
-      "lines_loaded": 0,
+      "lines_loaded": 74,
       "rejected_dates": 0,
-      "skipped_past_events": 0
+      "skipped_past_events": 1
     },
     {
       "chapter": "SMPS Indiana",
@@ -44,9 +44,9 @@
       "region": "Heartland",
       "url": "https://smpsindiana.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 7,
-      "lines_loaded": 0,
+      "lines_loaded": 95,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -56,9 +56,9 @@
       "region": "Heartland",
       "url": "https://smpskentucky.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 0,
-      "lines_loaded": 0,
+      "lines_loaded": 44,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -68,9 +68,9 @@
       "region": "Heartland",
       "url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 3,
-      "lines_loaded": 0,
+      "lines_loaded": 82,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -80,9 +80,9 @@
       "region": "Heartland",
       "url": "https://smpswm.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 1,
-      "lines_loaded": 0,
+      "lines_loaded": 56,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -92,9 +92,9 @@
       "region": "Southern",
       "url": "https://smpsaustin.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
-      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "message": "Scraped successfully.",
       "events_found": 4,
-      "lines_loaded": 0,
+      "lines_loaded": 80,
       "rejected_dates": 0,
       "skipped_past_events": 0
     }
