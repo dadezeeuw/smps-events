@@ -121,6 +121,53 @@
       font-size: 16px;
     }
 
+    .chapter-note {
+      font-size: 14px;
+      max-width: 780px;
+    }
+
+    .status-panel {
+      display: grid;
+      gap: 8px;
+      margin: 0 0 18px;
+      color: var(--smps-muted);
+      font-family: var(--font-regular);
+      font-size: 14px;
+    }
+
+    .status-panel strong {
+      color: var(--smps-black);
+      font-family: var(--font-label-bold);
+      font-weight: 700;
+    }
+
+    .status-panel details {
+      border: 1px solid var(--smps-border);
+      padding: 10px 12px;
+      background: #fff;
+    }
+
+    .status-panel summary {
+      color: var(--smps-black);
+      cursor: pointer;
+      font-family: var(--font-label-bold);
+      font-weight: 700;
+    }
+
+    .status-list {
+      display: grid;
+      gap: 6px;
+      margin-top: 10px;
+    }
+
+    .status-item {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      border-top: 1px solid var(--smps-border);
+      padding-top: 6px;
+    }
+
     .search-box-wrapper {
       background: transparent;
       color: var(--smps-text);
@@ -340,6 +387,36 @@
   background: #fff;
 }
 
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+  margin: 0 0 16px;
+}
+
+.view-toggle {
+  display: flex;
+  gap: 6px;
+}
+
+.toolbar button {
+  font-family: var(--font-regular);
+  border: 1px solid var(--smps-border);
+  background: #fff;
+  color: var(--smps-black);
+  cursor: pointer;
+  min-height: 36px;
+  padding: 7px 12px;
+}
+
+.toolbar button:hover,
+.toolbar button.is-active {
+  background: var(--smps-black);
+  border-color: var(--smps-black);
+  color: #fff;
+}
+
 .filter-field {
   min-width: 0;
 }
@@ -378,6 +455,39 @@
   font-weight: 400;
 }
 
+.compact-event {
+  display: grid;
+  grid-template-columns: 104px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 16px;
+  border: 1px solid var(--smps-border);
+  border-left: 6px solid var(--smps-blue);
+  padding: 14px 16px;
+  background: #fff;
+}
+
+.compact-date {
+  color: var(--smps-black);
+  font-family: var(--font-label-bold);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.compact-title {
+  color: var(--smps-navy);
+  font-family: var(--font-label);
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.compact-meta {
+  color: var(--smps-muted);
+  font-family: var(--font-regular);
+  font-size: 13px;
+  margin-top: 4px;
+}
+
 @media only screen and (max-width: 900px) {
   .filters-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -412,6 +522,23 @@
   .filters-grid {
     grid-template-columns: 1fr;
   }
+
+  .toolbar,
+  .status-item,
+  .compact-event {
+    align-items: stretch;
+    grid-template-columns: 1fr;
+    flex-direction: column;
+  }
+
+  .view-toggle {
+    width: 100%;
+  }
+
+  .view-toggle button,
+  .toolbar button {
+    width: 100%;
+  }
 }
   </style>
 </head>
@@ -428,6 +555,7 @@
     <section class="page-title">
       <h1>Upcoming Events</h1>
       <p>Browse upcoming SMPS chapter events from one central page.</p>
+      <p class="chapter-note">Current chapters included: Greater Cincinnati, Northeast Ohio, Columbus, Indiana, Kentucky, Southeast Michigan, West Michigan, and Austin. Updates coming soon.</p>
     </section>
 
     <div id="search-container" class="search-box-wrapper">
@@ -450,6 +578,9 @@
           </div>
         </div>
       </div>
+    </div>
+    <div id="status-panel" class="status-panel">
+      <div><strong>Last updated:</strong> Loading scrape status...</div>
     </div>
     <div class="filters-grid">
       <div class="filter-field">
@@ -496,6 +627,13 @@
         </select>
       </div>
     </div>
+    <div class="toolbar">
+      <button id="clear-filters" type="button">Clear Filters</button>
+      <div class="view-toggle" aria-label="View mode">
+        <button id="card-view" type="button" class="is-active">Cards</button>
+        <button id="compact-view" type="button">Compact List</button>
+      </div>
+    </div>
 <div id="map" style="display:none;"></div>
     <p id="event-count" class="event-count">Loading events...</p>
     <div id="events" class="event-list"></div>
@@ -511,6 +649,7 @@
   let allEvents = [];
   let map;
   let markersLayer;
+  let viewMode = "card";
 
   const filters = {
     search: "",
@@ -549,6 +688,52 @@
       day: match[2],
       year: match[3]
     };
+  }
+
+  function formatLastUpdated(value) {
+    if (!value) return "Pending next scrape";
+
+    const date = new Date(value);
+
+    if (Number.isNaN(date.getTime())) {
+      return value;
+    }
+
+    return date.toLocaleString([], {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+      hour: "numeric",
+      minute: "2-digit"
+    });
+  }
+
+  function renderScrapeStatus(status) {
+    const panel = document.getElementById("status-panel");
+
+    if (!status) {
+      panel.innerHTML = "<div><strong>Last updated:</strong> Status unavailable</div>";
+      return;
+    }
+
+    const chapters = status.chapters || [];
+    const succeeded = chapters.filter(chapter => chapter.status === "success").length;
+    const warnings = chapters.length - succeeded;
+
+    panel.innerHTML = `
+      <div><strong>Last updated:</strong> ${formatLastUpdated(status.last_updated)}</div>
+      <details>
+        <summary>Scrape health: ${succeeded}/${chapters.length} chapters successful${warnings ? `, ${warnings} warning${warnings === 1 ? "" : "s"}` : ""}</summary>
+        <div class="status-list">
+          ${chapters.map(chapter => `
+            <div class="status-item">
+              <span>${chapter.chapter}</span>
+              <span>${chapter.status} · ${chapter.events_found || 0} event${chapter.events_found === 1 ? "" : "s"}</span>
+            </div>
+          `).join("")}
+        </div>
+      </details>
+    `;
   }
 
   const monthOrder = ["January","February","March","April","May","June","July","August","September","October","November","December"];
@@ -639,6 +824,33 @@
     });
   }
 
+  function clearFilters() {
+    Object.keys(filters).forEach(key => {
+      filters[key] = "";
+    });
+
+    const searchInput = document.getElementById("search");
+    if (searchInput) {
+      searchInput.value = "";
+    }
+
+    refreshFilterOptions();
+    applyFilters();
+  }
+
+  function setViewMode(mode) {
+    viewMode = mode;
+    document.getElementById("card-view").classList.toggle("is-active", mode === "card");
+    document.getElementById("compact-view").classList.toggle("is-active", mode === "compact");
+    applyFilters();
+  }
+
+  function setupControls() {
+    document.getElementById("clear-filters").addEventListener("click", clearFilters);
+    document.getElementById("card-view").addEventListener("click", () => setViewMode("card"));
+    document.getElementById("compact-view").addEventListener("click", () => setViewMode("compact"));
+  }
+
   function getFilteredEvents() {
     const q = filters.search.toLowerCase().trim();
 
@@ -678,6 +890,22 @@
 
     if (!events.length) {
       container.innerHTML = "<p>No events found.</p>";
+      return;
+    }
+
+    if (viewMode === "compact") {
+      container.innerHTML = events.map(event => `
+        <article class="compact-event">
+          <div class="compact-date">${event.date || "TBD"}</div>
+          <div>
+            <div class="compact-title">${event.title || "Untitled Event"}</div>
+            <div class="compact-meta">${event.chapter || "SMPS Chapter"} · ${event.time || "TBD"} · ${event.location || "TBD"}</div>
+          </div>
+          <div>
+            ${event.detail_url ? `<a class="event-button" href="${event.detail_url}" target="_blank">View Details</a>` : ""}
+          </div>
+        </article>
+      `).join("");
       return;
     }
 
@@ -782,6 +1010,7 @@
       allEvents = events;
       initMap();
       setupFilters(allEvents);
+      setupControls();
       applyFilters();
 
       const searchInput = document.getElementById("search");
@@ -797,6 +1026,15 @@
         filters.search = searchInput.value;
         applyFilters();
       });
+    });
+
+  fetch("scrape-status.json?v=" + Date.now())
+    .then(response => response.json())
+    .then(status => {
+      renderScrapeStatus(status);
+    })
+    .catch(() => {
+      renderScrapeStatus(null);
     });
 </script>
 </body>

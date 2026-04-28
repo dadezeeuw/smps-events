@@ -1,0 +1,102 @@
+{
+  "last_updated": "",
+  "total_events": 27,
+  "chapters": [
+    {
+      "chapter": "SMPS Greater Cincinnati",
+      "state": "Ohio",
+      "region": "Heartland",
+      "url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 4,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS Northeast Ohio",
+      "state": "Ohio",
+      "region": "Heartland",
+      "url": "https://smpsneo.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 3,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS Columbus",
+      "state": "Ohio",
+      "region": "Heartland",
+      "url": "https://smpscolumbus.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 5,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS Indiana",
+      "state": "Indiana",
+      "region": "Heartland",
+      "url": "https://smpsindiana.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 7,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS Kentucky",
+      "state": "Kentucky",
+      "region": "Heartland",
+      "url": "https://smpskentucky.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 0,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS Southeast Michigan",
+      "state": "Michigan",
+      "region": "Heartland",
+      "url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 3,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS West Michigan",
+      "state": "Michigan",
+      "region": "Heartland",
+      "url": "https://smpswm.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 1,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    },
+    {
+      "chapter": "SMPS Austin",
+      "state": "Texas",
+      "region": "Southern",
+      "url": "https://smpsaustin.starchapter.com/meetinginfo.php?cat=ALL",
+      "status": "success",
+      "message": "Scrape status will refresh the next time scrape_events.py runs.",
+      "events_found": 4,
+      "lines_loaded": 0,
+      "rejected_dates": 0,
+      "skipped_past_events": 0
+    }
+  ]
+}

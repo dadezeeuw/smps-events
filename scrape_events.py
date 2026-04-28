@@ -16,6 +16,11 @@ time_pattern = re.compile(
 
 today = date.today()
 all_events = []
+scrape_status = {
+    "last_updated": "",
+    "total_events": 0,
+    "chapters": []
+}
 skip_lines = {
     "Register Now",
     "Read More",
@@ -88,6 +93,13 @@ def is_virtual_event(title, location, description):
     searchable_text = f"{title} {location} {description}"
     return bool(virtual_pattern.search(searchable_text))
 
+def save_scrape_status():
+    scrape_status["last_updated"] = datetime.now().isoformat(timespec="seconds")
+    scrape_status["total_events"] = len(all_events)
+
+    with open("docs/scrape-status.json", "w", encoding="utf-8") as f:
+        json.dump(scrape_status, f, indent=2)
+
 with sync_playwright() as p:
     browser = p.chromium.launch(
         headless=False,
@@ -110,6 +122,9 @@ with sync_playwright() as p:
 
     for chapter in chapters:
         print(f"\nScraping: {chapter['chapter']}")
+        chapter_event_count = 0
+        rejected_dates = 0
+        skipped_past_events = 0
 
         try:
             page.goto(chapter["url"], wait_until="domcontentloaded", timeout=60000)
@@ -117,6 +132,18 @@ with sync_playwright() as p:
             html = page.content()
         except Exception as e:
             print(f"Failed to load {chapter['chapter']}: {e}")
+            scrape_status["chapters"].append({
+                "chapter": chapter["chapter"],
+                "state": chapter.get("state", ""),
+                "region": chapter.get("region", ""),
+                "url": chapter["url"],
+                "status": "failed",
+                "message": str(e),
+                "events_found": 0,
+                "lines_loaded": 0,
+                "rejected_dates": 0,
+                "skipped_past_events": 0
+            })
             continue
 
         soup = BeautifulSoup(html, "lxml")
@@ -139,6 +166,18 @@ with sync_playwright() as p:
 
             if "Cloudflare" in lines or "Just a moment..." in lines:
                 print(f"Cloudflare still blocking {chapter['chapter']}; skipping for now.")
+                scrape_status["chapters"].append({
+                    "chapter": chapter["chapter"],
+                    "state": chapter.get("state", ""),
+                    "region": chapter.get("region", ""),
+                    "url": chapter["url"],
+                    "status": "blocked",
+                    "message": "Cloudflare challenge remained after retry.",
+                    "events_found": 0,
+                    "lines_loaded": len(lines),
+                    "rejected_dates": 0,
+                    "skipped_past_events": 0
+                })
                 continue
 
         event_links = []
@@ -167,6 +206,7 @@ with sync_playwright() as p:
 
                 if not time_pattern.match(time):
                     print(f"Date found but time rejected: {date} | next line: {time}")
+                    rejected_dates += 1
                     continue
 
                 detail_url = event_links[event_link_index] if event_link_index < len(event_links) else ""
@@ -174,6 +214,7 @@ with sync_playwright() as p:
 
                 if event_date and event_date < today:
                     print(f"Skipping past event: {date} | {title}")
+                    skipped_past_events += 1
                     continue
 
                 current_date_index = date_indexes.index(i)
@@ -197,6 +238,20 @@ with sync_playwright() as p:
                     "is_virtual": is_virtual,
                     "detail_url": detail_url
                 })
+                chapter_event_count += 1
+
+        scrape_status["chapters"].append({
+            "chapter": chapter["chapter"],
+            "state": chapter.get("state", ""),
+            "region": chapter.get("region", ""),
+            "url": chapter["url"],
+            "status": "success",
+            "message": "Scraped successfully.",
+            "events_found": chapter_event_count,
+            "lines_loaded": len(lines),
+            "rejected_dates": rejected_dates,
+            "skipped_past_events": skipped_past_events
+        })
 
     context.close()
     browser.close()
@@ -205,9 +260,12 @@ all_events.sort(key=lambda event: event.get("sort_date", ""))
 
 if len(all_events) == 0:
     print("ERROR: No events found. Not overwriting events.json.")
+    save_scrape_status()
     raise SystemExit(1)
 
 with open("docs/events.json", "w", encoding="utf-8") as f:
     json.dump(all_events, f, indent=2)
+
+save_scrape_status()
 
 print(f"\nSaved {len(all_events)} total events")
