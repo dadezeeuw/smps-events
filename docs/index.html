@@ -237,8 +237,9 @@
     .chapter-label {
       font-family: var(--font-regular);
       display: inline-block;
-      color: var(--smps-muted);
-      padding: 0;
+      background: #fff3c7;
+      color: var(--smps-black);
+      padding: 4px 9px;
       margin: 0 10px 0 0;
       font-size: 13px;
       font-weight: 400;
@@ -393,9 +394,13 @@
   .event-date-card {
     display: flex;
     align-items: baseline;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 8px;
+    width: fit-content;
     min-height: 0;
+    border-top: 0;
+    border-left: 4px solid var(--smps-gold);
+    padding: 8px 10px;
     text-align: left;
   }
 
@@ -546,59 +551,91 @@
     };
   }
 
-  function populateSelect(id, values) {
+  const monthOrder = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const filterConfig = {
+    chapter: { id: "chapter-filter", placeholder: "All Chapters" },
+    state: { id: "state-filter", placeholder: "All States" },
+    region: { id: "region-filter", placeholder: "All Regions" },
+    month: { id: "month-filter", placeholder: "All Months" },
+    year: { id: "year-filter", placeholder: "All Years" },
+    format: { id: "format-filter", placeholder: "Virtual + In-Person" }
+  };
+
+  function getFilterValue(event, key) {
+    if (key === "month") return getMonthName(event.date);
+    if (key === "year") return getYear(event.date);
+    if (key === "format") return event.is_virtual ? "virtual" : "in-person";
+    return event[key] || "";
+  }
+
+  function formatOptionLabel(key, value) {
+    if (key === "format") {
+      return value === "virtual" ? "Virtual" : "In-Person";
+    }
+
+    return value;
+  }
+
+  function sortFilterValues(key, values) {
+    if (key === "month") {
+      return values.sort((a, b) => monthOrder.indexOf(a) - monthOrder.indexOf(b));
+    }
+
+    return values.sort();
+  }
+
+  function eventMatchesDropdownFilters(event, excludedKey) {
+    return Object.keys(filterConfig).every(key => {
+      if (key === excludedKey || !filters[key]) return true;
+      return getFilterValue(event, key) === filters[key];
+    });
+  }
+
+  function populateSelect(id, values, placeholder, selectedValue, key) {
     const select = document.getElementById(id);
-    const current = select.value;
+    select.innerHTML = "";
+
+    const defaultOption = document.createElement("option");
+    defaultOption.value = "";
+    defaultOption.textContent = placeholder;
+    select.appendChild(defaultOption);
 
     values.forEach(value => {
       if (!value) return;
       const option = document.createElement("option");
       option.value = value;
-      option.textContent = value;
+      option.textContent = formatOptionLabel(key, value);
       select.appendChild(option);
     });
 
-    select.value = current;
+    select.value = values.includes(selectedValue) ? selectedValue : "";
+
+    return select.value;
+  }
+
+  function refreshFilterOptions() {
+    Object.entries(filterConfig).forEach(([key, config]) => {
+      const values = sortFilterValues(
+        key,
+        [...new Set(allEvents
+          .filter(event => eventMatchesDropdownFilters(event, key))
+          .map(event => getFilterValue(event, key))
+          .filter(Boolean))]
+      );
+
+      filters[key] = populateSelect(config.id, values, config.placeholder, filters[key], key);
+    });
   }
 
   function setupFilters(events) {
-    populateSelect("chapter-filter", [...new Set(events.map(e => e.chapter))].sort());
-    populateSelect("state-filter", [...new Set(events.map(e => e.state))].sort());
-    populateSelect("region-filter", [...new Set(events.map(e => e.region))].sort());
-    populateSelect("month-filter", [...new Set(events.map(e => getMonthName(e.date)))].sort((a, b) => {
-      const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-      return months.indexOf(a) - months.indexOf(b);
-    }));
-    populateSelect("year-filter", [...new Set(events.map(e => getYear(e.date)))].sort());
+    refreshFilterOptions();
 
-    document.getElementById("chapter-filter").addEventListener("change", e => {
-      filters.chapter = e.target.value;
-      applyFilters();
-    });
-
-    document.getElementById("state-filter").addEventListener("change", e => {
-      filters.state = e.target.value;
-      applyFilters();
-    });
-
-    document.getElementById("region-filter").addEventListener("change", e => {
-      filters.region = e.target.value;
-      applyFilters();
-    });
-
-    document.getElementById("month-filter").addEventListener("change", e => {
-      filters.month = e.target.value;
-      applyFilters();
-    });
-
-    document.getElementById("year-filter").addEventListener("change", e => {
-      filters.year = e.target.value;
-      applyFilters();
-    });
-
-    document.getElementById("format-filter").addEventListener("change", e => {
-      filters.format = e.target.value;
-      applyFilters();
+    Object.entries(filterConfig).forEach(([key, config]) => {
+      document.getElementById(config.id).addEventListener("change", event => {
+        filters[key] = event.target.value;
+        refreshFilterOptions();
+        applyFilters();
+      });
     });
   }
 
