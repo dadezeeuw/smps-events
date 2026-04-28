@@ -82,6 +82,13 @@
       padding: 0 20px;
     }
 
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
     .site-title {
       font-family: var(--font-headline);
       font-size: 28px;
@@ -98,6 +105,22 @@
       color: #fff;
       margin-top: 6px;
       font-size: 15px;
+    }
+
+    .header-feedback-button {
+      font-family: var(--font-regular);
+      background: #fff;
+      border: 1px solid #fff;
+      color: var(--smps-black);
+      padding: 9px 16px;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .header-feedback-button:hover {
+      background: var(--smps-black);
+      border-color: var(--smps-black);
+      color: #fff;
     }
 
     .page-title {
@@ -358,6 +381,11 @@
       .search-submit {
         width: 100%;
       }
+
+      .header-inner {
+        align-items: flex-start;
+        flex-direction: column;
+      }
     }
 .event-actions {
   margin-top: 16px;
@@ -545,9 +573,15 @@
 
 <body>
   <header class="site-header">
-    <div class="container">
-      <h1 class="site-title">SMPS Events</h1>
-      <div class="site-subtitle">Chapter event aggregator</div>
+    <div class="container header-inner">
+      <div>
+        <h1 class="site-title">SMPS Events</h1>
+        <div class="site-subtitle">Chapter event aggregator</div>
+      </div>
+      <a
+        href="mailto:dadezeeuw@psara.com?subject=SMPS%20Events%20Feedback"
+        class="header-feedback-button"
+      >Send Feedback</a>
     </div>
   </header>
 
