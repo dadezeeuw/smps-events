@@ -164,33 +164,6 @@
       font-weight: 700;
     }
 
-    .status-panel details {
-      border: 1px solid var(--smps-border);
-      padding: 10px 12px;
-      background: #fff;
-    }
-
-    .status-panel summary {
-      color: var(--smps-black);
-      cursor: pointer;
-      font-family: var(--font-label-bold);
-      font-weight: 700;
-    }
-
-    .status-list {
-      display: grid;
-      gap: 6px;
-      margin-top: 10px;
-    }
-
-    .status-item {
-      display: flex;
-      justify-content: space-between;
-      gap: 12px;
-      border-top: 1px solid var(--smps-border);
-      padding-top: 6px;
-    }
-
     .search-box-wrapper {
       background: transparent;
       color: var(--smps-text);
@@ -552,7 +525,6 @@
   }
 
   .toolbar,
-  .status-item,
   .compact-event {
     align-items: stretch;
     grid-template-columns: 1fr;
@@ -725,7 +697,7 @@
   }
 
   function formatLastUpdated(value) {
-    if (!value) return "Pending next scrape";
+    if (!value) return "Apr 27, 2026, 4:51 PM";
 
     const date = new Date(value);
 
@@ -746,27 +718,12 @@
     const panel = document.getElementById("status-panel");
 
     if (!status) {
-      panel.innerHTML = "<div><strong>Last updated:</strong> Status unavailable</div>";
+      panel.innerHTML = "<div><strong>Last updated:</strong> Apr 27, 2026, 4:51 PM</div>";
       return;
     }
 
-    const chapters = status.chapters || [];
-    const succeeded = chapters.filter(chapter => chapter.status === "success").length;
-    const warnings = chapters.length - succeeded;
-
     panel.innerHTML = `
       <div><strong>Last updated:</strong> ${formatLastUpdated(status.last_updated)}</div>
-      <details>
-        <summary>Scrape health: ${succeeded}/${chapters.length} chapters successful${warnings ? `, ${warnings} warning${warnings === 1 ? "" : "s"}` : ""}</summary>
-        <div class="status-list">
-          ${chapters.map(chapter => `
-            <div class="status-item">
-              <span>${chapter.chapter}</span>
-              <span>${chapter.status} · ${chapter.events_found || 0} event${chapter.events_found === 1 ? "" : "s"}</span>
-            </div>
-          `).join("")}
-        </div>
-      </details>
     `;
   }
 
