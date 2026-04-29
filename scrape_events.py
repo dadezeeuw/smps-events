@@ -6,7 +6,14 @@ import re
 import json
 import os
 import random
+import sys
 import time as time_module
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except AttributeError:
+    pass
 
 with open("chapters.json", "r", encoding="utf-8") as f:
     chapters = json.load(f)
@@ -19,12 +26,15 @@ except FileNotFoundError:
 
 date_pattern = re.compile(r"^[A-Z][a-z]+ \d{1,2}, \d{4}$")
 time_pattern = re.compile(
-    r"^\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?\s?(to|-|\u2013)\s?\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?(?:\s?\([^)]+\))?$",
+    r"^\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?(?:(?:\s?(to|-|\u2013)\s?)\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?)?(?:\s?\([^)]+\))?$",
     re.IGNORECASE
 )
 colorado_time_pattern = re.compile(
     r"^\d{1,2}:\d{2}\s?[AP]M\s?-\s?\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?$",
     re.IGNORECASE
+)
+wichita_date_time_pattern = re.compile(
+    r"^([A-Z][a-z]+)\s+(\d{1,2})\s+@\s+(.+)$"
 )
 
 today = date.today()
@@ -89,6 +99,15 @@ def make_date(date_text):
         return datetime.strptime(date_text, "%B %d, %Y").date()
     except:
         return None
+
+def normalize_line(line):
+    return (
+        line
+        .replace("\u00a0", " ")
+        .replace("á", " ")
+        .replace("Â", "")
+        .strip()
+    )
 
 def clean_event_segment(segment):
     cleaned = []
@@ -205,6 +224,74 @@ def parse_colorado_events(soup, lines, chapter):
 
     return list(events_by_url.values())
 
+def parse_wichita_date_time(date_time_text):
+    match = wichita_date_time_pattern.match(date_time_text)
+
+    if not match:
+        return None, "", "", ""
+
+    month_text, day_text, time_text = match.groups()
+    event_year = today.year
+
+    try:
+        event_date = datetime.strptime(
+            f"{month_text} {day_text}, {event_year}",
+            "%B %d, %Y"
+        ).date()
+    except ValueError:
+        return None, "", "", ""
+
+    date_text = event_date.strftime("%B %d, %Y")
+    sort_date = event_date.strftime("%Y-%m-%d")
+    normalized_time = time_text.replace(" - ", " to ")
+
+    return event_date, date_text, sort_date, normalized_time
+
+def parse_wichita_events(soup, lines, chapter):
+    detail_urls_by_title = {}
+
+    for a in soup.find_all("a", href=True):
+        title = a.get_text(" ", strip=True)
+        href = a.get("href", "")
+
+        if not title or "/event/" not in href:
+            continue
+
+        detail_urls_by_title[title] = urljoin(chapter["url"], href)
+
+    events = []
+
+    for i, line in enumerate(lines):
+        if i + 1 >= len(lines):
+            continue
+
+        event_date, date_text, sort_date, time_text = parse_wichita_date_time(lines[i + 1])
+
+        if not event_date or event_date < today:
+            continue
+
+        title = line
+        description = ""
+
+        if i + 2 < len(lines) and lines[i + 2] != "View Details":
+            description = lines[i + 2]
+
+        events.append({
+            "chapter": chapter["chapter"],
+            "state": chapter.get("state", ""),
+            "region": chapter.get("region", ""),
+            "title": title,
+            "date": date_text,
+            "sort_date": sort_date,
+            "time": time_text,
+            "location": "See event details",
+            "description": description,
+            "is_virtual": is_virtual_event(title, "", description),
+            "detail_url": detail_urls_by_title.get(title, chapter["url"])
+        })
+
+    return events
+
 def save_scrape_status():
     scrape_status["last_updated"] = datetime.now().isoformat(timespec="seconds")
     scrape_status["total_events"] = len(all_events)
@@ -276,7 +363,7 @@ with sync_playwright() as p:
         soup = BeautifulSoup(html, "lxml")
 
         text = soup.get_text("\n", strip=True)
-        lines = [line.strip() for line in text.split("\n") if line.strip()]
+        lines = [normalize_line(line) for line in text.split("\n") if normalize_line(line)]
 
         print(f"Loaded {len(lines)} lines from {chapter['chapter']}")
         print("First 80 lines:")
@@ -307,7 +394,7 @@ with sync_playwright() as p:
             html = page.content()
             soup = BeautifulSoup(html, "lxml")
             text = soup.get_text("\n", strip=True)
-            lines = [line.strip() for line in text.split("\n") if line.strip()]
+            lines = [normalize_line(line) for line in text.split("\n") if normalize_line(line)]
 
             if "Too Many Requests" in lines:
                 print(f"Rate limited by StarChapter/Cloudflare for {chapter['chapter']}; preserving existing events.")
@@ -358,6 +445,29 @@ with sync_playwright() as p:
                 "url": chapter["url"],
                 "status": "success",
                 "message": "Scraped successfully with Colorado MemberClicks parser.",
+                "events_found": chapter_event_count,
+                "lines_loaded": len(lines),
+                "rejected_dates": 0,
+                "skipped_past_events": 0
+            })
+
+            if chapter_index < len(chapters_to_scrape) - 1:
+                wait_between_chapters()
+            continue
+
+        if chapter["chapter"] == "SMPS Wichita" or "smpswichita.org" in chapter["url"]:
+            wichita_events = parse_wichita_events(soup, lines, chapter)
+            new_events.extend(wichita_events)
+            chapter_event_count = len(wichita_events)
+            successful_chapters.add(chapter["chapter"])
+
+            scrape_status["chapters"].append({
+                "chapter": chapter["chapter"],
+                "state": chapter.get("state", ""),
+                "region": chapter.get("region", ""),
+                "url": chapter["url"],
+                "status": "success",
+                "message": "Scraped successfully with Wichita WordPress parser.",
                 "events_found": chapter_event_count,
                 "lines_loaded": len(lines),
                 "rejected_dates": 0,
