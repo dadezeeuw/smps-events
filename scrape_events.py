@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import parse_qs, urljoin, urlparse
 from datetime import datetime, date
 import re
 import json
@@ -19,7 +19,11 @@ except FileNotFoundError:
 
 date_pattern = re.compile(r"^[A-Z][a-z]+ \d{1,2}, \d{4}$")
 time_pattern = re.compile(
-    r"^\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?\s?(to|-|\u2013)\s?\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?$",
+    r"^\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?\s?(to|-|\u2013)\s?\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?(?:\s?\([^)]+\))?$",
+    re.IGNORECASE
+)
+colorado_time_pattern = re.compile(
+    r"^\d{1,2}:\d{2}\s?[AP]M\s?-\s?\d{1,2}:\d{2}\s?[AP]M(?:\s?[A-Z]{2,4})?$",
     re.IGNORECASE
 )
 
@@ -120,6 +124,86 @@ def split_location_description(segment):
 def is_virtual_event(title, location, description):
     searchable_text = f"{title} {location} {description}"
     return bool(virtual_pattern.search(searchable_text))
+
+def make_colorado_date_from_url(url):
+    query = parse_qs(urlparse(url).query)
+
+    try:
+        event_date = datetime(
+            int(query["year"][0]),
+            int(query["month"][0]),
+            int(query["day"][0])
+        ).date()
+    except (KeyError, ValueError, IndexError):
+        return None, "", "", ""
+
+    date_text = event_date.strftime("%B %d, %Y")
+    sort_date = event_date.strftime("%Y-%m-%d")
+    detail_date_text = event_date.strftime("%A, %B %d, %Y")
+    return event_date, date_text, sort_date, detail_date_text
+
+def find_colorado_time(lines, detail_date_text):
+    for i, line in enumerate(lines):
+        if line == detail_date_text and i + 1 < len(lines):
+            possible_time = lines[i + 1]
+
+            if colorado_time_pattern.match(possible_time):
+                return possible_time.replace(" - ", " to ")
+
+    return ""
+
+def find_colorado_category(lines, title):
+    for i, line in enumerate(lines):
+        if title and title in line:
+            for next_line in lines[i + 1:i + 4]:
+                if next_line.startswith("Category:"):
+                    return next_line.replace("Category:", "", 1).strip()
+
+    return ""
+
+def parse_colorado_events(soup, lines, chapter):
+    events_by_url = {}
+
+    for a in soup.find_all("a", href=True):
+        href = a.get("href", "")
+        title = a.get_text(" ", strip=True)
+
+        if "task=icalrepeat.detail" not in href or "evid=" not in href:
+            continue
+
+        if not title or title.lower().startswith("export event"):
+            continue
+
+        detail_url = urljoin(chapter["url"], href)
+        event_date, date_text, sort_date, detail_date_text = make_colorado_date_from_url(detail_url)
+
+        if not event_date or event_date < today:
+            continue
+
+        existing = events_by_url.get(detail_url)
+
+        if existing and len(existing["title"]) >= len(title):
+            continue
+
+        category = find_colorado_category(lines, title)
+        description = f"Category: {category}" if category else ""
+        time_text = find_colorado_time(lines, detail_date_text)
+
+        events_by_url[detail_url] = {
+            "chapter": chapter["chapter"],
+            "state": chapter.get("state", ""),
+            "region": chapter.get("region", ""),
+            "title": title,
+            "date": date_text,
+            "sort_date": sort_date,
+            "time": time_text or "TBD",
+            "location": "See event details",
+            "description": description,
+            "is_virtual": is_virtual_event(title, "", description),
+            "detail_url": detail_url
+        }
+
+    return list(events_by_url.values())
 
 def save_scrape_status():
     scrape_status["last_updated"] = datetime.now().isoformat(timespec="seconds")
@@ -260,6 +344,29 @@ with sync_playwright() as p:
                 if chapter_index < len(chapters_to_scrape) - 1:
                     wait_between_chapters()
                 continue
+
+        if chapter["chapter"] == "SMPS Colorado" or "smpscolorado.org" in chapter["url"] or "smpsc.memberclicks.net" in chapter["url"]:
+            colorado_events = parse_colorado_events(soup, lines, chapter)
+            new_events.extend(colorado_events)
+            chapter_event_count = len(colorado_events)
+            successful_chapters.add(chapter["chapter"])
+
+            scrape_status["chapters"].append({
+                "chapter": chapter["chapter"],
+                "state": chapter.get("state", ""),
+                "region": chapter.get("region", ""),
+                "url": chapter["url"],
+                "status": "success",
+                "message": "Scraped successfully with Colorado MemberClicks parser.",
+                "events_found": chapter_event_count,
+                "lines_loaded": len(lines),
+                "rejected_dates": 0,
+                "skipped_past_events": 0
+            })
+
+            if chapter_index < len(chapters_to_scrape) - 1:
+                wait_between_chapters()
+            continue
 
         event_links = []
         seen = set()
