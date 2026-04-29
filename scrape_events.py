@@ -6,7 +6,7 @@ import re
 import json
 import os
 import random
-import time
+import time as time_module
 
 with open("chapters.json", "r", encoding="utf-8") as f:
     chapters = json.load(f)
@@ -134,7 +134,7 @@ def wait_between_chapters():
 
     delay = random.randint(delay_min, delay_max)
     print(f"Waiting {delay} seconds before the next chapter...")
-    time.sleep(delay)
+    time_module.sleep(delay)
 
 print(
     f"Scraping batch {batch_index + 1} of {batch_count}: "
