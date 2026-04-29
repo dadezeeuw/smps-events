@@ -1,21 +1,129 @@
 [
   {
-    "chapter": "SMPS Greater Cincinnati",
-    "state": "Ohio",
-    "region": "Heartland",
-    "url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?cat=ALL"
-  },  
-  {
-    "chapter": "SMPS Northeast Ohio",
-    "state": "Ohio",
-    "region": "Heartland",
-    "url": "https://smpsneo.starchapter.com/meetinginfo.php?cat=ALL"
+    "chapter": "SMPS Alabama",
+    "state": "Alabama",
+    "region": "Southeast",
+    "url": "https://smpsalabama.starchapter.com/meetinginfo.php?cat=ALL"
   },
   {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
+    "chapter": "SMPS Alaska",
+    "state": "Alaska",
+    "region": "Pacific",
+    "url": "https://smpsalaska.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "url": "https://smpsarizona.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Ozarks",
+    "state": "Arkansas, Missouri",
+    "region": "Missouri Valley",
+    "url": "https://smpsozarks.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Inland Empire",
+    "state": "California",
+    "region": "Pacific",
+    "url": "https://smpsie.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "url": "https://smpsla.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Orange County",
+    "state": "California",
+    "region": "Pacific",
+    "url": "https://smpsoc.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Sacramento",
+    "state": "California",
+    "region": "Pacific",
+    "url": "https://smpssac.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS San Diego",
+    "state": "California",
+    "region": "Pacific",
+    "url": "https://smpssd.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "url": "https://smpssf.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "url": "https://smpscolorado.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Connecticut",
+    "state": "Connecticut",
+    "region": "Northeast",
+    "url": "https://smpsct.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "url": "https://smpsdc.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS North Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS South Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "url": "https://smpstampabay.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "url": "https://smpsatl.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "url": "https://smpshawaii.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Idaho",
+    "state": "Idaho",
+    "region": "Pacific",
+    "url": "https://smpsidaho.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Chicago",
+    "state": "Illinois",
     "region": "Heartland",
-    "url": "https://smpscolumbus.starchapter.com/meetinginfo.php?cat=ALL"
+    "url": "https://smpschi.starchapter.com/meetinginfo.php?cat=ALL"
   },
   {
     "chapter": "SMPS Indiana",
@@ -23,11 +131,41 @@
     "region": "Heartland",
     "url": "https://smpsindiana.starchapter.com/meetinginfo.php?cat=ALL"
   },
-   {
+  {
+    "chapter": "SMPS Wichita",
+    "state": "Kansas",
+    "region": "Missouri Valley",
+    "url": "https://smpswichita.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
     "chapter": "SMPS Kentucky",
     "state": "Kentucky",
     "region": "Heartland",
     "url": "https://smpskentucky.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Southeast Louisiana",
+    "state": "Louisiana",
+    "region": "Southern",
+    "url": "https://smpssela.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Northern New England",
+    "state": "Maine",
+    "region": "Northeast",
+    "url": "https://smpsnne.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Maryland",
+    "state": "Maryland",
+    "region": "Northeast",
+    "url": "https://smpsmaryland.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Boston",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "url": "https://smpsboston.starchapter.com/meetinginfo.php?cat=ALL"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -42,9 +180,177 @@
     "url": "https://smpswm.starchapter.com/meetinginfo.php?cat=ALL"
   },
   {
+    "chapter": "SMPS Twin Cities",
+    "state": "Minnesota",
+    "region": "Heartland",
+    "url": "https://smpstc.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Kansas City",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "url": "https://smpskc.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "url": "https://smpsstlouis.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "url": "https://smpsnebraska.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Las Vegas",
+    "state": "Nevada",
+    "region": "Pacific",
+    "url": "https://smpslasvegas.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS New York",
+    "state": "New York",
+    "region": "Northeast",
+    "url": "https://smpsny.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Upstate New York",
+    "state": "New York",
+    "region": "Northeast",
+    "url": "https://smpsupstateny.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Charlotte",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "url": "https://smpscharlotte.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "url": "https://smpstriangle.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "url": "https://smpscolumbus.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Greater Cincinnati",
+    "state": "Ohio",
+    "region": "Heartland",
+    "url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Northeast Ohio",
+    "state": "Ohio",
+    "region": "Heartland",
+    "url": "https://smpsneo.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Oklahoma",
+    "state": "Oklahoma",
+    "region": "Southern",
+    "url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Oregon",
+    "state": "Oregon",
+    "region": "Pacific",
+    "url": "https://smpsoregon.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "url": "https://smpscentralpa.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Philadelphia",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Pittsburgh",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Palmetto",
+    "state": "South Carolina",
+    "region": "Southeast",
+    "url": "https://smpspalmetto.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Nashville",
+    "state": "Tennessee",
+    "region": "Southeast",
+    "url": "https://smpsnashville.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
     "chapter": "SMPS Austin",
     "state": "Texas",
     "region": "Southern",
     "url": "https://smpsaustin.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Houston",
+    "state": "Texas",
+    "region": "Southern",
+    "url": "https://smpshouston.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "url": "https://smpsntx.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS San Antonio",
+    "state": "Texas",
+    "region": "Southern",
+    "url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "url": "https://smpsutah.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Virginia",
+    "state": "Virginia",
+    "region": "Southeast",
+    "url": "https://smpsva.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Wisconsin",
+    "state": "Wisconsin",
+    "region": "Heartland",
+    "url": "https://smpswisconsin.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "url": "https://smpsseattle.starchapter.com/meetinginfo.php?cat=ALL"
+  },
+  {
+    "chapter": "SMPS Ontario",
+    "state": "Ontario",
+    "region": "Northeast",
+    "url": "https://smpsontario.starchapter.com/meetinginfo.php?cat=ALL"
   }
 ]
