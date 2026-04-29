@@ -4,9 +4,18 @@ from urllib.parse import urljoin
 from datetime import datetime, date
 import re
 import json
+import os
+import random
+import time
 
 with open("chapters.json", "r", encoding="utf-8") as f:
     chapters = json.load(f)
+
+try:
+    with open("docs/events.json", "r", encoding="utf-8") as f:
+        existing_events = json.load(f)
+except FileNotFoundError:
+    existing_events = []
 
 date_pattern = re.compile(r"^[A-Z][a-z]+ \d{1,2}, \d{4}$")
 time_pattern = re.compile(
@@ -15,10 +24,29 @@ time_pattern = re.compile(
 )
 
 today = date.today()
-all_events = []
+new_events = []
+successful_chapters = set()
+batch_size = max(1, int(os.getenv("SCRAPE_BATCH_SIZE", len(chapters))))
+batch_count = max(1, (len(chapters) + batch_size - 1) // batch_size)
+batch_index = int(os.getenv("SCRAPE_BATCH_INDEX", str(today.toordinal() % batch_count))) % batch_count
+batch_start = batch_index * batch_size
+batch_end = batch_start + batch_size
+chapters_to_scrape = chapters[batch_start:batch_end]
+delay_min = int(os.getenv("SCRAPE_DELAY_MIN_SECONDS", "30"))
+delay_max = int(os.getenv("SCRAPE_DELAY_MAX_SECONDS", "90"))
+if delay_min > delay_max:
+    delay_min, delay_max = delay_max, delay_min
+is_ci = os.getenv("GITHUB_ACTIONS") == "true"
 scrape_status = {
     "last_updated": "",
     "total_events": 0,
+    "batch": {
+        "batch_index": batch_index,
+        "batch_count": batch_count,
+        "batch_size": batch_size,
+        "chapters_in_batch": len(chapters_to_scrape),
+        "total_chapters": len(chapters)
+    },
     "chapters": []
 }
 skip_lines = {
@@ -100,9 +128,22 @@ def save_scrape_status():
     with open("docs/scrape-status.json", "w", encoding="utf-8") as f:
         json.dump(scrape_status, f, indent=2)
 
+def wait_between_chapters():
+    if delay_max <= 0:
+        return
+
+    delay = random.randint(delay_min, delay_max)
+    print(f"Waiting {delay} seconds before the next chapter...")
+    time.sleep(delay)
+
+print(
+    f"Scraping batch {batch_index + 1} of {batch_count}: "
+    f"{len(chapters_to_scrape)} of {len(chapters)} chapters"
+)
+
 with sync_playwright() as p:
     browser = p.chromium.launch(
-        headless=False,
+        headless=is_ci,
         args=[
             "--disable-blink-features=AutomationControlled",
             "--start-maximized",
@@ -120,7 +161,7 @@ with sync_playwright() as p:
     )
     page = context.new_page()
 
-    for chapter in chapters:
+    for chapter_index, chapter in enumerate(chapters_to_scrape):
         print(f"\nScraping: {chapter['chapter']}")
         chapter_event_count = 0
         rejected_dates = 0
@@ -144,6 +185,8 @@ with sync_playwright() as p:
                 "rejected_dates": 0,
                 "skipped_past_events": 0
             })
+            if chapter_index < len(chapters_to_scrape) - 1:
+                wait_between_chapters()
             continue
 
         soup = BeautifulSoup(html, "lxml")
@@ -156,6 +199,24 @@ with sync_playwright() as p:
         for debug_line in lines[:80]:
             print(debug_line)
 
+        if "Too Many Requests" in lines:
+            print(f"Rate limited by StarChapter/Cloudflare for {chapter['chapter']}; preserving existing events.")
+            scrape_status["chapters"].append({
+                "chapter": chapter["chapter"],
+                "state": chapter.get("state", ""),
+                "region": chapter.get("region", ""),
+                "url": chapter["url"],
+                "status": "throttled",
+                "message": "Too Many Requests.",
+                "events_found": 0,
+                "lines_loaded": len(lines),
+                "rejected_dates": 0,
+                "skipped_past_events": 0
+            })
+            if chapter_index < len(chapters_to_scrape) - 1:
+                wait_between_chapters()
+            continue
+
         if "Cloudflare" in lines or "Just a moment..." in lines:
             print(f"Cloudflare challenge detected for {chapter['chapter']}; waiting for verification.")
             page.wait_for_timeout(10000)
@@ -163,6 +224,24 @@ with sync_playwright() as p:
             soup = BeautifulSoup(html, "lxml")
             text = soup.get_text("\n", strip=True)
             lines = [line.strip() for line in text.split("\n") if line.strip()]
+
+            if "Too Many Requests" in lines:
+                print(f"Rate limited by StarChapter/Cloudflare for {chapter['chapter']}; preserving existing events.")
+                scrape_status["chapters"].append({
+                    "chapter": chapter["chapter"],
+                    "state": chapter.get("state", ""),
+                    "region": chapter.get("region", ""),
+                    "url": chapter["url"],
+                    "status": "throttled",
+                    "message": "Too Many Requests.",
+                    "events_found": 0,
+                    "lines_loaded": len(lines),
+                    "rejected_dates": 0,
+                    "skipped_past_events": 0
+                })
+                if chapter_index < len(chapters_to_scrape) - 1:
+                    wait_between_chapters()
+                continue
 
             if "Cloudflare" in lines or "Just a moment..." in lines:
                 print(f"Cloudflare still blocking {chapter['chapter']}; skipping for now.")
@@ -178,6 +257,8 @@ with sync_playwright() as p:
                     "rejected_dates": 0,
                     "skipped_past_events": 0
                 })
+                if chapter_index < len(chapters_to_scrape) - 1:
+                    wait_between_chapters()
                 continue
 
         event_links = []
@@ -225,7 +306,7 @@ with sync_playwright() as p:
 
                 is_virtual = is_virtual_event(title, location, description)
 
-                all_events.append({
+                new_events.append({
                     "chapter": chapter["chapter"],
                     "state": chapter.get("state", ""),
                     "region": chapter.get("region", ""),
@@ -240,6 +321,7 @@ with sync_playwright() as p:
                 })
                 chapter_event_count += 1
 
+        successful_chapters.add(chapter["chapter"])
         scrape_status["chapters"].append({
             "chapter": chapter["chapter"],
             "state": chapter.get("state", ""),
@@ -253,9 +335,17 @@ with sync_playwright() as p:
             "skipped_past_events": skipped_past_events
         })
 
+        if chapter_index < len(chapters_to_scrape) - 1:
+            wait_between_chapters()
+
     context.close()
     browser.close()
 
+preserved_events = [
+    event for event in existing_events
+    if event.get("chapter", "") not in successful_chapters
+]
+all_events = preserved_events + new_events
 all_events.sort(key=lambda event: event.get("sort_date", ""))
 
 if len(all_events) == 0:
