@@ -11,7 +11,9 @@ echo Current directory after cd: %cd% >> "%LOG_FILE%"
 where python >> "%LOG_FILE%" 2>&1
 python --version >> "%LOG_FILE%" 2>&1
 
-python scrape_events.py >> "%LOG_FILE%" 2>&1
+echo Starting scraper: %date% %time% >> "%LOG_FILE%"
+python -u scrape_events.py >> "%LOG_FILE%" 2>&1
+echo Scraper finished with code %errorlevel%: %date% %time% >> "%LOG_FILE%"
 
 if errorlevel 1 (
     echo Scraper failed. Not committing changes. >> "%LOG_FILE%"

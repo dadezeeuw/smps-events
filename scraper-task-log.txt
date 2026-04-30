@@ -1,0 +1,7 @@
+=============================== 
+Run started: Thu 04/30/2026  5:25:18.49 
+Current directory before cd: C:\Users\dadezeeuw\Documents\smps-events 
+Current directory after cd: C:\Users\dadezeeuw\Documents\smps-events 
+C:\Users\dadezeeuw\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\dadezeeuw\AppData\Local\Python\bin\python.exe
+Python 3.14.4
