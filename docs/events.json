@@ -156,19 +156,6 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=491&ts=1774560048"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Volunteer Drive - SF Giants Game",
-    "date": "May 05, 2026",
-    "sort_date": "2026-05-05",
-    "time": "6:45 PM - 9:00 PM",
-    "location": "Oracle Park - SF Giants, 24 Willie Mays Plaza, San Francisco, CA 94107, https://www.mlb.com/giants/ballpark, This special volunteer drive event at the San Francisco Giants game is for individuals who are interested in becoming active SMPS volunteers. Attendance is limited and reserved for those who are serious about volunteering or are current, active volunteers",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=622&ts=1775243525"
-  },
-  {
     "chapter": "SMPS Indiana",
     "state": "Indiana",
     "region": "Heartland",
@@ -180,6 +167,19 @@
     "description": "Explore missteps firm leaders make when developing their plan and what Marketing & BD can do to ensure a successful one is developed the next time around.",
     "is_virtual": true,
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=402&ts=1776271969"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Volunteer Drive - SF Giants Game",
+    "date": "May 05, 2026",
+    "sort_date": "2026-05-05",
+    "time": "6:45 PM - 9:00 PM",
+    "location": "Oracle Park - SF Giants, 24 Willie Mays Plaza, San Francisco, CA 94107, https://www.mlb.com/giants/ballpark, This special volunteer drive event at the San Francisco Giants game is for individuals who are interested in becoming active SMPS volunteers. Attendance is limited and reserved for those who are serious about volunteering or are current, active volunteers",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=622&ts=1775243525"
   },
   {
     "chapter": "SMPS Colorado",
@@ -624,19 +624,6 @@
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=239&ts=1775756821"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "NextGen Academy",
-    "date": "May 13, 2026",
-    "sort_date": "2026-05-13",
-    "time": "8:30 AM - 5:30 PM",
-    "location": "Mosaic at Embarcadero Center, https://meetatmosaic.com",
-    "description": "Three Embarcadero, Lobby Level San Francisco, CA Registration Open for NextGen Academy, a one-day, in-person program designed for emerging AEC marketing and business development professionals. Join us in Downtown San Francisco on May 13 for a day of learning, skill-building, and meaningful peer connect",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=623&ts=1777429199"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -791,6 +778,19 @@
     "description": "Better Graphics. Less Stress. No Design Degree Required.",
     "is_virtual": false,
     "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=456&ts=1776800023"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "NextGen Academy",
+    "date": "May 13, 2026",
+    "sort_date": "2026-05-13",
+    "time": "8:30 AM - 5:30 PM",
+    "location": "Mosaic at Embarcadero Center, https://meetatmosaic.com",
+    "description": "Three Embarcadero, Lobby Level San Francisco, CA Registration Open for NextGen Academy, a one-day, in-person program designed for emerging AEC marketing and business development professionals. Join us in Downtown San Francisco on May 13 for a day of learning, skill-building, and meaningful peer connect",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=623&ts=1777429199"
   },
   {
     "chapter": "SMPS Inland Empire",
@@ -975,19 +975,6 @@
     "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=279&ts=1775661748"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "The Resilient Playbook: Why Human Connection Still Wins",
-    "date": "May 20, 2026",
-    "sort_date": "2026-05-20",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Zoom Webinar, This panel of SMPS Fellows will explore how trust-based relationships drive modern business development, helping firms transcend traditional roles to become true strategic partners.",
-    "description": "",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=586&ts=1776739146"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -1103,6 +1090,19 @@
     "description": "Unlock Client Perspectives at Our Most Popular AEC Panel",
     "is_virtual": false,
     "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=191&ts=1777476944"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "The Resilient Playbook: Why Human Connection Still Wins",
+    "date": "May 20, 2026",
+    "sort_date": "2026-05-20",
+    "time": "12:00 PM - 1:00 PM",
+    "location": "Zoom Webinar, This panel of SMPS Fellows will explore how trust-based relationships drive modern business development, helping firms transcend traditional roles to become true strategic partners.",
+    "description": "",
+    "is_virtual": true,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=586&ts=1776739146"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1404,19 +1404,6 @@
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=535&ts=1777062047"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Taste of SMPS San Francisco Bay Area Chapter",
-    "date": "June 02, 2026",
-    "sort_date": "2026-06-02",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Virtual",
-    "description": "A meeting link will be sent closer to the event. Taste of SMPS is a virtual meeting to welcome new and prospective members and to introduce the executive board and committee directors.",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=617&ts=1770149147"
-  },
-  {
     "chapter": "SMPS South Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1446,14 +1433,14 @@
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
-    "title": "SMPS SF Virtual Program",
-    "date": "June 03, 2026",
-    "sort_date": "2026-06-03",
+    "title": "Taste of SMPS San Francisco Bay Area Chapter",
+    "date": "June 02, 2026",
+    "sort_date": "2026-06-02",
     "time": "12:00 PM - 1:00 PM",
-    "location": "Zoom Webinar",
-    "description": "Information to Come",
+    "location": "Virtual",
+    "description": "A meeting link will be sent closer to the event. Taste of SMPS is a virtual meeting to welcome new and prospective members and to introduce the executive board and committee directors.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=587&ts=1757452281"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=617&ts=1770149147"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -1472,14 +1459,14 @@
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
-    "title": "Wellness Workshop",
-    "date": "June 04, 2026",
-    "sort_date": "2026-06-04",
-    "time": "5:30 PM - 7:30 PM",
-    "location": "TBD - Stay Tuned!",
-    "description": "Is your office able to host? Reach out to membership@smpssf.org. Create a mini Zen garden in this hands-on wellness workshop focused on finding calm in the chaos.",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1775594767"
+    "title": "SMPS SF Virtual Program",
+    "date": "June 03, 2026",
+    "sort_date": "2026-06-03",
+    "time": "12:00 PM - 1:00 PM",
+    "location": "Zoom Webinar",
+    "description": "Information to Come",
+    "is_virtual": true,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=587&ts=1757452281"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -1547,6 +1534,19 @@
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=266&ts=1774896183"
   },
   {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Wellness Workshop",
+    "date": "June 04, 2026",
+    "sort_date": "2026-06-04",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "TBD - Stay Tuned!",
+    "description": "Is your office able to host? Reach out to membership@smpssf.org. Create a mini Zen garden in this hands-on wellness workshop focused on finding calm in the chaos.",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1775594767"
+  },
+  {
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
@@ -1573,19 +1573,6 @@
     "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1765844691"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Powerful, not Perfect - Scrappy in-house video",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "7:30 AM - 12:00 PM",
-    "location": "SmithGroupJJR, 301 Battery Street, 7th Floor, San Francisco, CA 94111, http://www.smithgroupjjr.com",
-    "description": "The marketer\u2019s guide to producing highly effective video content without a big budget.",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1777420260"
-  },
-  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -1610,6 +1597,19 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=493&ts=1774560240"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Powerful, not Perfect - Scrappy in-house video",
+    "date": "June 10, 2026",
+    "sort_date": "2026-06-10",
+    "time": "7:30 AM - 12:00 PM",
+    "location": "SmithGroupJJR, 301 Battery Street, 7th Floor, San Francisco, CA 94111, http://www.smithgroupjjr.com",
+    "description": "The marketer\u2019s guide to producing highly effective video content without a big budget.",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1777420260"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1937,19 +1937,6 @@
     "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=280&ts=1776956520"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "SMPS SF Virtual Program",
-    "date": "July 01, 2026",
-    "sort_date": "2026-07-01",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Zoom Webinar",
-    "description": "Information to Come",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=589&ts=1757452239"
-  },
-  {
     "chapter": "SMPS Palmetto",
     "state": "South Carolina",
     "region": "Southeast",
@@ -2028,19 +2015,6 @@
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=395&ts=1772821396"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "SMPS SF Virtual Program",
-    "date": "August 05, 2026",
-    "sort_date": "2026-08-05",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Zoom Webinar",
-    "description": "Information to Come",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1757452226"
-  },
-  {
     "chapter": "SMPS Seattle",
     "state": "Washington",
     "region": "Pacific",
@@ -2052,6 +2026,19 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=496&ts=1774560524"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "SMPS SF Virtual Program",
+    "date": "August 05, 2026",
+    "sort_date": "2026-08-05",
+    "time": "12:00 PM - 1:00 PM",
+    "location": "Zoom Webinar",
+    "description": "Information to Come",
+    "is_virtual": true,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1757452226"
   },
   {
     "chapter": "SMPS San Antonio",
