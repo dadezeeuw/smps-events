@@ -1,10 +1,6 @@
 @echo off
 cd /d "C:\users\dadezeeuw\Documents\smps-events"
 
-set SCRAPE_BATCH_SIZE=12
-set SCRAPE_DELAY_MIN_SECONDS=45
-set SCRAPE_DELAY_MAX_SECONDS=90
-
 python scrape_events.py
 
 if errorlevel 1 (
