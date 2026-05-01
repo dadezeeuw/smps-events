@@ -46,8 +46,8 @@ batch_index = int(os.getenv("SCRAPE_BATCH_INDEX", str(today.toordinal() % batch_
 batch_start = batch_index * batch_size
 batch_end = batch_start + batch_size
 chapters_to_scrape = chapters[batch_start:batch_end]
-delay_min = int(os.getenv("SCRAPE_DELAY_MIN_SECONDS", "20"))
-delay_max = int(os.getenv("SCRAPE_DELAY_MAX_SECONDS", "60"))
+delay_min = int(os.getenv("SCRAPE_DELAY_MIN_SECONDS", "15"))
+delay_max = int(os.getenv("SCRAPE_DELAY_MAX_SECONDS", "40"))
 if delay_min > delay_max:
     delay_min, delay_max = delay_max, delay_min
 is_ci = os.getenv("GITHUB_ACTIONS") == "true"
