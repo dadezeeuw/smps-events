@@ -676,6 +676,45 @@
     format: ""
   };
 
+  function trackAnalyticsEvent(name, params = {}) {
+    if (typeof gtag !== "function") return;
+
+    gtag("event", name, params);
+  }
+
+  function escapeAttribute(value) {
+    return String(value || "")
+      .replace(/&/g, "&amp;")
+      .replace(/"/g, "&quot;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+  }
+
+  function getUrlHostname(value) {
+    try {
+      return new URL(value).hostname;
+    } catch {
+      return "";
+    }
+  }
+
+  function renderEventButton(event) {
+    if (!event.detail_url) return "";
+
+    return `
+      <a
+        class="event-button"
+        href="${escapeAttribute(event.detail_url)}"
+        target="_blank"
+        data-event-title="${escapeAttribute(event.title)}"
+        data-event-chapter="${escapeAttribute(event.chapter)}"
+        data-event-state="${escapeAttribute(event.state)}"
+        data-event-region="${escapeAttribute(event.region)}"
+        data-event-url="${escapeAttribute(event.detail_url)}"
+      >View Details</a>
+    `;
+  }
+
   function getMonthName(dateText) {
     if (!dateText) return "";
     return dateText.split(" ")[0];
@@ -818,6 +857,10 @@
     Object.entries(filterConfig).forEach(([key, config]) => {
       document.getElementById(config.id).addEventListener("change", event => {
         filters[key] = event.target.value;
+        trackAnalyticsEvent("filter_used", {
+          filter_type: key,
+          filter_value: event.target.value || "all"
+        });
         refreshFilterOptions();
         applyFilters();
       });
@@ -849,6 +892,20 @@
     document.getElementById("clear-filters").addEventListener("click", clearFilters);
     document.getElementById("card-view").addEventListener("click", () => setViewMode("card"));
     document.getElementById("compact-view").addEventListener("click", () => setViewMode("compact"));
+
+    document.getElementById("events").addEventListener("click", event => {
+      const link = event.target.closest(".event-button");
+      if (!link) return;
+
+      trackAnalyticsEvent("event_link_click", {
+        event_title: link.dataset.eventTitle || "",
+        chapter: link.dataset.eventChapter || "",
+        state: link.dataset.eventState || "",
+        region: link.dataset.eventRegion || "",
+        destination_domain: getUrlHostname(link.dataset.eventUrl),
+        destination_url: link.dataset.eventUrl || ""
+      });
+    });
   }
 
   function getFilteredEvents() {
@@ -902,7 +959,7 @@
             <div class="compact-meta">${event.chapter || "SMPS Chapter"} · ${event.time || "TBD"} · ${event.location || "TBD"}</div>
           </div>
           <div>
-            ${event.detail_url ? `<a class="event-button" href="${event.detail_url}" target="_blank">View Details</a>` : ""}
+            ${renderEventButton(event)}
           </div>
         </article>
       `).join("");
@@ -933,7 +990,7 @@
           </div>
           <div class="event-description">${event.description || ""}</div>
           <div class="event-actions">
-            ${event.detail_url ? `<a class="event-button" href="${event.detail_url}" target="_blank">View Details</a>` : ""}
+            ${renderEventButton(event)}
           </div>
         </div>
       </article>
@@ -1024,6 +1081,9 @@
       form.addEventListener("submit", event => {
         event.preventDefault();
         filters.search = searchInput.value;
+        trackAnalyticsEvent("search_used", {
+          search_length: filters.search.trim().length
+        });
         applyFilters();
       });
     });
