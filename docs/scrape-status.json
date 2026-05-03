@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T10:50:30",
-  "total_events": 181,
+  "last_updated": "2026-05-03T03:19:38",
+  "total_events": 180,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -485,7 +485,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 5,
-      "lines_loaded": 96,
+      "lines_loaded": 95,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -700,8 +700,8 @@
       "url": "https://smpsseattle.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 8,
-      "lines_loaded": 111,
+      "events_found": 7,
+      "lines_loaded": 105,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
