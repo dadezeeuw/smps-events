@@ -455,19 +455,6 @@
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=239&ts=1775756821"
   },
   {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "BD Enablement for Small Marketing Teams",
-    "date": "May 13, 2026",
-    "sort_date": "2026-05-13",
-    "time": "11:00 AM to 12:30 PM",
-    "location": "Olsson, 5800 Tennyson Pkwy, Plano, TX 75024",
-    "description": "Join SMPS North Texas for an education session with Neil Barrow on BD enablement for small marketing teams",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=289&ts=1775946940"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -622,6 +609,19 @@
     "description": "Better Graphics. Less Stress. No Design Degree Required.",
     "is_virtual": false,
     "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=456&ts=1776800023"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "BD Enablement for Small Marketing Teams",
+    "date": "May 13, 2026",
+    "sort_date": "2026-05-13",
+    "time": "11:00 AM to 12:30 PM",
+    "location": "Olsson, 5800 Tennyson Pkwy, Plano, TX 75024",
+    "description": "Join SMPS North Texas for an education session with Neil Barrow on BD enablement for small marketing teams",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=289&ts=1775946940"
   },
   {
     "chapter": "SMPS Inland Empire",
@@ -832,19 +832,6 @@
     "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=279&ts=1775661748"
   },
   {
-    "chapter": "SMPS Central Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Fast Starters, Last Minuters, & Everyone In Between",
-    "date": "May 20, 2026",
-    "sort_date": "2026-05-20",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Virtual",
-    "description": "Your work style isn\u2019t something to fix \u2014 it\u2019s something to understand. Join SMPS Central Florida for a program that helps you own your style, ditch the shame, and build stronger relationships with the people who don\u2019t \u201cget\u201d you\u2026yet.",
-    "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=651&ts=1774635522"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -960,6 +947,19 @@
     "description": "Unlock Client Perspectives at Our Most Popular AEC Panel",
     "is_virtual": false,
     "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=191&ts=1777639670"
+  },
+  {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Fast Starters, Last Minuters, & Everyone In Between",
+    "date": "May 20, 2026",
+    "sort_date": "2026-05-20",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Virtual",
+    "description": "Your work style isn\u2019t something to fix \u2014 it\u2019s something to understand. Join SMPS Central Florida for a program that helps you own your style, ditch the shame, and build stronger relationships with the people who don\u2019t \u201cget\u201d you\u2026yet.",
+    "is_virtual": true,
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=651&ts=1774635522"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1118,19 +1118,6 @@
     "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=163&ts=1773303114"
   },
   {
-    "chapter": "SMPS Nebraska",
-    "state": "Nebraska",
-    "region": "Missouri Valley",
-    "title": "Using LinkedIn to Research Your Clients, Competition, & Reputation",
-    "date": "May 27, 2026",
-    "sort_date": "2026-05-27",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
-    "description": "Transform LinkedIn into a strategic tool for smarter pursuits and stronger A/E/C relationships.",
-    "is_virtual": false,
-    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=314&ts=1775243235"
-  },
-  {
     "chapter": "SMPS South Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1194,6 +1181,19 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=492&ts=1774560151"
+  },
+  {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "title": "Using LinkedIn to Research Your Clients, Competition, & Reputation",
+    "date": "May 27, 2026",
+    "sort_date": "2026-05-27",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
+    "description": "Transform LinkedIn into a strategic tool for smarter pursuits and stronger A/E/C relationships.",
+    "is_virtual": false,
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=314&ts=1775243235"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1690,19 +1690,6 @@
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
   },
   {
-    "chapter": "SMPS Nebraska",
-    "state": "Nebraska",
-    "region": "Missouri Valley",
-    "title": "AI-Enhanced Business Development",
-    "date": "June 24, 2026",
-    "sort_date": "2026-06-24",
-    "time": "11:30 AM to 1:30 PM",
-    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
-    "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
-    "is_virtual": false,
-    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
-  },
-  {
     "chapter": "SMPS Idaho",
     "state": "Idaho",
     "region": "Pacific",
@@ -1753,6 +1740,19 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=494&ts=1774560339"
+  },
+  {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "title": "AI-Enhanced Business Development",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "11:30 AM to 1:30 PM",
+    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
+    "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
   },
   {
     "chapter": "SMPS Indiana",
