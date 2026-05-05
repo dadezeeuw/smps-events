@@ -14025,3 +14025,4288 @@ Scraper finished with code 0: Mon 05/04/2026  8:46:29.19
  M scraper-task-log.txt
 [main 95ae37e] Update scraped SMPS events
  2 files changed, 82 insertions(+), 69 deletions(-)
+=============================== 
+Run started: Tue 05/05/2026  8:27:43.75 
+Current directory before cd: C:\Users\dadezeeuw\Documents\smps-events 
+Current directory after cd: C:\Users\dadezeeuw\Documents\smps-events 
+C:\Users\dadezeeuw\AppData\Local\Microsoft\WindowsApps\python.exe
+C:\Users\dadezeeuw\AppData\Local\Python\bin\python.exe
+Python 3.14.4
+Starting scraper: Tue 05/05/2026  8:29:08.01 
+Scraping batch 1 of 1: 59 of 59 chapters
+
+Scraping: SMPS Alabama
+Loaded 34 lines from SMPS Alabama
+First 80 lines:
+Come Grow With Us! - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+Join
+Meetings
+Leadership
+Calendar
+Job Postings
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+Facebook
+Instagram
+LinkedIn
+About Us
+Calendar of Events
+Sponsorship
+Sponsors
+Resources
+Meeting/Event Information
+No meetings/events scheduled at this time.
+Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.
+Follow us
+Join our mailing list
+Subscribe
+© 2026 SMPS Alabama All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+Waiting 29 seconds before the next chapter...
+
+Scraping: SMPS Alaska
+Loaded 40 lines from SMPS Alaska
+First 80 lines:
+SMPS Alaska Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Home
+Attend a Program
+Learn More
+Board of Directors
+Who We Are
+Our Members
+Our Sponsors
+Become a Sponsor
+Sponsor Payments
+Get Involved
+Membership
+Committees
+Call for Speakers
+Grow Your Career
+Job Board
+CPSM Certification
+Mentorship
+Scholarships
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+No meetings/events scheduled at this time.
+Connect
+Email
+info@smpsalaska.org
+© 2026 SMPS Alaska Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Alaska Chapter ID:
+Password:
+Forgot Username/Password?
+Waiting 27 seconds before the next chapter...
+
+Scraping: SMPS Arizona
+Loaded 78 lines from SMPS Arizona
+First 80 lines:
+SMPS Arizona Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Member Area
+Login
+Search
+Membership
+Membership
+Join SMPS Arizona
+Renew Your Membership
+Transfer Your Membership
+Update Your Contact Info
+Visit SMPS National Site
+Login to My.SMPS
+Events
+Local Events
+Presentation Opportunities
+Phelix Awards
+Southwest Regional Conference
+Amplify
+Get Involved
+Resources
+Mentorship Program
+Job Board
+Blog
+Software Training
+CPSM Certification
+Lending Library
+MySMPS
+Sponsor
+Contact
+About Us
+Board Members
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Questions about SMPS events?
+Email us!
+For Programs:
+programs@smpsarizona.org
+.
+For Marketing Council, Training, or Workshops:
+education@smpsarizona.org
+.
+Future Meetings
+Leverage Your Beverage: Bloom & Build Connections
+May 12, 2026
+3:30 PM to 5:00 PM
+Wonderfully Made Art Studio
+16420 N 92nd Street, Suite 100
+Scottsdale, AZ 85260
+A Networking Flower Arranging Event
+Register Now
+View Details ►
+Mission: Pursuit Possible
+May 28, 2026
+11:30 AM to 1:00 PM
+Kitchell
+1707 E Highland Ave
+Phoenix, AZ 85016
+Venue website
+Winning work isn’t accidental. It takes strategy, alignment, and the ability to pivot when it matters most.
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+subscribe
+© 2026 SMPS Arizona Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Arizona Chapter ID:
+Password:
+Forgot Username/Password?
+Waiting 31 seconds before the next chapter...
+
+Scraping: SMPS Ozarks
+Loaded 31 lines from SMPS Ozarks
+First 80 lines:
+SMPS Ozarks Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Member Area
+Login
+Search
+Home
+About Us
+Who We Are
+Sponsors
+News
+News
+Blog
+Calendar
+Join
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+No meetings/events scheduled at this time.
+Connect
+© 2026 SMPS Ozarks Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Ozarks Chapter ID:
+Password:
+Forgot Username/Password?
+Waiting 28 seconds before the next chapter...
+
+Scraping: SMPS Inland Empire
+Loaded 59 lines from SMPS Inland Empire
+First 80 lines:
+SMPS Inland Empire - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About
+Board of Directors
+SMPS Headquarters
+Contact Us
+Programs
+Calendar
+Previous Events
+Conferences
+Photo Gallery
+Join
+Member Benefits
+Firm Benefits
+Join Now
+Get Involved
+Join a Committee
+Join the Board of Directors
+Speak at an Event
+CPSM Certification
+Join Our Mailing List
+Sponsors
+Become a Sponsor
+Blog
+Blog Archives
+Resources
+Library
+Links
+My SMPS
+Job Posting
+Meeting Information
+Future Meetings
+Previous Meetings
+Programs
+Calendar
+Previous Events
+Conferences
+Quick Links
+About Us
+Calendar of Events
+Classified Job Listing
+Sponsors
+Future Meetings
+CX Bootcamp
+May 14, 2026
+9:00 AM to 4:00 PM
+DoubleTree by Hilton Hotel Ontario Airport
+222 North Vineyard Ave
+Ontario, CA 91764
+The SMPS CX Experience Workshop, developed in partnership with SMPS HQ and informed by SMPS Foundation research, provides practical tools to help professionals lead CX efforts within their firms.
+Read More
+Follow Us
+Join Our Mailing list
+Subscribe
+© 2026 SMPS Inland Empire All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+Waiting 23 seconds before the next chapter...
+
+Scraping: SMPS Los Angeles
+Loaded 87 lines from SMPS Los Angeles
+First 80 lines:
+SMPS Los Angeles - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About Us
+Chapter Bylaws
+Mission & Vision
+Board of Directors
+Past Presidents
+Committees
+Announcements
+Engage
+Upcoming Events
+Calendar
+Past Events
+Photo Gallery
+Pacific Regional Conference
+Amplify A|E|C
+THE LEONARDO ANNUAL AWARD PROGRAM
+Advance
+Careers
+CPSM Certification
+Mentorship Program
+CPSM Study Group
+Marketing Communications Awards
+Connect
+Contact Us
+Join SMPS
+Join A Committee
+Member Testimonials
+Sponsors
+Sponsorships
+Leonardo Awards Ceremony Sponsorships
+SMPS Online Store
+Meeting and Event Information
+Future Meetings and Events
+Previous Meetings and Events
+Quick Links
+About Us
+Calendar of Events
+Join Our Mailing List
+Future Meetings and Events
+SMPS/LA Director's Guild
+May 07, 2026
+8:00 AM PDT to 9:30 AM PDT
+Yazdani Studio of CannonDesign
+444 South Flower Street, 47th Floor
+Los Angeles, CA 90071
+The Director’s Guild is a peer mastermind group tailored to senior marketing, business development, and seller-doer professionals to create a support forum for SMPS/LA members experiencing similar business challenges, issues, opportunities, or goals.
+Read More
+Register Now
+WEBINAR REPLAY: AEC.AI Masterclass Series: Practical Magic: AI 101, How to Start, Where to Focus, What to Avoid
+May 13, 2026
+11:00 AM PDT to 12:30 PM PDT
+Webinar
+AI strategist Kristin Kautz explains AI basics, practical AEC use cases, and a clear framework for responsible adoption in marketing and business development.
+Read More
+Register Now
+Hollywood Forever Mausoleum Tour & Discussion with Michael B. Lehrer, FAIA
+May 20, 2026
+5:00 PM PDT to 7:00 PM PDT
+Hollywood Forever Cemetery
+6000 Santa Monica Blvd.
+Los Angeles, CA 90038
+Venue website
+Join us for an Evening with The Stars!  Michael B. Lehrer, FAIA will guide a tour and discussion of the Hollywood Forever Mausoleum - followed by a rooftop cocktail hour.
+Read More
+Register Now
+An Afternoon at Hollyhock House with SMPS/LA
+May 23, 2026
+12:30 PM PDT to 1:30 PM PDT
+Hollyhock House
+4800 Hollywood Boulevard
+Hollywood, CA 90027
+Venue website
+An exclusive SMPS/LA visit to Hollyhock House at Barnsdall Art Park. The experience includes a 20 minute guided exterior tour led by an expert docent, with time to explore the interior at your own pace afterward.
+Read More
+Register Now
+Follow us
+Join our mailing list
+Subscribe
+Waiting 32 seconds before the next chapter...
+
+Scraping: SMPS Orange County
+Loaded 59 lines from SMPS Orange County
+First 80 lines:
+SMPS Orange County - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+SMPS-OC
+About SMPS-OC
+Leadership
+Committees
+Past Presidents
+Photo Gallery
+Join
+Join SMPS
+Membership
+Membership Renewal
+Member Area Login
+Membership Appreciation Awards
+Students
+Events
+Upcoming Events
+Calendar
+News
+Grow
+Career Opportunities
+Education
+CPSM
+Library
+CPSM Regional Study Group
+Mentorship
+Peer-to-Peer (P2P) Program
+Scholarships
+Fellow
+Sponsorship
+Sponsors
+Sponsorship Opportunities
+Contact Us
+Contact Us
+Connect
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+Caffeinate & Connect with SMPS OC
+May 19, 2026
+8:30 AM to 9:30 AM (Pacific Time)
+W.E. O'Neil Construction
+2100 Main Street, Suite 300
+Irvine, CA 92614
+Venue website
+Wake up, grab a cup, and power up your SMPS journey!
+Register Now
+View Details ►
+© 2026 SMPS Orange County All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS ID or Email:
+Password:
+Forgot Username/Password?
+Waiting 37 seconds before the next chapter...
+
+Scraping: SMPS Sacramento
+Loaded 76 lines from SMPS Sacramento
+First 80 lines:
+SMPS Sacramento - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Member Area
+Sponsorship
+Career Opportunities
+Contact Us
+40th Anniversary
+SMPS Sacramento
+About SMPS
+Board of Directors
+Committee Leaders
+Annual Sponsors
+Newsletter
+Announcements
+Past Presidents
+Join
+Join SMPS
+Join a Committee
+Membership Renewal
+Member Login
+Participate
+Upcoming Events
+Event Registration List
+Calendar
+Photo Gallery
+Sponsorship Opportunities
+Call For Speakers
+Communications Request Form
+Grow
+Career Opportunities
+Mentoring Pathways
+Member - Marketing Resource Center
+CPSM Certifications
+Member Login
+Connect
+MySMPS
+Contact Us
+Call for Speakers
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+4th Annual SMPS & AMA - Sip & Swing | May 7th  @ 4PM
+May 07, 2026
+4:00 PM to 6:30 PM
+Haggin Oaks Golf Complex
+3645 Fulton Ave.
+Sacramento, CA 95821
+Join us for the 4th Annual Sip & Swing!
+Register Now
+View Details ►
+Build Personal Professional Brand! Registration & Sponsorships are open!
+May 21, 2026
+8:00 AM to 11:30 AM
+SRBX
+5370 Elvas Ave
+Sacramento, CA 95819
+Be known for what you want to be known for - on purpose!
+View Details ►
+Thank you to our industry partners for your support:
+Connect
+Join our Mailing list
+Subscribe
+© 2026 SMPS Sacramento All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+×
+Member Login
+Members Log In
+SMPS Sacramento ID:
+Password:
+Forgot Username/Password?
+Waiting 30 seconds before the next chapter...
+
+Scraping: SMPS San Diego
+Loaded 71 lines from SMPS San Diego
+First 80 lines:
+SMPS San Diego - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Join Our Mailing List!
+Member Area
+Login
+Search
+About
+Who We Are
+Leadership
+Contact Us
+Attend
+Upcoming Events
+Calendar
+Palm Awards
+Join
+Why Join?
+Student Membership
+Member Area
+Grow
+Job Bank
+CPSM Study Group
+Lessons in Leadership
+Sponsor
+Our Sponsors
+Become a Sponsor
+News
+Meeting Information
+Future Meetings
+Previous Meetings
+Refund Policy:
+Refund requests must be received at least 48 hours prior to the event. No refunds can be given with less than 48-hour notice. No shows will be charged.
+Future Meetings
+From Tools to Mastery Session 4 | Content That Works Harder: Repurposing and Amplifying Your Message
+May 13, 2026
+8:00 AM to 9:30 AM
+Whiting-Turner San Diego
+3911 Sorrento Valley Blvd #100
+San Diego, CA 92121
+Learn how to transform one piece of content into multiple high-impact assets that save time, reinforce consistency, and amplify your message across channels.
+Register Now
+View Details ►
+Built for Sports
+May 14, 2026
+8:00 AM to 10:00 AM
+Skybox, DiamondView Tower, 15th Floor
+350 Tenth Ave
+San Diego, CA 92101
+From stadiums to recreational facilities, sports projects are shaping San Diego’s growth. Learn how these developments drive economic impact and where AEC professionals can connect, contribute, and compete.
+Register Now
+View Details ►
+May Principals Roundtable | Navigating AI Policies: Guardrails for Innovation
+May 20, 2026
+7:30 AM to 9:00 AM
+Geosyntec Consultants
+13400 Sabre Springs Pkwy, Suite 135
+San Diego, CA, CA 92128
+Venue website
+Join 20 of us for a Principals Roundtable discussion on the best practices for developing and implementing AI policies within the AEC industry.
+Register Now
+View Details ►
+Connect
+© 2026 SMPS San Diego All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS San Diego ID:
+Password:
+Forgot Username/Password?
+Waiting 27 seconds before the next chapter...
+
+Scraping: SMPS San Francisco
+Loaded 162 lines from SMPS San Francisco
+First 80 lines:
+SMPS San Francisco Bay Area Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About Us
+About Us
+Board of Directors
+Nominations and Elections
+Committees
+Contact Us
+SMPS Policies
+Events
+Calendar
+Events
+Regional Events
+Topaz Awards
+NextGen Academy
+Get Involved
+Volunteer Opportunities
+Students
+Business Leaders Forum
+Emerging Leaders Forum
+Buddy Program
+Mentoring Pathways
+CPSM Study Group
+Member Perks
+Why Join SMPS
+Member Resources
+Member Area
+Sponsorships
+Sponsorships
+Current Sponsors
+Jobs
+Post a Job
+Current Opportunities
+Current Internships
+Post An Internship
+News
+The Shortlist
+Subscribe
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+About Us
+Calendar of Events
+Chapter Leadership
+Join Now
+Meeting/Event Information
+Future Meetings
+Volunteer Drive - SF Giants Game
+May 05, 2026
+6:45 PM - 9:00 PM
+Oracle Park - SF Giants
+24 Willie Mays Plaza
+San Francisco, CA 94107
+https://www.mlb.com/giants/ballpark
+This special volunteer drive event at the San Francisco Giants game is for individuals who are interested in becoming active SMPS volunteers. Attendance is limited and reserved for those who are serious about volunteering or are current, active volunteers
+Read More
+Register Now
+Senior Business Leaders Forum 2026
+May 08, 2026
+8:30 AM
+TBD
+As an award-winning, SMPS members-only program, the Senior Business Leaders' Forum is designed for members who are in senior marketing and business development positions who are seeking a peer-based learning experience. Members share successful (and not s
+Read More
+Register Now
+NextGen Academy
+May 13, 2026
+8:30 AM - 5:30 PM
+Mosaic at Embarcadero Center
+Three Embarcadero, Lobby Level
+San Francisco, CA
+https://meetatmosaic.com
+Registration Open for NextGen Academy, a one-day, in-person program designed for emerging AEC marketing and business development professionals. Join us in Downtown San Francisco on May 13 for a day of learning, skill-building, and meaningful peer connect
+Read More
+Register Now
+The Resilient Playbook: Why Human Connection Still Wins
+May 20, 2026
+12:00 PM - 1:00 PM
+Zoom Webinar
+This panel of SMPS Fellows will explore how trust-based relationships drive modern business development, helping firms transcend traditional roles to become true strategic partners.
+Waiting 24 seconds before the next chapter...
+
+Scraping: SMPS Colorado
+Loaded 270 lines from SMPS Colorado
+First 80 lines:
+Society for Marketing Professional Services Colorado
+Search
+Member Login
+Home
+Events
+Calendar
+Marketing Excellence Awards
+SMPS Colorado Leonardo Award
+Education
+Educational Opportunities
+One2One Mentoring Program
+Monthly Luncheons
+CPSM Program
+Membership
+How to Join / Renew / Update
+Member Area
+My SMPS Community
+Career Center
+Post a Job
+Resources, News & Links
+Sponsorship
+Current Sponsors
+Sponsorship Opportunities
+Proposal Engine
+Community Outreach
+Professional Development Scholarship
+Member Assistance
+Student Membership Scholarships
+SMPS Foundation
+Blog
+Blog
+Newsletter
+About Us
+About Us
+Board of Directors
+Committees
+SMPS Colorado FAQ
+Search
+Member Login
+Home
+Events
+Calendar
+Marketing Excellence Awards
+SMPS Colorado Leonardo Award
+Education
+Educational Opportunities
+One2One Mentoring Program
+Monthly Luncheons
+CPSM Program
+Membership
+How to Join / Renew / Update
+Member Area
+My SMPS Community
+Career Center
+Post a Job
+Resources, News & Links
+Sponsorship
+Current Sponsors
+Sponsorship Opportunities
+Proposal Engine
+Community Outreach
+Professional Development Scholarship
+Member Assistance
+Student Membership Scholarships
+SMPS Foundation
+Blog
+Blog
+Newsletter
+About Us
+About Us
+Board of Directors
+Committees
+SMPS Colorado FAQ
+Society for Marketing Professional Services Colorado
+Prev Month
+View Month
+Search
+Go to Month
+Next month
+January
+Waiting 26 seconds before the next chapter...
+
+Scraping: SMPS Connecticut
+Loaded 89 lines from SMPS Connecticut
+First 80 lines:
+SMPS Connecticut, Inc. - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Member Area
+Login
+Search
+Home
+About Us
+Leadership
+Newsletter
+Join
+Benefits
+Marketers
+Business Developers
+Firm Leaders
+Technical Professionals
+Students
+Apply
+Attend
+Upcoming Events
+Regional Conference
+Event Photos
+Engage
+Volunteer Opportunities
+Committees
+Call for Speakers
+Member Directory
+Grow
+Job Bank
+Mentorship
+CPSM Certification
+Diversity, Equity, and Inclusion
+Lending Library
+Blog
+Sponsors
+About Our Sponsors
+Become A Sponsor
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Meeting Categories
+Programs
+Education Workshops
+Mentorship Cohorts
+DEI Trainings
+Socials
+Meetings
+Future Meetings
+Using AI to Streamline Process Webinar
+May 06, 2026
+1:00 PM EDT to 2:00 PM EDT
+Virtual Program
+Registrants will receive the access link in the bottom section of their registration confirmation email, and a reminder email the morning of the virtual program.
+Thinking outside the prompt. Using AI to streamline marketing processes with real-time demos.
+View Details ►
+SMPS CT Spring Social: Member Appreciation Night
+May 28, 2026
+4:30 PM EDT to 7:30 PM EDT
+Revolutions Bowling & Lounge
+60 Bidwell Road
+South Windsor, CT 06074
+Venue website
+Let the Good Times Roll! Celebrate with us as we welcome new members, reconnect with colleagues, and recognize our amazing volunteers—all while enjoying bowling, food, and great company!
+Register Now
+View Details ►
+Diversified Client Panel & Annual Meeting
+June 17, 2026
+11:30 AM EDT to 2:30 PM EDT
+Farmington Gardens
+999 Farmington Ave
+Farmington, CT 06032
+Venue website
+Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS Connecticut, Inc. All rights reserved.
+Waiting 40 seconds before the next chapter...
+
+Scraping: SMPS Washington, DC
+Loaded 87 lines from SMPS Washington, DC
+First 80 lines:
+SMPS Washington, DC - Events
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Search
+Advance
+Grow with SMPS
+CPSM
+Jobs
+Grants
+Awards / Recognition
+Join
+Join Now
+Membership
+Committees
+Become a Volunteer
+Engage
+About Our Events
+Events
+Signature Series
+Member Engagement Path
+Explore
+News and Insights
+Board of Directors
+Explore the AEC Industry
+Contact
+Support
+Brand Awareness
+Sponsors
+Become a Sponsor
+Event Information
+Future Events
+Previous Events
+View Attendee Lists
+Events
+Best practices, networking, industry education – our carefully crafted events check more boxes than an SF 330.
+Never off-the-shelf, always custom-made, our events are designed for immediate implementation, maximum impact, and lasting effect. We offer our members opportunities to learn from the best in the business in an intimate setting. Scroll through the list of upcoming events to find out how we can help you do work, better.
+Conflicting Well: Approaching Workplace Conflict with Intention and Purpose
+May 14, 2026
+3:30 PM to 5:30 PM
+HGA Architects Office
+1025 F Street NW, Suite 250
+Washington, DC  20004
+Participants will use the Thomas-Kilmann conflict model to recognize their own conflict styles; explore how to intentionally align styles and situations; and gain insight into managing the stress of conflict.
+Register Now
+View Details ►
+The Pathway to Fellowship: Lessons from the Top
+June 04, 2026
+4:00 PM to 7:00 PM
+KTGY
+2001 K St NW #200
+Washington, DC 20006
+Join us for a panel of Chapter Fellows as they share their paths to Fellowship and discuss the experience, dedication, and qualifications behind one of the Society’s highest honors.
+Register Now
+View Details ►
+New & Prospective Member Breakfast
+June 09, 2026
+9:00 AM to 11:00 AM
+Deceder Group
+4401 Fairfax Dr
+Arlington, VA 22203
+New to SMPS or thinking about becoming a member? Join this complimentary program to meet current members and learn about membership benefits, resources offered, and ways to get involved.
+Register Now
+View Details ►
+NERC Notes & Nuggets: What You Missed (and What Matters)
+June 30, 2026
+4:00 PM to 6:00 PM
+SMPS Headquarters
+625 N Washington Street, Suite 302
+Alexandria, VA 22314
+Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.
+Register Now
+View Details ►
+Connect
+SMPS is dedicated to ensuring everyone feels welcome
+at all our events. Please get in touch with us regarding any
+accommodations needed for this event. This venue complies with ADA
+accessibility standards.
+© 2026 SMPS Washington, DC All rights reserved.
+Terms of Use
+Privacy Policy
+Waiting 30 seconds before the next chapter...
+
+Scraping: SMPS Central Florida
+Loaded 123 lines from SMPS Central Florida
+First 80 lines:
+SMPS Central Florida - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Home
+About
+About
+Board of Directors
+Awards
+Membership
+Past Presidents
+Diversity, Equity & Inclusion
+SMPS National
+Sponsors
+By-Laws
+Events
+Events
+Upcoming
+Past
+Photo Gallery
+Access executive summaries from our most recent events
+Events Calendar PDF
+Careers
+Education
+Education
+Lending Library
+Blog
+Certification
+Get Involved
+Get Involved
+Join a Committee
+Mentor/Protégé Program
+Micro-Volunteer Opportunities
+Join the Board of Directors
+Call for Speakers
+Members Only
+Members Only
+Log-in
+Member Directory
+Access executive summaries from our most recent events
+Event Attendee Lists
+Member Directory
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+«
+May 2026
+»
+S
+M
+T
+W
+T
+F
+S
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+Waiting 21 seconds before the next chapter...
+
+Scraping: SMPS North Florida
+Loaded 80 lines from SMPS North Florida
+First 80 lines:
+SMPS North Florida - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Home
+Member Area
+About Us
+About Us
+Board of Directors
+Past Presidents
+Calendar
+Join
+Committees
+Join SMPS
+Sponsors
+Sponsorship Opportunities
+Attend
+Upcoming Events
+Community Involvement
+Past Events
+Education
+CPSM Certification
+Education
+Job Postings
+View Jobs and Ads
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+Adobe Express Training for AEC Marketers
+May 06, 2026
+11:00 AM to 12:00 PM
+Virtual Meeting
+Venue website
+Julie Shaffer returns for the next session in our Adobe marketing tools series
+Register Now
+View Details ►
+It’s GAME TIME, Jacksonville!
+May 15, 2026
+7:00 PM to 9:30 PM
+VyStar Veterans Memorial Arena
+300 A Philip Randolph Blvd
+Jacksonville, FL 32202
+Join SMPS North Florida for the Jacksonville Waves home opener on Friday, May 15th at 7 PM!
+Register Now
+View Details ►
+Coffee Connections
+May 20, 2026
+8:30 AM to 9:30 AM
+Foxtail Coffee Co.
+2039 Hendricks Ave Unit 114
+Jacksonville, FL 32207
+Venue website
+Join us for a cup of coffee and casual networking!
+Register Now
+View Details ►
+Coffee Connections
+June 17, 2026
+8:30 AM to 9:30 AM
+Bold Bean Coffee Roasters - Jax Beach
+2400 3rd St S
+Jacksonville Beach, FL 32250
+Venue website
+Join us for a cup of coffee and casual networking!
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS North Florida All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS North Florida ID:
+Password:
+Forgot Username/Password?
+Waiting 38 seconds before the next chapter...
+
+Scraping: SMPS South Florida
+Loaded 72 lines from SMPS South Florida
+First 80 lines:
+SMPS South Florida - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About
+About Us
+Board of Directors
+Committees and Chairs
+Events
+Calendar
+Sponsorship Opportunities
+Regional Conferences
+Upcoming Events
+Past Events
+Photo Gallery
+Membership
+Benefits of Membership
+Join/Renew Membership
+CPSM Certification
+my SMPS
+SMPS National
+Member Area
+Jobs
+News
+Contact
+1
+2
+Previous
+Next
+Meeting Information
+Future Meetings
+Previous Meetings
+Refund Policy:
+Due to the contractual agreements and commitments we have with our vendors, we can no longer provide reimbursement or credit for missed or canceled attendance. You may, however, transfer your ticket to another representative or use if towards a future event.
+Future Meetings
+The Big Build: Honoring Public Works, Advancing Partnerships
+May 21, 2026
+11:15 AM to 2:00 PM
+Hollywood Beach Culture & Community Center
+1301 S. Ocean Drive
+Hollywood, FL 33019
+Venue website
+Join SMPS South Florida during National Public Works Week for The Big Build: Honoring Public Works, Advancing Partnerships
+Register Now
+View Details ►
+AIA-Accredited - Virtual Design Consulting: Bridging Innovation, Collaboration & Client Value
+May 27, 2026
+12:00 PM to 1:00 PM
+Virtual Meeting - Online
+Presented by Vilma Bartczak, Construction Materials Testing Department Manager - UES
+Register Now
+View Details ►
+Turning Chaos into Clarity, One Pursuit at a Time
+June 02, 2026
+2:00 PM to 4:00 PM
+Virtual Meeting - Online
+When an RFP drops without warning, it can feel like stepping through the looking glass—into a world of urgency, ambiguity, and pressure.
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS South Florida All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS South Florida ID:
+Password:
+Forgot Username/Password?
+Waiting 38 seconds before the next chapter...
+
+Scraping: SMPS Tampa Bay
+Loaded 122 lines from SMPS Tampa Bay
+First 80 lines:
+SMPS Tampa Bay - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Member Area
+Contact Us
+Login
+Search
+About Us
+About Us
+Board of Directors
+Past Presidents
+2024-2027 Strategic Plan
+Join
+Member Benefits
+Firm Benefits
+Join Now!
+Events
+Upcoming Events
+Calendar of Events
+Local Industry Calendars
+Photo Galleries
+Resources
+My SMPS
+SMPS National
+CPSM Certification
+SMPS Salary Survey
+Resources
+Jobs
+Sponsorship
+Sponsors
+Become a Sponsor
+News
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+SMPS & AIA Tampa Bay 16th Annual Healthcare Event (SOLD OUT)
+May 07, 2026
+8:00 AM to 12:00 PM
+Bryan Glazer Family JCC
+522 N. Howard Avenue
+Tampa, FL 33606
+The 16th Annual SMPS Tampa Bay and AIA Tampa Bay Healthcare Symposium is coming up on May 7th, and with so much at stake and changing in the industry, this year's discussion is set to be more important than ever!
+Register Now
+View Details ►
+Sponsorships: SMPS & AIA Tampa Bay 16th Annual Healthcare Event
+May 07, 2026
+8:00 AM to 12:00 PM
+Bryan Glazer Family JCC
+522 N. Howard Avenue
+Tampa, FL 33606
+Join the conversation for Tampa Bay's largest healthcare event!
+Register Now
+View Details ►
+Coffee and Connections – Tampa
+May 21, 2026
+8:30 AM to 9:30 AM
+Café Quiquiriqui
+1402 E 7th Ave
+Tampa, FL 33605
+Network over coffee!
+Register Now
+View Details ►
+Coffee and Connections – St. Pete
+May 21, 2026
+8:30 AM to 9:30 AM
+Pour and Decor
+2210 Central Ave
+St. Petersburg, FL 33712
+Network over coffee!
+Register Now
+View Details ►
+Coffee and Connections – Lakeland
+May 21, 2026
+8:30 AM to 9:30 AM
+Foxtail Coffee
+322 Kathleen Rd.
+Lakeland, FL 33815
+Network over coffee!
+Register Now
+Waiting 28 seconds before the next chapter...
+
+Scraping: SMPS Atlanta
+Loaded 100 lines from SMPS Atlanta
+First 80 lines:
+SMPS Atlanta - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+Events
+Calendar
+Event List
+Atlanta Industry Calendar
+Join
+Benefits of Membership
+Student Membership
+Become a Member
+Get Involved | Volunteer
+Award Programs
+Mentor/Protégé Program
+Resources
+CPSM Certification
+Jobs
+Videos & Webinars
+Scholarships
+mysmps.org
+SMPS Headquarters
+Sponsors
+2026 Sponsors
+Become a Sponsor
+News
+Latest News
+Photo Gallery
+About
+About SMPS
+Board Leadership
+Past Presidents Council
+Fellows Roster
+CPSM Roster
+Committees
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+About SMPS Atlanta
+SMPS Atlanta Calendar of Events
+Atlanta Industry Calendar of Events
+Future Meetings
+New Member Meetup - Spring Edition
+May 07, 2026
+5:00 PM to 7:00 PM
+DPR
+1885 Mitchell Road
+Mableton, GA 30126
+Join us to learn how SMPS Atlanta can help you Level Up as a new member – this is the year to grow bigger, bolder, and stronger alongside the best in AEC marketing.
+Read More
+Register Now
+SMPS Atlanta 2026 Annual Healthcare Symposium
+May 12, 2026
+7:30 AM to 10:00 AM
+City Springs
+1 Galambos Way
+Sandy Springs, GA 30328
+Georgia Healthcare Facilities: Growth, Impact, and Improved Outcomes
+Read More
+Register Now
+SMPS ATL LEVEL UP LIVE: Leverage Your Beverage: Members Only
+June 04, 2026
+5:00 PM to 7:00 PM
+Culinary Dropout Perimeter
+1231 Ashford Crossing | Building 900
+Atlanta, GA 30346
+Level Up your network at this exclusive, members-only happy hour, featuring great drinks, light bites, and a dynamic evening with fellow AEC marketing and business development professionals.
+Read More
+Register Now
+SMPS Atlanta MEGA Meeting 2026
+September 22, 2026
+10:30 AM to 1:30 PM
+City Springs Studio Theatre
+1 Galambos Way
+Sandy Springs, GA 30328
+Join us Tuesday, September 22 at Studio Theatre at City Springs for the 2026 MEGA Meeting, one of Georgia’s biggest AEC networking events with 200+ industry colleagues.
+Read More
+SMPS Fall 2026 Mentoring Reimagined
+October 01, 2026
+Waiting 27 seconds before the next chapter...
+
+Scraping: SMPS Hawaii
+Loaded 43 lines from SMPS Hawaii
+First 80 lines:
+SMPS Hawaii - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Home
+About Us
+Who We Are
+Board of Directors
+Photo Gallery
+Join
+Become a Member
+Join/Renew Membership
+Certified Professional Services Marketers (CPSM)
+Events
+Events
+Annual Pacific Regional Conference
+2026 Program Calendar
+Sponsors
+Our Current Sponsors
+Become a Sponsor
+Jobs
+Jobs
+Post a Job
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+No meetings/events scheduled at this time.
+Connect
+Join our mailing list
+subscribe
+© 2021 SMPS Hawaii. All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Admin
+×
+Member Login
+Members Log In
+SMPS Hawaii ID:
+Password:
+Forgot Username/Password?
+Waiting 22 seconds before the next chapter...
+
+Scraping: SMPS Idaho
+Loaded 60 lines from SMPS Idaho
+First 80 lines:
+SMPS Idaho - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About
+Who We Are
+Board of Directors
+FAQ
+Programs
+Membership
+Sponsorship
+Sponsorship Opportunities
+Resources
+Information
+Job Board
+From SMPS HQ
+CPSM Certification
+MySMPS
+Blog
+Contact
+Programs
+Programs
+Programs
+Previous
+Next
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+How AI is Rewriting Business Development & How to Take Advantage of This Shift
+May 27, 2026
+2:00 PM to 3:00 PM
+Virtual Meeting (a calendar invitation with a link will be sent to all registrants)
+Please join us for this upcoming virtual program!
+Register Now
+View Details ►
+Energy in Idaho: Where We Are & Where We're Going
+June 24, 2026
+11:30 AM to 1:00 PM
+CSHQA
+200 Broad Street
+Boise, ID 83702
+Venue website
+Join us for the Energy in Idaho panel!
+Register Now
+View Details ►
+Connect
+Email
+info@smpsidaho.org
+© 2026 SMPS Idaho All rights reserved.
+Join Our Mailing List
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Idaho ID:
+Password:
+Forgot Username/Password?
+Waiting 22 seconds before the next chapter...
+
+Scraping: SMPS Chicago
+Loaded 64 lines from SMPS Chicago
+First 80 lines:
+SMPS Chicago - Upcoming Events
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+Home
+Reward
+The EMAs
+Fellows Recognition Program
+Windmill Award (2009-2012)
+Join
+Membership Benefits
+Membership Application
+MySMPS.org
+Get the Most Out of mySMPS.org
+Inspire
+Advocacy
+Attend
+Upcoming Events
+Sponsoring Events
+Photo Galleries
+Conferences
+Events Archive
+Learn
+Program Recaps & Materials
+CPSM Certification
+Newsletters and President’s Letters
+Chapter History
+Engage
+Sponsors
+Leadership & Committees
+Sponsorship Opportunities
+Job Bank
+SMPS Chicago Blog
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Attend
+Events Archive
+Conferences
+Photo Galleries
+Sponsoring Events
+Upcoming Events
+Quick Links
+About Us
+SMPS Chicago Recruitment Video
+Calendar of Events
+SMPS Chicago FAQ
+Facebook
+LinkedIn
+SMPS Chicago Committee Members
+No meetings/events scheduled at this time.
+Platinum Sponsors
+Gold Sponsors
+Silver Sponsors
+Follow us
+Join our mailing list
+Subscribe
+© 2026 SMPS Chicago All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+Waiting 30 seconds before the next chapter...
+
+Scraping: SMPS Indiana
+Loaded 88 lines from SMPS Indiana
+First 80 lines:
+SMPS Indiana - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About Us
+About
+Board
+Committees
+SMPS Indiana Past Presidents List
+Events
+Upcoming Events
+Calendar
+Event Photos
+Membership
+Sponsors
+News
+SMPS INFORM
+Job Postings
+Resources
+Resource List
+Strategic Plan 2024-26
+SMPS HQ
+MySMPS
+SMPS Member Benefits
+HQ Complimentary Content
+Regional Mentorship Program Payment
+Member Area
+Connect
+Join Our Mailing List
+Subscribe
+UPCOMING EVENTS
+SMPS Indiana is committed to making our programs accessible— please let us know your needs in advance, and we’ll do our best to accommodate them.
+Unlocking the Atomic Potential of Your Strategic Plan
+May 05, 2026
+1:00 PM to 2:30 PM
+Virtual webinar w/optional satellite "watch party" locations at CC Brandt in Indy and Lochmueller Group in Southern Indiana
+Explore missteps firm leaders make when developing their plan and what Marketing & BD can do to ensure a successful one is developed the next time around.
+View Details ►
+Speedway Social Networking Lunch
+May 13, 2026
+11:30 AM to 2:00 PM
+Big Woods Speedway
+Our popular networking lunch in Speedway is back! Stop by and enjoy pizza and a drink right by the track.
+View Details ►
+Register Now
+GEO Workshop - How AI is Rewriting Business Development
+June 04, 2026
+1:00 PM to 2:30 PM
+Online Webinar
+This session will explain how AI-driven search and answer engines interact with websites.
+View Details ►
+Register Now
+Connections Unleashed - A Pet-friendly Networking Happy Hour
+June 25, 2026
+3:00 PM to 5:00 PM
+Metazoa Brewing Co.
+Unwind with SMPS Indiana at a fun-filled happy hour at Metazoa Brewing. A perfect chance to connect, relax, and make new friends, both two-legged and four-legged!
+View Details ►
+Register Now
+Thinking Like an Executive: How to Influence Strategy, Earn Trust, and Drive Growth
+August 13, 2026
+3:30 PM to 5:00 PM
+TBD
+Learn how to translate your marketing and business development insights into the language executives act on.
+View Details ►
+Register Now
+Hot Takes and Hot Coffee
+August 27, 2026
+8:00 AM to 10:00 AM
+The Coffee Haus @ Guggman
+Hot Takes & Hot Coffee returns with a new set of conversation starters focused on the realities of today’s marketing and BD teams.
+View Details ►
+Register Now
+Additional Event Information
+View Current Registrants
+Future Events
+SMPS Indiana is committed to making our programs accessible— please let us know your needs in advance, and we’ll do our best to accommodate them.
+© 2026 SMPS Indiana All rights reserved.
+Terms of Use
+SMPS HQ
+Job Postings
+Member Area
+Waiting 15 seconds before the next chapter...
+
+Scraping: SMPS Wichita
+Loaded 54 lines from SMPS Wichita
+First 80 lines:
+Upcoming Events - SMPS Wichita
+Home
+Events
+Events
+SMPS MVRC
+News
+Sponsors
+Sponsors
+Download Sponsorship Opportunities
+About
+About
+Wichita Chapter Directory
+Chapter Board Members
+Join
+Contact
+My SMPS
+Click to open the search input field
+Click to open the search input field
+Search
+Menu
+Menu
+Link to X
+Link to Facebook
+Link to LinkedIn
+Link to Mail
+Link to Youtube
+Events
+Browse our chapter events, conferences, workshops, professional development, and more.
+The New AEC Playbook for Trade Shows
+May 13 @ 11:30 am
+-
+1:00 pm
+114 N Wabash Ave
+114 N Wabash Ave
+Wichita
+,
+KS
+67214
+United States
++ Google Map
+The New AEC Playbook for Trade Shows Fireside Chat with Stacy Edmundson, Red Door Three Join SMPS Wi...
+View Details
+Here are our tentatively scheduled programs for the first half of 2021!
+Sign Up to Receive Our Event Notices via Email
+View Past Events
+© Copyright - SMPS Wichita | P.O. Box 1319 | Wichita, KS 67201-1319
+Link to X
+Link to Facebook
+Link to LinkedIn
+Link to Mail
+Link to Youtube
+Scroll to top
+Scroll to top
+Scroll to top
+Waiting 39 seconds before the next chapter...
+
+Scraping: SMPS Kentucky
+Failed to load SMPS Kentucky: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://smpskentucky.starchapter.com/meetinginfo.php?cat=ALL", waiting until "domcontentloaded"
+
+Waiting 40 seconds before the next chapter...
+
+Scraping: SMPS Southeast Louisiana
+Loaded 52 lines from SMPS Southeast Louisiana
+First 80 lines:
+SMPS Southeast Louisiana Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About Us
+Board of Directors
+Committees
+Past Presidents
+Chapter History
+Membership
+Join
+Member Area
+Mentor Program
+Events
+SeLA Events
+Making Big Moves
+Southern Regional Conference
+Photo Galleries
+Sponsorship
+Resources
+Classified Job Listing
+Newsletters
+CPSM Certification
+My SMPS
+Chapter Awards
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+AEC Against Humanity Happy Hour
+May 20, 2026
+4:30 PM CDT to 6:30 PM CDT
+Bayou Beer Garden
+326 N Norman C Francis Parkway
+New Orleans, LA 70119
+https://bayoubeergarden.com/
+Laid-back evening of drinks, laughs, and a little friendly competition at Bayou Beer Garden.
+Register Now
+View Details ►
+Connect
+© 2026 SMPS Southeast Louisiana Chapter All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+×
+Member Login
+Members Log In
+SMPS Southeast Louisiana Chapter ID:
+Password:
+Forgot Username/Password?
+Waiting 38 seconds before the next chapter...
+
+Scraping: SMPS Northern New England
+Loaded 46 lines from SMPS Northern New England
+First 80 lines:
+SMPS Northern New England - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About Us
+About
+Member Directory
+Board of Directors
+Join
+Join Us
+Join SMPS
+Events
+Future Events
+Past Events
+Calendar of Events
+Sponsorship
+Sponsorship
+Corporate Sponsorships
+Event Sponsorships
+Careers
+Job Opportunities
+Contact
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+Spring Spritz Social!
+May 06, 2026
+4:00 PM to 7:00 PM
+Après
+148 Anderson Street
+Portland, ME 04101
+Join us at Après in Portland!
+Register Now
+View Details ►
+Connect
+© 2026 SMPS Northern New England All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Northern New England ID:
+Password:
+Forgot Username/Password?
+Waiting 27 seconds before the next chapter...
+
+Scraping: SMPS Maryland
+Loaded 90 lines from SMPS Maryland
+First 80 lines:
+SMPS Maryland - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About
+About the Chapter
+Board of Directors
+Committees
+Past Presidents & Senior Advisory Council
+2025-2030 Strategic Plan
+Programs & Events
+Programs & Events
+Chapter Awards
+Key Awards
+Key Awards Payment
+Community Involvement
+Membership
+Member Area
+Member Login
+Update My Profile
+View My Orders
+Pay My Balance
+Renew Membership
+Resources
+Scholarships
+CPSM
+Job Bank
+Sponsorship
+Sponsors
+Become a Sponsor
+Become a Sponsor of GROW
+Contact
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Previous
+Next
+Event Information
+Future Events
+Previous Events
+View Attendee Lists
+Future Event(s)
+Rash Field Phase 2 Hard Hat Tour + Waterfront Happy Hour
+May 28, 2026
+4:00 PM to 6:30 PM
+Rash Field - Baltimore Inner Harbor
+201 Key Highway
+Baltimore, MD 21230
+Venue website
+Proudly sponsored by Mahan Rykiel Associates, go behind the scenes of Baltimore’s Rash Field redevelopment with a guided hard hat tour, followed by waterfront networking with the project team.
+Register Now
+View Details ►
+The Art of Connection: SMPS Maryland Summer Social at the Baltimore Museum of Art
+June 10, 2026
+5:00 PM to 7:00 PM
+Gertrude's at the Baltimore Museum of Art
+10 Art Museum Drive
+Baltimore, MD 21218
+Venue website
+Join SMPS Maryland for a creative summer evening at the Baltimore Museum of Art featuring art inspired networking, raffle baskets, and meaningful connections in a one-of-a-kind setting!
+Register Now
+View Details ►
+Lead with Intention, Deliver with Impact:  A Four-Part Leadership Series for A/E/C Marketing & Business Development Professionals
+June 24, 2026
+8:30 AM to 11:00 AM
+ECS Mid-Atlantic, LLC
+1340 Charwood Road, Suite #A
+Hanover, MD 21076
+A high-impact, cohort-based leadership experience designed to help A/E/C marketers and business developers lead with clarity, confidence, and measurable results.
+Register Now
+View Details ►
+Connect
+Join our List
+© 2026 SMPS Maryland All rights reserved.
+Waiting 36 seconds before the next chapter...
+
+Scraping: SMPS Boston
+Loaded 106 lines from SMPS Boston
+First 80 lines:
+SMPS Boston Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Join Our Mailing List
+Home Page
+Member Area
+Login
+Search
+Join
+Why Join
+Member Application
+Get Involved
+Join a Committee
+Events
+Upcoming Events
+Past Events
+Signature Events
+Scholarships
+Annual Awards
+Annual Awards
+Past Award Winners
+Career
+Job Openings
+Mentorship Program
+CPSM Certification
+Fellowship Information
+Blog
+Sponsors
+Our Sponsors
+Sponsor Opportunities
+About
+About SMPS Boston
+Board Leadership
+Strategic Plan 2025 - 2028
+Advisory Board
+Contact
+Bylaws
+Member Area
+Member Login
+Update My Profile
+Member Directory
+Pay My Balance
+Renew Membership
+Member Resource Library
+Event Information
+Future Events
+Past Events
+Upcoming Events
+Proposal Swap: Elevate Your Submissions with Insider Feedback
+May 14, 2026
+8:30 AM to 11:00 AM
+STV One Financial Center
+One Financial Center, 8th Floor
+Boston, MA 02111
+Seize the opportunity to step inside the decision-making process and learn what truly sets winning proposals apart.
+Register Now
+View Details ►
+All Aboard! Developing an Effective Marketing Training Program (CPSM Only Webinar and Discussion)
+May 14, 2026
+4:00 PM to 6:30 PM
+HLB Lighting Design
+200 State Street, Suite 325
+Boston, MA 02109
+Join SMPS Boston for a CPSM-only event featuring “All Aboard! Developing an Effective Marketing Training Program.” Learn how to move beyond ad hoc training and build structured programs that improve team performance, confidence, and results.
+Register Now
+View Details ►
+New & Prospective Member Orientation
+May 21, 2026
+5:30 PM to 6:30 PM
+Annum Architects
+40 Broad Street, Suite 102
+Boston, MA 02109
+Venue website
+Are you new to SMPS Boston or looking to become a member? Join us for an informational session on SMPS Boston’s purpose, what we offer, and how to capitalize on your membership.
+Register Now
+View Details ►
+SMPS Boston Annual Awards Gala
+June 04, 2026
+5:30 PM to 9:30 PM
+City Winery
+80 Beverly St.
+Waiting 25 seconds before the next chapter...
+
+Scraping: SMPS Southeast Michigan
+Loaded 82 lines from SMPS Southeast Michigan
+First 80 lines:
+SMPS Southeast Michigan - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About Us
+President's Message
+Who We Are
+Board of Directors
+Call for Nominations 2025
+Committees
+Chapter Bylaws
+Member Firms
+2022-2025 Strategic Plan
+Newsletter Archives
+Become a Sponsor
+Purchase Sponsorship Online!
+2026 Sponsorship Brochure
+Membership
+Events
+Upcoming Events
+Event Registration List
+Become a CPSM!
+CPSM Certification
+CPSM Study Group
+Career Center
+Awards
+Shop Our Store
+Previous
+Next
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+CPSM Certification
+Calendar of Events
+Please Note:
+In order to provide our members with the highest quality programs and events, it is necessary to have accurate attendance numbers when scheduling speakers and securing venues. For this reason, no refunds are offered for cancellations, including if the event is rescheduled. However, you may send an alternate to the event at no additional charge. Reach out to us at
+programs@smps-southeastmichigan.org
+for name changes or questions.
+Future Meetings
+AI and A/E/C: From Curious to Capable
+May 14, 2026
+2:30 PM to 5:00 PM
+Pop's for Italian
+280 W Nine Mile Rd
+Ferndale, MI 48220
+https://www.popsforitalian.com/
+Stop experimenting. Start implementing.
+Register Now
+View Details ►
+Spring Appreciation & Networking Event
+May 28, 2026
+4:30 PM to 7:30 PM
+Mother Handsome
+14661 W Eleven Mile Rd Ste 500
+Oak Park, MI 48237
+https://motherhandsome.com/
+Member Appreciation Event
+Register Now
+View Details ►
+*NEW DATE*  Tours & Toasts
+June 17, 2026
+3:00 PM to 7:00 PM
+Southeast Michigan Psychiatric Hospital
+18471 Haggerty Road
+Northville Township, MI 48168
+Join us for an exclusive behind-the-scenes look at the Southeast Michigan Psychiatric Hospital—a project redefining behavioral healthcare in our region.
+Register Now
+View Details ►
+Connect
+Signup to Stay in Touch
+Subscribe
+© 2026 SMPS Southeast Michigan All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Site Map
+Admin
+×
+Member Login
+Members Log In
+E-mail:
+Waiting 28 seconds before the next chapter...
+
+Scraping: SMPS West Michigan
+Loaded 56 lines from SMPS West Michigan
+First 80 lines:
+SMPS West Michigan - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Home
+About
+Who We Are
+Board of Directors
+Diversity, Equity, and Inclusion
+SMPS National
+Events
+Events
+Speakers
+Volunteer
+Join
+Membership
+Renew Membership
+Sponsors
+Current Sponsors
+Sponsorship Opportunities
+Member Area
+Member Login
+Update My Profile
+View My Orders
+Pay My Balance
+Renew Membership
+Jobs Board
+Swag Store
+Contact
+Meeting Information
+Future Meetings
+Previous Meetings
+Calendar
+Future Meetings
+SMPS WM Spring Happy Hour - Sponsored by Rockford!
+May 12, 2026
+4:00 PM EDT to 6:00 PM EDT
+Silva
+975 Ottawa Ave NW
+Grand Rapids, MI 49503
+Join us for a happy hour + facility tour of Silva!
+Register Now
+View Details ►
+Connect
+Phone
+(734) 645-4041
+© 2026 SMPS West Michigan All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS West Michigan ID:
+Password:
+Forgot Username/Password?
+Waiting 37 seconds before the next chapter...
+
+Scraping: SMPS Twin Cities
+Loaded 86 lines from SMPS Twin Cities
+First 80 lines:
+Society for Marketing Professional Services - Twin Cities Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Member Area
+Contact Us
+Login
+Search
+About Us
+Join Us
+Board of Directors
+Domains of Practice
+Get Involved
+Sponsor
+Exhibitor Opportunities
+Committees
+Get Certified
+Events
+Events
+Resources
+Contact Us
+Blog
+Job Board
+Subscribe
+Industry
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+The Science of Influence: Behavioral Economics for Stronger Client Connections
+May 07, 2026
+8:30 AM to 10:30 AM
+Barr Engineering
+4300 Marketpoint Drive, Suite 200
+Minneapolis, MN 55435
+https://www.barr.com/
+Why do people choose one firm over another—and what truly drives their decisions? In this engaging and practical session, Holly Bolton, FSMPS, CPSM, will translate key behavioral science principles into real-world strategies tailored for architecture, eng
+Register Now
+View Details ►
+HALL & NOTES: A Unique Opportunity for Networking + Professional Growth
+May 13, 2026
+8:30 AM to 10:00 AM
+DLR Group
+520 Nicollet Mall, STE 200
+Minneapolis, MN 55402
+https://www.dlrgroup.com/office-location/minneapolis/
+Join SMPS-TC for coffee, conversation, and connection at DLR Group in Minneapolis!
+Register Now
+View Details ►
+The Art of Interview Prep and Coaching
+June 03, 2026
+8:30 AM to 11:00 AM
+Wilder Center
+451 Lexington Parkway N
+St. Paul, MN 55104
+https://www.wilder.org/
+You've built the proposal and landed the shortlist—now comes the interview. Prepping a team can feel like herding cats, but with the right approach, it becomes a chance to showcase strengths and win the work.
+Register Now
+View Details ►
+SMPS TC - MEMBER APPRECIATION EVENT
+June 17, 2026
+3:00 PM to 5:00 PM
+Color Me Mine
+7453 France Avenue South
+Edina, MN 55435
+https://edina.colormemine.com/
+Celebrate summer and connect with your fellow SMPS members at our Member Appreciation Event on June 17 at Color Me Mine in Edina!
+Register Now
+View Details ►
+Connect
+Email
+info@smps-tc.org
+Join Our Mailing List
+subscribe
+© 2026 Society for Marketing Professional Services - Twin Cities Chapter All rights reserved.
+Sponsor
+Events
+Contact
+Terms of Use
+Privacy Policy
+Admin
+Waiting 19 seconds before the next chapter...
+
+Scraping: SMPS Kansas City
+Loaded 52 lines from SMPS Kansas City
+First 80 lines:
+SMPS Kansas City - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home
+Member Area
+Programs
+Programs
+CPSM Certification
+Mentorship
+Scholarship Program
+Marketing Communication Awards 2025 Winners
+About
+Board of Directors
+Join a Committee
+About
+Member Engagement Path
+Latest News
+Join
+Sponsor
+Current Sponsors
+Become a Sponsor
+Events
+Upcoming Events
+Past Events
+Contact Us
+Classified Job Listing
+Event Information
+Future Events
+Previous Events
+Quick Links
+About Us
+Calendar of Events
+Member Engagement Path
+Members Only
+See Who is Attending
+Future Meetings
+Golf Lessons & Happy Hour at Sykes Lady Overland Park Golf Course
+May 12, 2026
+2:30 PM - 5:30 PM
+Sykes Lady Overland Park Golf Course
+12501 Quivira Road
+Overland Park, KS 66213
+Venue website
+Join us for golf lessons and a happy hour hosted at Sykes/Lady!
+Read More
+Register Now
+Follow us
+Join our mailing list
+subscribe
+© 2026 SMPS Kansas City All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+Waiting 23 seconds before the next chapter...
+
+Scraping: SMPS St. Louis
+Loaded 174 lines from SMPS St. Louis
+First 80 lines:
+SMPS St. Louis - Upcoming Events
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About Us
+Leadership
+About Us
+Chapter By-Laws
+Contact Us
+Committees
+Join the Board
+Events
+Upcoming Events
+Event Photos
+Sponsorship
+Sponsorship
+Sponsors
+Membership
+Membership
+Member Benefits
+Application
+Top Ten Reasons to Join
+Scholarship Nominations
+Scholarship Application Details
+Careers
+Mentoring Program
+Careers
+Internships
+Certification
+Certification
+CPSM Study Tips
+Blog
+Meeting Information
+Future Meetings
+Previous Meetings
+Event Registration List
+Programs Director
+Have any questions about our programs?
+Contact our Programs Director Sydney McDermott at
+programs@smps-stl.org
+Interested in Speaking?
+Click here
+Future Meetings
+Coffee Connections - Client Experience in the A/E/C Industry
+May 07, 2026
+8:30 AM CDT to 9:30 AM CDT
+June's Breakfast + Patio
+430 S Main St
+Shiloh, IL 62269
+Join us over coffee for a conversation
+Register Now
+View Details ►
+8-on-8 Lunch with a Prospective Client
+May 07, 2026
+11:30 AM CDT to 1:00 PM CDT
+Sunset Event Space by Twisted Tree
+10705 Watson Road
+St. Louis, MO 63127
+Venue website
+Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access
+View Details ►
+8-on-8 Lunch 2026: Great Rivers Greenway
+May 07, 2026
+11:30 AM CDT to 1:00 PM CDT
+Sunset Event Space by Twisted Tree
+10705 Watson Road
+St. Louis, MO 63127
+Venue website
+Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access
+Register Now
+View Details ►
+8-on-8 Lunch 2026: Cortex
+May 07, 2026
+11:30 AM CDT to 1:00 PM CDT
+Sunset Event Space by Twisted Tree
+10705 Watson Road
+St. Louis, MO 63127
+Venue website
+Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access
+Register Now
+Waiting 18 seconds before the next chapter...
+
+Scraping: SMPS Nebraska
+Loaded 56 lines from SMPS Nebraska
+First 80 lines:
+SMPS Nebraska - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About Us
+Join SMPS
+Events
+Calendar
+Sponsors
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+Job Bank
+Member Area
+About Us
+Calendar of Events
+Resource Library
+Contact Information
+SMPS Nebraska
+P.O. Box 390093
+Omaha, NE 68139-0093
+info@smpsnebraska.org
+PAYMENT POLICY
+Your registration will cover attendance at the event at the location noted for that event. Please be sure to check in at the registration desk at the event. Check/Cash registrations must pay at the event.  Workshop programs require check/cash registration payments
+prior
+to the event. Checks can be mailed to SMPS Nebraska, PO Box 390093, Omaha, NE 68139-0093.  When mailing check please include registration confirmation.
+Please note the refund policy below. No-shows will receive an invoice after the event.  All invoices for no-shows or non-payment at the time of the event will include a $10 invoicing fee and will be due upon receipt.
+REFUND POLICY
+All sales are final.  No refunds unless requested 3 business days prior to an event in writing or by email.  Refunds for workshops require notice 5 business days prior to the event in writing or by email.  There is a 15% cancellation fee for all refunds.  Credits may be issued to be used for future event registrations in lieu of refund.
+Meeting/Event Information
+Future Meetings
+Using LinkedIn to Research Your Clients, Competition, & Reputation
+May 27, 2026
+11:30 AM to 1:00 PM
+Legends Patio Grill & Bar - 72nd & Pacific
+6920 Pacific St,  Unit 100
+Omaha, NE 68106
+Transform LinkedIn into a strategic tool for smarter pursuits and stronger A/E/C relationships.
+Read More
+Register Now
+AI-Enhanced Business Development
+June 24, 2026
+11:30 AM to 1:30 PM
+Legends Patio Grill & Bar - 72nd & Pacific
+6920 Pacific St,  Unit 100
+Omaha, NE 68106
+A hands-on workshop exploring how AI can be integrated into real-world BD workflows.
+Read More
+Register Now
+© 2026 SMPS Nebraska All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Admin
+Waiting 37 seconds before the next chapter...
+
+Scraping: SMPS New Mexico
+Loaded 43 lines from SMPS New Mexico
+First 80 lines:
+SMPS New Mexico - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Member Login
+About
+Who We Are
+Board of Directors
+Presidents Message
+Events
+Calendar at a Glance
+Membership
+Member Resources
+Education
+CPSM Certification
+Online Learning
+Member-Only Learning Labs
+Conferences
+Volunteer
+Job Bank
+Sponsorship
+Sponsorship
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+May SMPS NM Coffee Meetup
+May 29, 2026
+8:00 AM MDT - 9:00 AM MDT
+Napoli Coffee
+3035 Menaul Blvd. NE
+Albuquerque, NM 87107
+Venue website
+May coffee meetup
+Read More
+Register Now
+Follow us
+Join our mailing list
+subscribe
+© 2026 SMPS New Mexico All rights reserved.
+Contact Us
+Terms of Use
+Privacy Policy
+Refund Policy
+Admin
+Waiting 39 seconds before the next chapter...
+
+Scraping: SMPS Las Vegas
+Loaded 45 lines from SMPS Las Vegas
+First 80 lines:
+The Las Vegas Chapter of SMPS - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home
+About
+Who We Are
+Board
+Contact
+Past Presidents
+Events
+Events
+Calendar View
+Membership
+Certification
+News & Info
+Job Bank
+Sponsorship
+Sponsorship
+Current Sponsors
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+What's Next for Multifamily Construction in Southern Nevada?
+June 16, 2026
+11:30 AM to 1:00 PM
+WSKY Stadium
+5625 Polaris Ave Suite 100
+Las Vegas, NV 89118
+Venue website
+Gain insight into the latest developments shaping the Southern Nevada multifamily market.
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS Las Vegas Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Las Vegas Chapter ID:
+Password:
+Forgot Username/Password?
+Waiting 29 seconds before the next chapter...
+
+Scraping: SMPS New York
+Loaded 65 lines from SMPS New York
+First 80 lines:
+SMPS New York - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Who We Are
+Who We Are
+What Is SMPS
+Board of Directors
+Long Island Affiliate
+New Jersey Affiliate
+Westchester Hudson Valley Affiliate
+Events
+Get Involved
+Membership
+Committees
+Become A Volunteer
+Become A Speaker
+Sponsors
+Sponsors
+Become An Annual Sponsor
+Become An Event Sponsor
+Careers
+Growth
+Job Board
+Blog
+Awards & Scholarships
+Contact
+Member Area
+Member Login
+Update My Profile
+Member Directory
+View My Orders
+Pay My Balance
+Renew SMPS Membership
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+Empire State CPSM Bootcamp Orientation
+May 15, 2026
+8:30 AM to 9:30 AM
+Virtual
+Take the First Step Toward Your CPSM Certification with the Empire State CPSM Bootcamp Orientation!
+Register Now
+View Details ►
+Humans at the Helm: Guiding AI in Proposal Management
+May 21, 2026
+12:00 PM to 1:00 PM
+Zoom
+Missed the sold-out NERC session? Join this deeper dive into how AI is reshaping proposal management—and how marketers can keep humans at the helm.
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Join Here
+© 2026 SMPS New York All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS New York ID:
+Password:
+Forgot Username/Password?
+Waiting 36 seconds before the next chapter...
+
+Scraping: SMPS Upstate New York
+Loaded 79 lines from SMPS Upstate New York
+First 80 lines:
+SMPS Upstate New York  - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home
+Volunteer
+Become A Board Member
+Committees
+Become A Speaker
+About
+About Us
+Board of Directors
+Resources
+Photo Gallery
+Contact Us
+Past Presidents
+Events
+Membership
+Join
+Benefits of Membership
+Sponsors
+Sponsors
+Erie Canal Sponsorship
+Finger Lakes Sponsorship
+Adirondack Sponsorship
+Empire Sponsorship
+News
+Newsletter
+Firm Spotlight
+Jobs
+Job Posting (member)
+Job Posting (non-member)
+Classifieds
+CPSM
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+SMPS Upstate NY Panel Discussion: Bridging the Generational Gap in AEC Marketing
+May 06, 2026
+12:00 PM to 1:00 PM
+Webinar
+How the Generational Gap has Impacted AEC Marketing
+Register Now
+View Details ►
+CPSM Boot Camp Orientation
+May 15, 2026
+8:30 AM to 9:30 AM
+Webinar
+Let us help you on the path to CPSM Certification!
+Register Now
+View Details ►
+Business Development Bites + Networking
+June 18, 2026
+3:00 PM to 5:00 PM
+M.J. Engineering and Land Surveying, P.C.
+21 Corporate Drive
+Clifton Park NY
+Learn about the whole Business Development lifecycle!
+Register Now
+View Details ►
+Connect
+Contact
+SMPS Upstate New York
+Email:
+info@smpsupstateny.org
+Join our mailing list
+subscribe
+© 2026 SMPS Upstate New York  All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+×
+Member Login
+Members Log In
+SMPS Upstate New York  ID:
+Password:
+Forgot Username/Password?
+Waiting 27 seconds before the next chapter...
+
+Scraping: SMPS Charlotte
+Loaded 57 lines from SMPS Charlotte
+First 80 lines:
+Events | SMPS Charlotte
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Partnerships
+Login
+Search
+Home
+Submit Chapter Achievements
+About
+About Us
+Board of Directors
+Committees
+Meet our Members
+Partnerships
+Sponsors
+Programs & Events
+Conferences
+All Programs & Events
+Recurring Events
+Member Information
+Member Information
+Job Listings
+Professional Development
+Member Login
+Membership Directory
+Referral Program
+Join SMPS Charlotte
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+Marketing Bootcamp Part 1
+May 13, 2026
+8:00 AM to 1:00 PM
+EDIFICE Construction
+2213 Toomey Ave
+Charlotte, NC 28203
+https://edificeinc.com/
+Join us for a fast-paced, half-day marketing bootcamp designed for AEC and professional services marketers who want practical strategies they can use immediately.
+Register Now
+View Details ►
+Our Partners
+Connect
+Join Mailing List
+Join
+© 2015 SMPS Charlotte. All rights reserved.
+Credits and Copyrights
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+×
+Member Login
+Members Log In
+SMPS Charlotte ID:
+Password:
+Forgot Username/Password?
+Waiting 40 seconds before the next chapter...
+
+Scraping: SMPS Research Triangle
+Loaded 96 lines from SMPS Research Triangle
+First 80 lines:
+SMPS Research Triangle - SMPS Triangle Chapter Events
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home
+About Us
+About Us
+Board of Directors
+Letter from the President
+Join
+How to Join
+Member Area
+Membership Benefits
+Events
+Blog/News
+Connect
+Volunteer
+Mentorship Program
+CPSM Certification
+Career Opportunities
+Furlough Policy
+Contact Us
+2025-2026 Speaker Application
+2025-2026 Site Tour Application
+Sponsors
+Become a Sponsor
+Sponsors
+Connect
+Join our mailing list
+subscribe
+Social
+Meeting Information
+Future Meetings
+Previous Meetings
+Attend one of our events to explore how other professional services firms are tackling the business challenges you and your colleagues face every day. You will return to the office with innovative solutions and fresh ideas your company can put to work immediately. Our programs are also a great way to network and make local, regional, and national A/E/C business contacts. For more information, please contact our Events Committee at Events@smpstriangle.org
+Future Meetings
+SMPS Spring 2026 Site Tour
+May 06, 2026
+3:00 PM to 5:00 PM
+Midway Event Center
+4285 Trinity Road
+Raleigh, NC 27607
+Join us for a tour of the new Midway Event Center—an exciting new food hall and event destination at the NC State Fairgrounds. This is a rare opportunity to see the project before it is completed ahead of the NC State Fair this fall!
+View Details ►
+Inside the Mind of the Owner: RFQ Etiquette - What Clients Really Expect
+May 07, 2026
+11:30 AM to 1:30 PM
+Prestonwood Country Club
+300 Prestonwood Parkway
+Cary, NC 27513
+Venue website
+Ready to grow your network and learn about new opportunities for the 2026-2027 year? Whether you're a seasoned professional, new to the A/E/C industry, or just looking to meet inspiring people, this is the event for you!
+Register Now
+View Details ►
+May Member Meet-Up
+May 20, 2026
+3:30 PM to 5:00 PM
+Atlantic Gardening
+5217 Atlantic Avenue
+Raleigh, NC 27606
+Venue website
+Join us for an SMPS RT Meet Up - free to attend but please register at the link below!
+Register Now
+View Details ►
+SMPS Summer 2026 Site Tour
+June 02, 2026
+3:00 PM to 5:00 PM
+Duke University, Lilly Library
+1348 Campus Dr.
+Durham, NC 27708
+Venue website
+Join us for a special bonus summer site tour! We’ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion—ambitious project reimagining Duke University’s first library and reinforcing its role at the heart of East Campus.
+Register Now
+View Details ►
+Win More Work through Storytelling
+June 23, 2026
+9:00 AM to 10:00 AM
+Coffman Engineers, Inc. Raleigh Office
+701 Corporate Center Drive, Suite 475
+RALEIGH, NC 27607
+Venue website
+Learn a practical storytelling framework that turns technical information into persuasive narratives—helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work.
+Waiting 32 seconds before the next chapter...
+
+Scraping: SMPS Columbus
+Loaded 74 lines from SMPS Columbus
+First 80 lines:
+SMPS Columbus Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About
+Board of Directors
+About
+Events
+Get Involved
+Membership
+Committee Information
+Sponsorship Opportunities
+Education
+Scholarships
+CPSM Certification
+Crossroads Mentorship Program
+Job Board
+Contact
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+About Us
+Calendar of Events
+Future Meetings
+Coffee (or Cocktails) and Connections
+April 10, 2026
+8:00 AM to 12:00 PM
+Meeting Location TBD
+Read More
+The Future is Mixed-Use: Adaptive Reuse, Transit-Oriented Development, Live-Work-Play Design
+May 12, 2026
+11:30 AM to 1:00 PM
+Nationwide & Ohio Farm Bureau 4-H Center
+2201 Fred Taylor Dr.
+Columbus, OH 43210
+Read More
+Register Now
+Pitch Perfect: Nail the Interview and Win the Work!
+June 16, 2026
+8:30 AM to 1:30 PM
+Nationwide & Ohio Farm Bureau 4-H Center
+2201 Fred Taylor Dr.
+Columbus, OH 43210
+Read More
+Register Now
+2026 SMPS Columbus Scholarship Golf Outing
+August 26, 2026
+7:00 AM to 4:00 PM
+The Golf Club of Dublin
+5805 Eiterman Road
+Dublin, OH 43016
+Venue website
+Read More
+2026 SMPS Heartland Regional Conference, Cincinnati
+September 30, 2026
+8:00 AM to 4:00 PM
+Hilton Netherlands Plaza Hotel
+35 W. Fifth Street
+Cincinnati, OH 45202
+Read More
+The Debrief Effect: How to Turn Feedback into Future Wins
+November 17, 2026
+11:30 AM to 1:00 PM
+Nationwide & Ohio Farm Bureau 4-H Center
+2201 Fred Taylor Dr.
+Columbus, OH 43210
+Read More
+Follow us
+Join our mailing list
+subscribe
+© 2026 SMPS Columbus Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+Skipping past event: April 10, 2026 | Coffee (or Cocktails) and Connections
+Waiting 40 seconds before the next chapter...
+
+Scraping: SMPS Greater Cincinnati
+Loaded 76 lines from SMPS Greater Cincinnati
+First 80 lines:
+Greater Cincinnati SMPS - Events
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About
+About
+Board of Directors
+Past Presidents
+SMPS Resources
+Partner Organizations
+News
+Events
+Get Involved
+Get Involved
+Join SMPS
+Become a Sponsor
+Join a Committee
+CPSM Certification
+Job Listings
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+PLATINUM SPONSORS
+GOLD SPONSOR
+SILVER SPONSORS
+BRONZE Sponsors
+MONTHLY PROGRAM SPONSOR
+Interested in sponsoring a program in the future? Contact
+sponsorship
+today!
+FRIENDS OF SMPS
+EDUCATION SPONSORS
+Future Meetings
+Winning in Higher Education: What Decision-Makers Value
+May 12, 2026
+11:30 AM to 1:30 PM
+The Atriums Cincinnati Reds Conference Room
+221 East Fourth Street, Suite 100
+Cincinnati, OH 45202
+Winning in Higher Education: What Decision-Makers Value
+Register Now
+View Details ►
+Summer Connections: Chapter Networking & Happy Hour
+July 15, 2026
+4:00 PM to 5:30 PM
+Madtree Brewing
+3301 Madison Rd
+Cincinnati, OH 45209
+https://madtree.com/
+Join us for networking and happy hour with the chapter!
+Register Now
+View Details ►
+HARD HAT TOUR: Xavier's College of Osteopathic Medicine
+July 30, 2026
+3:00 PM to 5:30 PM
+Xavier's College of Osteopathic Medicine Hard Hat Tour
+Dana Avenue
+HARD HAT TOUR: Xavier's College of Osteopathic Medicine - REGISTER NOW!
+Register Now
+View Details ►
+Connect
+Signup for our Newsletter
+© 2026 Greater Cincinnati SMPS All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+×
+Member Login
+Members Log In
+Greater Cincinnati SMPS ID:
+Password:
+Forgot Username/Password?
+Waiting 33 seconds before the next chapter...
+
+Scraping: SMPS Northeast Ohio
+Loaded 66 lines from SMPS Northeast Ohio
+First 80 lines:
+Northeast Ohio Chapter of SMPS - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About
+Board of Directors
+Committees
+About SMPS
+Hall of Fame inductees
+Events
+Calendar
+Events
+Photo Gallery
+Resources
+Jobs
+The Society
+MySMPS
+CPSM/CEU
+Sponsors
+Sponsors
+Sponsorship Opportunities
+Blog
+Contact
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+Beyond the Build | Value in Action: Valor Acres Site Tour
+May 13, 2026
+11:30 AM to 1:30 PM
+Valor Acres
+5720 Independence Drive
+Brecksville, OH 44141
+Step inside Valor Acres for a behind-the-scenes look at a transformative mixed-use development in progress. This site tour explores how planning, phasing, and user experience come together to deliver value beyond the build.
+Register Now
+View Details ►
+Unlocking the Atomic Potential of Your Strategic Plan
+May 19, 2026
+12:00 PM to 1:00 PM
+Virtual Meeting
+This session shines a light on strategic planning and equips attendees with foundational insight and ideas that they can take back to their firm leadership to start breaking down the barriers that prevent meaningful involvement.
+Register Now
+View Details ►
+SMPS NEO Chapter Awards
+August 19, 2026
+4:00 PM to 7:00 PM
+Oswald Conference Center
+950 Main Avenue
+Cleveland, OH 44113
+Venue website
+Join us for the Annual Awards event to celebrate all the outstanding achievements in marketing and communications within the Northeast Ohio A/E/C industry!
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 Northeast Ohio Chapter of SMPS All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+Northeast Ohio Chapter of SMPS ID:
+Password:
+Forgot Username/Password?
+Waiting 40 seconds before the next chapter...
+
+Scraping: SMPS Oklahoma
+Loaded 91 lines from SMPS Oklahoma
+First 80 lines:
+SMPS Oklahoma - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+Home
+About Us
+Board of Directors
+About Us
+Committees
+Honor Awards List
+Past Presidents
+Why SMPS Oklahoma?
+Membership
+Member Area
+Join
+Member Directory
+Meetings
+Jobs
+Sponsors
+Sponsorship Information
+Sponsorship Catalog
+Contact Us
+Newsletter
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+Job Listings
+About Us
+Calendar of Events
+Future Meetings
+SINGO 80s Theme Member Appreciation Night – Oklahoma City
+May 07, 2026
+5:00 PM to 7:00 PM
+Fassler Hall
+421 NW 10th St
+Oklahoma City, OK 73103
+Venue website
+Get ready to rewind to the 80s! SMPS Oklahoma invites members to join us for a fun, casual SINGO (Sing-Along Bingo) night in Oklahoma City as a thank you to our chapter members.
+Read More
+Register Now
+Discover a District - Underground Tunnel TULSA Tour
+May 19, 2026
+3:00 PM to 5:00 PM
+Downtown Tulsa
+More information about this exciting event is coming soon!
+Read More
+SINGO 80s Theme Member Appreciation Night – Tulsa
+June 11, 2026
+5:00 PM to 7:00 PM
+Elgin Park
+2817 E 15th St
+Tulsa, OK 74104
+Venue website
+Break out the neon, leg warmers, and mixtape energy! SMPS Oklahoma is bringing SINGO (Sing-Along Bingo) to Tulsa for an 80s-themed member appreciation night.
+Read More
+Register Now
+Amplify A|E|C
+July 27, 2026
+5:00 PM to 5:00 PM
+Caesars Palace
+3570 Las Vegas Boulevard South
+Las Vegas, NV 89109
+Venue website
+Three days. Endless connections. Learning with impact. After welcoming 850+ attendees in Columbus, Amplify A|E|C is gearing up for an even bigger experience in Las Vegas in 2026. Join us for the premier conference for A/E/C marketers, business developers,
+Read More
+Haunt the Holes Golf Tournament
+October 05, 2026
+7:00 AM to 3:00 PM
+Lakeside Memorial Golf Course
+5201 N. Washington Street
+Stillwater, OK 74075
+Venue website
+Join us as we kick off our first annual golf tournament in 2026!
+Read More
+Register Now
+Fall Training with Donna Corlew - Unmuted: Unlock Your Strengths, Share Your Story, Own Your Space
+November 10, 2026
+9:00 AM to 5:00 PM
+Cyntergy
+810 S. Cincinnati Ave
+Waiting 21 seconds before the next chapter...
+
+Scraping: SMPS Oregon
+Loaded 82 lines from SMPS Oregon
+First 80 lines:
+SMPS Oregon - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About
+Board of Directors
+Chapter Committees
+Contact Us
+Attend an Event
+Attend an Event
+Join
+Become a Member
+Membership Handbook
+Become a Volunteer
+Sponsors
+Sponsors
+Sponsorship Opportunities
+Resources
+Resources
+Roundtables
+SMPS Oregon Library
+SMPS Oregon Vendor List
+Grow Your Career
+Job Board
+CPSM Certification
+Mentorship Program
+Scholarship Program
+Student + AEC
+Blog
+Future Events
+Strengths at Work: Turning Insight Into Traction
+May 13, 2026
+9:30 AM to 11:30 AM
+SVH/Andersen Office
+365 NE Couch St.
+Portland, OR 97323
+Participants will examine how their strengths shape communication, collaboration, and leadership, then will practice using that awareness to work more effectively with others.
+Read More
+Register Now
+Eugene Members & Friends Happy Hour
+May 21, 2026
+4:30 PM to 6:30 PM
+Carlita's - Eugene
+555 Oak Street
+Eugene, OR 97401
+This event is a great opportunity to network and connect with fellow professionals in the Eugene region.
+Read More
+Register Now
+Boards, Bags, and Brews
+June 18, 2026
+4:00 PM to 7:00 PM
+503 Distilling
+4644 SE 17th Ave.
+Portland, OR 97202
+Venue website
+A perfect blend of friendly cornhole competition, local brews, and meaningful networking—all while supporting the Maurice Lucas Foundation.
+Read More
+Register Now
+Calendar of Events
+Industry Events
+Architecture Foundation of Oregon (AFO)
+Building Pathways: Scholarship & Mentorship Showcase
+Thursday, April 16th, 5:30 - 7:30 PM at Design Portland, J.K. Gill Building
+Learn more and register at:
+events.ticketleap.com/tickets/aforegon/building-pathways-2026
+DJC Oregon Top Projects
+Thursday, June 11, 2026 at the Oregon Convention Center.
+Learn more about the event and submit a nomination at
+https://djcoregon.com/event/top-projects/
+.
+Registration Help
+If you are a new or reinstated member, please email
+info@smpsoregon.org
+for assistance completing your registration.
+The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry.
+Learn more  »
+Follow us
+Join our mailing list
+Subscribe
+© 2026 SMPS Oregon All rights reserved.
+Terms of Use
+Waiting 22 seconds before the next chapter...
+
+Scraping: SMPS Central Pennsylvania
+Loaded 94 lines from SMPS Central Pennsylvania
+First 80 lines:
+SMPS Central Pennsylvania - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About
+About Us
+Board of Directors
+Committees and Chairs
+Roles and Responsibilities
+Sponsors
+SMPS CPA Communications Policy
+Diverse Member Firms
+Members
+Join
+Membership
+Member Spotlights
+Member Inquiry (form)
+Member Login
+Member Directory
+Programs & Events
+Programs & Events
+Event Registration List
+Calendar
+Photo Gallery
+Call for Abstracts
+Amplify AEC
+SMPS NERC
+News
+Newsletter
+Press Releases
+Newsletter Archives
+Awards
+Chapter Awards
+Past Chapter Award Winners
+Catalog
+Careers
+Careers
+Classified Ad Posting Form
+CPSM Programs
+CPSM Testimonials
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+CPSM Study Group Interest Meeting
+May 12, 2026
+2:30 PM to 3:00 PM
+Microsoft Teams
+Interested in becoming a Certified Professional Services Marketer (CPSM)? This 30-minute session will lay out the value and benefits of certification.
+Register Now
+View Details ►
+SMPS Day of Service | Central PA Food Bank
+May 21, 2026
+9:00 AM to 12:00 PM
+Central Pennsylvania Food Bank
+3908 Corey Rd
+Harrisburg, PA 17109
+Join SMPS Central PA for a morning of volunteering at the Central PA Food Bank.
+Register Now
+View Details ►
+SAVE THE DATE | Golf Clinic
+August 19, 2026
+4:00 PM to 6:00 PM
+Regents' Glen Country Club
+1000 Golf Club Drive
+York, PA 17403
+Join us this August 19th for an exciting Golf Seminar hosted in collaboration between NAWIC South Central PA #386 and SMPS Central PA.
+View Details ►
+2026 Golfing "Fore" Business
+September 24, 2026
+7:30 AM to 2:30 PM
+Out Door Country Club
+1157 Detwiler Drive
+York, PA 17404
+Join our industry partners for our annual and highly anticipated charitable golf outing. Sponsorships and foursomes are available!
+Register Now
+View Details ►
+Thank you to our 2026 Annual Sponsors!
+Connect
+Waiting 37 seconds before the next chapter...
+
+Scraping: SMPS Philadelphia
+Loaded 94 lines from SMPS Philadelphia
+First 80 lines:
+SMPS Philadelphia - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About Us
+About
+Board of Directors
+Committees
+Strategic Plan
+Past Presidents
+Events
+Upcoming Events
+Event Registration List
+Past Events
+Calendar View
+Photo Gallery
+SMPS Amplify Conference
+SMPS North East Regional Conference (NERC)
+Participate
+Current Sponsors
+Sponsor Opportunities
+Membership
+Volunteer
+Resources
+Job Bank
+CPSM Certification
+CPSM Scholarship
+Mentorship
+Diversity, Equity, & Inclusion
+News & Notes
+Newsletter
+Blog
+Catalog
+Submit News
+Awards
+Chapter Awards
+Past Chapter Award Winners
+MCA Submissions
+Contact
+Member Login
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+DEI Membership Grant Applications Due
+May 08, 2026
+11:59 PM EDT to 11:59 PM EDT
+Apply Below!
+Venue website
+The SMPS Philadelphia Diversity, Equity, and Inclusion Membership Grant provides an outstanding individual the opportunity to engage deeply with SMPS Philadelphia as a member. We are now accepting applications for the grant until May 8!
+View Details ►
+MEMBERS ONLY - Tech Tuesday: AI Beyond Prompting: Unlocking Vibe Coding for Marketers
+May 12, 2026
+12:00 PM EDT to 12:30 PM EDT
+Zoom Meeting
+Getting better AI results takes more than better prompts. This Tech Tuesday introduces vibe coding in plain language and shows how non-technical marketers can guide AI more intentionally to create more useful, repeatable, and visually polished outputs.
+Register Now
+View Details ►
+A Layout League of Our Own: From AEC InDesign Rookies to Heavy Hitters
+May 20, 2026
+8:30 AM EDT to 5:00 PM EDT
+Urban Engineers
+530 Walnut Street, 7th Floor
+Philadelphia, PA 19106
+Join Julie Shaffer, FSMPS, CPSM for a hands-on InDesign training made for AEC marketers. Discover practical proposal workflows and layout tips to work faster and keep your documents consistent.
+Register Now
+View Details ►
+Proposal Roundtable
+June 17, 2026
+12:00 PM EDT to 2:30 PM EDT
+Pennoni
+1900 Market Street, Suite 300
+Philadelphia, PA 19103
+Join us for candid reviews of real proposals and discussions on strategy, workflows, positioning, graphics, and compliance. You will gain practical insights, fresh perspectives, and best practices to strengthen your role throughout the pursuit process.
+Register Now
+View Details ►
+Refund Policy
+Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact
+Treasurer
+via email with requests.
+Waiting 27 seconds before the next chapter...
+
+Scraping: SMPS Pittsburgh
+Loaded 59 lines from SMPS Pittsburgh
+First 80 lines:
+SMPS Pittsburgh - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Job Advertisement (Member) - 1 Month
+Events & Training
+Events & Training
+Recent Event Photos
+CPSM Certification
+Membership
+mysmps.org
+Join/Renew
+News and Insights
+Career Opportunities
+Sponsors
+Become A Sponsor
+Sponsors
+Sponsor Benefits
+Sponsor Renewal
+About
+The Society
+Chapter Leadership
+Committees
+Past Presidents
+Contact Us
+Event Information
+Future Events
+Previous Events
+CPSM Certification
+Quick Links
+About
+Calendar of Events
+Event Photos
+Future Events
+Be Seen, Be Heard, Be Noticed: How Your Presence Can Open Doors
+May 13, 2026
+8:30 AM - 10:30 AM
+Master Builders Association Inc.
+631 Iron City Dr.
+Pittsburgh, PA 15205
+Venue website
+Be Seen, Be Heard, Be Noticed: How Your Presence Can Open Doors
+Read More
+Register Now
+6th Annual Marketing Masters Charity Invitational
+October 12, 2026
+11:30 AM - 7:00 PM
+Allegheny Country Club
+250 Country Club Road
+Sewickley, PA 15143
+Venue website
+6th Annual Marketing Masters Charity Invitational
+Read More
+Follow Us
+Join Our Mailing List
+Subscribe
+Sponsor Spotlight
+© 2026 SMPS Pittsburgh All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+Waiting 35 seconds before the next chapter...
+
+Scraping: SMPS Palmetto
+Loaded 103 lines from SMPS Palmetto
+First 80 lines:
+SMPS Palmetto - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About Us
+About Us
+Board of Directors
+Sponsorship
+Call for Nominations
+Contact Us
+Events
+Program & Event Information
+Program & Event Calendar
+Conferences
+Announcements
+Blog
+Join
+Members
+Member Login
+Member Area
+Get Involved!
+CPSM Certification
+Member Directory
+Classified Job Listing
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+All Aboard! Developing an Effective Marketing Training Program
+May 13, 2026
+11:30 AM EDT to 1:00 PM EDT
+Virtual
+Learn how to design and implement a structured marketing training program.
+Register Now
+View Details ►
+May Empower Hour
+May 14, 2026
+8:30 AM EDT to 9:30 AM EDT
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Register Now
+View Details ►
+June Empower Hour
+June 11, 2026
+8:30 AM EDT to 9:30 AM EDT
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Register Now
+View Details ►
+July Empower Hour
+July 09, 2026
+8:30 AM EDT to 9:30 AM EDT
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Register Now
+View Details ►
+August Empower Hour
+August 13, 2026
+8:30 AM EDT to 9:30 AM EDT
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Register Now
+View Details ►
+September Empower Hour
+September 10, 2026
+8:30 AM EDT to 9:30 AM EDT
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Register Now
+View Details ►
+October Empower Hour
+October 08, 2026
+8:30 AM EDT to 9:30 AM EDT
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Register Now
+View Details ►
+November Empower Hour
+November 12, 2026
+8:30 AM EST to 9:30 AM EST
+Bar Mash (Charleston), Coffee Underground (Greenville), Indah Coffee (Columbia)
+Join us for networking!
+Waiting 31 seconds before the next chapter...
+
+Scraping: SMPS Nashville
+Loaded 77 lines from SMPS Nashville
+First 80 lines:
+SMPS Nashville - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+Home
+About
+Board of Directors
+SMPS Nashville Blog
+Meetings
+Calendar
+Meetings
+Recordings
+Join
+Join a Committee
+Membership Inquiry
+Resources
+Educational Library
+Job Postings
+CPSM Study Group
+Resources
+Sponsors
+Sponsorship Opportunities
+Purchase Sponsorships
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+Join
+SMPS Southeast Regional Conference
+Amplify
+Mentorship Program
+CPSM Study Group
+LinkedIn
+Instagram
+SMPS National Website
+Sponsors
+Meeting/Event Information
+Future Meetings
+Coffee Connect
+May 19, 2026
+8:30 AM to 9:30 AM
+Glasshaus
+483 Craighead Street
+Nahville, TN 37204
+https://www.nashvilleglasshaus.com/
+Stop by Glasshaus Café for a casual, come-and-go morning of low-pressure networking!
+Read More
+Register Now
+Adobe Workshop
+June 25, 2026
+8:00 AM to 4:00 PM
+SSR
+2995 Sidco Drive
+Nashville, TN 37204
+http://www.ssr-inc.com
+Brush up on your Adobe InDesign Skills with SMPS Nashville!
+Read More
+Register Now
+Site Series: Franklin City Hall
+October 08, 2026
+3:30 PM to 4:30 PM
+Franklin City Hall
+112 Second Ave South
+Franklin, TN 37064
+Join SMPS Nashville, CSDG, and Skanska for a tour of Franklin City Hall!
+Read More
+Register Now
+Follow us!
+Join our mailing list
+Subscribe
+© 2026 SMPS Nashville All rights reserved.
+Press
+Terms of Use
+Privacy Policy
+Member Area
+Site Map
+Admin
+Waiting 19 seconds before the next chapter...
+
+Scraping: SMPS Austin
+Loaded 80 lines from SMPS Austin
+First 80 lines:
+SMPS Austin Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About Us
+About Us
+Board of Directors
+Past Chapter Presidents
+Contact Us
+SMPS National
+SMPS Member Directory
+MySMPS
+Events
+Calendar
+Events
+SMPS City Limits 2026
+MCAS & Individual Awards
+Photo Gallery
+Past Education Recordings
+Get Involved
+Lyndsay Maclin Woods Conference Grant
+Membership
+Become a Sponsor
+Volunteer Commmittees
+Join the Board of Directors
+I Belong
+Mentor/Protégé Program
+CPSM Exam Prep | Recorded Study Sessions
+News
+Current Newsletter
+Job Board
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+About Us
+Calendar of Events
+Become a Sponsor
+Future Meetings
+Spring Senior Leadership Roundtable
+May 08, 2026
+8:30 AM to 10:00 AM
+Kitchell
+7600 N. Capital of Texas Highway (Building B - 1st Floor Conference Room)
+Austin, TX 78731
+A quarterly, peer-driven forum for senior marketing and business development leaders in the A/E/C industry.
+Read More
+Register Now
+Drinks with Developers May 14, 2026
+May 14, 2026
+5:00 PM to 8:00 PM
+The Junior League of Austin
+5330 Bluffstone Cv
+Austin , TX 78759
+Venue website
+Diamond Sponsorships Available!
+Read More
+Register Now
+Get More AEC Leads from Google and ChatGPT
+May 21, 2026
+11:00 AM to 1:00 PM
+Virtual Meeting - Zoom link included in registration receipt and registration confirmation screen
+The session breaks down how Google SEO and AI search tools like ChatGPT actually work—and how AEC firms can use them to generate consistent, high-quality leads beyond referrals and RFPs.
+Read More
+Register Now
+June Luncheon Program
+June 18, 2026
+11:30 AM to 1:00 PM
+Renaissance Hotel Arboretum
+9721 Arboretum Blvd.
+Austin , TX 78759
+Venue website
+Sponsorships Open May 11!
+Read More
+Follow us
+join our mailing list
+subscribe
+© 2026 SMPS Austin Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+Waiting 16 seconds before the next chapter...
+
+Scraping: SMPS Houston
+Loaded 111 lines from SMPS Houston
+First 80 lines:
+SMPS HOUSTON CHAPTER - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+About Us
+About
+Board of Directors
+Chapter Bylaws
+Code of Ethics
+President's Message
+Get Involved
+Become A Member
+Become A Mentor
+Join A Committee
+Join The Board
+Get Your CPSM Certification
+My SMPS
+SMPS National
+Sponsorship
+Sponsors
+Become a Sponsor
+Events
+Events
+Event Registration List
+Webinar Recordings
+Awards
+Awards
+Marketing Achievement Awards
+Job Board
+News
+Contact Us
+Connect
+Join Our Mailing List
+Subscribe
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Meetings
+SMPS Houston Professional Development | Targeted Digital Strategies That Drive Results
+May 27, 2026
+11:30 AM to 1:00 PM
+Satterfield & Pontikes Construction Auditorium
+11000 Equity Dr
+Houston, TX 77041
+Unlock the power of digital marketing: affordable, targeted, and effective.
+Register Now
+View Details ►
+SMPS Houston Professional Development |The ABCs of AEC
+June 17, 2026
+2:00 PM to 3:30 PM
+Webinar
+Learn how to decode the ABCs of the AEC Industry
+Register Now
+View Details ►
+SMPS Houston Workshop | InDesign for AEC Marketers: Automation & Efficiency
+July 16, 2026
+11:00 AM to 2:00 PM
+Satterfield & Pontikes Construction Auditorium
+11000 Equity Dr
+Houston, TX 77041
+Join us for this hands-on workshop for experienced users with Adobe Certified Professional Audra Allen!
+Register Now
+View Details ►
+SMPS Houston Chapter Annual Meeting & Volunteer Drive
+August 19, 2026
+4:00 PM to 6:00 PM
+Satterfield & Pontikes Construction Auditorium
+11000 Equity Dr
+Houston, TX 77041
+We’re sharing chapter updates and future plans at our Members?Only Annual Meeting & Volunteer Drive Happy Hour. Interested in getting more involved? Come meet our leaders and learn about open roles. Virtual option available.
+Register Now
+View Details ►
+SMPS Houston Program | Legislative Update - Save the Date!
+August 25, 2026
+11:30 AM to 1:00 PM
+The Junior League of Houston
+1811 Briar Oaks Lane
+Houston, TX 77027
+Save the Date!
+View Details ►
+SMPS Houston Webinar  The Power of a Personal Brand: How Leaders Drive Visibility & Trust
+October 21, 2026
+Waiting 25 seconds before the next chapter...
+
+Scraping: SMPS North Texas
+Loaded 67 lines from SMPS North Texas
+First 80 lines:
+SMPS North Texas - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Home
+About
+About Us
+Board of Directors
+Committees
+History & Mission
+Community Engagement
+Membership
+Membership
+Join
+Member Area
+Annual Awards
+Board Nominations
+Sponsors
+Our Sponsors
+Become a Sponsor
+Careers
+Job Board
+Mentor Program
+Post a Job (SMPS Members)
+Post a Job (Non SMPS Members)
+Become a CPSM
+CPSM Scholarship Application
+Events
+Upcoming Events
+Calendar
+Contact Us
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+Future Meetings
+BD Enablement for Small Marketing Teams
+May 13, 2026
+11:00 AM to 12:30 PM
+Olsson
+5800 Tennyson Pkwy
+Plano, TX 75024
+Join SMPS North Texas for an education session with Neil Barrow on BD enablement for small marketing teams
+Register Now
+View Details ►
+Bluebonnet Ball 2026
+September 23, 2026
+12:00 AM to 12:00 AM
+Grand Prairie Events & Convention Center
+2925 S State Hwy 161
+Grand Prairie, TX 75052
+Venue website
+Save the date for our annual awards event!
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS North Texas All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS North Texas ID:
+Password:
+Forgot Username/Password?
+Waiting 23 seconds before the next chapter...
+
+Scraping: SMPS San Antonio
+Loaded 79 lines from SMPS San Antonio
+First 80 lines:
+SMPS San Antonio Chapter - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About Us
+Board of Directors
+Past Presidents
+Annual Recap
+Get Involved
+Become a Sponsor
+Become a Member
+Join a Committee
+Join the Board
+Become an Ambassador
+Awards
+Marketing Communications Awards
+Leonardo Award
+Events
+Calendar View
+List View
+Photos
+Job Board
+Contact
+Newsletter
+Blog
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+About SMPS
+Annual Recap
+Upcoming Events
+Become a Member
+Become an Ambassador
+Meeting/Event Information
+Future Meetings
+New Member Coffee - Let Your Network BLOOM with SMPS!
+May 21, 2026
+8:00 AM to 9:00 AM
+Coffee Crush
+18010 Bulverde Rd #109
+San Antonio, TX 78259
+Join us for a New Member Coffee!
+Read More
+Register Now
+June Market Luncheon
+June 09, 2026
+11:30 AM to 1:00 PM
+The Witte Museum - Dawson Family Hall
+3801 Broadway
+San Antonio, TX 78209
+Venue website
+Join us for the June Market Luncheon!
+Read More
+August Market Luncheon
+August 11, 2026
+11:30 AM to 1:00 PM
+The Witte Museum - Dawson Family Hall
+3801 Broadway
+San Antonio, TX 78209
+Venue website
+Join us for the August Market Luncheon!
+Read More
+October Market Luncheon
+October 13, 2026
+11:30 AM to 1:00 PM
+The Witte Museum - Dawson Family Hall
+3801 Broadway
+San Antonio, TX 78209
+Venue website
+Join us for the October Market Luncheon!
+Read More
+Follow Us
+Join Our Mailing List
+Subscribe
+© 2026 SMPS San Antonio Chapter All rights reserved.
+Terms of Use
+Privacy Policy
+CRF
+Admin
+Waiting 28 seconds before the next chapter...
+
+Scraping: SMPS Utah
+Loaded 67 lines from SMPS Utah
+First 80 lines:
+SMPS Utah - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+About
+Who We Are
+Board of Directors
+Contact Us
+Events
+Events
+Calendar
+Event Photos
+Get Involved
+Membership
+Committees
+Become a Volunteer
+Become a Speaker
+Growth
+Growth
+XPERIENCE Mentorship Program
+CPSM
+Emerging Professionals
+Awards & Scholarships
+The Buzz
+Job Board
+Sponsors
+Sponsors
+Sponsorship Opportunities
+Members Only
+Member Login
+Membership
+Join
+Meeting Information
+Future Meetings
+Previous Meetings
+Calendar
+Future Meetings
+May Education: Canva for AEC Marketing + Business Development
+May 13, 2026
+8:15 AM to 10:00 AM
+Resolut
+181 E 5600 S #200
+Murray, UT 84123
+Better Graphics. Less Stress. No Design Degree Required.
+Register Now
+View Details ►
+May Program: City Centers to County Crossroads - Economic Perspectives from Salt Lake to Carbon County
+May 20, 2026
+11:30 AM to 1:00 PM
+The Grand America - Savoy Room
+555 S. Main Street
+Salt Lake City, UT
+Exploring economic insights across Utah’s evolving communities.
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+© 2026 SMPS Utah All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Utah ID:
+Password:
+Forgot Username/Password?
+Waiting 30 seconds before the next chapter...
+
+Scraping: SMPS Virginia
+Loaded 77 lines from SMPS Virginia
+First 80 lines:
+SMPS Virginia - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About
+About Us
+Board of Directors
+Committees
+Events
+Engage
+Engage
+Sponsors
+Chapter Awards
+CPSM Certification
+SMPS National
+My SMPS
+Sponsorship Catalog
+Join
+Work
+Building Virginia
+2026 Building Virginia
+Become a Summit Sponsor
+2026 Summit Call for Speakers
+Contact Us
+Meeting Information
+Attendee List
+Future Meetings
+Previous Meetings
+Quick Links
+About Us
+Calendar of Events
+Become A Sponsor
+Future Meetings
+Better Together: InDesign Workflows with Julie Shaffer
+May 12, 2026
+11:00 AM EDT to 12:30 PM EDT
+Virtual
+Tired of copy-paste chaos and endless edit cycles? Learn how to streamline collaboration between InDesign, Word, Excel, and your entire team—so you can spend less time fixing formatting and more time creating. From smarter workflows to game-changing integ
+Read More
+Register Now
+Team-Building Lunch
+May 21, 2026
+12:00 PM EDT to 1:00 PM EDT
+Virtual
+Join SMPS Virginia for a fun, creative lunch and learn!
+Read More
+Register Now
+Membership Breakfast
+June 24, 2026
+9:00 AM EDT to 10:30 AM EDT
+Milk and Honey
+973 Emmet Street Suite A.
+Charlottesville, VA 22903
+Venue website
+Start your day with SMPS Virginia at Milk & Honey for an Empower Hour focused on connection and community within the A/E/C industry.
+Read More
+Register Now
+2026 Building Virginia Summit
+September 24, 2026
+12:00 AM EDT to 12:00 AM EDT
+Delta Hotels Richmond Downtown
+555 E Canal St
+Richmond, VA 23219
+Join us for Building Virginia 2026: A Marketing Summit for A/E/C Professionals
+Read More
+Follow Us
+Contact Us
+1785 Kitimal Drive
+Virginia Beach, VA 23454
+Get in Touch
+Sponsors
+Join Mailing List
+E-blasts include important announcements, upcoming events, and member/sponsor highlights.
+Get the latest news
+© 2026 SMPS Virginia All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+Waiting 34 seconds before the next chapter...
+
+Scraping: SMPS Wisconsin
+Loaded 67 lines from SMPS Wisconsin
+First 80 lines:
+SMPS Wisconsin - Future Events
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Home Page
+Member Area
+Login
+Search
+About
+Who We Are
+Board of Directors
+Past Presidents
+Chapter Bylaws
+Membership
+Why Join SMPS?
+Join SMPS
+Share SMPS: Refer A Friend
+Renew Your Membership
+Member Inquiry
+Call for Nominations
+Events
+Future Events
+Past Events
+Calendar
+Sponsors
+Sponsors
+Become a Sponsor
+Resources
+Grow
+Member Benefits
+Career Center
+CPSM Study
+Lending Library
+Markendium: Online Learning
+MySMPS
+Contact
+Previous
+Next
+Meeting Information
+Future Meetings
+Previous Meetings
+Future Events
+Madison Area Events
+Milwaukee Area Events
+Northeast WI Area Events
+Future Meetings
+2026 AEC Industry Client Panel
+May 20, 2026
+11:00 AM CDT to 1:00 PM CDT
+Rockwood Terrace
+1065 Lombardi Ave
+Green Bay, WI 54304
+Venue website
+Unlock Client Perspectives at Our Most Popular AEC Panel
+Register Now
+View Details ►
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS Wisconsin All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Wisconsin ID:
+Password:
+Forgot Username/Password?
+Waiting 38 seconds before the next chapter...
+
+Scraping: SMPS Seattle
+Loaded 105 lines from SMPS Seattle
+First 80 lines:
+SMPS Seattle - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+LOGIN
+About
+Board of Directors
+About
+Diversity, Equity & Inclusion
+SMPS Fellows
+SMPS Headquarters
+Contact Us
+Programs
+Calendar
+Mentorship
+Previous Events
+Conferences
+Scholarships
+Reign Awards
+Photo Gallery
+Join
+Firm Benefits
+Join
+Student Membership
+Member Benefits
+Get Involved
+Welcome Wagon
+Join Our Mailing List
+Join A Committee
+Join a Roundtable
+Volunteer
+Join the Board of Directors
+Speak at an Event
+CPSM Certification
+Sponsors
+Resources
+My SMPS
+Salary Survey
+Job Postings
+Blog
+Meeting Information
+Future Meetings
+Previous Meetings
+Quick Links
+About SMPS Seattle
+Calendar
+Join
+Join Our Mailing List
+Job Postings
+Photo Gallery
+Meeting/Event Information
+Future Meetings
+2026 Reign Awards
+May 21, 2026
+5:30 PM to 8:30 PM
+SODO Park
+3200 1st Ave S
+Seattle, WA 98134
+Join us for SMPS Seattle’s Reign Awards—an evening celebrating bold ideas, standout campaigns, and the marketing leaders and rising stars shaping the future of A/E/C.
+Read More
+Register Now
+VIEW ATTENDEES
+Pacific Regional CPSM Study Session | Domain 3 (Client and Business Development)
+May 27, 2026
+12:00 PM to 1:00 PM
+Virtual - Register through the CPSM Study Group website to receive the ZOOM link.
+Join us for our September 2026 Study Group Cohort domain review and cram sessions!
+Read More
+Pacific Regional CPSM Study Session | Domain 4 (Proposals)
+June 10, 2026
+12:00 PM to 1:00 PM
+Virtual - Register through the CPSM Study Group website to receive the ZOOM link.
+Join us for our September 2026 Study Group Cohort domain review and cram sessions!
+Read More
+Pacific Regional CPSM Study Session | Domain 5 (Promotional Activity)
+June 24, 2026
+12:00 PM to 1:00 PM
+Virtual - Register through the CPSM Study Group website to receive the ZOOM link.
+Join us for our September 2026 Study Group Cohort domain review and cram sessions!
+Read More
+Pacific Regional CPSM Study Session | Domain 6 (Management)
+July 15, 2026
+Waiting 20 seconds before the next chapter...
+
+Scraping: SMPS Ontario
+Loaded 47 lines from SMPS Ontario
+First 80 lines:
+SMPS Ontario - Meeting/Event Information
+You are viewing this design in preview mode. The design MUST be published to be live on your website.
+Login
+Search
+Join
+Join SMPS Ontario
+Membership Application
+About
+About SMPS Ontario
+Land Acknowledgement & DEI Policy
+Board of Directors
+SMPS Headquarters
+Contact
+Events
+Upcoming Events
+Call for Speakers
+Cancellation & Ticket Policy
+Career
+Job Board
+CPSM Certification
+Mentoring Program
+Sponsor
+Our Sponsors
+Sponsor Opportunities
+Member Area
+Member Login
+Member Directory
+Learning Labs
+MySMPS Community
+Blog
+Meeting Information
+Future Meetings
+Previous Meetings
+No meetings/events scheduled at this time.
+Connect
+Join Our Mailing List
+Subscribe
+© 2026 SMPS Ontario All rights reserved.
+Terms of Use
+Privacy Policy
+Admin
+×
+Member Login
+Members Log In
+SMPS Ontario ID:
+Password:
+Forgot Username/Password?
+
+Saved 188 total events
+Scraper finished with code 0: Tue 05/05/2026  9:11:21.18 
+ M docs/events.json
+ M docs/scrape-status.json
+ M scraper-task-log.txt
+[main 6bc1e47] Update scraped SMPS events
+ 2 files changed, 870 insertions(+), 83 deletions(-)
+To https://github.com/dadezeeuw/smps-events.git
+   1e821aa..6bc1e47  main -> main
+Run finished: Tue 05/05/2026  9:11:30.81 
