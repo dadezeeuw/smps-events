@@ -114,7 +114,7 @@
     "location": "Yazdani Studio of CannonDesign, 444 South Flower Street, 47th Floor, Los Angeles, CA 90071",
     "description": "The Director\u2019s Guild is a peer mastermind group tailored to senior marketing, business development, and seller-doer professionals to create a support forum for SMPS/LA members experiencing similar business challenges, issues, opportunities, or goals.",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=165&ts=1776402217"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=165&ts=1777932973"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -127,7 +127,7 @@
     "location": "Haggin Oaks Golf Complex, 3645 Fulton Ave., Sacramento, CA 95821",
     "description": "Join us for the 4th Annual Sip & Swing!",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=470&ts=1776290390"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=470&ts=1777923174"
   },
   {
     "chapter": "SMPS Colorado",
@@ -296,7 +296,7 @@
     "location": "Prestonwood Country Club, 300 Prestonwood Parkway, Cary, NC 27513",
     "description": "Ready to grow your network and learn about new opportunities for the 2026-2027 year? Whether you're a seasoned professional, new to the A/E/C industry, or just looking to meet inspiring people, this is the event for you!",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=168&ts=1777396511"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=168&ts=1777929076"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -310,6 +310,19 @@
     "description": "Get ready to rewind to the 80s! SMPS Oklahoma invites members to join us for a fun, casual SINGO (Sing-Along Bingo) night in Oklahoma City as a thank you to our chapter members.",
     "is_virtual": false,
     "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=182&ts=1777476040"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Senior Business Leaders Forum 2026",
+    "date": "May 08, 2026",
+    "sort_date": "2026-05-08",
+    "time": "8:30 AM",
+    "location": "TBD",
+    "description": "As an award-winning, SMPS members-only program, the Senior Business Leaders' Forum is designed for members who are in senior marketing and business development positions who are seeking a peer-based learning experience. Members share successful (and not s",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=614&ts=1777927957"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -349,19 +362,6 @@
     "description": "A Networking Flower Arranging Event",
     "is_virtual": false,
     "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=273&ts=1776397528"
-  },
-  {
-    "chapter": "SMPS Washington, DC",
-    "state": "District of Columbia, Maryland, Virginia",
-    "region": "Northeast",
-    "title": "NERC Notes & Nuggets: What You Missed (and What Matters)",
-    "date": "May 12, 2026",
-    "sort_date": "2026-05-12",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314",
-    "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
-    "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1777478165"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -427,6 +427,19 @@
     "description": "Winning in Higher Education: What Decision-Makers Value",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=396&ts=1776184321"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "CPSM Study Group Interest Meeting",
+    "date": "May 12, 2026",
+    "sort_date": "2026-05-12",
+    "time": "2:30 PM to 3:00 PM",
+    "location": "Microsoft Teams",
+    "description": "Interested in becoming a Certified Professional Services Marketer (CPSM)? This 30-minute session will lay out the value and benefits of certification.",
+    "is_virtual": true,
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=424&ts=1777915849"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -543,7 +556,7 @@
     "location": "EDIFICE Construction, 2213 Toomey Ave, Charlotte, NC 28203, https://edificeinc.com/",
     "description": "Join us for a fast-paced, half-day marketing bootcamp designed for AEC and professional services marketers who want practical strategies they can use immediately. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=418&ts=1776710242"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=418&ts=1777905506"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -556,7 +569,7 @@
     "location": "Valor Acres, 5720 Independence Drive, Brecksville, OH 44141",
     "description": "Step inside Valor Acres for a behind-the-scenes look at a transformative mixed-use development in progress. This site tour explores how planning, phasing, and user experience come together to deliver value beyond the build.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=207&ts=1777393612"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=207&ts=1777921707"
   },
   {
     "chapter": "SMPS Oregon",
@@ -598,19 +611,6 @@
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=389&ts=1776689259"
   },
   {
-    "chapter": "SMPS Utah",
-    "state": "Utah",
-    "region": "Southwest",
-    "title": "May Education: Canva for AEC Marketing + Business Development",
-    "date": "May 13, 2026",
-    "sort_date": "2026-05-13",
-    "time": "8:15 AM to 10:00 AM",
-    "location": "Resolut, 181 E 5600 S #200, Murray, UT 84123",
-    "description": "Better Graphics. Less Stress. No Design Degree Required.",
-    "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=456&ts=1776800023"
-  },
-  {
     "chapter": "SMPS North Texas",
     "state": "Texas",
     "region": "Southern",
@@ -622,6 +622,19 @@
     "description": "Join SMPS North Texas for an education session with Neil Barrow on BD enablement for small marketing teams",
     "is_virtual": false,
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=289&ts=1775946940"
+  },
+  {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "May Education: Canva for AEC Marketing + Business Development",
+    "date": "May 13, 2026",
+    "sort_date": "2026-05-13",
+    "time": "8:15 AM to 10:00 AM",
+    "location": "Resolut, 181 E 5600 S #200, Murray, UT 84123",
+    "description": "Better Graphics. Less Stress. No Design Degree Required.",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=456&ts=1776800023"
   },
   {
     "chapter": "SMPS Inland Empire",
@@ -871,6 +884,19 @@
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=586&ts=1777595200"
   },
   {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Fast Starters, Last Minuters, & Everyone In Between",
+    "date": "May 20, 2026",
+    "sort_date": "2026-05-20",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Virtual",
+    "description": "Your work style isn\u2019t something to fix \u2014 it\u2019s something to understand. Join SMPS Central Florida for a program that helps you own your style, ditch the shame, and build stronger relationships with the people who don\u2019t \u201cget\u201d you\u2026yet.",
+    "is_virtual": true,
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=651&ts=1774635522"
+  },
+  {
     "chapter": "SMPS North Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -946,20 +972,7 @@
     "location": "Rockwood Terrace, 1065 Lombardi Ave, Green Bay, WI 54304",
     "description": "Unlock Client Perspectives at Our Most Popular AEC Panel",
     "is_virtual": false,
-    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=191&ts=1777639670"
-  },
-  {
-    "chapter": "SMPS Central Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Fast Starters, Last Minuters, & Everyone In Between",
-    "date": "May 20, 2026",
-    "sort_date": "2026-05-20",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Virtual",
-    "description": "Your work style isn\u2019t something to fix \u2014 it\u2019s something to understand. Join SMPS Central Florida for a program that helps you own your style, ditch the shame, and build stronger relationships with the people who don\u2019t \u201cget\u201d you\u2026yet.",
-    "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=651&ts=1774635522"
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=191&ts=1777912036"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -986,6 +999,58 @@
     "description": "Join SMPS South Florida during National Public Works Week for The Big Build: Honoring Public Works, Advancing Partnerships",
     "is_virtual": false,
     "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=229&ts=1777566573"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 Tampa",
+    "date": "May 21, 2026",
+    "sort_date": "2026-05-21",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Caf\u00e9 Quiquiriqui, 1402 E 7th Ave, Tampa, FL 33605",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=537&ts=1777921698"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 St. Pete",
+    "date": "May 21, 2026",
+    "sort_date": "2026-05-21",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Pour and Decor, 2210 Central Ave, St. Petersburg, FL 33712",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=538&ts=1777921831"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 Lakeland",
+    "date": "May 21, 2026",
+    "sort_date": "2026-05-21",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Foxtail Coffee, 322 Kathleen Rd., Lakeland, FL 33815",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=539&ts=1777921896"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 Sarasota",
+    "date": "May 21, 2026",
+    "sort_date": "2026-05-21",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Perq Coffee Bar, 1821 Hillview, Sarasota, FL 34239",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=540&ts=1777922430"
   },
   {
     "chapter": "SMPS Boston",
@@ -1050,7 +1115,7 @@
     "location": "Central Pennsylvania Food Bank, 3908 Corey Rd, Harrisburg, PA 17109",
     "description": "Join SMPS Central PA for a morning of volunteering at the Central PA Food Bank.",
     "is_virtual": false,
-    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=422&ts=1776695863"
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=422&ts=1777903552"
   },
   {
     "chapter": "SMPS Austin",
@@ -1157,6 +1222,19 @@
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=260&ts=1775051578"
   },
   {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "title": "Using LinkedIn to Research Your Clients, Competition, & Reputation",
+    "date": "May 27, 2026",
+    "sort_date": "2026-05-27",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
+    "description": "Transform LinkedIn into a strategic tool for smarter pursuits and stronger A/E/C relationships.",
+    "is_virtual": false,
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=314&ts=1775243235"
+  },
+  {
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
@@ -1181,19 +1259,6 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=492&ts=1774560151"
-  },
-  {
-    "chapter": "SMPS Nebraska",
-    "state": "Nebraska",
-    "region": "Missouri Valley",
-    "title": "Using LinkedIn to Research Your Clients, Competition, & Reputation",
-    "date": "May 27, 2026",
-    "sort_date": "2026-05-27",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
-    "description": "Transform LinkedIn into a strategic tool for smarter pursuits and stronger A/E/C relationships.",
-    "is_virtual": false,
-    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=314&ts=1775243235"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1258,7 +1323,20 @@
     "location": "Upham Beach in St. Petersburg, 6850 Beach Plaza, St. Pete Beach, FL 33706",
     "description": "Join SMPS Tampa Bay for a fun & relaxing evening during our first-ever Yoga Social",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=535&ts=1777062047"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=535&ts=1777927604"
+  },
+  {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "title": "May SMPS NM Coffee Meetup",
+    "date": "May 29, 2026",
+    "sort_date": "2026-05-29",
+    "time": "8:00 AM MDT - 9:00 AM MDT",
+    "location": "Napoli Coffee, 3035 Menaul Blvd. NE, Albuquerque, NM 87107",
+    "description": "May coffee meetup",
+    "is_virtual": false,
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=112&ts=1777918992"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1336,7 +1414,7 @@
     "location": "KTGY, 2001 K St NW #200, Washington, DC 20006",
     "description": "Join us for a panel of Chapter Fellows as they share their paths to Fellowship and discuss the experience, dedication, and qualifications behind one of the Society\u2019s highest honors.",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=155&ts=1777577923"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=155&ts=1777916269"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -1375,7 +1453,7 @@
     "location": "City Winery, 80 Beverly St., Boston, MA 02114, Join us for the 2026 SMPS Awards Gala: Triple Crown, an evening inspired by the Kentucky Derby, Preakness, and Belmont Stakes. Dress to impress, sip something bold, and celebrate in the winner\u2019s circle.",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=171&ts=1776814864"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=171&ts=1777933963"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1518,7 +1596,7 @@
     "location": "Farmington Gardens, 999 Farmington Ave, Farmington, CT 06032, Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1777410234"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1777909812"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1716,6 +1794,19 @@
     "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=99&ts=1777245573"
   },
   {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "title": "AI-Enhanced Business Development",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "11:30 AM to 1:30 PM",
+    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
+    "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
+  },
+  {
     "chapter": "SMPS Virginia",
     "state": "Virginia",
     "region": "Southeast",
@@ -1742,19 +1833,6 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=494&ts=1774560339"
   },
   {
-    "chapter": "SMPS Nebraska",
-    "state": "Nebraska",
-    "region": "Missouri Valley",
-    "title": "AI-Enhanced Business Development",
-    "date": "June 24, 2026",
-    "sort_date": "2026-06-24",
-    "time": "11:30 AM to 1:30 PM",
-    "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
-    "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
-    "is_virtual": false,
-    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
-  },
-  {
     "chapter": "SMPS Indiana",
     "state": "Indiana",
     "region": "Heartland",
@@ -1779,6 +1857,19 @@
     "description": "Brush up on your Adobe InDesign Skills with SMPS Nashville!",
     "is_virtual": false,
     "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=280&ts=1777567081"
+  },
+  {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "NERC Notes & Nuggets: What You Missed (and What Matters)",
+    "date": "June 30, 2026",
+    "sort_date": "2026-06-30",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314",
+    "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1777909565"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -2142,7 +2233,7 @@
     "location": "Lakeside Memorial Golf Course, 5201 N. Washington Street, Stillwater, OK 74075",
     "description": "Join us as we kick off our first annual golf tournament in 2026!",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=157&ts=1777645681"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=157&ts=1777911236"
   },
   {
     "chapter": "SMPS San Francisco",
