@@ -78,19 +78,6 @@
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=167&ts=1775742840"
   },
   {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "New Member Meetup - Spring Edition",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "DPR, 1885 Mitchell Road, Mableton, GA 30126",
-    "description": "Join us to learn how SMPS Atlanta can help you Level Up as a new member \u2013 this is the year to grow bigger, bolder, and stronger alongside the best in AEC marketing.",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=384&ts=1777565303"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -286,6 +273,19 @@
     "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=182&ts=1777476040"
   },
   {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "New Member Meetup - Spring Edition",
+    "date": "May 07, 2026",
+    "sort_date": "2026-05-07",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "DPR, 1885 Mitchell Road, Mableton, GA 30126",
+    "description": "Join us to learn how SMPS Atlanta can help you Level Up as a new member \u2013 this is the year to grow bigger, bolder, and stronger alongside the best in AEC marketing.",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=384&ts=1777565303"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -323,19 +323,6 @@
     "description": "A quarterly, peer-driven forum for senior marketing and business development leaders in the A/E/C industry.",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
-  },
-  {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "SMPS Atlanta 2026 Annual Healthcare Symposium",
-    "date": "May 12, 2026",
-    "sort_date": "2026-05-12",
-    "time": "7:30 AM to 10:00 AM",
-    "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
-    "description": "Georgia Healthcare Facilities: Growth, Impact, and Improved Outcomes",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=382&ts=1777408373"
   },
   {
     "chapter": "SMPS Arizona",
@@ -440,6 +427,19 @@
     "description": "Tired of copy-paste chaos and endless edit cycles? Learn how to streamline collaboration between InDesign, Word, Excel, and your entire team\u2014so you can spend less time fixing formatting and more time creating. From smarter workflows to game-changing integ",
     "is_virtual": true,
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=239&ts=1775756821"
+  },
+  {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS Atlanta 2026 Annual Healthcare Symposium",
+    "date": "May 12, 2026",
+    "sort_date": "2026-05-12",
+    "time": "7:30 AM to 10:00 AM",
+    "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
+    "description": "Georgia Healthcare Facilities: Growth, Impact, and Improved Outcomes",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=382&ts=1777408373"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1417,19 +1417,6 @@
     "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=258&ts=1769104173"
   },
   {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "SMPS ATL LEVEL UP LIVE: Leverage Your Beverage: Members Only",
-    "date": "June 04, 2026",
-    "sort_date": "2026-06-04",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Culinary Dropout Perimeter, 1231 Ashford Crossing | Building 900, Atlanta, GA 30346",
-    "description": "Level Up your network at this exclusive, members-only happy hour, featuring great drinks, light bites, and a dynamic evening with fellow AEC marketing and business development professionals.",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=385&ts=1777565152"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -1493,6 +1480,19 @@
     "description": "Join us over coffee for a conversation",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=266&ts=1774896183"
+  },
+  {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS ATL LEVEL UP LIVE: Leverage Your Beverage: Members Only",
+    "date": "June 04, 2026",
+    "sort_date": "2026-06-04",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "Culinary Dropout Perimeter, 1231 Ashford Crossing | Building 900, Atlanta, GA 30346",
+    "description": "Level Up your network at this exclusive, members-only happy hour, featuring great drinks, light bites, and a dynamic evening with fellow AEC marketing and business development professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=385&ts=1777565152"
   },
   {
     "chapter": "SMPS Washington, DC",
