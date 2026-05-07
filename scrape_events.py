@@ -50,6 +50,9 @@ delay_min = int(os.getenv("SCRAPE_DELAY_MIN_SECONDS", "15"))
 delay_max = int(os.getenv("SCRAPE_DELAY_MAX_SECONDS", "40"))
 if delay_min > delay_max:
     delay_min, delay_max = delay_max, delay_min
+navigation_timeout_ms = int(os.getenv("SCRAPE_NAVIGATION_TIMEOUT_MS", "90000"))
+navigation_retries = max(1, int(os.getenv("SCRAPE_NAVIGATION_RETRIES", "3")))
+retry_delay_seconds = max(0, int(os.getenv("SCRAPE_RETRY_DELAY_SECONDS", "20")))
 is_ci = os.getenv("GITHUB_ACTIONS") == "true"
 scrape_status = {
     "last_updated": "",
@@ -307,6 +310,32 @@ def wait_between_chapters():
     print(f"Waiting {delay} seconds before the next chapter...")
     time_module.sleep(delay)
 
+def load_chapter_page(context, chapter):
+    last_error = None
+
+    for attempt in range(1, navigation_retries + 1):
+        page = context.new_page()
+
+        try:
+            print(f"Loading {chapter['chapter']} (attempt {attempt} of {navigation_retries})")
+            page.goto(
+                chapter["url"],
+                wait_until="domcontentloaded",
+                timeout=navigation_timeout_ms
+            )
+            page.wait_for_timeout(3000)
+            return page, page.content(), attempt, None
+        except Exception as e:
+            last_error = e
+            print(f"Load attempt {attempt} failed for {chapter['chapter']}: {e}")
+            page.close()
+
+            if attempt < navigation_retries and retry_delay_seconds > 0:
+                print(f"Waiting {retry_delay_seconds} seconds before retrying {chapter['chapter']}...")
+                time_module.sleep(retry_delay_seconds)
+
+    return None, "", navigation_retries, last_error
+
 print(
     f"Scraping batch {batch_index + 1} of {batch_count}: "
     f"{len(chapters_to_scrape)} of {len(chapters)} chapters"
@@ -330,28 +359,26 @@ with sync_playwright() as p:
         locale="en-US",
         timezone_id="America/New_York",
     )
-    page = context.new_page()
 
     for chapter_index, chapter in enumerate(chapters_to_scrape):
         print(f"\nScraping: {chapter['chapter']}")
         chapter_event_count = 0
         rejected_dates = 0
         skipped_past_events = 0
+        page = None
 
-        try:
-            page.goto(chapter["url"], wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(3000)
-            html = page.content()
-        except Exception as e:
-            print(f"Failed to load {chapter['chapter']}: {e}")
+        page, html, load_attempts, load_error = load_chapter_page(context, chapter)
+        if load_error:
+            print(f"Failed to load {chapter['chapter']} after {load_attempts} attempts: {load_error}")
             scrape_status["chapters"].append({
                 "chapter": chapter["chapter"],
                 "state": chapter.get("state", ""),
                 "region": chapter.get("region", ""),
                 "url": chapter["url"],
                 "status": "failed",
-                "message": str(e),
+                "message": f"Failed after {load_attempts} attempts: {load_error}",
                 "events_found": 0,
+                "load_attempts": load_attempts,
                 "lines_loaded": 0,
                 "rejected_dates": 0,
                 "skipped_past_events": 0
@@ -380,12 +407,14 @@ with sync_playwright() as p:
                 "status": "throttled",
                 "message": "Too Many Requests.",
                 "events_found": 0,
+                "load_attempts": load_attempts,
                 "lines_loaded": len(lines),
                 "rejected_dates": 0,
                 "skipped_past_events": 0
             })
             if chapter_index < len(chapters_to_scrape) - 1:
                 wait_between_chapters()
+            page.close()
             continue
 
         if "Cloudflare" in lines or "Just a moment..." in lines:
@@ -406,12 +435,14 @@ with sync_playwright() as p:
                     "status": "throttled",
                     "message": "Too Many Requests.",
                     "events_found": 0,
+                    "load_attempts": load_attempts,
                     "lines_loaded": len(lines),
                     "rejected_dates": 0,
                     "skipped_past_events": 0
                 })
                 if chapter_index < len(chapters_to_scrape) - 1:
                     wait_between_chapters()
+                page.close()
                 continue
 
             if "Cloudflare" in lines or "Just a moment..." in lines:
@@ -424,12 +455,14 @@ with sync_playwright() as p:
                     "status": "blocked",
                     "message": "Cloudflare challenge remained after retry.",
                     "events_found": 0,
+                    "load_attempts": load_attempts,
                     "lines_loaded": len(lines),
                     "rejected_dates": 0,
                     "skipped_past_events": 0
                 })
                 if chapter_index < len(chapters_to_scrape) - 1:
                     wait_between_chapters()
+                page.close()
                 continue
 
         if chapter["chapter"] == "SMPS Colorado" or "smpscolorado.org" in chapter["url"] or "smpsc.memberclicks.net" in chapter["url"]:
@@ -446,6 +479,7 @@ with sync_playwright() as p:
                 "status": "success",
                 "message": "Scraped successfully with Colorado MemberClicks parser.",
                 "events_found": chapter_event_count,
+                "load_attempts": load_attempts,
                 "lines_loaded": len(lines),
                 "rejected_dates": 0,
                 "skipped_past_events": 0
@@ -453,6 +487,7 @@ with sync_playwright() as p:
 
             if chapter_index < len(chapters_to_scrape) - 1:
                 wait_between_chapters()
+            page.close()
             continue
 
         if chapter["chapter"] == "SMPS Wichita" or "smpswichita.org" in chapter["url"]:
@@ -469,6 +504,7 @@ with sync_playwright() as p:
                 "status": "success",
                 "message": "Scraped successfully with Wichita WordPress parser.",
                 "events_found": chapter_event_count,
+                "load_attempts": load_attempts,
                 "lines_loaded": len(lines),
                 "rejected_dates": 0,
                 "skipped_past_events": 0
@@ -476,6 +512,7 @@ with sync_playwright() as p:
 
             if chapter_index < len(chapters_to_scrape) - 1:
                 wait_between_chapters()
+            page.close()
             continue
 
         event_links = []
@@ -547,6 +584,7 @@ with sync_playwright() as p:
             "status": "success",
             "message": "Scraped successfully.",
             "events_found": chapter_event_count,
+            "load_attempts": load_attempts,
             "lines_loaded": len(lines),
             "rejected_dates": rejected_dates,
             "skipped_past_events": skipped_past_events
@@ -554,6 +592,7 @@ with sync_playwright() as p:
 
         if chapter_index < len(chapters_to_scrape) - 1:
             wait_between_chapters()
+        page.close()
 
     context.close()
     browser.close()
