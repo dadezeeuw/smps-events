@@ -1,213 +1,5 @@
 [
   {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "SMPS/LA Director's Guild",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "8:00 AM PDT to 9:30 AM PDT",
-    "location": "Yazdani Studio of CannonDesign, 444 South Flower Street, 47th Floor, Los Angeles, CA 90071",
-    "description": "The Director\u2019s Guild is a peer mastermind group tailored to senior marketing, business development, and seller-doer professionals to create a support forum for SMPS/LA members experiencing similar business challenges, issues, opportunities, or goals.",
-    "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=165&ts=1777932973"
-  },
-  {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "4th Annual SMPS & AMA - Sip & Swing | May 7th  @ 4PM",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "4:00 PM to 6:30 PM",
-    "location": "Haggin Oaks Golf Complex, 3645 Fulton Ave., Sacramento, CA 95821",
-    "description": "Join us for the 4th Annual Sip & Swing!",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=470&ts=1778126864"
-  },
-  {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "SMPS & AGC Meet Up In May",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: NOCO",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=785&Itemid=115&year=2026&month=05&day=07&title=smps-a-agc-meet-up-in-may&uid=81da4c41ac523f16681076525c2f3882"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "SMPS & AIA Tampa Bay 16th Annual Healthcare Event (SOLD OUT)",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "8:00 AM to 12:00 PM",
-    "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
-    "description": "The 16th Annual SMPS Tampa Bay and AIA Tampa Bay Healthcare Symposium is coming up on May 7th, and with so much at stake and changing in the industry, this year's discussion is set to be more important than ever!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=528&ts=1777402717"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Sponsorships: SMPS & AIA Tampa Bay 16th Annual Healthcare Event",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "8:00 AM to 12:00 PM",
-    "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
-    "description": "Join the conversation for Tampa Bay's largest healthcare event!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=529&ts=1777493375"
-  },
-  {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "New Member Meetup - Spring Edition",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "DPR, 1885 Mitchell Road, Mableton, GA 30126",
-    "description": "Join us to learn how SMPS Atlanta can help you Level Up as a new member \u2013 this is the year to grow bigger, bolder, and stronger alongside the best in AEC marketing.",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=384&ts=1777565303"
-  },
-  {
-    "chapter": "SMPS Twin Cities",
-    "state": "Minnesota",
-    "region": "Heartland",
-    "title": "The Science of Influence: Behavioral Economics for Stronger Client Connections",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "8:30 AM to 10:30 AM",
-    "location": "Barr Engineering, 4300 Marketpoint Drive, Suite 200, Minneapolis, MN 55435, https://www.barr.com/",
-    "description": "Why do people choose one firm over another\u2014and what truly drives their decisions? In this engaging and practical session, Holly Bolton, FSMPS, CPSM, will translate key behavioral science principles into real-world strategies tailored for architecture, eng",
-    "is_virtual": false,
-    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=265&ts=1776270439"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "Coffee Connections - Client Experience in the A/E/C Industry",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "8:30 AM CDT to 9:30 AM CDT",
-    "location": "June's Breakfast + Patio, 430 S Main St, Shiloh, IL 62269",
-    "description": "Join us over coffee for a conversation",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=264&ts=1774896246"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "8-on-8 Lunch with a Prospective Client",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM CDT to 1:00 PM CDT",
-    "location": "Sunset Event Space by Twisted Tree, 10705 Watson Road, St. Louis, MO 63127",
-    "description": "Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=259&ts=1776728285"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "8-on-8 Lunch 2026: Great Rivers Greenway",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM CDT to 1:00 PM CDT",
-    "location": "Sunset Event Space by Twisted Tree, 10705 Watson Road, St. Louis, MO 63127",
-    "description": "Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=270&ts=1776875061"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "8-on-8 Lunch 2026: Cortex",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM CDT to 1:00 PM CDT",
-    "location": "Sunset Event Space by Twisted Tree, 10705 Watson Road, St. Louis, MO 63127",
-    "description": "Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=271&ts=1776875036"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "8-on-8 Lunch 2026: MODOT",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM CDT to 1:00 PM CDT",
-    "location": "Sunset Event Space by Twisted Tree, 10705 Watson Road, St. Louis, MO 63127",
-    "description": "Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=272&ts=1776875165"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "8-on-8 Lunch 2026: St. Louis Regional Freightway",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM CDT to 1:00 PM CDT",
-    "location": "Sunset Event Space by Twisted Tree, 10705 Watson Road, St. Louis, MO 63127",
-    "description": "Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=273&ts=1776875224"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "8-on-8 Lunch 2026: Saint Louis Zoo",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM CDT to 1:00 PM CDT",
-    "location": "Sunset Event Space by Twisted Tree, 10705 Watson Road, St. Louis, MO 63127",
-    "description": "Registration opens to SMPS Members 24 Hours Early - Become a Member for exclusive access",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=274&ts=1776875285"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "Inside the Mind of the Owner: RFQ Etiquette - What Clients Really Expect",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "11:30 AM to 1:30 PM",
-    "location": "Prestonwood Country Club, 300 Prestonwood Parkway, Cary, NC 27513",
-    "description": "Ready to grow your network and learn about new opportunities for the 2026-2027 year? Whether you're a seasoned professional, new to the A/E/C industry, or just looking to meet inspiring people, this is the event for you!",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=168&ts=1777929076"
-  },
-  {
-    "chapter": "SMPS Oklahoma",
-    "state": "Oklahoma",
-    "region": "Southern",
-    "title": "SINGO 80s Theme Member Appreciation Night \u2013 Oklahoma City",
-    "date": "May 07, 2026",
-    "sort_date": "2026-05-07",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Fassler Hall, 421 NW 10th St, Oklahoma City, OK 73103",
-    "description": "Get ready to rewind to the 80s! SMPS Oklahoma invites members to join us for a fun, casual SINGO (Sing-Along Bingo) night in Oklahoma City as a thank you to our chapter members.",
-    "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=182&ts=1777476040"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -268,9 +60,9 @@
     "sort_date": "2026-05-12",
     "time": "7:30 AM to 10:00 AM",
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
-    "description": "Georgia Healthcare Facilities: Growth, Impact, and Improved Outcomes",
+    "description": "Healthcare Planning: Executive Perspectives on Growth, Strategy & the Future",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=382&ts=1777408373"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=382&ts=1778177643"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -452,7 +244,7 @@
     "location": "Valor Acres, 5720 Independence Drive, Brecksville, OH 44141",
     "description": "Step inside Valor Acres for a behind-the-scenes look at a transformative mixed-use development in progress. This site tour explores how planning, phasing, and user experience come together to deliver value beyond the build.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=207&ts=1777921707"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=207&ts=1778160769"
   },
   {
     "chapter": "SMPS Oregon",
@@ -582,7 +374,7 @@
     "location": "STV One Financial Center, Boston, MA 02111",
     "description": "One Financial Center, 8th Floor Seize the opportunity to step inside the decision-making process and learn what truly sets winning proposals apart.",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=182&ts=1776465080"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=182&ts=1778174829"
   },
   {
     "chapter": "SMPS Boston",
@@ -920,7 +712,7 @@
     "location": "Hollywood Beach Culture & Community Center, 1301 S. Ocean Drive, Hollywood, FL 33019",
     "description": "Join SMPS South Florida during National Public Works Week for The Big Build: Honoring Public Works, Advancing Partnerships",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=229&ts=1777566573"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=229&ts=1778171294"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1089,7 +881,20 @@
     "location": "SODO Park, 3200 1st Ave S, Seattle, WA 98134",
     "description": "Join us for SMPS Seattle\u2019s Reign Awards\u2014an evening celebrating bold ideas, standout campaigns, and the marketing leaders and rising stars shaping the future of A/E/C. VIEW ATTENDEES",
     "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=484&ts=1775692432"
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=484&ts=1778210246"
+  },
+  {
+    "chapter": "SMPS Ontario",
+    "state": "Ontario",
+    "region": "Northeast",
+    "title": "Building Visibility: Media, PR & Influence in AEC",
+    "date": "May 21, 2026",
+    "sort_date": "2026-05-21",
+    "time": "5:30 PM EDT to 9:00 PM EDT",
+    "location": "WSP, 25 York Street, 7th Floor",
+    "description": "Toronto, Panel discussion exploring how AEC firms build visibility, credibility, and thought leadership across today\u2019s evolving media landscape, followed by an in-person networking reception.",
+    "is_virtual": false,
+    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=256&ts=1778207788"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1168,6 +973,19 @@
     "description": "Unlock the power of digital marketing: affordable, targeted, and effective.",
     "is_virtual": false,
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=204&ts=1777497062"
+  },
+  {
+    "chapter": "SMPS San Antonio",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Marketer Talk: Capturing Construction: Elevate Your Shots",
+    "date": "May 27, 2026",
+    "sort_date": "2026-05-27",
+    "time": "7:45 AM to 9:30 AM",
+    "location": "Joeris Training Lab, 823 Arion Pkwy, San Antonio, TX 78216",
+    "description": "Join us for the May Marketer Talk!",
+    "is_virtual": false,
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=267&ts=1778191900"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1258,7 +1076,7 @@
     "location": "Sweet P's cafe and Bakery, 6523 Brecksville Road, Independence, OH 44131",
     "description": "Come and talk with other professionals over coffee or breakfast!",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=208&ts=1778075464"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=208&ts=1778179156"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1272,6 +1090,19 @@
     "description": "This training geared specifically for the A/E/C marketer of all skillsets will explore InDesign\u2019s powerful tools for accelerating and advancing proposal workflow. VIEW ATTENDEES",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=499&ts=1778007964"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "Movers + Shakers: Mystery in the Museum",
+    "date": "May 29, 2026",
+    "sort_date": "2026-05-29",
+    "time": "6:30 PM to 8:00 PM",
+    "location": "Scottsdale Museum of Contemporary Art, 7374 E 2nd Street, Scottsdale, AZ 85251",
+    "description": "Join us for a scavenger hunt through SMoCA! SEPERATE TICKET MUST BE PURCHASED THROUGH THE VENUE!",
+    "is_virtual": false,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=276&ts=1778225261"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1362,7 +1193,7 @@
     "location": "TBD - Stay Tuned!",
     "description": "Is your office able to host? Reach out to membership@smpssf.org. Create a mini Zen garden in this hands-on wellness workshop focused on finding calm in the chaos.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1775594767"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1778201590"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -1469,6 +1300,19 @@
     "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1765844691"
   },
   {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "AEC.AI Masterclass Series: Big Picture Vision & AEC Insight: AI for Strategic Planning",
+    "date": "June 10, 2026",
+    "sort_date": "2026-06-10",
+    "time": "11:00 AM PDT to 12:30 PM PDT",
+    "location": "Webinar",
+    "description": "URL to be distribution upon registration confirmation. Strategize your AI Planning with Christopher Penn, Co-Founder and Chief Data Scientist at Trust Insights AI.",
+    "is_virtual": true,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=167&ts=1778212493"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -1521,6 +1365,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=493&ts=1774560240"
   },
   {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "LEVEL UP LIVE: Building Strong Prime\u2013Sub Partnerships",
+    "date": "June 11, 2026",
+    "sort_date": "2026-06-11",
+    "time": "8:30 AM to 12:00 PM",
+    "location": "Kimley-Horn, 1200 Peachtree ST NE | Suite 800, Atlanta, GA 30309",
+    "description": "A dynamic panel discussion on how primes and subs build strong, strategic teaming relationships that win work.",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=386&ts=1778202583"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -1547,6 +1404,19 @@
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=370&ts=1768331629"
   },
   {
+    "chapter": "SMPS Houston",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS Houston | Coffee Connect - Articulating Your Value in the AEC Industry!",
+    "date": "June 11, 2026",
+    "sort_date": "2026-06-11",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Bean & Bottle, 9655 Katy Fwy Suite 100, Houston, TX 77024",
+    "description": "Join us for coffee and an open discussion with seasoned AEC professionals about how to better articulate your value.",
+    "is_virtual": false,
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=211&ts=1778213210"
+  },
+  {
     "chapter": "SMPS Las Vegas",
     "state": "Nevada",
     "region": "Pacific",
@@ -1570,7 +1440,7 @@
     "location": "Rally Pickleball, 101 Southside Drive, Charlotte, NC 28217, https://www.rallypickleball.com/",
     "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1777994278"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778244520"
   },
   {
     "chapter": "SMPS Columbus",
@@ -1596,7 +1466,7 @@
     "location": "Farmington Gardens, 999 Farmington Ave, Farmington, CT 06032, Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1777909812"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1778166091"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1677,6 +1547,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=196&ts=1766780756"
   },
   {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "2026 Southwest Regional Conference Scholarship",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "12:00 AM to 5:00 PM",
+    "location": "Virtual - Application Link",
+    "description": "SMPS Arizona is awarding one scholarship to cover the cost of the registration for SWRC.",
+    "is_virtual": true,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=275&ts=1778223277"
+  },
+  {
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
@@ -1740,6 +1623,19 @@
     "description": "Sponsorships Open May 11!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "Learn More About the CPSM Test",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "11:00 AM to 12:00 PM",
+    "location": "Virtual Meeting (Link to be shared with attendees the day before the event)",
+    "description": "Join a virtual info session to learn more about the CPSM testing details and answer questions.",
+    "is_virtual": true,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=274&ts=1778219248"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1883,6 +1779,19 @@
     "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
     "is_virtual": false,
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1778090872"
+  },
+  {
+    "chapter": "SMPS Houston",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS Houston | New Member Luncheon",
+    "date": "July 08, 2026",
+    "sort_date": "2026-07-08",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr",
+    "description": "Houston,  77041 Join Us for the SMPS Houston New Member Luncheon!",
+    "is_virtual": false,
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1778213497"
   },
   {
     "chapter": "SMPS Palmetto",
