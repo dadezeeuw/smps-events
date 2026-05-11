@@ -1,5 +1,18 @@
 [
   {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "The Future is Mixed-Use: Adaptive Reuse, Transit-Oriented Development, Live-Work-Play Design",
+    "date": "May 12, 2026",
+    "sort_date": "2026-05-12",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=152&ts=1777640094"
+  },
+  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -50,19 +63,6 @@
     "description": "Join us for golf lessons and a happy hour hosted at Sykes/Lady!",
     "is_virtual": false,
     "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=205&ts=1777314988"
-  },
-  {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "The Future is Mixed-Use: Adaptive Reuse, Transit-Oriented Development, Live-Work-Play Design",
-    "date": "May 12, 2026",
-    "sort_date": "2026-05-12",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=152&ts=1777640094"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -429,6 +429,19 @@
     "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=265&ts=1774550997"
   },
   {
+    "chapter": "SMPS Orange County",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Caffeinate & Connect with SMPS OC",
+    "date": "May 19, 2026",
+    "sort_date": "2026-05-19",
+    "time": "8:30 AM to 9:30 AM (Pacific Time)",
+    "location": "W.E. O'Neil Construction, 2100 Main Street, Suite 300, Irvine, CA 92614",
+    "description": "Wake up, grab a cup, and power up your SMPS journey! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=179&ts=1775329748"
+  },
+  {
     "chapter": "SMPS Northeast Ohio",
     "state": "Ohio",
     "region": "Heartland",
@@ -466,6 +479,19 @@
     "description": "Stop by Glasshaus Caf\u00e9 for a casual, come-and-go morning of low-pressure networking!",
     "is_virtual": false,
     "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=279&ts=1778264201"
+  },
+  {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "May Member Meet-Up",
+    "date": "May 20, 2026",
+    "sort_date": "2026-05-20",
+    "time": "3:30 PM to 5:00 PM",
+    "location": "Atlantic Gardening, 5217 Atlantic Avenue, Raleigh, NC 27606",
+    "description": "Join us for an SMPS RT Meet Up - free to attend but please register at the link below!",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=172&ts=1776880911"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -544,19 +570,6 @@
     "description": "Laid-back evening of drinks, laughs, and a little friendly competition at Bayou Beer Garden.",
     "is_virtual": false,
     "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=489"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "May Member Meet-Up",
-    "date": "May 20, 2026",
-    "sort_date": "2026-05-20",
-    "time": "3:30 PM to 5:00 PM",
-    "location": "Atlantic Gardening, 5217 Atlantic Avenue, Raleigh, NC 27606",
-    "description": "Join us for an SMPS RT Meet Up - free to attend but please register at the link below!",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=172&ts=1776880911"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1105,6 +1118,19 @@
     "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=112&ts=1777918992"
   },
   {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "SMPS Summer 2026 Site Tour",
+    "date": "June 02, 2026",
+    "sort_date": "2026-06-02",
+    "time": "3:00 PM to 5:00 PM",
+    "location": "Duke University, Lilly Library, 1348 Campus Dr., Durham, NC 27708",
+    "description": "Join us for a special bonus summer site tour! We\u2019ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion\u2014ambitious project reimagining Duke University\u2019s first library and reinforcing its role at the heart of East Campus.",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1776367191"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -1129,19 +1155,6 @@
     "description": "When an RFP drops without warning, it can feel like stepping through the looking glass\u2014into a world of urgency, ambiguity, and pressure.",
     "is_virtual": true,
     "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=225&ts=1774984586"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "SMPS Summer 2026 Site Tour",
-    "date": "June 02, 2026",
-    "sort_date": "2026-06-02",
-    "time": "3:00 PM to 5:00 PM",
-    "location": "Duke University, Lilly Library, 1348 Campus Dr., Durham, NC 27708",
-    "description": "Join us for a special bonus summer site tour! We\u2019ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion\u2014ambitious project reimagining Duke University\u2019s first library and reinforcing its role at the heart of East Campus.",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1776367191"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -1339,6 +1352,19 @@
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1777592017"
   },
   {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Southern Colorado Development Panel",
+    "date": "June 10, 2026",
+    "sort_date": "2026-06-10",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Programs",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=793&Itemid=115&year=2026&month=06&day=10&title=southern-colorado-development-panel&uid=5f078aa0f1fd939a15f7ab8a5ec2a60b"
+  },
+  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -1456,6 +1482,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=211&ts=1778213210"
   },
   {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Pitch Perfect: Nail the Interview and Win the Work!",
+    "date": "June 16, 2026",
+    "sort_date": "2026-06-16",
+    "time": "8:30 AM to 1:30 PM",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
+  },
+  {
     "chapter": "SMPS Las Vegas",
     "state": "Nevada",
     "region": "Pacific",
@@ -1480,19 +1519,6 @@
     "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte. Our Partners",
     "is_virtual": false,
     "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778244520"
-  },
-  {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "Pitch Perfect: Nail the Interview and Win the Work!",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "8:30 AM to 1:30 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1664,6 +1690,19 @@
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
   },
   {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "Win More Work through Storytelling",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "9:00 AM to 10:00 AM",
+    "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Suite 475, RALEIGH, NC 27607",
+    "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
+  },
+  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -1688,19 +1727,6 @@
     "description": "Category: Education",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=790&Itemid=115&year=2026&month=06&day=23&title=quarterly-senior-leadership-roundtable&uid=c912273db1a621a6fbd087efe7e64e28"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "Win More Work through Storytelling",
-    "date": "June 23, 2026",
-    "sort_date": "2026-06-23",
-    "time": "9:00 AM to 10:00 AM",
-    "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Suite 475, RALEIGH, NC 27607",
-    "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
   },
   {
     "chapter": "SMPS Colorado",
