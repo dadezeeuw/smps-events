@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "The Future is Mixed-Use: Adaptive Reuse, Transit-Oriented Development, Live-Work-Play Design",
-    "date": "May 12, 2026",
-    "sort_date": "2026-05-12",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=152&ts=1777640094"
-  },
-  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -36,7 +23,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Healthcare Planning: Executive Perspectives on Growth, Strategy & the Future",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=382&ts=1778177643"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=382&ts=1778527573"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -62,7 +49,20 @@
     "location": "Sykes Lady Overland Park Golf Course, 12501 Quivira Road, Overland Park, KS 66213",
     "description": "Join us for golf lessons and a happy hour hosted at Sykes/Lady!",
     "is_virtual": false,
-    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=205&ts=1777314988"
+    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=205&ts=1778524068"
+  },
+  {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "The Future is Mixed-Use: Adaptive Reuse, Transit-Oriented Development, Live-Work-Play Design",
+    "date": "May 12, 2026",
+    "sort_date": "2026-05-12",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=152&ts=1777640094"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -218,7 +218,7 @@
     "location": "SVH/Andersen Office, 365 NE Couch St., Portland, OR 97323",
     "description": "Participants will examine how their strengths shape communication, collaboration, and leadership, then will practice using that awareness to work more effectively with others.",
     "is_virtual": false,
-    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=211&ts=1776285237"
+    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=211&ts=1778538877"
   },
   {
     "chapter": "SMPS Pittsburgh",
@@ -296,7 +296,7 @@
     "location": "Skybox, DiamondView Tower, 15th Floor, 350 Tenth Ave, San Diego, CA 92101, From stadiums to recreational facilities, sports projects are shaping San Diego\u2019s growth. Learn how these developments drive economic impact and where AEC professionals can connect, contribute, and compete.",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=129&ts=1776715845"
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=129&ts=1778530235"
   },
   {
     "chapter": "SMPS Colorado",
@@ -385,7 +385,7 @@
     "sort_date": "2026-05-14",
     "time": "5:00 PM to 8:00 PM",
     "location": "The Junior League of Austin, 5330 Bluffstone Cv, Austin , TX 78759",
-    "description": "Registration Closes May 11 @ 2pm",
+    "description": "Registration is Closed",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
   },
@@ -462,10 +462,10 @@
     "date": "May 19, 2026",
     "sort_date": "2026-05-19",
     "time": "3:00 PM to 5:00 PM",
-    "location": "Downtown Tulsa",
+    "location": "Downtown Tulsa - Tulsa Tunnel Tour, meeting in lower lobby of Hyatt Regency, 100 E 2nd St, Tulsa, OK 74103",
     "description": "Join SMPS Oklahoma for a guided walking tour of downtown Tulsa\u2019s architectural gems. This experience offers a rare opportunity to explore iconic early 20th-century skyscrapers and landmarks in the heart of Tulsa\u2019s renowned Art Deco district.",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=185&ts=1778275834"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=185&ts=1778519676"
   },
   {
     "chapter": "SMPS Nashville",
@@ -479,19 +479,6 @@
     "description": "Stop by Glasshaus Caf\u00e9 for a casual, come-and-go morning of low-pressure networking!",
     "is_virtual": false,
     "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=279&ts=1778264201"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "May Member Meet-Up",
-    "date": "May 20, 2026",
-    "sort_date": "2026-05-20",
-    "time": "3:30 PM to 5:00 PM",
-    "location": "Atlantic Gardening, 5217 Atlantic Avenue, Raleigh, NC 27606",
-    "description": "Join us for an SMPS RT Meet Up - free to attend but please register at the link below!",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=172&ts=1776880911"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -572,6 +559,19 @@
     "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=489"
   },
   {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "May Member Meet-Up",
+    "date": "May 20, 2026",
+    "sort_date": "2026-05-20",
+    "time": "3:30 PM to 5:00 PM",
+    "location": "Atlantic Gardening, 5217 Atlantic Avenue, Raleigh, NC 27606",
+    "description": "Join us for an SMPS RT Meet Up - free to attend but please register at the link below!",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=172&ts=1776880911"
+  },
+  {
     "chapter": "SMPS Philadelphia",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -582,7 +582,7 @@
     "location": "Urban Engineers, 530 Walnut Street, 7th Floor, Philadelphia, PA 19106",
     "description": "Join Julie Shaffer, FSMPS, CPSM for a hands-on InDesign training made for AEC marketers. Discover practical proposal workflows and layout tips to work faster and keep your documents consistent.",
     "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=226&ts=1777570842"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=226&ts=1778512130"
   },
   {
     "chapter": "SMPS North Texas",
@@ -803,7 +803,7 @@
     "location": "Virtual Meeting - Zoom link included in registration receipt and registration confirmation screen",
     "description": "The session breaks down how Google SEO and AI search tools like ChatGPT actually work\u2014and how AEC firms can use them to generate consistent, high-quality leads beyond referrals and RFPs.",
     "is_virtual": true,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=306&ts=1778258228"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=306&ts=1778533777"
   },
   {
     "chapter": "SMPS North Texas",
@@ -855,7 +855,7 @@
     "location": "SODO Park, 3200 1st Ave S, Seattle, WA 98134",
     "description": "Join us for SMPS Seattle\u2019s Reign Awards\u2014an evening celebrating bold ideas, standout campaigns, and the marketing leaders and rising stars shaping the future of A/E/C. VIEW ATTENDEES",
     "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=484&ts=1778210246"
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=484&ts=1778546704"
   },
   {
     "chapter": "SMPS Ontario",
@@ -908,6 +908,19 @@
     "description": "Please join us for this upcoming virtual program!",
     "is_virtual": true,
     "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=82&ts=1775755460"
+  },
+  {
+    "chapter": "SMPS Southeast Louisiana",
+    "state": "Louisiana",
+    "region": "Southern",
+    "title": "Built to Be Seen: Video Marketing for AEC",
+    "date": "May 27, 2026",
+    "sort_date": "2026-05-27",
+    "time": "8:30 AM CDT to 10:30 AM CDT",
+    "location": "Woodward Design+Build, 1000 S Norman C. Francis Pkwy, New Orleans, LA 70125",
+    "description": "Interactive workshop on creating better video content for AEC",
+    "is_virtual": false,
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=506&ts=1777474840"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1118,19 +1131,6 @@
     "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=112&ts=1777918992"
   },
   {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "SMPS Summer 2026 Site Tour",
-    "date": "June 02, 2026",
-    "sort_date": "2026-06-02",
-    "time": "3:00 PM to 5:00 PM",
-    "location": "Duke University, Lilly Library, 1348 Campus Dr., Durham, NC 27708",
-    "description": "Join us for a special bonus summer site tour! We\u2019ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion\u2014ambitious project reimagining Duke University\u2019s first library and reinforcing its role at the heart of East Campus.",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1776367191"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -1155,6 +1155,19 @@
     "description": "When an RFP drops without warning, it can feel like stepping through the looking glass\u2014into a world of urgency, ambiguity, and pressure.",
     "is_virtual": true,
     "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=225&ts=1774984586"
+  },
+  {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "SMPS Summer 2026 Site Tour",
+    "date": "June 02, 2026",
+    "sort_date": "2026-06-02",
+    "time": "3:00 PM to 5:00 PM",
+    "location": "Duke University, Lilly Library, 1348 Campus Dr., Durham, NC 27708",
+    "description": "Join us for a special bonus summer site tour! We\u2019ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion\u2014ambitious project reimagining Duke University\u2019s first library and reinforcing its role at the heart of East Campus.",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1776367191"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -1293,11 +1306,11 @@
     "title": "Communicating the Value of Green Building",
     "date": "June 09, 2026",
     "sort_date": "2026-06-09",
-    "time": "12:00 AM CDT to 12:00 AM CDT",
-    "location": "TBD",
-    "description": "Save the date for Communicating the Value of Green Building with Missouri Gateway Green Building Council.  More details to follow.",
+    "time": "5:30 PM CDT to 7:30 PM CDT",
+    "location": "McCarthy Building Companies, 12851 Manchester Rd., St. Louis, MO 63131",
+    "description": "Explore how architects, engineers, contractors and marketing professionals effectively make the case for green building in real-world project conversations.",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=275&ts=1778260681"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=275&ts=1778523251"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1453,7 +1466,7 @@
     "location": "Flight Club Philadelphia: Social Dart Club, 1417 Walnut Street, Philadelphia, PA 19102",
     "description": "Take your best shot at SMPS Philadelphia\u2019s Bullseye Bash on Thursday, June 11 at Flight Club!",
     "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=260&ts=1778329271"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=260&ts=1778504234"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -1482,19 +1495,6 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=211&ts=1778213210"
   },
   {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "Pitch Perfect: Nail the Interview and Win the Work!",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "8:30 AM to 1:30 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
-  },
-  {
     "chapter": "SMPS Las Vegas",
     "state": "Nevada",
     "region": "Pacific",
@@ -1518,7 +1518,20 @@
     "location": "Rally Pickleball, 101 Southside Drive, Charlotte, NC 28217, https://www.rallypickleball.com/",
     "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778244520"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778533286"
+  },
+  {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Pitch Perfect: Nail the Interview and Win the Work!",
+    "date": "June 16, 2026",
+    "sort_date": "2026-06-16",
+    "time": "8:30 AM to 1:30 PM",
+    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1531,7 +1544,7 @@
     "location": "Farmington Gardens, 999 Farmington Ave, Farmington, CT 06032, Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1778166091"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1778519199"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1596,7 +1609,7 @@
     "location": "Pennoni, 1900 Market Street, Suite 300, Philadelphia, PA 19103",
     "description": "Join us for candid reviews of real proposals and discussions on strategy, workflows, positioning, graphics, and compliance. You will gain practical insights, fresh perspectives, and best practices to strengthen your role throughout the pursuit process. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
     "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=247&ts=1777059804"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=247&ts=1778589609"
   },
   {
     "chapter": "SMPS Houston",
@@ -1690,19 +1703,6 @@
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
   },
   {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "Win More Work through Storytelling",
-    "date": "June 23, 2026",
-    "sort_date": "2026-06-23",
-    "time": "9:00 AM to 10:00 AM",
-    "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Suite 475, RALEIGH, NC 27607",
-    "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
-  },
-  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -1727,6 +1727,19 @@
     "description": "Category: Education",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=790&Itemid=115&year=2026&month=06&day=23&title=quarterly-senior-leadership-roundtable&uid=c912273db1a621a6fbd087efe7e64e28"
+  },
+  {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "Win More Work through Storytelling",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "9:00 AM to 10:00 AM",
+    "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Suite 475, RALEIGH, NC 27607",
+    "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1779,6 +1792,19 @@
     "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Wine & Cheese, Please",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "Antonelli's Cheese House, 500 Park Boulevard, Austin, TX 78757",
+    "description": "Members Only - Wine & Cheese, Please!",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1778515185"
   },
   {
     "chapter": "SMPS Virginia",
@@ -1875,14 +1901,27 @@
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
-    "title": "Webinar Replay: AEC.AI Masterclass Series: Big Picture Vision & AEC Insight: AI for Strategic Planning",
+    "title": "Webinar Replay: AEC.AI Masterclass Series: The Really Big Issues with AI: What AEC Leaders Need to Confront, Control, and Cultivate",
     "date": "July 15, 2026",
     "sort_date": "2026-07-15",
     "time": "11:00 AM PDT to 12:30 PM PDT",
     "location": "Webinar",
     "description": "URL to be distribution upon registration confirmation. Listen in as AI strategist Kristin Kautz and Troy Parkinson of Sage Presence discuss the most pressing issues surrounding AI adoption in firms today.",
     "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=168&ts=1778371894"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=168&ts=1778526520"
+  },
+  {
+    "chapter": "SMPS Southeast Louisiana",
+    "state": "Louisiana",
+    "region": "Southern",
+    "title": "Anatomy of Marketing Emails",
+    "date": "July 15, 2026",
+    "sort_date": "2026-07-15",
+    "time": "10:00 AM CDT to 11:00 AM CDT",
+    "location": "Virtual Meeting",
+    "description": "Email campaigns may be an inexpensive marketing tactic, but that doesn\u2019t mean they\u2019re easy if done right. It\u2019s a delicate balance of creating simple but powerful messaging, connecting with your audience so your call to action works, and is supported on al",
+    "is_virtual": true,
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=507&ts=1778515746"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -2090,7 +2129,7 @@
     "location": "The Golf Club of Dublin, 5805 Eiterman Road, Dublin, OH 43016",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1777470569"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1778516422"
   },
   {
     "chapter": "SMPS Indiana",
@@ -2155,7 +2194,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Stay Tunesd!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1778092225"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=354&ts=1778511303"
   },
   {
     "chapter": "SMPS Atlanta",
