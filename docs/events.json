@@ -1,42 +1,16 @@
 [
   {
-    "chapter": "SMPS North Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "It\u2019s GAME TIME, Jacksonville!",
-    "date": "May 15, 2026",
-    "sort_date": "2026-05-15",
-    "time": "7:00 PM to 9:30 PM",
-    "location": "VyStar Veterans Memorial Arena, 300 A Philip Randolph Blvd, Jacksonville, FL 32202",
-    "description": "Join SMPS North Florida for the Jacksonville Waves home opener on Friday, May 15th at 7 PM!",
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "St. Mary's Packing Volunteer Day: Let's Help Feed the Hungry in Phoenix",
+    "date": "May 19, 2026",
+    "sort_date": "2026-05-19",
+    "time": "1:00 PM to 2:00 PM",
+    "location": "St. Mary's Food Bank, 2804 North 29th Avenue, Phoenix, AZ 85009, Join SMPS Arizona for a hands-on volunteer day at St. Mary\u2019s Food Bank! Help pack food boxes for families in need and make a real impact\u2014together.",
+    "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=101&ts=1778079615"
-  },
-  {
-    "chapter": "SMPS New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "Empire State CPSM Bootcamp Orientation",
-    "date": "May 15, 2026",
-    "sort_date": "2026-05-15",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Virtual",
-    "description": "Take the First Step Toward Your CPSM Certification with the Empire State CPSM Bootcamp Orientation!",
-    "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=169&ts=1774626964"
-  },
-  {
-    "chapter": "SMPS Upstate New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "CPSM Boot Camp Orientation",
-    "date": "May 15, 2026",
-    "sort_date": "2026-05-15",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Webinar",
-    "description": "Let us help you on the path to CPSM Certification!",
-    "is_virtual": true,
-    "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=265&ts=1774550997"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=277&ts=1778897272"
   },
   {
     "chapter": "SMPS Orange County",
@@ -426,7 +400,7 @@
     "location": "Webinar",
     "description": "Prepare for the CPSM exam from the comfort of your home or office!",
     "is_virtual": true,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=213&ts=1778616962"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=213&ts=1778881825"
   },
   {
     "chapter": "SMPS North Texas",
@@ -505,6 +479,19 @@
     "description": "An exclusive SMPS/LA visit to Hollyhock House at Barnsdall Art Park. The experience includes a 20 minute guided exterior tour led by an expert docent, with time to explore the interior at your own pace afterward.",
     "is_virtual": false,
     "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=163&ts=1773303114"
+  },
+  {
+    "chapter": "SMPS Alabama",
+    "state": "Alabama",
+    "region": "Southeast",
+    "title": "Coca-cola Headquarters Jobsite Tour",
+    "date": "May 27, 2026",
+    "sort_date": "2026-05-27",
+    "time": "9:00 AM to 11:00 AM",
+    "location": "Coca-Cola Bottling United Headquarters Birmingham, 1101 40th Street North, Birmingham, AL 35234, https://share.google/XeCBbnQPYXTs1VuWq",
+    "description": "SMPS Alabama invites you to join us for an exclusive tour of the Coca-Cola Bottling UNITED Headquarters Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.",
+    "is_virtual": false,
+    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=149&ts=1778881211"
   },
   {
     "chapter": "SMPS South Florida",
@@ -725,7 +712,33 @@
     "location": "Halls Chophouse - Columbia, 1221 Main Street, Suite 150, Columbia, SC 29201, https://hallschophousecolumbia.com/",
     "description": "Join us for a Member Appreciation Lunch in Columbia!",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=390&ts=1778854820"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=390&ts=1778856252"
+  },
+  {
+    "chapter": "SMPS Palmetto",
+    "state": "South Carolina",
+    "region": "Southeast",
+    "title": "Halls for Ya'll - Charleston (Summerville)",
+    "date": "May 28, 2026",
+    "sort_date": "2026-05-28",
+    "time": "11:30 AM EDT to 1:00 PM EDT",
+    "location": "Halls Chophouse - Nexton, 300 Nexton Square Drive, Summerville, SC 29486, https://hallschophousenexton.com/",
+    "description": "Join us for a Member Appreciation Lunch in Summerville!",
+    "is_virtual": false,
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=391&ts=1778856277"
+  },
+  {
+    "chapter": "SMPS Palmetto",
+    "state": "South Carolina",
+    "region": "Southeast",
+    "title": "Halls for Ya'll - Greenville",
+    "date": "May 28, 2026",
+    "sort_date": "2026-05-28",
+    "time": "11:30 AM EDT to 1:00 PM EDT",
+    "location": "Halls Chophouse - Greenville, 550 S Main Street, Greenville, SC 29601, https://hallschophousegvl.com/",
+    "description": "Join us for a Member Appreciation Lunch in Greenville!",
+    "is_virtual": false,
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=392&ts=1778856305"
   },
   {
     "chapter": "SMPS Seattle",
@@ -868,7 +881,7 @@
     "location": "KTGY, 2001 K St NW #200, Washington, DC 20006",
     "description": "Join us for a panel of Chapter Fellows as they share their paths to Fellowship and discuss the experience, dedication, and qualifications behind one of the Society\u2019s highest honors.",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=155&ts=1777916269"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=155&ts=1778859613"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -907,7 +920,7 @@
     "location": "City Winery, 80 Beverly St., Boston, MA 02114, Join us for the 2026 SMPS Awards Gala: Triple Crown, an evening inspired by the Kentucky Derby, Preakness, and Belmont Stakes. Dress to impress, sip something bold, and celebrate in the winner\u2019s circle.",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=171&ts=1778692195"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=171&ts=1778867025"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -947,6 +960,19 @@
     "description": "Invest in Your Personal Growth!",
     "is_virtual": true,
     "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=267&ts=1778259971"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Business Development Roundtable | Client Experience",
+    "date": "June 05, 2026",
+    "sort_date": "2026-06-05",
+    "time": "8:00 AM to 9:30 AM",
+    "location": "TBD, A collaborative discussion on how AEC firms can intentionally deliver a consistent, high-quality client experience to build stronger relationships and drive long-term business growth.",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
   },
   {
     "chapter": "SMPS North Texas",
@@ -999,6 +1025,19 @@
     "description": "Stop by for some breakfast and networking.",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=399&ts=1778090627"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "Marketing Mastery Series | Building a Brand Before the RFP: Creating Recognition, Trust, and Preference Early",
+    "date": "June 09, 2026",
+    "sort_date": "2026-06-09",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual Event",
+    "description": "Learn how strong branding, messaging, websites, and social media can build trust, increase visibility, and keep your firm top of mind before the RFP process begins.",
+    "is_virtual": true,
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=425&ts=1778909722"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1232,7 +1271,7 @@
     "location": "Rally Pickleball, 101 Southside Drive, Charlotte, NC 28217, https://www.rallypickleball.com/",
     "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778853996"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778856532"
   },
   {
     "chapter": "SMPS Columbus",
@@ -1391,6 +1430,19 @@
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=267&ts=1774896086"
   },
   {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "title": "Summer Education Series Part 1: Your Brand Is More Than a Logo",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "11:30 AM MDT - 1:00 PM MDT",
+    "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
+    "description": "Part 1 Education Series: Your Brand is More Than a Logo",
+    "is_virtual": false,
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1778869938"
+  },
+  {
     "chapter": "SMPS Upstate New York",
     "state": "New York",
     "region": "Northeast",
@@ -1427,7 +1479,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Sponsorships Open May 11!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1778864386"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1716,6 +1768,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=495&ts=1774560428"
   },
   {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "title": "Summer Education Series Part 2: Activating Your Brand",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "11:30 AM MDT - 1:00 PM MDT",
+    "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
+    "description": "Part 2: Activating Your Brand While Managing Reputational Risk",
+    "is_virtual": false,
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1778869903"
+  },
+  {
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
@@ -1814,10 +1879,10 @@
     "date": "August 13, 2026",
     "sort_date": "2026-08-13",
     "time": "3:30 PM to 5:00 PM",
-    "location": "TBD",
+    "location": "24 Shelby Downtown",
     "description": "Learn how to translate your marketing and business development insights into the language executives act on.",
     "is_virtual": false,
-    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=403&ts=1772049793"
+    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=403&ts=1778857136"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -1883,6 +1948,19 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=497&ts=1774560614"
+  },
+  {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "title": "Summer Education Series Part 3: The Metrics Behind the Message",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "11:30 AM MDT - 1:00 PM MDT",
+    "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
+    "description": "Part 3: The Metrics Behind the Message",
+    "is_virtual": false,
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=115&ts=1778870406"
   },
   {
     "chapter": "SMPS Houston",
