@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T08:31:33",
-  "total_events": 184,
+  "last_updated": "2026-05-19T08:43:22",
+  "total_events": 187,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -81,9 +81,9 @@
       "url": "https://smpsla.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 5,
+      "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 95,
+      "lines_loaded": 103,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -96,7 +96,7 @@
       "message": "Scraped successfully.",
       "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 59,
+      "lines_loaded": 58,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -135,7 +135,7 @@
       "message": "Scraped successfully.",
       "events_found": 12,
       "load_attempts": 1,
-      "lines_loaded": 141,
+      "lines_loaded": 140,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -185,9 +185,9 @@
       "url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 123,
+      "lines_loaded": 132,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -198,9 +198,9 @@
       "url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 63,
+      "lines_loaded": 72,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -211,9 +211,9 @@
       "url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 4,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 82,
+      "lines_loaded": 68,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -510,9 +510,9 @@
       "url": "https://smpscharlotte.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 57,
+      "lines_loaded": 67,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -564,7 +564,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 67,
+      "lines_loaded": 66,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -655,7 +655,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 77,
+      "lines_loaded": 76,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -668,7 +668,7 @@
       "message": "Scraped successfully.",
       "events_found": 7,
       "load_attempts": 1,
-      "lines_loaded": 107,
+      "lines_loaded": 111,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -718,9 +718,9 @@
       "url": "https://smpsutah.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 58,
+      "lines_loaded": 67,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },

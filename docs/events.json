@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
-    "title": "St. Mary's Packing Volunteer Day: Let's Help Feed the Hungry in Phoenix",
-    "date": "May 19, 2026",
-    "sort_date": "2026-05-19",
-    "time": "1:00 PM to 2:00 PM",
-    "location": "St. Mary's Food Bank, 2804 North 29th Avenue, Phoenix, AZ 85009, Join SMPS Arizona for a hands-on volunteer day at St. Mary\u2019s Food Bank! Help pack food boxes for families in need and make a real impact\u2014together.",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=277&ts=1778897272"
-  },
-  {
     "chapter": "SMPS Orange County",
     "state": "California",
     "region": "Pacific",
@@ -348,7 +335,7 @@
     "location": "Zoom",
     "description": "Missed the sold-out NERC session? Join this deeper dive into how AI is reshaping proposal management\u2014and how marketers can keep humans at the helm.",
     "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=170&ts=1777310165"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=170&ts=1779142224"
   },
   {
     "chapter": "SMPS Oregon",
@@ -484,27 +471,14 @@
     "chapter": "SMPS Alabama",
     "state": "Alabama",
     "region": "Southeast",
-    "title": "Coca-cola Headquarters Jobsite Tour",
+    "title": "Coca-Cola Bottling Company United, Inc Jobsite Tour",
     "date": "May 27, 2026",
     "sort_date": "2026-05-27",
     "time": "9:00 AM to 11:00 AM",
     "location": "Coca-Cola Bottling United Headquarters Birmingham, 1101 40th Street North, Birmingham, AL 35234, https://share.google/XeCBbnQPYXTs1VuWq",
     "description": "SMPS Alabama invites you to join us for an exclusive tour of the Coca-Cola Bottling UNITED Headquarters Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.",
     "is_virtual": false,
-    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=149&ts=1778881211"
-  },
-  {
-    "chapter": "SMPS South Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "AIA-Accredited - Virtual Design Consulting: Bridging Innovation, Collaboration & Client Value",
-    "date": "May 27, 2026",
-    "sort_date": "2026-05-27",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual Meeting - Online",
-    "description": "Presented by Vilma Bartczak, Construction Materials Testing Department Manager - UES",
-    "is_virtual": true,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=228&ts=1776183102"
+    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=149&ts=1779120369"
   },
   {
     "chapter": "SMPS Idaho",
@@ -806,19 +780,6 @@
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=617&ts=1770149147"
   },
   {
-    "chapter": "SMPS South Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Turning Chaos into Clarity, One Pursuit at a Time",
-    "date": "June 02, 2026",
-    "sort_date": "2026-06-02",
-    "time": "2:00 PM to 4:00 PM",
-    "location": "Virtual Meeting - Online",
-    "description": "When an RFP drops without warning, it can feel like stepping through the looking glass\u2014into a world of urgency, ambiguity, and pressure.",
-    "is_virtual": true,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=225&ts=1774984586"
-  },
-  {
     "chapter": "SMPS Research Triangle",
     "state": "North Carolina",
     "region": "Southeast",
@@ -842,7 +803,7 @@
     "location": "Zoom Webinar",
     "description": "The Importance of Strategically Using and Protecting Your Business Against Artificial Intelligence in the Construction Industry",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1778619362"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1779139292"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -894,7 +855,7 @@
     "location": "Culinary Dropout Perimeter, 1231 Ashford Crossing | Building 900, Atlanta, GA 30346",
     "description": "Level Up your network at this exclusive, members-only happy hour, featuring great drinks, light bites, and a dynamic evening with fellow AEC marketing and business development professionals.",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=385&ts=1777565152"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=385&ts=1779156111"
   },
   {
     "chapter": "SMPS Indiana",
@@ -946,7 +907,7 @@
     "location": "Virtual",
     "description": "Prepare for CPSM success with this 7-session study program hosted by SMPS New York and Upstate New York Chapters. Gain expert guidance, accountability, and peer support ahead of the September exam window.",
     "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=172&ts=1778607428"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=172&ts=1779120469"
   },
   {
     "chapter": "SMPS Upstate New York",
@@ -969,7 +930,7 @@
     "date": "June 05, 2026",
     "sort_date": "2026-06-05",
     "time": "8:00 AM to 9:30 AM",
-    "location": "TBD, A collaborative discussion on how AEC firms can intentionally deliver a consistent, high-quality client experience to build stronger relationships and drive long-term business growth.",
+    "location": "FGM Architects, 3711 South Mopac Expressway, Building Two, Suite 150, Austin, TX 78746, A collaborative discussion on how AEC firms can intentionally deliver a consistent, high-quality client experience to build stronger relationships and drive long-term business growth.",
     "description": "",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=346&ts=1776872336"
@@ -1053,19 +1014,6 @@
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=259&ts=1778597986"
   },
   {
-    "chapter": "SMPS San Antonio",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "June Market Luncheon",
-    "date": "June 09, 2026",
-    "sort_date": "2026-06-09",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
-    "description": "Join us for the June Market Luncheon!",
-    "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1765844691"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -1086,10 +1034,10 @@
     "date": "June 10, 2026",
     "sort_date": "2026-06-10",
     "time": "7:30 AM - 12:00 PM",
-    "location": "SmithGroupJJR, 301 Battery Street, 7th Floor, San Francisco, CA 94111, http://www.smithgroupjjr.com",
+    "location": "Smith Group San Francisco Office, 301 Battery Street, San Francisco, CA 94111",
     "description": "The marketer\u2019s guide to producing highly effective video content without a big budget.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1777592017"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1779133686"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1131,6 +1079,19 @@
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=400&ts=1778090698"
   },
   {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "June Education: Rethinking Marketing in the Age of AI: A Strategic Shift from Tools to Outcomes",
+    "date": "June 10, 2026",
+    "sort_date": "2026-06-10",
+    "time": "8:15 AM to 10:00 AM",
+    "location": "Resolut, 181 E 5600 S #200, Murray, UT 84123",
+    "description": "AI isn\u2019t the advantage\u2014how your team is structured, skilled, and aligned is. This session cuts through the hype to show how AEC marketers can turn AI from a content machine into a true driver of strategic impact.",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=458&ts=1779131446"
+  },
+  {
     "chapter": "SMPS Seattle",
     "state": "Washington",
     "region": "Pacific",
@@ -1142,6 +1103,19 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=493&ts=1774560240"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "St. Mary's Packing Volunteer Day: Let's Help Feed the Hungry in Phoenix",
+    "date": "June 11, 2026",
+    "sort_date": "2026-06-11",
+    "time": "1:00 PM to 2:00 PM",
+    "location": "St. Mary's Food Bank, 2804 North 29th Avenue, Phoenix, AZ 85009, Join SMPS Arizona for a hands-on volunteer day at St. Mary\u2019s Food Bank! Help pack food boxes for families in need and make a real impact\u2014together.",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=277&ts=1779155217"
   },
   {
     "chapter": "SMPS San Diego",
@@ -1269,7 +1243,7 @@
     "sort_date": "2026-06-16",
     "time": "3:30 PM to 6:30 PM",
     "location": "Rally Pickleball, 101 Southside Drive, Charlotte, NC 28217, https://www.rallypickleball.com/",
-    "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte. Our Partners",
+    "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte.",
     "is_virtual": false,
     "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1778856532"
   },
@@ -1285,6 +1259,19 @@
     "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
+  },
+  {
+    "chapter": "SMPS San Antonio",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "June Market Luncheon",
+    "date": "June 16, 2026",
+    "sort_date": "2026-06-16",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
+    "description": "Join us for the June Market Luncheon!",
+    "is_virtual": false,
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1779138610"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1375,7 +1362,7 @@
     "location": "Pennoni, 1900 Market Street, Suite 300, Philadelphia, PA 19103",
     "description": "Join us for candid reviews of real proposals and discussions on strategy, workflows, positioning, graphics, and compliance. You will gain practical insights, fresh perspectives, and best practices to strengthen your role throughout the pursuit process. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
     "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=247&ts=1778614376"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=247&ts=1779114973"
   },
   {
     "chapter": "SMPS Houston",
@@ -1438,9 +1425,9 @@
     "sort_date": "2026-06-18",
     "time": "11:30 AM MDT - 1:00 PM MDT",
     "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
-    "description": "Part 1 Education Series: Your Brand is More Than a Logo",
+    "description": "Part 1: Your Brand is More Than a Logo",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1778869938"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1779139612"
   },
   {
     "chapter": "SMPS Upstate New York",
@@ -1477,9 +1464,9 @@
     "sort_date": "2026-06-18",
     "time": "11:30 AM to 1:00 PM",
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Sponsorships Open May 11!",
+    "description": "Sponsorships Available and Registration is Open!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1778864386"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1779136952"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1508,6 +1495,19 @@
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=790&Itemid=115&year=2026&month=06&day=23&title=quarterly-senior-leadership-roundtable&uid=c912273db1a621a6fbd087efe7e64e28"
   },
   {
+    "chapter": "SMPS North Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Why CX, Why Now?",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "9:00 AM to 4:00 PM",
+    "location": "Sheraton Jacksonville, 10605 Deerwood Park Boulevard, Jacksonville, FL 32256",
+    "description": "In the A/E/C industry, technical expertise is expected. What differentiates firms today is Client Experience (CX).",
+    "is_virtual": false,
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=102&ts=1779131817"
+  },
+  {
     "chapter": "SMPS Research Triangle",
     "state": "North Carolina",
     "region": "Southeast",
@@ -1519,6 +1519,19 @@
     "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
     "is_virtual": false,
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
+  },
+  {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "SMPS PRC Download on Finish Strong:  Winning Proposals from the Selection Committee\u2019s POV",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "12:00 PM PDT to 1:30 PM PDT",
+    "location": "Webinar",
+    "description": "URL to be distribution upon registration confirmation. Missed PRC in Seattle? This is your chance to see PRC Speaker Julie Flattery, founder of Style Guide, as she gives us the download on her PRC panel discussion in this LIVE session. Discover the secrets to winning proposals from the Section Committee\u2019s POV",
+    "is_virtual": true,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=170&ts=1779183157"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1596,7 +1609,7 @@
     "location": "Antonelli's Cheese House, 500 Park Boulevard, Austin, TX 78757",
     "description": "Members Only - Wine & Cheese, Please!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1778515185"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1779117010"
   },
   {
     "chapter": "SMPS Virginia",
@@ -1638,6 +1651,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=494&ts=1774560339"
   },
   {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Making WAVES: Grow Your Influence and Maximize Your Impact!",
+    "date": "June 25, 2026",
+    "sort_date": "2026-06-25",
+    "time": "11:30 AM to 1:30 PM",
+    "location": "Barton Malow, 340 N. Primrose Drive, Orlando, FL 32803",
+    "description": "Join SMPS Central Florida for a dynamic leadership workshop created to help professionals grow their influence, elevate their leadership presence, and create a lasting ripple effect within their organizations.",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=653&ts=1779118409"
+  },
+  {
     "chapter": "SMPS Indiana",
     "state": "Indiana",
     "region": "Heartland",
@@ -1649,6 +1675,19 @@
     "description": "Unwind with SMPS Indiana at a fun-filled happy hour at Metazoa Brewing. A perfect chance to connect, relax, and make new friends, both two-legged and four-legged!",
     "is_virtual": false,
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=408&ts=1776365395"
+  },
+  {
+    "chapter": "SMPS Charlotte",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "Infrastructure Challenges Impacting Healthcare Access",
+    "date": "June 25, 2026",
+    "sort_date": "2026-06-25",
+    "time": "4:00 PM to 6:30 PM",
+    "location": "RMF Engineering, 8720 Red Oak Blvd, Suite 370, Charlotte, NC 28217, https://www.rmf.com/",
+    "description": "As healthcare needs continue to grow, many communities are facing a critical challenge: the infrastructure surrounding healthcare campuses does not always align with demand. Our Partners",
+    "is_virtual": false,
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1779135045"
   },
   {
     "chapter": "SMPS Nashville",
@@ -2062,7 +2101,7 @@
     "sort_date": "2026-09-10",
     "time": "11:30 AM to 1:00 PM",
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Stay Tunesd!",
+    "description": "Save the Date!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=354&ts=1778511303"
   },
@@ -2220,7 +2259,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Stay Tuned!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=351&ts=1778082837"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=351&ts=1779118158"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -2270,7 +2309,7 @@
     "sort_date": "2026-11-05",
     "time": "11:30 AM to 1:00 PM",
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Stay Tunesd!",
+    "description": "Save the Date!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=352&ts=1778083053"
   },
