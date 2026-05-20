@@ -127,18 +127,14 @@
       margin: 0;
       text-transform: uppercase;
       letter-spacing: .02em;
-    }
-
-    .site-subtitle {
-      font-family: var(--font-regular);
-      font-weight: 400;
-      color: #fff;
-      margin-top: 6px;
-      font-size: 15px;
+      line-height: 1;
     }
 
     .header-feedback-button {
       font-family: var(--font-regular);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       background: #fff;
       border: 1px solid #fff;
       color: var(--smps-black);
@@ -368,6 +364,25 @@
       font-size: 13px;
     }
 
+    .footer-inner {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .footer-logo-link {
+      display: inline-flex;
+      align-items: center;
+      flex: 0 0 auto;
+      line-height: 0;
+    }
+
+    .footer-logo {
+      display: block;
+      width: 74px;
+      height: auto;
+    }
+
     @media only screen and (max-width: 700px) {
       .site-title {
         font-size: 24px;
@@ -394,8 +409,12 @@
       }
 
       .header-inner {
-        align-items: flex-start;
+        align-items: center;
         flex-direction: column;
+      }
+
+      .footer-inner {
+        align-items: flex-start;
       }
     }
 .event-actions {
@@ -588,10 +607,7 @@
         <a href="https://smps.org/" class="header-logo-link" aria-label="SMPS home">
           <img src="smps_primary_logo_rev_rgb.png" alt="SMPS" class="header-logo">
         </a>
-        <div>
-          <h1 class="site-title">SMPS Events</h1>
-          <div class="site-subtitle">Chapter event aggregator</div>
-        </div>
+        <h1 class="site-title">Chapter Event Aggregator</h1>
       </div>
       <a
         href="mailto:dadezeeuw@psara.com?subject=SMPS%20Events%20Feedback"
@@ -689,8 +705,13 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container">
-      Event information is pulled from public chapter event pages. Always confirm details with the host chapter before registering.
+    <div class="container footer-inner">
+      <a href="https://smps.org/" class="footer-logo-link" aria-label="SMPS home">
+        <img src="smps_primaryR_2color.png" alt="SMPS" class="footer-logo">
+      </a>
+      <div>
+        Event information is pulled from public chapter event pages. Always confirm details with the host chapter before registering.
+      </div>
     </div>
   </footer>
 
