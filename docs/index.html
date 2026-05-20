@@ -98,6 +98,27 @@
       gap: 20px;
     }
 
+    .header-brand {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      min-width: 0;
+    }
+
+    .header-logo-link {
+      display: inline-flex;
+      align-items: center;
+      flex: 0 0 auto;
+      line-height: 0;
+    }
+
+    .header-logo {
+      display: block;
+      width: 142px;
+      max-width: 32vw;
+      height: auto;
+    }
+
     .site-title {
       font-family: var(--font-headline);
       font-size: 28px;
@@ -352,6 +373,14 @@
         font-size: 24px;
       }
 
+      .header-brand {
+        gap: 14px;
+      }
+
+      .header-logo {
+        width: 118px;
+      }
+
       .page-title h1 {
         font-size: 28px;
       }
@@ -555,9 +584,14 @@
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <div>
-        <h1 class="site-title">SMPS Events</h1>
-        <div class="site-subtitle">Chapter event aggregator</div>
+      <div class="header-brand">
+        <a href="https://smps.org/" class="header-logo-link" aria-label="SMPS home">
+          <img src="smps_primary_logo_rev_rgb.png" alt="SMPS" class="header-logo">
+        </a>
+        <div>
+          <h1 class="site-title">SMPS Events</h1>
+          <div class="site-subtitle">Chapter event aggregator</div>
+        </div>
       </div>
       <a
         href="mailto:dadezeeuw@psara.com?subject=SMPS%20Events%20Feedback"
