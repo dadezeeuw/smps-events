@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T12:58:17",
+  "last_updated": "2026-05-25T08:27:41",
   "total_events": 163,
   "batch": {
     "batch_index": 0,
@@ -407,7 +407,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 2,
-      "load_attempts": 1,
+      "load_attempts": 2,
       "lines_loaded": 66,
       "rejected_dates": 0,
       "skipped_past_events": 0
@@ -680,7 +680,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 11,
-      "load_attempts": 1,
+      "load_attempts": 2,
       "lines_loaded": 138,
       "rejected_dates": 0,
       "skipped_past_events": 0
