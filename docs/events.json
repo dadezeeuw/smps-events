@@ -10,7 +10,7 @@
     "location": "Coca-Cola Bottling United Headquarters Birmingham, 1101 40th Street North, Birmingham, AL 35234, https://share.google/XeCBbnQPYXTs1VuWq",
     "description": "SMPS Alabama invites you to join us for an exclusive tour of the Coca-Cola Bottling UNITED Headquarters Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.",
     "is_virtual": false,
-    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=149&ts=1779120369"
+    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=149&ts=1779808239"
   },
   {
     "chapter": "SMPS Idaho",
@@ -335,7 +335,7 @@
     "location": "Duke University, Lilly Library, 1348 Campus Dr., Durham, NC 27708",
     "description": "Join us for a special bonus summer site tour! We\u2019ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion\u2014ambitious project reimagining Duke University\u2019s first library and reinforcing its role at the heart of East Campus.",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1779209492"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1779813392"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -348,7 +348,7 @@
     "location": "Zoom Webinar",
     "description": "The Importance of Strategically Using and Protecting Your Business Against Artificial Intelligence in the Construction Industry",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1779305487"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1779822076"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -374,7 +374,7 @@
     "location": "Metro Nashville Youth Center for Empowerment (NYCE), 1354 Brick Church Pike, Nashville, TN 37207",
     "description": "Join us for a tour of NYCE.",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=281&ts=1779481006"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=281&ts=1779806541"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -387,7 +387,7 @@
     "location": "SmithGroup San Francisco Office, 301 Battery Street, 4th Floor, San Francisco, CA 94111",
     "description": "Create a mini Zen garden in this hands-on wellness workshop focused on finding calm in the chaos.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1779323310"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1779822873"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -765,6 +765,19 @@
     "description": "Take your best shot at SMPS Philadelphia\u2019s Bullseye Bash on Thursday, June 11 at Flight Club!",
     "is_virtual": false,
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=260&ts=1778504234"
+  },
+  {
+    "chapter": "SMPS Pittsburgh",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "Buildings and Brews Happy Hour",
+    "date": "June 11, 2026",
+    "sort_date": "2026-06-11",
+    "time": "4:00 PM - 6:00 PM",
+    "location": "Federal Galley, 200 Children's Way, Pittsburgh, PA 15212",
+    "description": "Pittsburgh Commercial Real Estate Networking Event of the Summer",
+    "is_virtual": false,
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=147&ts=1779805076"
   },
   {
     "chapter": "SMPS Palmetto",
