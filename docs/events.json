@@ -88,7 +88,7 @@
     "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr, Houston, TX 77041",
     "description": "Unlock the power of digital marketing: affordable, targeted, and effective.",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=204&ts=1779392382"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=204&ts=1779838508"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -140,7 +140,7 @@
     "location": "Kitchell, 1707 E Highland Ave, Phoenix, AZ 85016",
     "description": "Winning work isn\u2019t accidental. It takes strategy, alignment, and the ability to pivot when it matters most.",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=272&ts=1778625321"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=272&ts=1779855808"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -348,7 +348,7 @@
     "location": "Zoom Webinar",
     "description": "The Importance of Strategically Using and Protecting Your Business Against Artificial Intelligence in the Construction Industry",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1779822076"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1779826584"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -374,7 +374,7 @@
     "location": "Metro Nashville Youth Center for Empowerment (NYCE), 1354 Brick Church Pike, Nashville, TN 37207",
     "description": "Join us for a tour of NYCE.",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=281&ts=1779806541"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=281&ts=1779819173"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -413,7 +413,7 @@
     "location": "Culinary Dropout Perimeter, 1231 Ashford Crossing | Building 900, Atlanta, GA 30346",
     "description": "Level Up your network at this exclusive, members-only happy hour, featuring great drinks, light bites, and a dynamic evening with fellow AEC marketing and business development professionals.",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=385&ts=1779302592"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=385&ts=1779825405"
   },
   {
     "chapter": "SMPS Indiana",
@@ -738,7 +738,7 @@
     "location": "Kimley-Horn, 1200 Peachtree ST NE | Suite 800, Atlanta, GA 30309",
     "description": "A dynamic panel discussion on how primes and subs build strong, strategic teaming relationships that win work.",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=386&ts=1778786838"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=386&ts=1779825028"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1001,6 +1001,45 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=196&ts=1766780756"
   },
   {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "NTX Midday Meetups - Dallas",
+    "date": "June 17, 2026",
+    "sort_date": "2026-06-17",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Blue Mesa Grill - Addison/Dallas, 14866 Montfort Drive, Dallas, TX 75254",
+    "description": "Join us in Dallas for our Midday Meetups!",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=295&ts=1779830203"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "NTX Midday Meetups - Fort Worth",
+    "date": "June 17, 2026",
+    "sort_date": "2026-06-17",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Blue Mesa Grill - Fort Worth, 612 Carroll St, Fort Worth, TX 76107",
+    "description": "Join us in Fort Worth for our Midday Meetups!",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=296&ts=1779830637"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "NTX Midday Meetups - Plano",
+    "date": "June 17, 2026",
+    "sort_date": "2026-06-17",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Blue Mesa Grill - Plano, 8200 Dallas Pkwy, Plano, TX 75024",
+    "description": "Join us in Plano for our Midday Meetups!",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=297&ts=1779830123"
+  },
+  {
     "chapter": "SMPS Wisconsin",
     "state": "Wisconsin",
     "region": "Heartland",
@@ -1194,6 +1233,19 @@
     "description": "Join us for the Energy in Idaho panel!",
     "is_virtual": false,
     "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1779490017"
+  },
+  {
+    "chapter": "SMPS Southeast Louisiana",
+    "state": "Louisiana",
+    "region": "Southern",
+    "title": "Working the Room: How to Walk In, Speak Up, and Move with Confidence",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "8:30 AM CDT to 10:30 AM CDT",
+    "location": "Woodward Design+Build, 1000 South Norman C. Francis Parkway, New Orleans, LA 70125",
+    "description": "Walking into a room full of unfamiliar faces can feel intimidating \u2014 even for seasoned professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=507&ts=1779304748"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1440,7 +1492,7 @@
     "location": "Virtual Meeting, Learn practical tips for creating effective email campaigns that increase engagement, strengthen brand awareness, and drive action.",
     "description": "",
     "is_virtual": true,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=507&ts=1779304748"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=509&ts=1779819517"
   },
   {
     "chapter": "SMPS Southeast Michigan",
