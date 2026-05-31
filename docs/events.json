@@ -1,44 +1,5 @@
 [
   {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
-    "title": "Movers + Shakers: Mystery in the Museum",
-    "date": "May 29, 2026",
-    "sort_date": "2026-05-29",
-    "time": "6:30 PM to 8:00 PM",
-    "location": "Scottsdale Museum of Contemporary Art, 7374 E 2nd Street, Scottsdale, AZ 85251",
-    "description": "Join us for a scavenger hunt through SMoCA! SEPERATE TICKET MUST BE PURCHASED THROUGH THE VENUE!",
-    "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=276&ts=1778225261"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Sunset Slow Flow with SMPS",
-    "date": "May 29, 2026",
-    "sort_date": "2026-05-29",
-    "time": "6:30 PM to 8:00 PM",
-    "location": "Upham Beach in St. Petersburg, 6850 Beach Plaza, St. Pete Beach, FL 33706",
-    "description": "Join SMPS Tampa Bay for a fun & relaxing evening during our first-ever Yoga Social",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=535&ts=1777927604"
-  },
-  {
-    "chapter": "SMPS New Mexico",
-    "state": "New Mexico",
-    "region": "Southwest",
-    "title": "May SMPS NM Coffee Meetup",
-    "date": "May 29, 2026",
-    "sort_date": "2026-05-29",
-    "time": "8:00 AM MDT - 9:00 AM MDT",
-    "location": "Napoli Coffee, 3035 Menaul Blvd. NE, Albuquerque, NM 87107",
-    "description": "May coffee meetup",
-    "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=112&ts=1777918992"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -206,19 +167,6 @@
     "description": "Experience the new Omaha Central Library through a tour exploring how thoughtful design is supporting community connection and learning.",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=316&ts=1779395626"
-  },
-  {
-    "chapter": "SMPS New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "Empire State CPSM Bootcamp",
-    "date": "June 05, 2026",
-    "sort_date": "2026-06-05",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Virtual",
-    "description": "Prepare for CPSM success with this 7-session study program hosted by SMPS New York and Upstate New York Chapters. Gain expert guidance, accountability, and peer support ahead of the September exam window.",
-    "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=172&ts=1779120469"
   },
   {
     "chapter": "SMPS Upstate New York",
@@ -478,7 +426,7 @@
     "location": "ChenMoore, 500 W Cypress Creek Road, Suite 600, Fort Lauderdale, FL 33309",
     "description": "Elevate Your Personal Brand with Professional Headshots and a Powerful Communication Session: Speak So People Listen",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=230&ts=1778611297"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=230&ts=1780061349"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -583,6 +531,19 @@
     "description": "Better interviews lead to better storytelling. Learn strategies for interviewing subject matter experts, uncovering meaningful project narratives, and transforming technical expertise into engaging storytelling across a firm\u2019s marketing and business-devel VIEW ATTENDEES",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=500&ts=1779314186"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "Movers + Shakers: Sunset Float",
+    "date": "June 12, 2026",
+    "sort_date": "2026-06-12",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "Butcher Jones Beach, 3 E Butcher Jones Beach Road, Fort McDowell , AZ 85264",
+    "description": "Grab your board, kayak, canoe, tube \u2014 if it floats, it\u2019s welcome!",
+    "is_virtual": false,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=278&ts=1780092083"
   },
   {
     "chapter": "SMPS Orange County",
@@ -881,7 +842,7 @@
     "location": "M.J. Engineering and Land Surveying, P.C., 21 Corporate Drive",
     "description": "Clifton Park NY Learn about the whole Business Development lifecycle!",
     "is_virtual": false,
-    "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=266&ts=1776881491"
+    "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=266&ts=1780058608"
   },
   {
     "chapter": "SMPS Oregon",
@@ -894,7 +855,7 @@
     "location": "503 Distilling, 4644 SE 17th Ave., Portland, OR 97202, https://djcoregon.com/event/top-projects/",
     "description": "A perfect blend of friendly cornhole competition, local brews, and meaningful networking\u2014all while supporting the Maurice Lucas Foundation. Calendar of Events Industry Events Architecture Foundation of Oregon (AFO) Building Pathways: Scholarship & Mentorship Showcase Thursday, April 16th, 5:30 - 7:30 PM at Design Portland, J.K. Gill Building Learn more and register at: events.ticketleap.com/tickets/aforegon/building-pathways-2026 DJC Oregon Top Projects Thursday, June 11, 2026 at the Oregon Convention Center. Learn more about the event and submit a nomination at . Registration Help If you are a new or reinstated member, please email info@smpsoregon.org for assistance completing your registration. The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb",
     "is_virtual": false,
-    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=213&ts=1777669249"
+    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=213&ts=1780087291"
   },
   {
     "chapter": "SMPS Austin",
@@ -949,6 +910,19 @@
     "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=102&ts=1779131817"
   },
   {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "SMPS Hawaii: Visual Persuasion in Proposals: Graphics, Branding, and Readability",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "11:30 AM HST to 12:30 PM HST",
+    "location": "Swinerton Office, 841 Bishop Street, Suite 500, Honolulu, HI 96813",
+    "description": "This session examines how strategic use of graphics, layout, and branding can improve proposal readability, clarify complex information, and create a more engaging and persuasive experience for evaluators.",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1780120982"
+  },
+  {
     "chapter": "SMPS Research Triangle",
     "state": "North Carolina",
     "region": "Southeast",
@@ -960,6 +934,19 @@
     "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
     "is_virtual": false,
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
+  },
+  {
+    "chapter": "SMPS Palmetto",
+    "state": "South Carolina",
+    "region": "Southeast",
+    "title": "Summer School is in Session: Insights from Charleston's Higher Education Leaders",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "11:30 AM EDT to 1:00 PM EDT",
+    "location": "Harbour Club at WestEdge, 22 Westedge Street, 7th Floor, Cooper Room, Charleston, SC 29403, https://myharbourclub.com/",
+    "description": "Charleston higher ed leaders reveal what's driving campus investment and what they look for when choosing design partners.",
+    "is_virtual": false,
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=393&ts=1780090143"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1038,19 +1025,6 @@
     "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
-  },
-  {
-    "chapter": "SMPS New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "Long Island Knowledge Exchange: June 2026 - Social Media Engagement",
-    "date": "June 24, 2026",
-    "sort_date": "2026-06-24",
-    "time": "5:30 PM to 7:00 PM",
-    "location": "H2M architects + engineers, 538 Broadhollow Rd, 4th Floor, Melville, NY 11747",
-    "description": "June Edition: SOCIAL MEDIA! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
-    "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=171&ts=1778794588"
   },
   {
     "chapter": "SMPS Austin",
@@ -1170,6 +1144,19 @@
     "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1779905505"
   },
   {
+    "chapter": "SMPS Oklahoma",
+    "state": "Oklahoma",
+    "region": "Southern",
+    "title": "Discover a District - Downtown Norman",
+    "date": "June 25, 2026",
+    "sort_date": "2026-06-25",
+    "time": "3:00 PM to 5:00 PM",
+    "location": "Downtown Norman Tours, 207 E. Main St, Norman, OK 73069",
+    "description": "See Downtown Norman with SMPS Oklahoma!",
+    "is_virtual": false,
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=186&ts=1780096846"
+  },
+  {
     "chapter": "SMPS Nashville",
     "state": "Tennessee",
     "region": "Southeast",
@@ -1207,6 +1194,19 @@
     "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
     "is_virtual": false,
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1778090872"
+  },
+  {
+    "chapter": "SMPS Maryland",
+    "state": "Maryland",
+    "region": "Northeast",
+    "title": "Accelerating Growth with Thought Leadership: A New Playbook",
+    "date": "July 08, 2026",
+    "sort_date": "2026-07-08",
+    "time": "12:00 PM to 1:30 PM",
+    "location": "Virtual",
+    "description": "Learn how to use thought leadership as a strategic growth tool \u2014 helping your firm build visibility, engage the right decision-makers, and align content with every stage of the A/E/C buying journey.",
+    "is_virtual": true,
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=100&ts=1780106949"
   },
   {
     "chapter": "SMPS Houston",
@@ -1310,7 +1310,7 @@
     "location": "Glenmede Headquarters, 1650 Market Street, One Liberty Building, 39th Floor, Philadelphia, PA 19103",
     "description": "In high-stakes industries, your reputation often enters the room before you do. SMPS, ISPE DVC, and 7x24 Exchange are joining forces for an Executive Intensive designed for senior professionals ready to scale their personal impact. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
     "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=261&ts=1780004423"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=261&ts=1780095649"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1402,6 +1402,19 @@
     "description": "Information to Come",
     "is_virtual": true,
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1757452226"
+  },
+  {
+    "chapter": "SMPS Maryland",
+    "state": "Maryland",
+    "region": "Northeast",
+    "title": "How to Capture Project Stories and Social Proof Before They Disappear",
+    "date": "August 05, 2026",
+    "sort_date": "2026-08-05",
+    "time": "12:00 PM to 1:30 PM",
+    "location": "Virtual",
+    "description": "Learn how to capture project stories before they disappear \u2014 and turn them into testimonials, case studies, proposal content, recruiting materials, social media posts, award submissions, and other strategic marketing assets.",
+    "is_virtual": true,
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=101&ts=1780107896"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1531,7 +1544,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1779896945"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1780088069"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1688,6 +1701,19 @@
     "description": "Learn How To Maximize Your Experience at HRC!",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1779982950"
+  },
+  {
+    "chapter": "SMPS South Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "The Future Starts this School Year - NextGen Education and Designing Spaces for Success",
+    "date": "September 23, 2026",
+    "sort_date": "2026-09-23",
+    "time": "8:30 AM to 11:00 AM",
+    "location": "Nova Southeastern University - Carl Desantis Building, 3050 Ray Ferrero Jr Blvd., Davie, FL 33314",
+    "description": "NextGen Education brings together education leaders and industry partners to explore the future of learning in South Florida.",
+    "is_virtual": false,
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=231&ts=1780061468"
   },
   {
     "chapter": "SMPS North Texas",
