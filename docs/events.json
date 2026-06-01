@@ -169,6 +169,19 @@
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=316&ts=1779395626"
   },
   {
+    "chapter": "SMPS New York",
+    "state": "New York",
+    "region": "Northeast",
+    "title": "Empire State CPSM Bootcamp",
+    "date": "June 05, 2026",
+    "sort_date": "2026-06-05",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Virtual",
+    "description": "Prepare for CPSM success with this 7-session study program hosted by SMPS New York and Upstate New York Chapters. Gain expert guidance, accountability, and peer support ahead of the September exam window.",
+    "is_virtual": true,
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=172&ts=1779120469"
+  },
+  {
     "chapter": "SMPS Upstate New York",
     "state": "New York",
     "region": "Northeast",
@@ -582,7 +595,7 @@
     "location": "WSKY Stadium, 5625 Polaris Ave Suite 100, Las Vegas, NV 89118",
     "description": "Gain insight into the latest developments shaping the Southern Nevada multifamily market.",
     "is_virtual": false,
-    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=76&ts=1777633609"
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=76&ts=1780299106"
   },
   {
     "chapter": "SMPS Charlotte",
@@ -700,6 +713,19 @@
     "description": "Celebrate summer and connect with your fellow SMPS members at our Member Appreciation Event on June 17 at Color Me Mine in Edina!",
     "is_virtual": false,
     "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=266&ts=1777413884"
+  },
+  {
+    "chapter": "SMPS New York",
+    "state": "New York",
+    "region": "Northeast",
+    "title": "SMPS-NY Town Hall",
+    "date": "June 17, 2026",
+    "sort_date": "2026-06-17",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual",
+    "description": "The SMPS-NY Town Hall is a free event to SMPS members and non-members. The Town Hall is an open forum to learn about upcoming changes in the chapter and to discuss ways to get involved, future events, and industry happenings.",
+    "is_virtual": true,
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=173&ts=1780084878"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -965,12 +991,12 @@
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
-    "title": "Member Appreciation: Game Night",
+    "title": "Member Appreciation: Game Nigh ...",
     "date": "June 24, 2026",
     "sort_date": "2026-06-24",
     "time": "TBD",
     "location": "See event details",
-    "description": "Category: Membership",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=792&Itemid=115&year=2026&month=06&day=24&title=member-appreciation-game-night&uid=7332bd85d5c7a6f8c328659b4997a99e"
   },
@@ -1025,6 +1051,19 @@
     "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
+  },
+  {
+    "chapter": "SMPS New York",
+    "state": "New York",
+    "region": "Northeast",
+    "title": "Long Island Knowledge Exchange: June 2026 - Social Media Engagement",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "5:30 PM to 7:00 PM",
+    "location": "H2M architects + engineers, 538 Broadhollow Rd, 4th Floor, Melville, NY 11747",
+    "description": "June Edition: SOCIAL MEDIA! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
+    "is_virtual": false,
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=171&ts=1778794588"
   },
   {
     "chapter": "SMPS Austin",
@@ -1196,6 +1235,19 @@
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1778090872"
   },
   {
+    "chapter": "SMPS Northern New England",
+    "state": "Maine",
+    "region": "Northeast",
+    "title": "Play Ball! SMPS NNE Year-End Membership Appreciation",
+    "date": "June 30, 2026",
+    "sort_date": "2026-06-30",
+    "time": "4:30 PM to 9:00 PM",
+    "location": "Hadlock Field, 271 Park Avenue, Portland, ME 04102",
+    "description": "Get in the game with SMPS NNE for an evening of fun, food, and conversation!",
+    "is_virtual": false,
+    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=162&ts=1780320361"
+  },
+  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -1246,6 +1298,19 @@
     "description": "Join us for networking!",
     "is_virtual": false,
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=371&ts=1768331767"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "CPSM Study Group: Domain 4 (Proposals)",
+    "date": "July 09, 2026",
+    "sort_date": "2026-07-09",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Online",
+    "description": "Proposals",
+    "is_virtual": true,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=303&ts=1780325902"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1677,6 +1742,19 @@
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=354&ts=1779221217"
   },
   {
+    "chapter": "SMPS Las Vegas",
+    "state": "Nevada",
+    "region": "Pacific",
+    "title": "Happy Hour and Member Celebration",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "The Ridge, 4570 Hualapai Way, Las Vegas, NV 89147",
+    "description": "Join us as we celebrate our members and launch into a powerful new SMPS year.",
+    "is_virtual": false,
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=81&ts=1780304240"
+  },
+  {
     "chapter": "SMPS Atlanta",
     "state": "Georgia",
     "region": "Southeast",
@@ -1885,6 +1963,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=195&ts=1763766097"
   },
   {
+    "chapter": "SMPS Las Vegas",
+    "state": "Nevada",
+    "region": "Pacific",
+    "title": "Historic Westside: Transformative Revitalization",
+    "date": "October 27, 2026",
+    "sort_date": "2026-10-27",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "WSKY Stadium, 5625 Polaris Ave Suite 100, Las Vegas, NV 89118",
+    "description": "The Historic Westside of Las Vegas is undergoing a transformative revitalization focused on education, workforce development, housing, and community investment.",
+    "is_virtual": false,
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=77&ts=1780304335"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -1950,6 +2041,19 @@
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=375&ts=1768332036"
   },
   {
+    "chapter": "SMPS Las Vegas",
+    "state": "Nevada",
+    "region": "Pacific",
+    "title": "November Lunch 'n Learn: BOOST YOUR SKILLS",
+    "date": "November 17, 2026",
+    "sort_date": "2026-11-17",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Whiting-Turner Contracting Company, 6720 Via Austi Pkwy, Suite 550, Las Vegas, NV 89119",
+    "description": "Boost your skills at our next Lunch 'n Learn",
+    "is_virtual": false,
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=78&ts=1780300576"
+  },
+  {
     "chapter": "SMPS Columbus",
     "state": "Ohio",
     "region": "Heartland",
@@ -2002,6 +2106,19 @@
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=596&ts=1757614608"
   },
   {
+    "chapter": "SMPS Las Vegas",
+    "state": "Nevada",
+    "region": "Pacific",
+    "title": "Miracle on Spring Mountain Holiday Party",
+    "date": "December 10, 2026",
+    "sort_date": "2026-12-10",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "The Sandollar Lounge, 3355 Spring Mountain Rd, Las Vegas, NV 89102",
+    "description": "Embrace the holiday spirit with an evening of festive cheer!",
+    "is_virtual": false,
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=79&ts=1780304516"
+  },
+  {
     "chapter": "SMPS Palmetto",
     "state": "South Carolina",
     "region": "Southeast",
@@ -2026,5 +2143,18 @@
     "description": "Become a SMPS Tampa Bay Annual Sponsor!",
     "is_virtual": false,
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=350&ts=1768499813"
+  },
+  {
+    "chapter": "SMPS Las Vegas",
+    "state": "Nevada",
+    "region": "Pacific",
+    "title": "18th Annual Public Works Roundtable",
+    "date": "January 12, 2027",
+    "sort_date": "2027-01-12",
+    "time": "11:30 AM to 1:30 PM",
+    "location": "WSKY Stadium, 5625 Polaris Ave Suite 100, Las Vegas, NV 89118",
+    "description": "Kick-off the New Year with meaningful connections and insightful updates!",
+    "is_virtual": false,
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=80&ts=1780304305"
   }
 ]
