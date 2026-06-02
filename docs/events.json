@@ -36,7 +36,7 @@
     "location": "Zoom Webinar",
     "description": "The Importance of Strategically Using and Protecting Your Business Against Artificial Intelligence in the Construction Industry",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1779826584"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1780361475"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -133,14 +133,14 @@
     "chapter": "SMPS Boston",
     "state": "Massachusetts",
     "region": "Northeast",
-    "title": "SMPS Boston Annual Awards Gala",
+    "title": "SMPS Boston Annual Awards Gala - SOLD OUT",
     "date": "June 04, 2026",
     "sort_date": "2026-06-04",
     "time": "5:30 PM to 9:30 PM",
     "location": "City Winery, 80 Beverly St., Boston, MA 02114, Join us for the 2026 SMPS Awards Gala: Triple Crown, an evening inspired by the Kentucky Derby, Preakness, and Belmont Stakes. Dress to impress, sip something bold, and celebrate in the winner\u2019s circle.",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=171&ts=1779998284"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=171&ts=1780347783"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -192,7 +192,7 @@
     "location": "Webinar",
     "description": "Invest in Your Personal Growth!",
     "is_virtual": true,
-    "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=267&ts=1778259971"
+    "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=267&ts=1780336124"
   },
   {
     "chapter": "SMPS Austin",
@@ -257,7 +257,7 @@
     "location": "McCarthy Building Companies, 12851 Manchester Rd., St. Louis, MO 63131",
     "description": "Explore how architects, engineers, contractors and marketing professionals effectively make the case for green building in real-world project conversations.",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=275&ts=1778618982"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=275&ts=1780339244"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -569,7 +569,7 @@
     "location": "Tustin Ranch Golf Club, 12442 Tustin Ranch Rd, Tustin, CA 92782",
     "description": "Join us for one of our signature annual events and meet the leading contractors in Southern California! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1780014547"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1780360251"
   },
   {
     "chapter": "SMPS Colorado",
@@ -621,7 +621,7 @@
     "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1776451081"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1780401499"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -647,7 +647,7 @@
     "location": "Farmington Gardens, 999 Farmington Ave, Farmington, CT 06032, Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1778519199"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1780343678"
   },
   {
     "chapter": "SMPS North Florida",
@@ -832,6 +832,58 @@
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=789&Itemid=115&year=2026&month=06&day=18&title=tracking-roi-at-conferences&uid=a1cf75fe5b7e36046a20f439cf9ad810"
   },
   {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 Tampa",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Buddy Brew Coffee, 2020 W Kennedy Blvd, Tampa, FL 33606",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=543&ts=1780336468"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 St. Pete",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Southern Grounds & Co., 695 Central Ave, St. Petersburg, FL 33701",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=544&ts=1780336587"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 Sarasota",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Perq Coffee Bar, 1821 Hillview St, Sarasota, FL 34239",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=545&ts=1780336717"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee and Connections \u2013 Lakeland",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Foxtail Coffee, 322 Kathleen Rd., Lakeland, FL 33815",
+    "description": "Network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=546&ts=1780336980"
+  },
+  {
     "chapter": "SMPS St. Louis",
     "state": "Missouri",
     "region": "Missouri Valley",
@@ -959,7 +1011,7 @@
     "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Suite 475, RALEIGH, NC 27607",
     "description": "Learn a practical storytelling framework that turns technical information into persuasive narratives\u2014helping you strengthen proposals, presentations, and everyday marketing and BD content to win more work. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1775742688"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=169&ts=1780339426"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -972,7 +1024,7 @@
     "location": "Harbour Club at WestEdge, 22 Westedge Street, 7th Floor, Cooper Room, Charleston, SC 29403, https://myharbourclub.com/",
     "description": "Charleston higher ed leaders reveal what's driving campus investment and what they look for when choosing design partners.",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=393&ts=1780090143"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=393&ts=1780333058"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1235,6 +1287,19 @@
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1778090872"
   },
   {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Summer Volunteer Event",
+    "date": "June 30, 2026",
+    "sort_date": "2026-06-30",
+    "time": "1:00 PM to 4:00 PM",
+    "location": "Second Harvest Food Bank of Central Florida, 411 Mercy Drive, Orlando, FL 32805",
+    "description": "Service + connection = the perfect summer afternoon! We\u2019re heading to Second Harvest on June 30 to support our local community and strengthen our SMPS Central Florida network. Let\u2019s serve, connect, and make an impact together.",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=654&ts=1780398723"
+  },
+  {
     "chapter": "SMPS Northern New England",
     "state": "Maine",
     "region": "Northeast",
@@ -1246,6 +1311,19 @@
     "description": "Get in the game with SMPS NNE for an evening of fun, food, and conversation!",
     "is_virtual": false,
     "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=162&ts=1780320361"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Save the Date: From Top-Down to Buy-In - Making Leadership Ideas Stick",
+    "date": "July 08, 2026",
+    "sort_date": "2026-07-08",
+    "time": "12:00 PM - 1:00 PM",
+    "location": "Virtual",
+    "description": "Save the Date",
+    "is_virtual": true,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=627&ts=1780341672"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1805,6 +1883,19 @@
     "description": "Save the date for our annual awards event!",
     "is_virtual": false,
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=284&ts=1773591121"
+  },
+  {
+    "chapter": "SMPS Kansas City",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "CX Immersion: Lead the Future of Client Experience in AEC",
+    "date": "September 24, 2026",
+    "sort_date": "2026-09-24",
+    "time": "9:00 AM - 4:00 PM",
+    "location": "The American Institute of Architects Kansas City, 1801 McGee, Suite 100, Kansas City, MO 64108",
+    "description": "Firms that intentionally design and manage the client experience build stronger relationships, increase loyalty, win repeat business, and become the partner of choice in their markets.",
+    "is_virtual": false,
+    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=207&ts=1780348675"
   },
   {
     "chapter": "SMPS Central Pennsylvania",

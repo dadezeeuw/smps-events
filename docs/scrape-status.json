@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T10:25:21",
-  "total_events": 166,
+  "last_updated": "2026-06-02T08:28:26",
+  "total_events": 173,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -133,9 +133,9 @@
       "url": "https://smpssf.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 11,
+      "events_found": 12,
       "load_attempts": 1,
-      "lines_loaded": 134,
+      "lines_loaded": 140,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -185,9 +185,9 @@
       "url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 125,
+      "lines_loaded": 134,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -224,9 +224,9 @@
       "url": "https://smpstampabay.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 68,
+      "lines_loaded": 104,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -419,9 +419,9 @@
       "url": "https://smpskc.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 52,
+      "lines_loaded": 60,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -525,7 +525,7 @@
       "message": "Scraped successfully.",
       "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 68,
+      "lines_loaded": 67,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
