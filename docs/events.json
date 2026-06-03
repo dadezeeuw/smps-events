@@ -3,32 +3,6 @@
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
-    "title": "Taste of SMPS San Francisco Bay Area Chapter",
-    "date": "June 02, 2026",
-    "sort_date": "2026-06-02",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Virtual",
-    "description": "A meeting link will be sent closer to the event. Taste of SMPS is a virtual meeting to welcome new and prospective members and to introduce the executive board and committee directors.",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=617&ts=1770149147"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "SMPS Summer 2026 Site Tour",
-    "date": "June 02, 2026",
-    "sort_date": "2026-06-02",
-    "time": "3:00 PM to 5:00 PM",
-    "location": "Duke University, Lilly Library, 1348 Campus Dr., Durham, NC 27708",
-    "description": "Join us for a special bonus summer site tour! We\u2019ll go behind the scenes of the Duke University Lilly Library Renovation and Expansion\u2014ambitious project reimagining Duke University\u2019s first library and reinforcing its role at the heart of East Campus.",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=170&ts=1779813392"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
     "title": "Forewarned and Forearmed",
     "date": "June 03, 2026",
     "sort_date": "2026-06-03",
@@ -75,7 +49,7 @@
     "location": "SmithGroup San Francisco Office, 301 Battery Street, 4th Floor, San Francisco, CA 94111",
     "description": "Create a mini Zen garden in this hands-on wellness workshop focused on finding calm in the chaos.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1779990453"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=625&ts=1780445008"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -715,19 +689,6 @@
     "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=266&ts=1777413884"
   },
   {
-    "chapter": "SMPS New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "SMPS-NY Town Hall",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual",
-    "description": "The SMPS-NY Town Hall is a free event to SMPS members and non-members. The Town Hall is an open forum to learn about upcoming changes in the chapter and to discuss ways to get involved, future events, and industry happenings.",
-    "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=173&ts=1780084878"
-  },
-  {
     "chapter": "SMPS Philadelphia",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -744,14 +705,14 @@
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
-    "title": "SMPS Houston Professional Development |The ABCs of AEC",
+    "title": "SMPS Houston Webinar  |The ABCs of AEC",
     "date": "June 17, 2026",
     "sort_date": "2026-06-17",
     "time": "2:00 PM to 3:30 PM",
     "location": "Webinar",
     "description": "Learn how to decode the ABCs of the AEC Industry",
     "is_virtual": true,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=196&ts=1766780756"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=196&ts=1780457773"
   },
   {
     "chapter": "SMPS North Texas",
@@ -764,7 +725,7 @@
     "location": "Blue Mesa Grill - Addison/Dallas, 14866 Montfort Drive, Dallas, TX 75254",
     "description": "Join us in Dallas for our Midday Meetups!",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=295&ts=1779985094"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=295&ts=1780438848"
   },
   {
     "chapter": "SMPS North Texas",
@@ -777,7 +738,7 @@
     "location": "Blue Mesa Grill - Fort Worth, 612 Carroll St, Fort Worth, TX 76107",
     "description": "Join us in Fort Worth for our Midday Meetups!",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=296&ts=1779985052"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=296&ts=1780438916"
   },
   {
     "chapter": "SMPS North Texas",
@@ -790,7 +751,7 @@
     "location": "Blue Mesa Grill - Plano, 8200 Dallas Pkwy, Plano, TX 75024",
     "description": "Join us in Plano for our Midday Meetups!",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=297&ts=1779984988"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=297&ts=1780438936"
   },
   {
     "chapter": "SMPS Wisconsin",
@@ -891,10 +852,10 @@
     "date": "June 18, 2026",
     "sort_date": "2026-06-18",
     "time": "8:30 AM CDT to 9:30 AM CDT",
-    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
-    "description": "Join us over coffee for a conversation Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
+    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
+    "description": "Join us over coffee for a conversation",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=267&ts=1774896086"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=267&ts=1780433137"
   },
   {
     "chapter": "SMPS New Mexico",
@@ -946,7 +907,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Sponsorships Available and Registration is Open!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1779339375"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1780411296"
   },
   {
     "chapter": "SMPS Arizona",
@@ -998,7 +959,7 @@
     "location": "Swinerton Office, 841 Bishop Street, Suite 500, Honolulu, HI 96813",
     "description": "This session examines how strategic use of graphics, layout, and branding can improve proposal readability, clarify complex information, and create a more engaging and persuasive experience for evaluators.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1780120982"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1780450471"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -1076,7 +1037,7 @@
     "location": "Woodward Design+Build, 1000 South Norman C. Francis Parkway, New Orleans, LA 70125",
     "description": "Walking into a room full of unfamiliar faces can feel intimidating \u2014 even for seasoned professionals.",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=489"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=509&ts=1779986004"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1103,6 +1064,19 @@
     "description": "A hands-on workshop exploring how AI can be integrated into real-world BD workflows. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=312&ts=1774446244"
+  },
+  {
+    "chapter": "SMPS New York",
+    "state": "New York",
+    "region": "Northeast",
+    "title": "SMPS-NY Town Hall",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual",
+    "description": "The SMPS-NY Town Hall is a free event to SMPS members and non-members. The Town Hall is an open forum to learn about upcoming changes in the chapter and to discuss ways to get involved, future events, and industry happenings.",
+    "is_virtual": true,
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=173&ts=1780422782"
   },
   {
     "chapter": "SMPS New York",
@@ -1194,6 +1168,19 @@
     "description": "Join SMPS Central Florida for a dynamic leadership workshop created to help professionals grow their influence, elevate their leadership presence, and create a lasting ripple effect within their organizations.",
     "is_virtual": false,
     "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=653&ts=1779118409"
+  },
+  {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS ATLANTA Market Exchange: Literary Leaders Book Club",
+    "date": "June 25, 2026",
+    "sort_date": "2026-06-25",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Zoom Virtual Platform",
+    "description": "Ready to level up your leadership in one lunch break? Join us on June 25 as we unpack Radical Candor \u2014 the bestselling guide to giving feedback that\u2019s direct, kind, and actually effective. Bring your lunch, your curiosity, and your hot takes. We\u2019ll bring",
+    "is_virtual": true,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=387&ts=1780446850"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1310,7 +1297,20 @@
     "location": "Hadlock Field, 271 Park Avenue, Portland, ME 04102",
     "description": "Get in the game with SMPS NNE for an evening of fun, food, and conversation!",
     "is_virtual": false,
-    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=162&ts=1780320361"
+    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=162&ts=1780419932"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Sip & Social: South Sound Proud",
+    "date": "June 30, 2026",
+    "sort_date": "2026-06-30",
+    "time": "4:30 PM to 6:30 PM",
+    "location": "Peaks and Pints, 3816 N 26th St B, Tacoma, WA 98407",
+    "description": "Close out Pride Month with great company, meaningful connections, and a toast to community at our next Sip & Social. Join your fellow SMPSers in the South Sound for an easy, after-work mix at one of Tacoma\u2019s favorite spots, Peaks & Pints. VIEW ATTENDEES",
+    "is_virtual": false,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=501&ts=1780427972"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1323,7 +1323,7 @@
     "location": "Virtual",
     "description": "Save the Date",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=627&ts=1780341672"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=627&ts=1780447718"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1349,7 +1349,7 @@
     "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr",
     "description": "Houston,  77041 Join Us for the SMPS Houston New Member Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1778213497"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1780423755"
   },
   {
     "chapter": "SMPS San Diego",
@@ -1414,7 +1414,7 @@
     "location": "Virtual Meeting, Learn practical tips for creating effective email campaigns that increase engagement, strengthen brand awareness, and drive action.",
     "description": "",
     "is_virtual": true,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=509&ts=1779986004"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=508&ts=1778689465"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -1505,7 +1505,20 @@
     "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr, Houston, TX 77041",
     "description": "Join us for this hands-on workshop for experienced users with Adobe Certified Professional Audra Allen!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=207&ts=1772422463"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=207&ts=1780424282"
+  },
+  {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "Pickleball Tournament and Happy Hour",
+    "date": "July 23, 2026",
+    "sort_date": "2026-07-23",
+    "time": "1:45 PM CDT to 5:00 PM CDT",
+    "location": "Chicken N Pickle - St. Charles, 1500 S Main St, Saint Charles, MO 63303, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
+    "description": "Join us for our fifth annual Pickleball Tournament and Happy Hour! Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1780422990"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1584,6 +1597,19 @@
     "description": "Join us for the August Market Luncheon!",
     "is_virtual": false,
     "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=255&ts=1765844706"
+  },
+  {
+    "chapter": "SMPS North Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Capturing Projects That Win Work: Strategies for Effective Project Photography",
+    "date": "August 12, 2026",
+    "sort_date": "2026-08-12",
+    "time": "10:15 AM to 11:30 AM",
+    "location": "NEFBA Office (Abercrombie Room), 932 Sunbeam Road, Jacksonville, FL 32257",
+    "description": "Great project photos don\u2019t happen by accident, they\u2019re planned, directed, and executed with intention. This session focuses on the practical side of project photography, giving you the tools to get the images you actually need.",
+    "is_virtual": false,
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=103&ts=1780424930"
   },
   {
     "chapter": "SMPS Houston",
@@ -1856,7 +1882,7 @@
     "location": "Bricker Graydon Wyatt, 312 Walnut Street, Suite 1800, Cincinnati, OH 45202, https://www.bricker.com/",
     "description": "Learn How To Maximize Your Experience at HRC!",
     "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1779982950"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1780408354"
   },
   {
     "chapter": "SMPS South Florida",
