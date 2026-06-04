@@ -3,45 +3,6 @@
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
-    "title": "Forewarned and Forearmed",
-    "date": "June 03, 2026",
-    "sort_date": "2026-06-03",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Zoom Webinar",
-    "description": "The Importance of Strategically Using and Protecting Your Business Against Artificial Intelligence in the Construction Industry",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=626&ts=1780361475"
-  },
-  {
-    "chapter": "SMPS Twin Cities",
-    "state": "Minnesota",
-    "region": "Heartland",
-    "title": "The Art of Interview Prep and Coaching",
-    "date": "June 03, 2026",
-    "sort_date": "2026-06-03",
-    "time": "8:30 AM to 11:00 AM",
-    "location": "Wilder Center, 451 Lexington Parkway N, St. Paul, MN 55104, https://www.wilder.org/",
-    "description": "You've built the proposal and landed the shortlist\u2014now comes the interview. Prepping a team can feel like herding cats, but with the right approach, it becomes a chance to showcase strengths and win the work.",
-    "is_virtual": false,
-    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=258&ts=1769104173"
-  },
-  {
-    "chapter": "SMPS Nashville",
-    "state": "Tennessee",
-    "region": "Southeast",
-    "title": "Site Series: NYCE",
-    "date": "June 03, 2026",
-    "sort_date": "2026-06-03",
-    "time": "1:30 PM to 2:30 PM",
-    "location": "Metro Nashville Youth Center for Empowerment (NYCE), 1354 Brick Church Pike, Nashville, TN 37207",
-    "description": "Join us for a tour of NYCE.",
-    "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=281&ts=1779892796"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
     "title": "Wellness Workshop",
     "date": "June 04, 2026",
     "sort_date": "2026-06-04",
@@ -312,6 +273,19 @@
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=793&Itemid=115&year=2026&month=06&day=10&title=southern-colorado-development-panel&uid=5f078aa0f1fd939a15f7ab8a5ec2a60b"
   },
   {
+    "chapter": "SMPS Wichita",
+    "state": "Kansas",
+    "region": "Missouri Valley",
+    "title": "Jobsite Tour: Wichita Biomedical Campus (Members Only!)",
+    "date": "June 10, 2026",
+    "sort_date": "2026-06-10",
+    "time": "4:00 pm",
+    "location": "See event details",
+    "description": "-",
+    "is_virtual": false,
+    "detail_url": "https://www.smpswichita.org/event/biomedical-campus-tour/"
+  },
+  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -543,7 +517,7 @@
     "location": "Tustin Ranch Golf Club, 12442 Tustin Ranch Rd, Tustin, CA 92782",
     "description": "Join us for one of our signature annual events and meet the leading contractors in Southern California! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1780360251"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1780541814"
   },
   {
     "chapter": "SMPS Colorado",
@@ -608,7 +582,7 @@
     "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
     "description": "Join us for the June Market Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1779903637"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1780495785"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -845,6 +819,19 @@
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=546&ts=1780336980"
   },
   {
+    "chapter": "SMPS Kansas City",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "June Coffee Connections",
+    "date": "June 18, 2026",
+    "sort_date": "2026-06-18",
+    "time": "8:30 AM - 9:30 AM",
+    "location": "Pitchside Coffee, 1819 Grand Boulevard, Kansas City, MO 64108",
+    "description": "Join us for June Coffee Connections!",
+    "is_virtual": false,
+    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=209&ts=1780513186"
+  },
+  {
     "chapter": "SMPS St. Louis",
     "state": "Missouri",
     "region": "Missouri Valley",
@@ -907,7 +894,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Sponsorships Available and Registration is Open!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1780411296"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=350&ts=1780505050"
   },
   {
     "chapter": "SMPS Arizona",
@@ -959,7 +946,7 @@
     "location": "Swinerton Office, 841 Bishop Street, Suite 500, Honolulu, HI 96813",
     "description": "This session examines how strategic use of graphics, layout, and branding can improve proposal readability, clarify complex information, and create a more engaging and persuasive experience for evaluators.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1780450471"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1780543833"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -1024,7 +1011,7 @@
     "location": "CSHQA, 200 Broad Street, Boise, ID 83702",
     "description": "Join us for the Energy in Idaho panel!",
     "is_virtual": false,
-    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1779916142"
+    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1780511338"
   },
   {
     "chapter": "SMPS Southeast Louisiana",
@@ -1037,7 +1024,7 @@
     "location": "Woodward Design+Build, 1000 South Norman C. Francis Parkway, New Orleans, LA 70125",
     "description": "Walking into a room full of unfamiliar faces can feel intimidating \u2014 even for seasoned professionals.",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=509&ts=1779986004"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=509&ts=1780506398"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1157,6 +1144,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=494&ts=1774560339"
   },
   {
+    "chapter": "SMPS Ontario",
+    "state": "Ontario",
+    "region": "Northeast",
+    "title": "Summer Social at The Pilot",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "6:00 PM EDT to 9:00 PM EDT",
+    "location": "The Pilot, 22 Cumberland St.",
+    "description": "Toronto, ON M4W 1J5 Find familiar faces and make new connections: Summer Social is an opportunity for the SMPS Ontario community to gather and enjoy the warmer weather and great conversation.",
+    "is_virtual": false,
+    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=257&ts=1780521159"
+  },
+  {
     "chapter": "SMPS Central Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1219,7 +1219,7 @@
     "location": "1st floor Conference Center, 8720 Red Oak Blvd, Charlotte, NC 28217",
     "description": "As healthcare needs continue to grow, many communities are facing a critical challenge: the infrastructure surrounding healthcare campuses does not always align with demand. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1779905505"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1780496312"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1324,6 +1324,19 @@
     "description": "Save the Date",
     "is_virtual": true,
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=627&ts=1780447718"
+  },
+  {
+    "chapter": "SMPS Wichita",
+    "state": "Kansas",
+    "region": "Missouri Valley",
+    "title": "Setting Healthy Boundaries & Avoiding Burnout",
+    "date": "July 08, 2026",
+    "sort_date": "2026-07-08",
+    "time": "12:00 pm",
+    "location": "See event details",
+    "description": "-",
+    "is_virtual": false,
+    "detail_url": "https://www.smpswichita.org/event/avoiding-burnout/"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1518,7 +1531,7 @@
     "location": "Chicken N Pickle - St. Charles, 1500 S Main St, Saint Charles, MO 63303, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
     "description": "Join us for our fifth annual Pickleball Tournament and Happy Hour! Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1780422990"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1780504523"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1610,6 +1623,19 @@
     "description": "Great project photos don\u2019t happen by accident, they\u2019re planned, directed, and executed with intention. This session focuses on the practical side of project photography, giving you the tools to get the images you actually need.",
     "is_virtual": false,
     "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=103&ts=1780424930"
+  },
+  {
+    "chapter": "SMPS Wichita",
+    "state": "Kansas",
+    "region": "Missouri Valley",
+    "title": "The Benefits of Board Service: A Panel Discussion",
+    "date": "August 12, 2026",
+    "sort_date": "2026-08-12",
+    "time": "11:30 am",
+    "location": "See event details",
+    "description": "-",
+    "is_virtual": false,
+    "detail_url": "https://www.smpswichita.org/event/benefits-of-board-service/"
   },
   {
     "chapter": "SMPS Houston",
@@ -1820,6 +1846,19 @@
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=592&ts=1759525558"
   },
   {
+    "chapter": "SMPS Wichita",
+    "state": "Kansas",
+    "region": "Missouri Valley",
+    "title": "Marketing Plan Workshop",
+    "date": "September 09, 2026",
+    "sort_date": "2026-09-09",
+    "time": "7:30 am",
+    "location": "See event details",
+    "description": "-",
+    "is_virtual": false,
+    "detail_url": "https://www.smpswichita.org/event/marketing-plan-workshop/"
+  },
+  {
     "chapter": "SMPS Palmetto",
     "state": "South Carolina",
     "region": "Southeast",
@@ -1934,7 +1973,7 @@
     "location": "Out Door Country Club, 1157 Detwiler Drive, York, PA 17404",
     "description": "Join our industry partners for our annual and highly anticipated charitable golf outing. Sponsorships and foursomes are available! Thank you to our 2026 Annual Sponsors!",
     "is_virtual": false,
-    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=421&ts=1776186644"
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=421&ts=1780494583"
   },
   {
     "chapter": "SMPS Virginia",

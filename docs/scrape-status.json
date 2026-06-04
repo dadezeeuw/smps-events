@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T08:46:30",
-  "total_events": 175,
+  "last_updated": "2026-06-04T06:14:36",
+  "total_events": 178,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -133,9 +133,9 @@
       "url": "https://smpssf.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 11,
+      "events_found": 10,
       "load_attempts": 1,
-      "lines_loaded": 131,
+      "lines_loaded": 124,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -174,7 +174,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 78,
+      "lines_loaded": 77,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -226,7 +226,7 @@
       "message": "Scraped successfully.",
       "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 104,
+      "lines_loaded": 103,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -291,7 +291,7 @@
       "message": "Scraped successfully.",
       "events_found": 4,
       "load_attempts": 1,
-      "lines_loaded": 75,
+      "lines_loaded": 74,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -302,9 +302,9 @@
       "url": "https://www.smpswichita.org/upcoming-events/",
       "status": "success",
       "message": "Scraped successfully with Wichita WordPress parser.",
-      "events_found": 0,
+      "events_found": 4,
       "load_attempts": 1,
-      "lines_loaded": 41,
+      "lines_loaded": 73,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -406,9 +406,9 @@
       "url": "https://smpstc.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 65,
+      "lines_loaded": 56,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -419,9 +419,9 @@
       "url": "https://smpskc.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 60,
+      "lines_loaded": 70,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -434,7 +434,7 @@
       "message": "Scraped successfully.",
       "events_found": 4,
       "load_attempts": 1,
-      "lines_loaded": 104,
+      "lines_loaded": 103,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -653,9 +653,9 @@
       "url": "https://smpsnashville.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 3,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 76,
+      "lines_loaded": 67,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -668,7 +668,7 @@
       "message": "Scraped successfully.",
       "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 103,
+      "lines_loaded": 104,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -770,9 +770,9 @@
       "url": "https://smpsontario.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 0,
+      "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 47,
+      "lines_loaded": 57,
       "rejected_dates": 0,
       "skipped_past_events": 0
     }
