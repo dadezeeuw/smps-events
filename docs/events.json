@@ -1,122 +1,5 @@
 [
   {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "AEC.AI Masterclass Series: Big Picture Vision & AEC Insight: AI for Strategic Planning",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "11:00 AM PDT to 12:30 PM PDT",
-    "location": "Webinar",
-    "description": "URL to be distribution upon registration confirmation. Strategize your AI Planning with Christopher Penn, Co-Founder and Chief Data Scientist at Trust Insights AI.",
-    "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=167&ts=1778373149"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "POSTPONED: Powerful, not Perfect - Scrappy in-house video",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "7:30 AM - 12:00 PM",
-    "location": "Smith Group San Francisco Office, 301 Battery Street, San Francisco, CA 94111",
-    "description": "Meeting postponed. Please check back again soon.",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1781125130"
-  },
-  {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "Southern Colorado Development Panel",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: Programs",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=793&Itemid=115&year=2026&month=06&day=10&title=southern-colorado-development-panel&uid=5f078aa0f1fd939a15f7ab8a5ec2a60b"
-  },
-  {
-    "chapter": "SMPS Wichita",
-    "state": "Kansas",
-    "region": "Missouri Valley",
-    "title": "Jobsite Tour: Wichita Biomedical Campus (Members Only!)",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "4:00 pm",
-    "location": "See event details",
-    "description": "-",
-    "is_virtual": false,
-    "detail_url": "https://www.smpswichita.org/event/biomedical-campus-tour/"
-  },
-  {
-    "chapter": "SMPS Maryland",
-    "state": "Maryland",
-    "region": "Northeast",
-    "title": "The Art of Connection: SMPS Maryland Summer Social at the Baltimore Museum of Art",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Gertrude's at the Baltimore Museum of Art, 10 Art Museum Drive, Baltimore, MD 21218",
-    "description": "Join SMPS Maryland for a creative summer evening at the Baltimore Museum of Art featuring art inspired networking, raffle baskets, and meaningful connections in a one-of-a-kind setting!",
-    "is_virtual": false,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=96&ts=1781028490"
-  },
-  {
-    "chapter": "SMPS Greater Cincinnati",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "Member Breakfast - Liberty Township!",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "8:00 AM to 9:00 AM",
-    "location": "First Watch - Liberty Township, 6876 Cincinnati Dayton Rd, Liberty Township, OH 45044, https://firstwatch.com/locations/liberty",
-    "description": "Stop by for some breakfast and networking.",
-    "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=400&ts=1778090698"
-  },
-  {
-    "chapter": "SMPS San Antonio",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "Marketer Talk: Grow or Go: Intentional Career Building for A/E/C Marketers",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "7:45 AM to 9:00 AM",
-    "location": "Joeris Training Lab, 823 Arion Pkwy, San Antonio, TX 78216",
-    "description": "Join us for the June Marketer Talk!",
-    "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=268&ts=1779899496"
-  },
-  {
-    "chapter": "SMPS Utah",
-    "state": "Utah",
-    "region": "Southwest",
-    "title": "June Education: Rethinking Marketing in the Age of AI: A Strategic Shift from Tools to Outcomes",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "8:15 AM to 10:00 AM",
-    "location": "Resolut, 181 E 5600 S #200, Murray, UT 84123",
-    "description": "AI isn\u2019t the advantage\u2014how your team is structured, skilled, and aligned is. This session cuts through the hype to show how AEC marketers can turn AI from a content machine into a true driver of strategic impact.",
-    "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=458&ts=1779907285"
-  },
-  {
-    "chapter": "SMPS Seattle",
-    "state": "Washington",
-    "region": "Pacific",
-    "title": "Pacific Regional CPSM Study Session | Domain 4 (Proposals)",
-    "date": "June 10, 2026",
-    "sort_date": "2026-06-10",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
-    "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
-    "is_virtual": true,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=493&ts=1774560240"
-  },
-  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -1339,6 +1222,19 @@
     "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=287&ts=1781012831"
   },
   {
+    "chapter": "SMPS Boston",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "title": "Summer Social",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "5:30 PM to 8:30 PM",
+    "location": "Night Shift Brewing, 1 Lovejoy Wharf, Boston, MA 02114",
+    "description": "Join us at Night Shift Brewing on Lovejoy Wharf for our annual summer social!",
+    "is_virtual": false,
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1781125360"
+  },
+  {
     "chapter": "SMPS New Mexico",
     "state": "New Mexico",
     "region": "Southwest",
@@ -1378,6 +1274,32 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=207&ts=1780424282"
   },
   {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "A Walk in the Park (Seattle Arboretum)",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "4:45 PM to 8:00 PM",
+    "location": "Washington Park Arboretum (Graham Visitors Center), 2300 Arboretum Dr E, Seattle, WA 98112, https://botanicgardens.uw.edu/washington-park-arboretum/visit/graham-visitors-center/",
+    "description": "A Walk in the Park: Grab your hat and sunnies, lace up your shoes, and join us for a light walk through the Washington Park Arboretum on Thursday, July 16. VIEW ATTENDEES",
+    "is_virtual": false,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781140868"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Get to Know SMPS Breakfast",
+    "date": "July 22, 2026",
+    "sort_date": "2026-07-22",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Membership",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=797&Itemid=115&year=2026&month=07&day=22&title=get-to-know-smps-breakfast&uid=10bc4d58225d1af5901518ddd0d21da3"
+  },
+  {
     "chapter": "SMPS North Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1388,7 +1310,7 @@
     "location": "Virtual",
     "description": "Make every conference count. Join SMPS North Florida for a practical webinar with Donna Corlew, FSMPS, CPSM, and learn how to network intentionally, prioritize opportunities, and turn conference conversations into meaningful business results.",
     "is_virtual": true,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=104&ts=1781032460"
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=104&ts=1781119195"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -1492,7 +1414,7 @@
     "location": "Lyman Golf Club Apple Nine Golf Center, 700 Main Street, Middlefield, CT 06455, Join SMPS CT for a one-hour golf clinic where golf, networking, and good company come together.",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=288&ts=1781011924"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=288&ts=1781122458"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1570,7 +1492,7 @@
     "location": "NEFBA Office (Abercrombie Room), 932 Sunbeam Road, Jacksonville, FL 32257",
     "description": "Great project photos don\u2019t happen by accident, they\u2019re planned, directed, and executed with intention. This session focuses on the practical side of project photography, giving you the tools to get the images you actually need.",
     "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=103&ts=1781031829"
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=103&ts=1781119399"
   },
   {
     "chapter": "SMPS Wichita",
@@ -1817,7 +1739,7 @@
     "location": "EverBank Stadium, 1 EverBank Stadium Dr., Jacksonville, FL 32202",
     "description": "Join SMPS North Florida for the Jacksonville Jaguars versus the Tampa Bay Buccaneers game on 8/28!",
     "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=105&ts=1781032055"
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=105&ts=1781119328"
   },
   {
     "chapter": "SMPS San Francisco",
