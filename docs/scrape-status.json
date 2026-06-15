@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T07:46:09",
-  "total_events": 170,
+  "last_updated": "2026-06-15T07:58:33",
+  "total_events": 172,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -42,9 +42,9 @@
       "url": "https://smpsarizona.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 3,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 81,
+      "lines_loaded": 72,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -96,7 +96,7 @@
       "message": "Scraped successfully.",
       "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 58,
+      "lines_loaded": 57,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -161,7 +161,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 92,
+      "lines_loaded": 91,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -382,7 +382,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 75,
+      "lines_loaded": 78,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -408,7 +408,7 @@
       "message": "Scraped successfully.",
       "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 56,
+      "lines_loaded": 55,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -536,11 +536,11 @@
       "url": "https://smpscolumbus.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 4,
-      "load_attempts": 1,
-      "lines_loaded": 65,
+      "events_found": 5,
+      "load_attempts": 2,
+      "lines_loaded": 68,
       "rejected_dates": 0,
-      "skipped_past_events": 1
+      "skipped_past_events": 0
     },
     {
       "chapter": "SMPS Greater Cincinnati",
@@ -575,9 +575,9 @@
       "url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 4,
+      "events_found": 5,
       "load_attempts": 1,
-      "lines_loaded": 75,
+      "lines_loaded": 84,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -666,9 +666,9 @@
       "url": "https://smpsaustin.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 6,
+      "events_found": 7,
       "load_attempts": 1,
-      "lines_loaded": 104,
+      "lines_loaded": 112,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },

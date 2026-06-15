@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
-    "title": "Movers + Shakers: Sunset Float",
-    "date": "June 12, 2026",
-    "sort_date": "2026-06-12",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "Butcher Jones Beach, 3 E Butcher Jones Beach Road, Fort McDowell , AZ 85264",
-    "description": "Grab your board, kayak, canoe, tube \u2014 if it floats, it\u2019s welcome!",
-    "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=278&ts=1780092083"
-  },
-  {
     "chapter": "SMPS Orange County",
     "state": "California",
     "region": "Pacific",
@@ -23,7 +10,7 @@
     "location": "Tustin Ranch Golf Club, 12442 Tustin Ranch Rd, Tustin, CA 92782",
     "description": "Join us for one of our signature annual events and meet the leading contractors in Southern California! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1781027936"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1781343418"
   },
   {
     "chapter": "SMPS Colorado",
@@ -88,7 +75,7 @@
     "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
     "description": "Join us for the June Market Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1780495785"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1781293387"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -385,7 +372,7 @@
     "sort_date": "2026-06-18",
     "time": "11:30 AM to 1:00 PM",
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Sponsorships Available and Registration is Open!",
+    "description": "Registration Closes Today!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
   },
@@ -452,7 +439,7 @@
     "location": "Harbour Club at WestEdge, 22 Westedge Street, 7th Floor, Cooper Room, Charleston, SC 29403, https://myharbourclub.com/",
     "description": "Charleston higher ed leaders reveal what's driving campus investment and what they look for when choosing design partners.",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=393&ts=1781208558"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=393&ts=1781271734"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -491,7 +478,7 @@
     "location": "CSHQA, 200 Broad Street, Boise, ID 83702",
     "description": "Join us for the Energy in Idaho panel!",
     "is_virtual": false,
-    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1780689540"
+    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1781294811"
   },
   {
     "chapter": "SMPS Kentucky",
@@ -582,7 +569,7 @@
     "location": "Antonelli's Cheese House, 500 Park Boulevard, Austin, TX 78757",
     "description": "Members Only - Wine & Cheese, Please!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1780674330"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1781294761"
   },
   {
     "chapter": "SMPS Virginia",
@@ -726,6 +713,19 @@
     "description": "As healthcare needs continue to grow, many communities are facing a critical challenge: the infrastructure surrounding healthcare campuses does not always align with demand. Our Partners",
     "is_virtual": false,
     "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1781203735"
+  },
+  {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Sip & Sync: Informal Networking & Discussions",
+    "date": "June 25, 2026",
+    "sort_date": "2026-06-25",
+    "time": "8:30 AM to 10:00 AM",
+    "location": "Kittie's Worthington & Stauf's Coffee Victorian Village, 693 N. High Street & 1334 Neil Avenue, Worthington & Columbus, OH 43085 & 43201",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=172&ts=1781476132"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -949,6 +949,19 @@
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=303&ts=1780325902"
   },
   {
+    "chapter": "SMPS Oklahoma",
+    "state": "Oklahoma",
+    "region": "Southern",
+    "title": "Finance 101: What Marketers Need to Know for Career Success with Chris Rickman",
+    "date": "July 14, 2026",
+    "sort_date": "2026-07-14",
+    "time": "11:30 AM to 2:00 PM",
+    "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
+    "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
+    "is_virtual": false,
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781285114"
+  },
+  {
     "chapter": "SMPS Philadelphia",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -1141,7 +1154,7 @@
     "location": "Washington Park Arboretum (Graham Visitors Center), 2300 Arboretum Dr E, Seattle, WA 98112, https://botanicgardens.uw.edu/washington-park-arboretum/visit/graham-visitors-center/",
     "description": "A Walk in the Park: Grab your hat and sunnies, lace up your shoes, and join us for a light walk through the Washington Park Arboretum on Thursday, July 16. VIEW ATTENDEES",
     "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781140868"
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781296141"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1492,7 +1505,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1780592613"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781279510"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1576,14 +1589,14 @@
     "chapter": "SMPS Southeast Michigan",
     "state": "Michigan",
     "region": "Heartland",
-    "title": "*SAVE THE DATE* CX Immersion Bootcamp",
+    "title": "CX Immersion Bootcamp",
     "date": "August 27, 2026",
     "sort_date": "2026-08-27",
-    "time": "12:00 AM to 12:00 AM",
-    "location": "TBD",
-    "description": "Full Day Event - Details coming soon!",
+    "time": "9:00 AM to 4:00 PM",
+    "location": "Barton Malow Holdings, 26500 American Drive, Southfield, MI 48034, https://www.bartonmalow.com/",
+    "description": "CX immersion for AEC marketers & business developers",
     "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=288&ts=1781033441"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=288&ts=1781283040"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1674,7 +1687,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1780691223"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1781279567"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -2208,5 +2221,18 @@
     "description": "Kick-off the New Year with meaningful connections and insightful updates!",
     "is_virtual": false,
     "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=80&ts=1780304305"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Drinks with Developers May 13th 2027",
+    "date": "May 13, 2027",
+    "sort_date": "2027-05-13",
+    "time": "5:00 PM to 8:30 PM",
+    "location": "The Junior League of Austin, 5330 Bluffstone Cv, Austin , TX 78759",
+    "description": "Save The Date",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=355&ts=1781211821"
   }
 ]
