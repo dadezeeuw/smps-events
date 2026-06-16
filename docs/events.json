@@ -10,7 +10,7 @@
     "location": "Tustin Ranch Golf Club, 12442 Tustin Ranch Rd, Tustin, CA 92782",
     "description": "Join us for one of our signature annual events and meet the leading contractors in Southern California! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1781343418"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1781500997"
   },
   {
     "chapter": "SMPS Colorado",
@@ -36,7 +36,7 @@
     "location": "WSKY Stadium, 5625 Polaris Ave Suite 100, Las Vegas, NV 89118",
     "description": "Gain insight into the latest developments shaping the Southern Nevada multifamily market.",
     "is_virtual": false,
-    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=76&ts=1780299106"
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=76&ts=1781601459"
   },
   {
     "chapter": "SMPS Charlotte",
@@ -88,7 +88,7 @@
     "location": "Farmington Gardens, 999 Farmington Ave, Farmington, CT 06032, Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1780590296"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1781533265"
   },
   {
     "chapter": "SMPS North Florida",
@@ -112,7 +112,7 @@
     "sort_date": "2026-06-17",
     "time": "5:30 PM CDT to 8:30 PM CDT",
     "location": "Redstone American Grill, 13 Lincoln Center, Oakbrook Terrace, IL 60181, https://www.redstonegrill.com/",
-    "description": "Join us for an excellent summertime evening of networking. Platinum Sponsors Gold Sponsors Silver Sponsors",
+    "description": "Join us for an excellent summertime evening of networking.",
     "is_virtual": false,
     "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=263&ts=1778642872"
   },
@@ -140,7 +140,7 @@
     "location": "Southeast Michigan Psychiatric Hospital, 18471 Haggerty Road, Northville Township, MI 48168",
     "description": "Join us for an exclusive behind-the-scenes look at the Southeast Michigan Psychiatric Hospital\u2014a project redefining behavioral healthcare in our region.",
     "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=283&ts=1779198302"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=283&ts=1781547442"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -335,7 +335,7 @@
     "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
     "description": "Part 1: Your Brand is More Than a Logo",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1781026381"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1781550942"
   },
   {
     "chapter": "SMPS Upstate New York",
@@ -406,14 +406,14 @@
     "chapter": "SMPS Hawaii",
     "state": "Hawaii",
     "region": "Pacific",
-    "title": "SMPS Hawaii: Visual Persuasion in Proposals: Graphics, Branding, and Readability",
+    "title": "SMPS Hawaii: Visual Persuasion in Proposals: Graphics, Branding, and Readability (sponsored by OpenAsset)",
     "date": "June 23, 2026",
     "sort_date": "2026-06-23",
     "time": "11:30 AM HST to 12:30 PM HST",
     "location": "Swinerton Office, 841 Bishop Street, Suite 500, Honolulu, HI 96813",
     "description": "This session examines how strategic use of graphics, layout, and branding can improve proposal readability, clarify complex information, and create a more engaging and persuasive experience for evaluators.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1780543833"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1781572562"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -819,6 +819,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=501&ts=1780427972"
   },
   {
+    "chapter": "SMPS Chicago",
+    "state": "Illinois",
+    "region": "Heartland",
+    "title": "July Networking Lunch",
+    "date": "July 01, 2026",
+    "sort_date": "2026-07-01",
+    "time": "12:00 PM CDT to 1:00 PM CDT",
+    "location": "Ramen-San, Fulton Market, 219 N Green St, Chicago, IL 60607, https://www.ramensan.com/",
+    "description": "Join us for another round of networking and good eats! Platinum Sponsors Gold Sponsors Silver Sponsors",
+    "is_virtual": false,
+    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=264&ts=1781544118"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -897,19 +910,6 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1780423755"
   },
   {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Meet the BD Marketing Manager",
-    "date": "July 09, 2026",
-    "sort_date": "2026-07-09",
-    "time": "12:00 PM to 2:00 PM",
-    "location": "Venue: TBD",
-    "description": "Stay tuned for details about this upcoming event!",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=472&ts=1780614558"
-  },
-  {
     "chapter": "SMPS San Diego",
     "state": "California",
     "region": "Pacific",
@@ -921,6 +921,19 @@
     "description": "Learn how to use LinkedIn strategically and leverage less conventional business development tools to build relationships and get results.",
     "is_virtual": false,
     "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=131&ts=1779213932"
+  },
+  {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "Coffee Connections - Grounds for Discussion (IL)",
+    "date": "July 09, 2026",
+    "sort_date": "2026-07-09",
+    "time": "8:30 AM CDT to 9:30 AM CDT",
+    "location": "June's Breakfast + Patio, 430 S Main St, Shiloh, IL 62269",
+    "description": "Join us over coffee for a conversation",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=279&ts=1781542808"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -959,7 +972,7 @@
     "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
     "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781285114"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781553046"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1024,7 +1037,7 @@
     "location": "Virtual via Teams",
     "description": "The personal branding workshop built for A/E/C professionals",
     "is_virtual": true,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=287&ts=1781033463"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=287&ts=1781548349"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1069,14 +1082,14 @@
     "chapter": "SMPS Sacramento",
     "state": "California",
     "region": "Pacific",
-    "title": "Backpack Drive",
+    "title": "Sunshine & Supplies Happy Hour | Thursday, July 16th @ 4PM",
     "date": "July 16, 2026",
     "sort_date": "2026-07-16",
     "time": "4:00 PM to 6:00 PM",
-    "location": "Venue: TBD",
-    "description": "Stay tuned for details about this upcoming event!",
+    "location": "Alaro Craft Brewery, 2004 Capitol Avenue, Sacramento, CA 95811, https://alarobrewing.com/",
+    "description": "Join us for a summer happy hour to connect, give back, and have some fun while supporting a great cause.",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1780701170"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1781571406"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1128,7 +1141,7 @@
     "location": "Dewberry, 6 Campus Drive, Suite 203, Parsippany, NJ 07054",
     "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781117510"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781555014"
   },
   {
     "chapter": "SMPS Houston",
@@ -1155,6 +1168,32 @@
     "description": "A Walk in the Park: Grab your hat and sunnies, lace up your shoes, and join us for a light walk through the Washington Park Arboretum on Thursday, July 16. VIEW ATTENDEES",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781296141"
+  },
+  {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "Coffee Connections - Grounds for Discussion (MO)",
+    "date": "July 17, 2026",
+    "sort_date": "2026-07-17",
+    "time": "8:30 AM CDT to 9:30 AM CDT",
+    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
+    "description": "Join us over coffee for a conversation",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=280&ts=1781542767"
+  },
+  {
+    "chapter": "SMPS Sacramento",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Marketing & Business Development Speed Networking",
+    "date": "July 22, 2026",
+    "sort_date": "2026-07-22",
+    "time": "4:00 PM to 7:00 PM",
+    "location": "SRBX, 5370 Elvas Ave, Sacramento, CA 95819",
+    "description": "Looking to expand your network? Join SMPS for an interactive Speed Networking event featuring experienced marketing and business development professionals from across the region.",
+    "is_virtual": false,
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1781575924"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1233,6 +1272,19 @@
     "description": "Join us for our fifth annual Pickleball Tournament and Happy Hour!",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1781031323"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "From First Touch to Final Goal: A Full-Day, In-Person, Hands-On, Adobe Workshop for AEC Marketers",
+    "date": "July 23, 2026",
+    "sort_date": "2026-07-23",
+    "time": "8:00 AM to 5:00 PM",
+    "location": "TNP, 5237 N. Riverside Drive, Suite 100, Fort Worth, TX 76137",
+    "description": "The roster has expanded. Whether you\u2019re stepping onto the pitch for the first time or returning to sharpen skills you already have, this full-day workshop brings a brand-new lineup built for where AEC marketing is headed.",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=304&ts=1781561622"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1417,6 +1469,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=214&ts=1779393367"
   },
   {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "Beyond Burnout: Sustainable Leadership in a High-Performance Industry",
+    "date": "August 12, 2026",
+    "sort_date": "2026-08-12",
+    "time": "8:15 AM to 10:00 AM",
+    "location": "Resolut, 181 E 5600 S #200, Murray, UT 84123",
+    "description": "We work in an industry built on achievement\u2014but success at all costs often comes with a hidden price. Join SMPS Utah for an engaging discussion on burnout, leadership, and sustainable performance. Discover why burnout is often rooted in more than workload",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=460&ts=1781568800"
+  },
+  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -1544,7 +1609,7 @@
     "location": "The Haven Rooftop at The Sanctuary Hotel, 132 W 47th St, New York, NY 10036",
     "description": "Honoring Excellence in Marketing Communications & Professional Achievement!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=163&ts=1781042786"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=163&ts=1781555033"
   },
   {
     "chapter": "SMPS Houston",
@@ -1649,6 +1714,19 @@
     "description": "Information to Come",
     "is_virtual": true,
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=591&ts=1757452208"
+  },
+  {
+    "chapter": "SMPS Indiana",
+    "state": "Indiana",
+    "region": "Heartland",
+    "title": "Crisis Communications in the Digital Age",
+    "date": "September 03, 2026",
+    "sort_date": "2026-09-03",
+    "time": "3:00 PM to 5:00 PM",
+    "location": "Hirons Downtown Indianapolis",
+    "description": "Back by popular demand, a discussion on crisis communications and reputation management in the digital age.",
+    "is_virtual": false,
+    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=409&ts=1781552173"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1778,7 +1856,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us Tuesday, September 22 at Studio Theatre at City Springs for the 2026 MEGA Meeting, one of Georgia\u2019s biggest AEC networking events with 200+ industry colleagues.",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1781097571"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1781526232"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1859,6 +1937,19 @@
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=242&ts=1777054446"
   },
   {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Project Angel Food Volunteer Day with SMPS/LA!",
+    "date": "September 27, 2026",
+    "sort_date": "2026-09-27",
+    "time": "8:00 AM PDT to 12:00 PM PDT",
+    "location": "Project Angel Food, 922 Vine Street, Los Angeles, CA 90038",
+    "description": "Join SMPS/LA in preparing and packaging meals for the community with Project Angel Food.",
+    "is_virtual": false,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=171&ts=1781572278"
+  },
+  {
     "chapter": "SMPS Columbus",
     "state": "Ohio",
     "region": "Heartland",
@@ -1869,7 +1960,7 @@
     "location": "Hilton Netherlands Plaza Hotel, 35 W. Fifth Street, Cincinnati, OH 45202",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1767892396"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1781532128"
   },
   {
     "chapter": "SMPS Atlanta",
