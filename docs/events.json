@@ -1,83 +1,5 @@
 [
   {
-    "chapter": "SMPS Orange County",
-    "state": "California",
-    "region": "Pacific",
-    "title": "14th Annual General Contractors Roundtable",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "3:00 PM to 5:30 PM (Pacific Time)",
-    "location": "Tustin Ranch Golf Club, 12442 Tustin Ranch Rd, Tustin, CA 92782",
-    "description": "Join us for one of our signature annual events and meet the leading contractors in Southern California! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
-    "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=180&ts=1781500997"
-  },
-  {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "NOVEL HiFi Jobsite Tour",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: NOCO",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=794&Itemid=115&year=2026&month=06&day=16&title=novel-hifi-jobsite-tour&uid=3d444943df721503769dd2d39cc58221"
-  },
-  {
-    "chapter": "SMPS Las Vegas",
-    "state": "Nevada",
-    "region": "Pacific",
-    "title": "What's Next for Multifamily Construction in Southern Nevada?",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "WSKY Stadium, 5625 Polaris Ave Suite 100, Las Vegas, NV 89118",
-    "description": "Gain insight into the latest developments shaping the Southern Nevada multifamily market.",
-    "is_virtual": false,
-    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=76&ts=1781601459"
-  },
-  {
-    "chapter": "SMPS Charlotte",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "SMPS Charlotte Second Annual Pickleball Tournament",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "3:30 PM to 6:30 PM",
-    "location": "Rally Pickleball, 101 Southside Drive, Charlotte, NC 28217, https://www.rallypickleball.com/",
-    "description": "Get ready for a day of fun, friendly competition, and community connection at the Second Annual Pickleball Tournament hosted by SMPS Charlotte.",
-    "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=419&ts=1779296715"
-  },
-  {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "Pitch Perfect: Nail the Interview and Win the Work!",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "8:30 AM to 1:30 PM",
-    "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=157&ts=1781188652"
-  },
-  {
-    "chapter": "SMPS San Antonio",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "Market Luncheon: Manjiri Akalkotkar and Razi Hosseini, VIA Metropolitan Transit",
-    "date": "June 16, 2026",
-    "sort_date": "2026-06-16",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
-    "description": "Join us for the June Market Luncheon!",
-    "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=254&ts=1781293387"
-  },
-  {
     "chapter": "SMPS Connecticut",
     "state": "Connecticut",
     "region": "Northeast",
@@ -413,7 +335,7 @@
     "location": "Swinerton Office, 841 Bishop Street, Suite 500, Honolulu, HI 96813",
     "description": "This session examines how strategic use of graphics, layout, and branding can improve proposal readability, clarify complex information, and create a more engaging and persuasive experience for evaluators.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1781572562"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1781656541"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -478,7 +400,7 @@
     "location": "CSHQA, 200 Broad Street, Boise, ID 83702",
     "description": "Join us for the Energy in Idaho panel!",
     "is_virtual": false,
-    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1781294811"
+    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=81&ts=1781647184"
   },
   {
     "chapter": "SMPS Kentucky",
@@ -634,7 +556,7 @@
     "location": "The Pilot, 22 Cumberland St.",
     "description": "Toronto, ON M4W 1J5 Find familiar faces and make new connections: Summer Social is an opportunity for the SMPS Ontario community to gather and enjoy the warmer weather and great conversation.",
     "is_virtual": false,
-    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=257&ts=1780521159"
+    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=257&ts=1781629279"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -712,7 +634,7 @@
     "location": "1st floor Conference Center, 8720 Red Oak Blvd, Charlotte, NC 28217",
     "description": "As healthcare needs continue to grow, many communities are facing a critical challenge: the infrastructure surrounding healthcare campuses does not always align with demand. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1781203735"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=420&ts=1781660736"
   },
   {
     "chapter": "SMPS Columbus",
@@ -738,7 +660,7 @@
     "location": "Downtown Norman Tours, 207 E. Main St, Norman, OK 73069",
     "description": "See Downtown Norman with SMPS Oklahoma!",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=186&ts=1780593995"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=186&ts=1781624933"
   },
   {
     "chapter": "SMPS Nashville",
@@ -892,7 +814,7 @@
     "sort_date": "2026-07-08",
     "time": "3:30 PM to 5:30 PM",
     "location": "Legends Patio Grill & Bar - 72nd & Pacific, 6920 Pacific St,  Unit 100, Omaha, NE 68106",
-    "description": "Test your music knowledge while connecting with fellow AEC professionals. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
+    "description": "Test your music knowledge while connecting with fellow AEC professionals.",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=317&ts=1780607476"
   },
@@ -1141,7 +1063,7 @@
     "location": "Dewberry, 6 Campus Drive, Suite 203, Parsippany, NJ 07054",
     "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781555014"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781622909"
   },
   {
     "chapter": "SMPS Houston",
@@ -1157,17 +1079,30 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=207&ts=1780424282"
   },
   {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "Senior Marketers: AI and The Future of Expertise",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "8:00 AM to 9:30 AM",
+    "location": "Urban Sailor Coffee (Sugarhouse Location), 1327 E 2100 S Suite 102, Salt Lake City, UT 84105, https://urbansailorcoffee.com/",
+    "description": "AI and The Future of Expertise: How Senior Marketers Lead with AI in the AEC Industry",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=461&ts=1781625616"
+  },
+  {
     "chapter": "SMPS Seattle",
     "state": "Washington",
     "region": "Pacific",
     "title": "A Walk in the Park (Seattle Arboretum)",
     "date": "July 16, 2026",
     "sort_date": "2026-07-16",
-    "time": "4:45 PM to 8:00 PM",
+    "time": "5:45 PM to 8:00 PM",
     "location": "Washington Park Arboretum (Graham Visitors Center), 2300 Arboretum Dr E, Seattle, WA 98112, https://botanicgardens.uw.edu/washington-park-arboretum/visit/graham-visitors-center/",
     "description": "A Walk in the Park: Grab your hat and sunnies, lace up your shoes, and join us for a light walk through the Washington Park Arboretum on Thursday, July 16. VIEW ATTENDEES",
     "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781296141"
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781654552"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1193,7 +1128,7 @@
     "location": "SRBX, 5370 Elvas Ave, Sacramento, CA 95819",
     "description": "Looking to expand your network? Join SMPS for an interactive Speed Networking event featuring experienced marketing and business development professionals from across the region.",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1781575924"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1781650850"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1375,7 +1310,7 @@
     "location": "Virtual",
     "description": "Learn how to capture project stories before they disappear \u2014 and turn them into testimonials, case studies, proposal content, recruiting materials, social media posts, award submissions, and other strategic marketing assets.",
     "is_virtual": true,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=101&ts=1780107896"
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=101&ts=1781636138"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1521,6 +1456,19 @@
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=372&ts=1768331829"
   },
   {
+    "chapter": "SMPS Greater Cincinnati",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Webinar: Talent Branding for Recruitment and Retention with Ingenuity Marketing Group",
+    "date": "August 18, 2026",
+    "sort_date": "2026-08-18",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual",
+    "description": "Keeping great people is just as critical as recruitment, because unfortunately many AEC professionals make lateral moves throughout their careers. Culture and opportunity are vital to retaining talent and getting referrals to candidates.",
+    "is_virtual": true,
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=402&ts=1781633129"
+  },
+  {
     "chapter": "SMPS Northeast Ohio",
     "state": "Ohio",
     "region": "Heartland",
@@ -1570,7 +1518,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781279510"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781641582"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1610,6 +1558,19 @@
     "description": "Honoring Excellence in Marketing Communications & Professional Achievement!",
     "is_virtual": false,
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=163&ts=1781555033"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Mastering the AI Spellbook: Practical Magic for AEC Marketers",
+    "date": "August 21, 2026",
+    "sort_date": "2026-08-21",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Education",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=798&Itemid=115&year=2026&month=08&day=21&title=mastering-the-ai-spellbook-practical-magic-for-aec-marketers&uid=ec5a8a828647d8bcba8f7bf9019f0281"
   },
   {
     "chapter": "SMPS Houston",
@@ -1688,6 +1649,19 @@
     "description": "Join us over drinks for a conversation Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=277&ts=1781115566"
+  },
+  {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "title": "Proposal Power-Up Workshop: InDesign Skills from Starter to Smarter",
+    "date": "August 27, 2026",
+    "sort_date": "2026-08-27",
+    "time": "8:00 AM to 4:00 PM",
+    "location": "HDR Headquarters, 1917 South 67th Street, Omaha, NE 68106",
+    "description": "Master your proposal workflow with hands-on Adobe InDesign training built specifically for AEC marketers. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=315&ts=1781642300"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1947,7 +1921,7 @@
     "location": "Project Angel Food, 922 Vine Street, Los Angeles, CA 90038",
     "description": "Join SMPS/LA in preparing and packaging meals for the community with Project Angel Food.",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=171&ts=1781572278"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=171&ts=1781667311"
   },
   {
     "chapter": "SMPS Columbus",
