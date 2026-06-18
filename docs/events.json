@@ -1,161 +1,5 @@
 [
   {
-    "chapter": "SMPS Connecticut",
-    "state": "Connecticut",
-    "region": "Northeast",
-    "title": "Diversified Client Panel & Annual Meeting",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "11:30 AM EDT to 2:30 PM EDT",
-    "location": "Farmington Gardens, 999 Farmington Ave, Farmington, CT 06032, Join SMPS CT for our Connecticut Projects & Projections Panel, Annual Meeting, and Professional Achievement Awards",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=280&ts=1781533265"
-  },
-  {
-    "chapter": "SMPS North Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee Connections",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Bold Bean Coffee Roasters - Jax Beach, 2400 3rd St S, Jacksonville Beach, FL 32250",
-    "description": "Join us for a cup of coffee and casual networking!",
-    "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=93&ts=1779309277"
-  },
-  {
-    "chapter": "SMPS Chicago",
-    "state": "Illinois",
-    "region": "Heartland",
-    "title": "Summertime Soir\u00e9e",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "5:30 PM CDT to 8:30 PM CDT",
-    "location": "Redstone American Grill, 13 Lincoln Center, Oakbrook Terrace, IL 60181, https://www.redstonegrill.com/",
-    "description": "Join us for an excellent summertime evening of networking.",
-    "is_virtual": false,
-    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=263&ts=1778642872"
-  },
-  {
-    "chapter": "SMPS Boston",
-    "state": "Massachusetts",
-    "region": "Northeast",
-    "title": "No Handicap Required: SMPS Boston Golf Clinic",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "3:30 PM to 6:00 PM",
-    "location": "Stone Meadow Golf, 675 Waltham St #7935, Lexington, MA 02421",
-    "description": "Whether you are picking up a club for the first time in 2026\u2014or ever\u2014 join SMPS Boston at our inaugural golf clinic!",
-    "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=183&ts=1777049369"
-  },
-  {
-    "chapter": "SMPS Southeast Michigan",
-    "state": "Michigan",
-    "region": "Heartland",
-    "title": "*NEW DATE*  Tours & Toasts",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "3:00 PM to 7:00 PM",
-    "location": "Southeast Michigan Psychiatric Hospital, 18471 Haggerty Road, Northville Township, MI 48168",
-    "description": "Join us for an exclusive behind-the-scenes look at the Southeast Michigan Psychiatric Hospital\u2014a project redefining behavioral healthcare in our region.",
-    "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=283&ts=1781547442"
-  },
-  {
-    "chapter": "SMPS Twin Cities",
-    "state": "Minnesota",
-    "region": "Heartland",
-    "title": "SMPS TC - MEMBER APPRECIATION EVENT",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "3:00 PM to 5:00 PM",
-    "location": "Color Me Mine, 7453 France Avenue South, Edina, MN 55435, https://edina.colormemine.com/",
-    "description": "Celebrate summer and connect with your fellow SMPS members at our Member Appreciation Event on June 17 at Color Me Mine in Edina!",
-    "is_virtual": false,
-    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=266&ts=1777413884"
-  },
-  {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Proposal Roundtable",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "12:00 PM EDT to 2:30 PM EDT",
-    "location": "Pennoni, 1900 Market Street, Suite 300, Philadelphia, PA 19103",
-    "description": "Join us for candid reviews of real proposals and discussions on strategy, workflows, positioning, graphics, and compliance. You will gain practical insights, fresh perspectives, and best practices to strengthen your role throughout the pursuit process.",
-    "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=247&ts=1779114973"
-  },
-  {
-    "chapter": "SMPS Houston",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "SMPS Houston Webinar  |The ABCs of AEC",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "2:00 PM to 3:30 PM",
-    "location": "Webinar",
-    "description": "Learn how to decode the ABCs of the AEC Industry",
-    "is_virtual": true,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=196&ts=1780457773"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "NTX Midday Meetups - Dallas",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Blue Mesa Grill - Addison/Dallas, 14866 Montfort Drive, Dallas, TX 75254",
-    "description": "Join us in Dallas for our Midday Meetups!",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=295&ts=1780438848"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "NTX Midday Meetups - Fort Worth",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Blue Mesa Grill - Fort Worth, 612 Carroll St, Fort Worth, TX 76107",
-    "description": "Join us in Fort Worth for our Midday Meetups!",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=296&ts=1780438916"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "NTX Midday Meetups - Plano",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Blue Mesa Grill - Plano, 8200 Dallas Pkwy, Plano, TX 75024",
-    "description": "Join us in Plano for our Midday Meetups!",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=297&ts=1780438936"
-  },
-  {
-    "chapter": "SMPS Wisconsin",
-    "state": "Wisconsin",
-    "region": "Heartland",
-    "title": "June Hybrid Program | Assessing Progress: Inclusion in the Built Environment and Its Impact on Marketing",
-    "date": "June 17, 2026",
-    "sort_date": "2026-06-17",
-    "time": "8:30 AM CDT to 9:30 AM CDT",
-    "location": "HGA, 333 E. Erie Street, Milwaukee, WI 53202",
-    "description": "Sharing insights on advancing equity in the built environment and its ripple effects on marketing strategies.",
-    "is_virtual": false,
-    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=195&ts=1779390307"
-  },
-  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -257,7 +101,7 @@
     "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
     "description": "Part 1: Your Brand is More Than a Logo",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1781550942"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1781727142"
   },
   {
     "chapter": "SMPS Upstate New York",
@@ -489,7 +333,7 @@
     "sort_date": "2026-06-24",
     "time": "5:00 PM to 7:00 PM",
     "location": "Antonelli's Cheese House, 500 Park Boulevard, Austin, TX 78757",
-    "description": "Members Only - Wine & Cheese, Please!",
+    "description": "Members Only - SOLD OUT",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1781294761"
   },
@@ -832,6 +676,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1780423755"
   },
   {
+    "chapter": "SMPS Alabama",
+    "state": "Alabama",
+    "region": "Southeast",
+    "title": "Graphic Design Workshop",
+    "date": "July 09, 2026",
+    "sort_date": "2026-07-09",
+    "time": "3:00 PM to 4:00 PM",
+    "location": "Hybrid: Webinar/In-person Event  (GMC Birmingham), 2400 5th Ave S Suite 200, Birmingham, AL 35233",
+    "description": "Level Up Your Design Skills with SMPS Alabama Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.",
+    "is_virtual": true,
+    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=151&ts=1781713450"
+  },
+  {
     "chapter": "SMPS San Diego",
     "state": "California",
     "region": "Pacific",
@@ -856,6 +713,19 @@
     "description": "Join us over coffee for a conversation",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=279&ts=1781542808"
+  },
+  {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "title": "Summer Happy Hour: SMPS NM July Happy Hour",
+    "date": "July 09, 2026",
+    "sort_date": "2026-07-09",
+    "time": "4:30 PM MDT - 7:00 PM MDT",
+    "location": "Outpost 1706, 301 Romero St. NW, Suite 205, Albuquerque, NM 87104",
+    "description": "July Happy Hour",
+    "is_virtual": false,
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=117&ts=1781719015"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -946,7 +816,7 @@
     "location": "Virtual Meeting, Learn practical tips for creating effective email campaigns that increase engagement, strengthen brand awareness, and drive action.",
     "description": "",
     "is_virtual": true,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=508&ts=1778689465"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=508&ts=1781724497"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -1011,7 +881,7 @@
     "location": "Alaro Craft Brewery, 2004 Capitol Avenue, Sacramento, CA 95811, https://alarobrewing.com/",
     "description": "Join us for a summer happy hour to connect, give back, and have some fun while supporting a great cause.",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1781571406"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1781728312"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1064,6 +934,19 @@
     "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781622909"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Christmas in July Membership Recruitment Happy Hour",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "4:30 PM to 6:30 PM",
+    "location": "Lala's Little Nugget, 2207 Justin Lane, Austin, TX 78757",
+    "description": "Christmas in July Membership Recruitment Happy Hour",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=354&ts=1781711851"
   },
   {
     "chapter": "SMPS Houston",
@@ -1142,6 +1025,19 @@
     "description": "Category: Membership",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=797&Itemid=115&year=2026&month=07&day=22&title=get-to-know-smps-breakfast&uid=10bc4d58225d1af5901518ddd0d21da3"
+  },
+  {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "SMPS DC + WBC Mash-Up Summer Happy Hour **Save the Date!**",
+    "date": "July 22, 2026",
+    "sort_date": "2026-07-22",
+    "time": "5:30 PM to 8:00 PM",
+    "location": "Gypsy Kitchen, 1825 14th St NW, Washington, DC, DC 20009",
+    "description": "We're excited to partner with WBC for this laid-back summer networking happy hour at Gypsy Kitchen!",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=158&ts=1781732487"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1259,6 +1155,19 @@
     "description": "Explore Harrisburg's downtown development with a guided walking tour.",
     "is_virtual": false,
     "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=429&ts=1781107185"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS North Texas Happy Hour",
+    "date": "July 30, 2026",
+    "sort_date": "2026-07-30",
+    "time": "5:30 PM to 7:00 PM",
+    "location": "Nickel City Fort Worth, 212 S Main St. Suite 100, Fort Worth, TX 76104",
+    "description": "Join us for our next SMPS North Texas Happy Hour!",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=305&ts=1781709764"
   },
   {
     "chapter": "SMPS San Diego",
@@ -1466,7 +1375,7 @@
     "location": "Virtual",
     "description": "Keeping great people is just as critical as recruitment, because unfortunately many AEC professionals make lateral moves throughout their careers. Culture and opportunity are vital to retaining talent and getting referrals to candidates.",
     "is_virtual": true,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=402&ts=1781633129"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=402&ts=1781708309"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -1518,7 +1427,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781641582"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781725984"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1778,7 +1687,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Save the Date!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=354&ts=1779221217"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=357&ts=1781716846"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1843,7 +1752,7 @@
     "location": "Bricker Graydon Wyatt, 312 Walnut Street, Suite 1800, Cincinnati, OH 45202, https://www.bricker.com/",
     "description": "Learn How To Maximize Your Experience at HRC!",
     "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1780408354"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1781714757"
   },
   {
     "chapter": "SMPS South Florida",
