@@ -3,149 +3,6 @@
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
-    "title": "2026 Southwest Regional Conference Scholarship",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "12:00 AM to 5:00 PM",
-    "location": "Virtual - Application Link",
-    "description": "SMPS Arizona is awarding one scholarship to cover the cost of the registration for SWRC.",
-    "is_virtual": true,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=275&ts=1780609573"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee and Connections \u2013 Tampa",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Buddy Brew Coffee, 2020 W Kennedy Blvd, Tampa, FL 33606",
-    "description": "Network over coffee!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=543&ts=1780336468"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee and Connections \u2013 St. Pete",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Southern Grounds & Co., 695 Central Ave, St. Petersburg, FL 33701",
-    "description": "Network over coffee!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=544&ts=1780336587"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee and Connections \u2013 Sarasota",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Perq Coffee Bar, 1821 Hillview St, Sarasota, FL 34239",
-    "description": "Network over coffee!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=545&ts=1780336717"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee and Connections \u2013 Lakeland",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Foxtail Coffee, 322 Kathleen Rd., Lakeland, FL 33815",
-    "description": "Network over coffee!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=546&ts=1780336980"
-  },
-  {
-    "chapter": "SMPS Kansas City",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "June Coffee Connections",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "8:30 AM - 9:30 AM",
-    "location": "Pitchside Coffee, 1819 Grand Boulevard, Kansas City, MO 64108",
-    "description": "Join us for June Coffee Connections!",
-    "is_virtual": false,
-    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=209&ts=1780513186"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "Coffee Connections - AI Tools and Best Practices",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "8:30 AM CDT to 9:30 AM CDT",
-    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
-    "description": "Join us over coffee for a conversation",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=267&ts=1780433137"
-  },
-  {
-    "chapter": "SMPS New Mexico",
-    "state": "New Mexico",
-    "region": "Southwest",
-    "title": "Summer Education Series Part 1: Your Brand Is More Than a Logo",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "11:30 AM MDT - 1:00 PM MDT",
-    "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
-    "description": "Part 1: Your Brand is More Than a Logo",
-    "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=113&ts=1781727142"
-  },
-  {
-    "chapter": "SMPS Upstate New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "Business Development Bites + Networking",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "3:00 PM to 5:00 PM",
-    "location": "M.J. Engineering and Land Surveying, P.C., 21 Corporate Drive",
-    "description": "Clifton Park NY Learn about the whole Business Development lifecycle!",
-    "is_virtual": false,
-    "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=266&ts=1780058608"
-  },
-  {
-    "chapter": "SMPS Oregon",
-    "state": "Oregon",
-    "region": "Pacific",
-    "title": "Boards, Bags, and Brews",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "4:00 PM to 7:00 PM",
-    "location": "503 Distilling, 4644 SE 17th Ave., Portland, OR 97202, https://djcoregon.com/event/top-projects/",
-    "description": "A perfect blend of friendly cornhole competition, local brews, and meaningful networking\u2014all while supporting the Maurice Lucas Foundation. Calendar of Events Industry Events Architecture Foundation of Oregon (AFO) Building Pathways: Scholarship & Mentorship Showcase Thursday, April 16th, 5:30 - 7:30 PM at Design Portland, J.K. Gill Building Learn more and register at: events.ticketleap.com/tickets/aforegon/building-pathways-2026 DJC Oregon Top Projects Thursday, June 11, 2026 at the Oregon Convention Center. Learn more about the event and submit a nomination at . Registration Help If you are a new or reinstated member, please email info@smpsoregon.org for assistance completing your registration. The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb",
-    "is_virtual": false,
-    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=213&ts=1780087291"
-  },
-  {
-    "chapter": "SMPS Austin",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "June Luncheon Program",
-    "date": "June 18, 2026",
-    "sort_date": "2026-06-18",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Registration Closes Today!",
-    "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
-  },
-  {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
     "title": "Learn More About the CPSM Test",
     "date": "June 23, 2026",
     "sort_date": "2026-06-23",
@@ -335,7 +192,7 @@
     "location": "Antonelli's Cheese House, 500 Park Boulevard, Austin, TX 78757",
     "description": "Members Only - SOLD OUT",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=327&ts=1781294761"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
   },
   {
     "chapter": "SMPS Virginia",
@@ -465,7 +322,7 @@
     "location": "McCownGordon Construction, 850 Main Street, Kansas City, MO 64105",
     "description": "Discover practical, real-world strategies AEC teams can use to strengthen internal communications, improve message alignment and engage employees.",
     "is_virtual": false,
-    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=208&ts=1781213191"
+    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=208&ts=1781794585"
   },
   {
     "chapter": "SMPS Charlotte",
@@ -596,6 +453,19 @@
     "description": "Join us for another round of networking and good eats! Platinum Sponsors Gold Sponsors Silver Sponsors",
     "is_virtual": false,
     "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=264&ts=1781544118"
+  },
+  {
+    "chapter": "SMPS Oklahoma",
+    "state": "Oklahoma",
+    "region": "Southern",
+    "title": "Members Only: How to Inspire AEC Leadership to Care about Marketing",
+    "date": "July 07, 2026",
+    "sort_date": "2026-07-07",
+    "time": "11:00 AM to 12:00 PM",
+    "location": "Zoom Meeting",
+    "description": "Complimentary webinar on July 7: Walk away with practical strategies to increase involvement of your firm\u2019s leaders and technical experts.",
+    "is_virtual": true,
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=190&ts=1781803070"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -751,7 +621,7 @@
     "location": "Online",
     "description": "Proposals",
     "is_virtual": true,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=303&ts=1780325902"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=303&ts=1781809222"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -764,7 +634,7 @@
     "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
     "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781553046"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781803387"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -778,6 +648,19 @@
     "description": "Stop being the best kept secret. Learn simple, practical ways to strengthen your LinkedIn presence, make a stronger first impression, and show up more intentionally so you are seen, remembered, and connected.",
     "is_virtual": true,
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=262&ts=1781032215"
+  },
+  {
+    "chapter": "SMPS Palmetto",
+    "state": "South Carolina",
+    "region": "Southeast",
+    "title": "Intermediate Adobe Training - Better Together: InDesign Workflows and  Illustrator + Photoshop + Express with Julie Shaffer",
+    "date": "July 14, 2026",
+    "sort_date": "2026-07-14",
+    "time": "9:00 AM EDT to 4:00 PM EDT",
+    "location": "VentureX, 1901 Main Street, https://venturex.com/locations/usa/sc/downtown-columbia-sc/",
+    "description": "Columbia, SC Join us!",
+    "is_virtual": false,
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1781793281"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1167,7 +1050,7 @@
     "location": "Nickel City Fort Worth, 212 S Main St. Suite 100, Fort Worth, TX 76104",
     "description": "Join us for our next SMPS North Texas Happy Hour!",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=305&ts=1781709764"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=305&ts=1781809398"
   },
   {
     "chapter": "SMPS San Diego",
@@ -1427,7 +1310,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781725984"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781810938"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1648,7 +1531,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1781279567"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1781811053"
   },
   {
     "chapter": "SMPS Sacramento",
