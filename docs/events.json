@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
-    "title": "Learn More About the CPSM Test",
-    "date": "June 23, 2026",
-    "sort_date": "2026-06-23",
-    "time": "11:00 AM to 12:00 PM",
-    "location": "Virtual Meeting (Link to be shared with attendees the day before the event)",
-    "description": "Join a virtual info session to learn more about the CPSM testing details and answer questions.",
-    "is_virtual": true,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=274&ts=1778219248"
-  },
-  {
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
@@ -39,6 +26,19 @@
     "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=269&ts=1781656541"
   },
   {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "Learn More About the CPSM Test",
+    "date": "June 23, 2026",
+    "sort_date": "2026-06-23",
+    "time": "11:00 AM to 12:00 PM",
+    "location": "Virtual Meeting (Link to be shared with attendees the day before the event)",
+    "description": "Join a virtual info session to learn more about the CPSM testing details and answer questions.",
+    "is_virtual": true,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=274&ts=1778219248"
+  },
+  {
     "chapter": "SMPS Research Triangle",
     "state": "North Carolina",
     "region": "Southeast",
@@ -63,19 +63,6 @@
     "description": "Charleston higher ed leaders reveal what's driving campus investment and what they look for when choosing design partners.",
     "is_virtual": false,
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=393&ts=1781271734"
-  },
-  {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "SMPS PRC Download on Finish Strong:  Winning Proposals from the Selection Committee\u2019s POV",
-    "date": "June 24, 2026",
-    "sort_date": "2026-06-24",
-    "time": "12:00 PM PDT to 1:30 PM PDT",
-    "location": "Webinar",
-    "description": "URL to be distribution upon registration confirmation. Missed PRC in Seattle? This is your chance to see PRC Speaker Julie Flattery, founder of Style Guide, as she gives us the download on her PRC panel discussion in this LIVE session. Discover the secrets to winning proposals from the Section Committee\u2019s POV",
-    "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=170&ts=1779183157"
   },
   {
     "chapter": "SMPS Colorado",
@@ -180,6 +167,19 @@
     "description": "June Edition: SOCIAL MEDIA! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=171&ts=1778794588"
+  },
+  {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "SMPS PRC Download on Finish Strong:  Winning Proposals from the Selection Committee\u2019s POV",
+    "date": "June 24, 2026",
+    "sort_date": "2026-06-24",
+    "time": "12:00 PM PDT to 1:30 PM PDT",
+    "location": "Webinar",
+    "description": "URL to be distribution upon registration confirmation. Missed PRC in Seattle? This is your chance to see PRC Speaker Julie Flattery, founder of Style Guide, as she gives us the download on her PRC panel discussion in this LIVE session. Discover the secrets to winning proposals from the Section Committee\u2019s POV",
+    "is_virtual": true,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=170&ts=1779183157"
   },
   {
     "chapter": "SMPS Austin",
@@ -546,32 +546,6 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1780423755"
   },
   {
-    "chapter": "SMPS Alabama",
-    "state": "Alabama",
-    "region": "Southeast",
-    "title": "Graphic Design Workshop",
-    "date": "July 09, 2026",
-    "sort_date": "2026-07-09",
-    "time": "3:00 PM to 4:00 PM",
-    "location": "Hybrid: Webinar/In-person Event  (GMC Birmingham), 2400 5th Ave S Suite 200, Birmingham, AL 35233",
-    "description": "Level Up Your Design Skills with SMPS Alabama Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.",
-    "is_virtual": true,
-    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=151&ts=1781713450"
-  },
-  {
-    "chapter": "SMPS San Diego",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Lunch & Learn: Leveraging LinkedIn & Other Off the Beaten Path Tools for Business Development",
-    "date": "July 09, 2026",
-    "sort_date": "2026-07-09",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "DLR Group, 770 First Ave, Unit 300, San Diego, CA 92101",
-    "description": "Learn how to use LinkedIn strategically and leverage less conventional business development tools to build relationships and get results.",
-    "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=131&ts=1779213932"
-  },
-  {
     "chapter": "SMPS St. Louis",
     "state": "Missouri",
     "region": "Missouri Valley",
@@ -596,6 +570,32 @@
     "description": "July Happy Hour",
     "is_virtual": false,
     "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=117&ts=1781719015"
+  },
+  {
+    "chapter": "SMPS Alabama",
+    "state": "Alabama",
+    "region": "Southeast",
+    "title": "Graphic Design Workshop",
+    "date": "July 09, 2026",
+    "sort_date": "2026-07-09",
+    "time": "3:00 PM to 4:00 PM",
+    "location": "Hybrid: Webinar/In-person Event  (GMC Birmingham), 2400 5th Ave S Suite 200, Birmingham, AL 35233",
+    "description": "Level Up Your Design Skills with SMPS Alabama Remember that we have a 48-hr cancellation policy. Please let us know if you need to cancel a reservation.",
+    "is_virtual": true,
+    "detail_url": "https://smpsalabama.starchapter.com/meetinginfo.php?id=151&ts=1781713450"
+  },
+  {
+    "chapter": "SMPS San Diego",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Lunch & Learn: Leveraging LinkedIn & Other Off the Beaten Path Tools for Business Development",
+    "date": "July 09, 2026",
+    "sort_date": "2026-07-09",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "DLR Group, 770 First Ave, Unit 300, San Diego, CA 92101",
+    "description": "Learn how to use LinkedIn strategically and leverage less conventional business development tools to build relationships and get results.",
+    "is_virtual": false,
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=131&ts=1779213932"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -634,7 +634,7 @@
     "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
     "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781803387"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1781877888"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -661,19 +661,6 @@
     "description": "Columbia, SC Join us!",
     "is_virtual": false,
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1781793281"
-  },
-  {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Webinar Replay: AEC.AI Masterclass Series: The Really Big Issues with AI: What AEC Leaders Need to Confront, Control, and Cultivate",
-    "date": "July 15, 2026",
-    "sort_date": "2026-07-15",
-    "time": "11:00 AM PDT to 12:30 PM PDT",
-    "location": "Webinar",
-    "description": "URL to be distribution upon registration confirmation. Listen in as AI strategist Kristin Kautz and Troy Parkinson of Sage Presence discuss the most pressing issues surrounding AI adoption in firms today.",
-    "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=168&ts=1778526520"
   },
   {
     "chapter": "SMPS Idaho",
@@ -715,6 +702,19 @@
     "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=287&ts=1781548349"
   },
   {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Webinar Replay: AEC.AI Masterclass Series: The Really Big Issues with AI: What AEC Leaders Need to Confront, Control, and Cultivate",
+    "date": "July 15, 2026",
+    "sort_date": "2026-07-15",
+    "time": "11:00 AM PDT to 12:30 PM PDT",
+    "location": "Webinar",
+    "description": "URL to be distribution upon registration confirmation. Listen in as AI strategist Kristin Kautz and Troy Parkinson of Sage Presence discuss the most pressing issues surrounding AI adoption in firms today.",
+    "is_virtual": true,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=168&ts=1778526520"
+  },
+  {
     "chapter": "SMPS Greater Cincinnati",
     "state": "Ohio",
     "region": "Heartland",
@@ -752,19 +752,6 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=495&ts=1774560428"
-  },
-  {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Sunshine & Supplies Happy Hour | Thursday, July 16th @ 4PM",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "Alaro Craft Brewery, 2004 Capitol Avenue, Sacramento, CA 95811, https://alarobrewing.com/",
-    "description": "Join us for a summer happy hour to connect, give back, and have some fun while supporting a great cause.",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1781728312"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -817,6 +804,19 @@
     "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781622909"
+  },
+  {
+    "chapter": "SMPS Sacramento",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Sunshine & Supplies Happy Hour | Thursday, July 16th @ 4PM",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "Alaro Craft Brewery, 2004 Capitol Avenue, Sacramento, CA 95811, https://alarobrewing.com/",
+    "description": "Join us for a summer happy hour to connect, give back, and have some fun while supporting a great cause.",
+    "is_virtual": false,
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1781728312"
   },
   {
     "chapter": "SMPS Austin",
@@ -884,19 +884,6 @@
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=280&ts=1781542767"
   },
   {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Marketing & Business Development Speed Networking",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "4:00 PM to 7:00 PM",
-    "location": "SRBX, 5370 Elvas Ave, Sacramento, CA 95819",
-    "description": "Looking to expand your network? Join SMPS for an interactive Speed Networking event featuring experienced marketing and business development professionals from across the region.",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1781650850"
-  },
-  {
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
@@ -949,6 +936,19 @@
     "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=78&ts=1780679432"
   },
   {
+    "chapter": "SMPS Sacramento",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Marketing & Business Development Speed Networking",
+    "date": "July 22, 2026",
+    "sort_date": "2026-07-22",
+    "time": "4:00 PM to 7:00 PM",
+    "location": "SRBX, 5370 Elvas Ave, Sacramento, CA 95819",
+    "description": "Looking to expand your network? Join SMPS for an interactive Speed Networking event featuring experienced marketing and business development professionals from across the region.",
+    "is_virtual": false,
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1781650850"
+  },
+  {
     "chapter": "SMPS Virginia",
     "state": "Virginia",
     "region": "Southeast",
@@ -962,19 +962,6 @@
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=244&ts=1780934106"
   },
   {
-    "chapter": "SMPS San Diego",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Building Balance: An Interactive Workshop on Mindfulness, Meditation & Movement",
-    "date": "July 23, 2026",
-    "sort_date": "2026-07-23",
-    "time": "3:00 PM to 5:30 PM",
-    "location": "De Anza Cove Park, 3000 N Mission Bay Dr, San Diego, CA 92109",
-    "description": "This interactive workshop will teach you how to manage stress through mindfulness, breathwork, and everyday movement.",
-    "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=133&ts=1781214481"
-  },
-  {
     "chapter": "SMPS St. Louis",
     "state": "Missouri",
     "region": "Missouri Valley",
@@ -986,6 +973,19 @@
     "description": "Join us for our fifth annual Pickleball Tournament and Happy Hour!",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1781031323"
+  },
+  {
+    "chapter": "SMPS San Diego",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Building Balance: An Interactive Workshop on Mindfulness, Meditation & Movement",
+    "date": "July 23, 2026",
+    "sort_date": "2026-07-23",
+    "time": "3:00 PM to 5:30 PM",
+    "location": "De Anza Cove Park, 3000 N Mission Bay Dr, San Diego, CA 92109",
+    "description": "This interactive workshop will teach you how to manage stress through mindfulness, breathwork, and everyday movement.",
+    "is_virtual": false,
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=133&ts=1781214481"
   },
   {
     "chapter": "SMPS North Texas",
@@ -1053,19 +1053,6 @@
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=305&ts=1781809398"
   },
   {
-    "chapter": "SMPS San Diego",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Principals Roundtable: Community Engagement for AEC Projects",
-    "date": "August 05, 2026",
-    "sort_date": "2026-08-05",
-    "time": "7:30 AM to 9:00 AM",
-    "location": "Safdie Rabines Architects, 925 Fort Stockton Drive, San Diego, CA 92103",
-    "description": "This roundtable will explore why public outreach matters for building trust, reducing risk, and improving project outcomes.",
-    "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=135&ts=1781215270"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -1103,6 +1090,19 @@
     "description": "Learn how to capture project stories before they disappear \u2014 and turn them into testimonials, case studies, proposal content, recruiting materials, social media posts, award submissions, and other strategic marketing assets.",
     "is_virtual": true,
     "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=101&ts=1781636138"
+  },
+  {
+    "chapter": "SMPS San Diego",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Principals Roundtable: Community Engagement for AEC Projects",
+    "date": "August 05, 2026",
+    "sort_date": "2026-08-05",
+    "time": "7:30 AM to 9:00 AM",
+    "location": "Safdie Rabines Architects, 925 Fort Stockton Drive, San Diego, CA 92103",
+    "description": "This roundtable will explore why public outreach matters for building trust, reducing risk, and improving project outcomes.",
+    "is_virtual": false,
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=135&ts=1781215270"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1209,19 +1209,6 @@
     "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=460&ts=1781568800"
   },
   {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Webinar Replay: AEC.AI Masterclass Series: How AI is Rewriting Business Development & How to Take Advantage of This Shift",
-    "date": "August 13, 2026",
-    "sort_date": "2026-08-13",
-    "time": "11:00 AM PDT to 12:30 PM PDT",
-    "location": "Webinar",
-    "description": "URL to be distribution upon registration confirmation. Don\u2019t let your firm get lost in the AI-search shuffle.",
-    "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=169&ts=1778647935"
-  },
-  {
     "chapter": "SMPS Indiana",
     "state": "Indiana",
     "region": "Heartland",
@@ -1233,6 +1220,19 @@
     "description": "Learn how to translate your marketing and business development insights into the language executives act on.",
     "is_virtual": false,
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=403&ts=1778857136"
+  },
+  {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Webinar Replay: AEC.AI Masterclass Series: How AI is Rewriting Business Development & How to Take Advantage of This Shift",
+    "date": "August 13, 2026",
+    "sort_date": "2026-08-13",
+    "time": "11:00 AM PDT to 12:30 PM PDT",
+    "location": "Webinar",
+    "description": "URL to be distribution upon registration confirmation. Don\u2019t let your firm get lost in the AI-search shuffle.",
+    "is_virtual": true,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=169&ts=1778647935"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -1310,7 +1310,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781810938"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1781895329"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1531,7 +1531,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1781811053"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1781881475"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1573,19 +1573,6 @@
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=357&ts=1781716846"
   },
   {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Marketing Trends",
-    "date": "September 17, 2026",
-    "sort_date": "2026-09-17",
-    "time": "11:00 AM to 1:00 PM",
-    "location": "Venue: TBD",
-    "description": "Stay tuned for details about this upcoming event!",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=475&ts=1780616956"
-  },
-  {
     "chapter": "SMPS Las Vegas",
     "state": "Nevada",
     "region": "Pacific",
@@ -1597,6 +1584,19 @@
     "description": "Join us as we celebrate our members and launch into a powerful new SMPS year.",
     "is_virtual": false,
     "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=81&ts=1780304240"
+  },
+  {
+    "chapter": "SMPS Sacramento",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Marketing Trends",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "11:00 AM to 1:00 PM",
+    "location": "Venue: TBD",
+    "description": "Stay tuned for details about this upcoming event!",
+    "is_virtual": false,
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=475&ts=1780616956"
   },
   {
     "chapter": "SMPS Boston",
