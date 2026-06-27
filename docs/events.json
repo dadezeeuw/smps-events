@@ -296,7 +296,7 @@
     "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
     "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1782250749"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1782512489"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -322,7 +322,7 @@
     "location": "VentureX, 1901 Main Street, https://venturex.com/locations/usa/sc/downtown-columbia-sc/",
     "description": "Columbia, SC Join us!",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1782136756"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1782501821"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -728,6 +728,19 @@
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=630&ts=1782435349"
   },
   {
+    "chapter": "SMPS Boston",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "title": "From Reactive to Strategic: Elevating Marketing\u2019s Role in Driving Growth",
+    "date": "July 23, 2026",
+    "sort_date": "2026-07-23",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Zoom",
+    "description": "Tired of supporting decisions instead of shaping them? Discover how to build credibility, earn a seat at the table, and transform marketing from a support function into a true growth driver in your firm.",
+    "is_virtual": true,
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=189&ts=1782484200"
+  },
+  {
     "chapter": "SMPS St. Louis",
     "state": "Missouri",
     "region": "Missouri Valley",
@@ -960,6 +973,19 @@
     "description": "We want to hear from you! Join us for a casual and collaborative lunch hour to share your feedback and help shape the future of SMPS San Diego.",
     "is_virtual": false,
     "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=132&ts=1780959931"
+  },
+  {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "2026 SMPS DC Fall CPSM Bootcamp",
+    "date": "August 11, 2026",
+    "sort_date": "2026-08-11",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Zoom meeting. Link to be sent prior to event.",
+    "description": "Our nationally recognized bootcamp program will get you ready to tackle the CPSM test in no time - helping you join a distinguished group of professionals committed to professional excellence, career advancement, and an ongoing pursuit of knowledge.",
+    "is_virtual": true,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=159&ts=1782509993"
   },
   {
     "chapter": "SMPS San Antonio",

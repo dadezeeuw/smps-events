@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T08:31:20",
-  "total_events": 154,
+  "last_updated": "2026-06-27T13:30:42",
+  "total_events": 156,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -172,9 +172,9 @@
       "url": "https://smpsdc.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 69,
+      "lines_loaded": 76,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -367,9 +367,9 @@
       "url": "https://smpsboston.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 3,
+      "events_found": 4,
       "load_attempts": 1,
-      "lines_loaded": 86,
+      "lines_loaded": 94,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -446,7 +446,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 2,
-      "load_attempts": 1,
+      "load_attempts": 2,
       "lines_loaded": 56,
       "rejected_dates": 0,
       "skipped_past_events": 0
@@ -550,7 +550,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 4,
-      "load_attempts": 1,
+      "load_attempts": 2,
       "lines_loaded": 83,
       "rejected_dates": 0,
       "skipped_past_events": 0
