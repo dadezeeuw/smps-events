@@ -1,57 +1,5 @@
 [
   {
-    "chapter": "SMPS Washington, DC",
-    "state": "District of Columbia, Maryland, Virginia",
-    "region": "Northeast",
-    "title": "NERC Notes & Nuggets: What You Missed (and What Matters) **Postponed**",
-    "date": "June 30, 2026",
-    "sort_date": "2026-06-30",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314",
-    "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
-    "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1782765861"
-  },
-  {
-    "chapter": "SMPS Central Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Summer Volunteer Event",
-    "date": "June 30, 2026",
-    "sort_date": "2026-06-30",
-    "time": "1:00 PM to 4:00 PM",
-    "location": "Second Harvest Food Bank of Central Florida, 411 Mercy Drive, Orlando, FL 32805",
-    "description": "Service + connection = the perfect summer afternoon! We\u2019re heading to Second Harvest on June 30 to support our local community and strengthen our SMPS Central Florida network. Let\u2019s serve, connect, and make an impact together.",
-    "is_virtual": false,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=654&ts=1780398723"
-  },
-  {
-    "chapter": "SMPS Northern New England",
-    "state": "Maine",
-    "region": "Northeast",
-    "title": "Play Ball! SMPS NNE Year-End Membership Appreciation",
-    "date": "June 30, 2026",
-    "sort_date": "2026-06-30",
-    "time": "4:30 PM to 9:00 PM",
-    "location": "Hadlock Field, 271 Park Avenue, Portland, ME 04102",
-    "description": "Get in the game with SMPS NNE for an evening of fun, food, and conversation!",
-    "is_virtual": false,
-    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=162&ts=1780419932"
-  },
-  {
-    "chapter": "SMPS Seattle",
-    "state": "Washington",
-    "region": "Pacific",
-    "title": "Sip & Social: South Sound Proud",
-    "date": "June 30, 2026",
-    "sort_date": "2026-06-30",
-    "time": "4:30 PM to 6:30 PM",
-    "location": "Peaks and Pints, 3816 N 26th St B, Tacoma, WA 98407",
-    "description": "Close out Pride Month with great company, meaningful connections, and a toast to community at our next Sip & Social. Join your fellow SMPSers in the South Sound for an easy, after-work mix at one of Tacoma\u2019s favorite spots, Peaks & Pints. VIEW ATTENDEES",
-    "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=501&ts=1780427972"
-  },
-  {
     "chapter": "SMPS Chicago",
     "state": "Illinois",
     "region": "Heartland",
@@ -120,12 +68,12 @@
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
-    "title": "Adaptive Reuse Office/TI Panel",
+    "title": "Adaptive Reuse Office/TI Panel ...",
     "date": "July 08, 2026",
     "sort_date": "2026-07-08",
     "time": "TBD",
     "location": "See event details",
-    "description": "Category: Programs",
+    "description": "",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=795&Itemid=115&year=2026&month=07&day=08&title=adaptive-reuse-officeti-panel&uid=f6f736529bcc2461cbf456e58601409d"
   },
@@ -296,7 +244,7 @@
     "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
     "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1782512489"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1782829221"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -504,7 +452,7 @@
     "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
     "description": "Part 2: Activating Your Brand While Managing Reputational Risk",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1782755585"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1782853182"
   },
   {
     "chapter": "SMPS New York",
@@ -517,7 +465,7 @@
     "location": "Dewberry, 6 Campus Drive, Suite 203, Parsippany, NJ 07054",
     "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1781622909"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1782837778"
   },
   {
     "chapter": "SMPS Austin",
@@ -570,6 +518,19 @@
     "description": "A Walk in the Park: Grab your hat and sunnies, lace up your shoes, and join us for a light walk through the Washington Park Arboretum on Thursday, July 16. VIEW ATTENDEES",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781654552"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Monthly Board Meeting: July",
+    "date": "July 17, 2026",
+    "sort_date": "2026-07-17",
+    "time": "9:00 AM to 10:00 AM",
+    "location": "Teams (Virtual)",
+    "description": "Join us for our next board meeting!",
+    "is_virtual": true,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=547&ts=1782840449"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -751,7 +712,7 @@
     "location": "TREKK Design Group, 1310 E 104 St Suite 200, Kansas City, MO 64134",
     "description": "Own Your Seat: How AEC Marketers Grow & Lead, a dynamic panel discussion designed to help entry- to mid-level marketers position themselves for promotions and long-term career growth.",
     "is_virtual": false,
-    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=212&ts=1782741062"
+    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=212&ts=1782838311"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -806,6 +767,19 @@
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=304&ts=1781561622"
   },
   {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Amplify A | E | C",
+    "date": "July 27, 2026",
+    "sort_date": "2026-07-27",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Conference",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=802&Itemid=115&year=2026&month=07&day=27&title=amplify-a--e--c&uid=385953650b2f467afdb8ec028fca0b69"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -817,6 +791,32 @@
     "description": "Three days. Endless connections. Learning with impact. After welcoming 850+ attendees in Columbus, Amplify A|E|C is gearing up for an even bigger experience in Las Vegas in 2026. Join us for the premier conference for A/E/C marketers, business developers,",
     "is_virtual": false,
     "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=180&ts=1774547846"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Amplify A | E | C",
+    "date": "July 28, 2026",
+    "sort_date": "2026-07-28",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Conference",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=802&Itemid=115&year=2026&month=07&day=28&title=amplify-a--e--c&uid=385953650b2f467afdb8ec028fca0b69"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Amplify A | E | C",
+    "date": "July 29, 2026",
+    "sort_date": "2026-07-29",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Conference",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=802&Itemid=115&year=2026&month=07&day=29&title=amplify-a--e--c&uid=385953650b2f467afdb8ec028fca0b69"
   },
   {
     "chapter": "SMPS Maryland",
@@ -856,6 +856,19 @@
     "description": "Explore Harrisburg's downtown development with a guided walking tour.",
     "is_virtual": false,
     "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=429&ts=1781107185"
+  },
+  {
+    "chapter": "SMPS Nashville",
+    "state": "Tennessee",
+    "region": "Southeast",
+    "title": "East Bank: Partnerships That Shape Our City",
+    "date": "July 30, 2026",
+    "sort_date": "2026-07-30",
+    "time": "11:00 AM to 1:00 PM",
+    "location": "The Athenaeum at Hastings Architecture, 225 Polk Ave, Nashville, TN 37204",
+    "description": "This session explores the full lifecycle of teaming in today\u2019s AEC industry, from early collaboration and pursuit strategies to real-world delivery and long-term outcomes.",
+    "is_virtual": false,
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=282&ts=1782848618"
   },
   {
     "chapter": "SMPS North Texas",
@@ -1037,7 +1050,7 @@
     "location": "Prestonwood Country Club, 300 Prestonwood Parkway, Cary, NC 27513",
     "description": "We all know A/E/C firms are built on relationships, but relationships alone don't always create preference, protect pricing, or win the room when decision-makers expand beyond the relationship owner. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782748717"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782853261"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -1157,6 +1170,19 @@
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=372&ts=1768331829"
   },
   {
+    "chapter": "SMPS Southeast Louisiana",
+    "state": "Louisiana",
+    "region": "Southern",
+    "title": "Annual State of the State",
+    "date": "August 18, 2026",
+    "sort_date": "2026-08-18",
+    "time": "11:00 AM CDT to 1:30 PM CDT",
+    "location": "Juban's Restaurant, 3739 Perkins Rd., Baton Rouge, LA 70808, https://www.jubans.com/",
+    "description": "Our annual State of the State luncheon with heavy-hitting representatives from various State offices.",
+    "is_virtual": false,
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1782849785"
+  },
+  {
     "chapter": "SMPS Greater Cincinnati",
     "state": "Ohio",
     "region": "Heartland",
@@ -1168,19 +1194,6 @@
     "description": "Keeping great people is just as critical as recruitment, because unfortunately many AEC professionals make lateral moves throughout their careers. Culture and opportunity are vital to retaining talent and getting referrals to candidates.",
     "is_virtual": true,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=402&ts=1781708309"
-  },
-  {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "NoCo Happy Hour Hang Out: Mixed-Use/Development Panel",
-    "date": "August 19, 2026",
-    "sort_date": "2026-08-19",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: Programs",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=799&Itemid=115&year=2026&month=08&day=19&title=noco-happy-hour-hang-out-mixed-usedevelopment-panel&uid=2e141e2eca1674ab27a2798207a47d23"
   },
   {
     "chapter": "SMPS Northeast Ohio",
