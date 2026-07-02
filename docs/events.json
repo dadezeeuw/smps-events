@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Chicago",
-    "state": "Illinois",
-    "region": "Heartland",
-    "title": "July Networking Lunch",
-    "date": "July 01, 2026",
-    "sort_date": "2026-07-01",
-    "time": "12:00 PM CDT to 1:00 PM CDT",
-    "location": "Ramen-San, Fulton Market, 219 N Green St, Chicago, IL 60607, https://www.ramensan.com/",
-    "description": "Join us for another round of networking and good eats!",
-    "is_virtual": false,
-    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=264&ts=1781544118"
-  },
-  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -234,6 +221,19 @@
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=303&ts=1781809222"
   },
   {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "Desert Connections: A Southern Arizona Economic Development Exchange",
+    "date": "July 14, 2026",
+    "sort_date": "2026-07-14",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "The L Offices North, 1860 East River Road, Ste 325, Tucson, AZ 85718",
+    "description": "Join BILD and SMPS for a discussion centered on the realities shaping Southern Arizona\u2019s economic trajectory, with direct insight from the City of Tucson and Pima County.",
+    "is_virtual": false,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1782937031"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -296,7 +296,7 @@
     "location": "Push & Pour, 13 S. Latah St., Suite 2, Boise, ID 83705",
     "description": "Join us for our upcoming Summer Social!",
     "is_virtual": false,
-    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=83&ts=1780692651"
+    "detail_url": "https://smpsidaho.starchapter.com/meetinginfo.php?id=83&ts=1782928841"
   },
   {
     "chapter": "SMPS Southeast Louisiana",
@@ -335,7 +335,7 @@
     "location": "North Market Bridge Park, 6750 Longshore Street, Dublin, OH 43017",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=173&ts=1782235522"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=173&ts=1782921849"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -452,7 +452,7 @@
     "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
     "description": "Part 2: Activating Your Brand While Managing Reputational Risk",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1782853182"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1782973568"
   },
   {
     "chapter": "SMPS New York",
@@ -749,7 +749,7 @@
     "sort_date": "2026-07-23",
     "time": "4:00 PM to 6:00 PM",
     "location": "Pinnacle Architecture, 1001 SW Disk Drive, Suite 105, Bend, OR 97702",
-    "description": "Build relationships, grow your network, and connect with Central Oregon's AEC community! Calendar of Events Industry Events More coming soon! Registration Help If you are a new or reinstated member, please email info@smpsoregon.org for assistance completing your registration. The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb",
+    "description": "Build relationships, grow your network, and connect with Central Oregon's AEC community!",
     "is_virtual": false,
     "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=214&ts=1782413984"
   },
@@ -897,6 +897,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=503&ts=1782327059"
   },
   {
+    "chapter": "SMPS Oregon",
+    "state": "Oregon",
+    "region": "Pacific",
+    "title": "SMPS Oregon Board Nominations and Elections Roundtable Session 1",
+    "date": "August 04, 2026",
+    "sort_date": "2026-08-04",
+    "time": "11:30 AM to 12:00 PM",
+    "location": "Virtual",
+    "description": "Ready to take the next step in your SMPS journey? Discover how board service can help you grow as a leader, expand your network, and shape the future of SMPS Oregon.",
+    "is_virtual": true,
+    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=215&ts=1782936076"
+  },
+  {
     "chapter": "SMPS Central Pennsylvania",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -1014,6 +1027,19 @@
     "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=473&ts=1780616057"
   },
   {
+    "chapter": "SMPS Oregon",
+    "state": "Oregon",
+    "region": "Pacific",
+    "title": "SMPS Oregon Board Nomination and Elections Roundtable Session 2",
+    "date": "August 06, 2026",
+    "sort_date": "2026-08-06",
+    "time": "8:30 AM to 9:00 AM",
+    "location": "Virtual",
+    "description": "Ready to take the next step in your SMPS journey? Discover how board service can help you grow as a leader, expand your network, and shape the future of SMPS Oregon Calendar of Events Industry Events More coming soon! Registration Help If you are a new or reinstated member, please email info@smpsoregon.org for assistance completing your registration. The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb",
+    "is_virtual": true,
+    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=217&ts=1782936195"
+  },
+  {
     "chapter": "SMPS San Diego",
     "state": "California",
     "region": "Pacific",
@@ -1050,7 +1076,7 @@
     "location": "Prestonwood Country Club, 300 Prestonwood Parkway, Cary, NC 27513",
     "description": "We all know A/E/C firms are built on relationships, but relationships alone don't always create preference, protect pricing, or win the room when decision-makers expand beyond the relationship owner. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782853261"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782917226"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -1261,6 +1287,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=497&ts=1774560614"
   },
   {
+    "chapter": "SMPS Kentucky",
+    "state": "Kentucky",
+    "region": "Heartland",
+    "title": "Video Marketing for A/E/C Firms: Where to Start and What Actually Works",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "9:00 AM to 10:30 AM",
+    "location": "Qk4 Engineering, 9920 Corporate Campus Drive, Louisville, KY 40223",
+    "description": "Have you ever found yourself admiring the video content of others on social media? Are you inspired and excited to do the same, but you don\u2019t know where to start? Join SMPS Kentucky, UltraViolet Media and Qk4 to talk about what\u2019s trending in video marketi",
+    "is_virtual": false,
+    "detail_url": "https://smpskentucky.starchapter.com/meetinginfo.php?id=289&ts=1782939558"
+  },
+  {
     "chapter": "SMPS New Mexico",
     "state": "New Mexico",
     "region": "Southwest",
@@ -1323,7 +1362,20 @@
     "location": "The Golf Club of Dublin, 5805 Eiterman Road, Dublin, OH 43016",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1778516422"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1782994303"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "2026 Phelix Awards",
+    "date": "August 27, 2026",
+    "sort_date": "2026-08-27",
+    "time": "6:00 PM to 8:00 PM",
+    "location": "The Clayton House, 3719 N 75th Street, Ste 100, Scottsdale, AZ 85251",
+    "description": "Behind every winning pursuit, standout project, and strategic move, there are calculated decisions, quiet coordination, and behind-the-scenes maneuvers that make it all happen. Join SMPS Arizona as we recognize some of the industry's best-kept secrets at",
+    "is_virtual": false,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=280&ts=1782938932"
   },
   {
     "chapter": "SMPS San Diego",
@@ -1415,6 +1467,19 @@
     "description": "Join SMPS North Florida for the Jacksonville Jaguars versus the Tampa Bay Buccaneers game on 8/28!",
     "is_virtual": false,
     "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=105&ts=1781119328"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Powerful, not Perfect - Scrappy in-house video",
+    "date": "August 31, 2026",
+    "sort_date": "2026-08-31",
+    "time": "9:00 AM - 3:00 PM",
+    "location": "Smith Group San Francisco Office, 301 Battery Street, San Francisco, CA 94111",
+    "description": "New date and time!",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1782951044"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1583,7 +1648,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1782411975"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1782924032"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1661,7 +1726,7 @@
     "location": "Out Door Country Club, 1157 Detwiler Drive, York, PA 17404",
     "description": "Join our industry partners for our annual and highly anticipated charitable golf outing. Sponsorships and foursomes are available!",
     "is_virtual": false,
-    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=421&ts=1780494583"
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=421&ts=1782917942"
   },
   {
     "chapter": "SMPS Virginia",
