@@ -229,9 +229,9 @@
     "sort_date": "2026-07-14",
     "time": "11:30 AM to 1:00 PM",
     "location": "The L Offices North, 1860 East River Road, Ste 325, Tucson, AZ 85718",
-    "description": "Join BILD and SMPS for a discussion centered on the realities shaping Southern Arizona\u2019s economic trajectory, with direct insight from the City of Tucson and Pima County.",
+    "description": "Join BILD and SMPS for a discussion centered on the realities shaping Southern Arizona\u2019s economic trajectory, with direct insight from the City of Tucson and Pima County. REGISTRATION IS THROUGH BILD AZ CLICK VIEW DETAILS FOR THE LINK!",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1782937031"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1783014769"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -335,7 +335,7 @@
     "location": "North Market Bridge Park, 6750 Longshore Street, Dublin, OH 43017",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=173&ts=1782921849"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=173&ts=1782999423"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -375,6 +375,32 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=495&ts=1774560428"
+  },
+  {
+    "chapter": "SMPS Ozarks",
+    "state": "Arkansas, Missouri",
+    "region": "Missouri Valley",
+    "title": "NWA Summer Happy Hour",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "Bar Kapu, 229 S Main Street, Suite 101, Bentonville, AR 72712",
+    "description": "Join SMPS Ozarks for a casual happy hour in Bentonville. Stop by, meet a few new people, and enjoy your first drink on us!",
+    "is_virtual": false,
+    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=91&ts=1783102252"
+  },
+  {
+    "chapter": "SMPS Ozarks",
+    "state": "Arkansas, Missouri",
+    "region": "Missouri Valley",
+    "title": "Springfield Summer Happy Hour",
+    "date": "July 16, 2026",
+    "sort_date": "2026-07-16",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "Wire Road Brewing, 4453 S Timbercreek Ave, Battlefield, MO 65619, Meet us at Wire Road for a relaxed Springfield happy hour with SMPS Ozarks. The first drink is free, and all members, guests, and anyone interested in SMPS are welcome!",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=92&ts=1783103087"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -426,7 +452,7 @@
     "location": "Night Shift Brewing, 1 Lovejoy Wharf, Boston, MA 02114",
     "description": "Join us at Night Shift Brewing on Lovejoy Wharf for our annual summer social!",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1781125360"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1783048269"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -465,7 +491,7 @@
     "location": "Dewberry, 6 Campus Drive, Suite 203, Parsippany, NJ 07054",
     "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1782837778"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1783021178"
   },
   {
     "chapter": "SMPS Austin",
@@ -897,6 +923,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=503&ts=1782327059"
   },
   {
+    "chapter": "SMPS Ozarks",
+    "state": "Arkansas, Missouri",
+    "region": "Missouri Valley",
+    "title": "Little Rock Summer Happy Hour",
+    "date": "August 04, 2026",
+    "sort_date": "2026-08-04",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "Southern Tail Brewing, 900 E 9th Street, Little Rock, AR 72202",
+    "description": "Join SMPS Ozarks and Garver for a Little Rock happy hour at Southern Tail Brewing. Stop by to make valuable connections with fellow A/E/C professionals and enjoy a drink on us, thanks to Garver!",
+    "is_virtual": false,
+    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=93&ts=1783104482"
+  },
+  {
     "chapter": "SMPS Oregon",
     "state": "Oregon",
     "region": "Pacific",
@@ -1271,7 +1310,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1782394186"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1783007437"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1648,7 +1687,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1782924032"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1783033251"
   },
   {
     "chapter": "SMPS Greater Cincinnati",

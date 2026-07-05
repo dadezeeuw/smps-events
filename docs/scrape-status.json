@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T08:38:28",
-  "total_events": 169,
+  "last_updated": "2026-07-05T02:37:06",
+  "total_events": 172,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -55,9 +55,9 @@
       "url": "https://smpsozarks.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 0,
+      "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 31,
+      "lines_loaded": 61,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -109,7 +109,7 @@
       "message": "Scraped successfully.",
       "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 102,
+      "lines_loaded": 103,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
