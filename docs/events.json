@@ -114,7 +114,7 @@
     "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr",
     "description": "Houston,  77041 Join Us for the SMPS Houston New Member Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1780423755"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1783360892"
   },
   {
     "chapter": "SMPS Virginia",
@@ -426,7 +426,7 @@
     "location": "Harrington's Bar & Grill, 245 Front Street, San Francisco, CA 94111, https://www.harringtonssf.com/",
     "description": "Meet other SMPS members at Harrington's Bar & Grill in San Francisco!",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=628&ts=1782429561"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=628&ts=1783374279"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -738,7 +738,7 @@
     "location": "TREKK Design Group, 1310 E 104 St Suite 200, Kansas City, MO 64134",
     "description": "Own Your Seat: How AEC Marketers Grow & Lead, a dynamic panel discussion designed to help entry- to mid-level marketers position themselves for promotions and long-term career growth.",
     "is_virtual": false,
-    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=212&ts=1782838311"
+    "detail_url": "https://smpskc.starchapter.com/meetinginfo.php?id=212&ts=1783379318"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -868,7 +868,7 @@
     "location": "Xavier's College of Osteopathic Medicine Hard Hat Tour, Dana Avenue",
     "description": "HARD HAT TOUR: Xavier's College of Osteopathic Medicine - REGISTER NOW!",
     "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=395&ts=1782319554"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=395&ts=1783362035"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -891,10 +891,10 @@
     "date": "July 30, 2026",
     "sort_date": "2026-07-30",
     "time": "11:00 AM to 1:00 PM",
-    "location": "The Athenaeum at Hastings Architecture, 225 Polk Ave, Nashville, TN 37204",
+    "location": "The Athenaeum at HASTINGS Architecture, 225 Polk Ave, Nashville, TN 37204",
     "description": "This session explores the full lifecycle of teaming in today\u2019s AEC industry, from early collaboration and pursuit strategies to real-world delivery and long-term outcomes.",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=282&ts=1782848618"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=282&ts=1783345858"
   },
   {
     "chapter": "SMPS North Texas",
@@ -908,6 +908,19 @@
     "description": "Join us for our next SMPS North Texas Happy Hour!",
     "is_virtual": false,
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=305&ts=1781809398"
+  },
+  {
+    "chapter": "SMPS Virginia",
+    "state": "Virginia",
+    "region": "Southeast",
+    "title": "InDesign Fundamentals with Julie Shaffer",
+    "date": "July 30, 2026",
+    "sort_date": "2026-07-30",
+    "time": "11:00 AM EDT to 12:30 PM EDT",
+    "location": "Zoom",
+    "description": "This fan-favorite course includes tips and best practices for creating and using styles in proposals.  The ideal participant typically uses the software daily and is ready to become more efficient and  consistent with their work.",
+    "is_virtual": true,
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=245&ts=1783358329"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1064,6 +1077,19 @@
     "description": "Stay tuned for details about this upcoming event!",
     "is_virtual": false,
     "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=473&ts=1780616057"
+  },
+  {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "Shifting from Short Term Stress to Long-Term Success: A Senior Marketers Roundtable",
+    "date": "August 06, 2026",
+    "sort_date": "2026-08-06",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "WSP (DC), 80 M Street SE, Suite 310, Washington, DC 20003",
+    "description": "At this SMRT event, marketing leaders will have a candid, no-filter conversation about the tension between chasing wins and building something sustainable and what it really takes to do both well.",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=160&ts=1783365194"
   },
   {
     "chapter": "SMPS Oregon",
@@ -1245,7 +1271,7 @@
     "location": "Juban's Restaurant, 3739 Perkins Rd., Baton Rouge, LA 70808, https://www.jubans.com/",
     "description": "Our annual State of the State luncheon with heavy-hitting representatives from various State offices.",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1782849785"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1783375090"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1333,10 +1359,10 @@
     "date": "August 20, 2026",
     "sort_date": "2026-08-20",
     "time": "9:00 AM to 10:30 AM",
-    "location": "Qk4 Engineering, 9920 Corporate Campus Drive, Louisville, KY 40223",
+    "location": "Qk4 Engineering (Limited to 20 guests), 9920 Corporate Campus Drive, Louisville, KY 40223",
     "description": "Have you ever found yourself admiring the video content of others on social media? Are you inspired and excited to do the same, but you don\u2019t know where to start? Join SMPS Kentucky, UltraViolet Media and Qk4 to talk about what\u2019s trending in video marketi",
     "is_virtual": false,
-    "detail_url": "https://smpskentucky.starchapter.com/meetinginfo.php?id=289&ts=1782939558"
+    "detail_url": "https://smpskentucky.starchapter.com/meetinginfo.php?id=289&ts=1783371420"
   },
   {
     "chapter": "SMPS New Mexico",
@@ -1378,17 +1404,30 @@
     "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=118&ts=1782756844"
   },
   {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "NERC Notes & Nuggets: What You Missed (and What Matters)",
+    "date": "August 25, 2026",
+    "sort_date": "2026-08-25",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314",
+    "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1783345067"
+  },
+  {
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
-    "title": "SMPS Houston Program | Legislative Update - Save the Date!",
+    "title": "SMPS Houston Program | Greater Houston Growth & Development Outlook",
     "date": "August 25, 2026",
     "sort_date": "2026-08-25",
     "time": "11:30 AM to 1:00 PM",
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
-    "description": "Save the Date!",
+    "description": "Registration is open! Join SMPS Houston in celebrating the Greater Houston Growth & Development Outlook - Insights from regional leaders on the trends, policies, and priorities shaping our communities, and what they mean for AEC firms.",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=201&ts=1766009290"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=201&ts=1783358756"
   },
   {
     "chapter": "SMPS Columbus",
@@ -1687,7 +1726,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1783033251"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1783345673"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1739,7 +1778,7 @@
     "location": "Grand Prairie Events & Convention Center, 2925 S State Hwy 161, Grand Prairie, TX 75052",
     "description": "Save the date for our annual awards event!",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=284&ts=1773591121"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=284&ts=1783359494"
   },
   {
     "chapter": "SMPS Kansas City",
