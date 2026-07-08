@@ -1,44 +1,5 @@
 [
   {
-    "chapter": "SMPS Maryland",
-    "state": "Maryland",
-    "region": "Northeast",
-    "title": "Learn More About SMPS Maryland\u2019s Four-Part Leadership Development Series",
-    "date": "July 07, 2026",
-    "sort_date": "2026-07-07",
-    "time": "12:30 PM to 1:30 PM",
-    "location": "Microsoft Teams",
-    "description": "Learn how SMPS Maryland\u2019s four-part leadership cohort can help A/E/C marketers, business developers, and emerging leaders strengthen their leadership presence, build practical tools, and lead with greater clarity, confidence, and impact.",
-    "is_virtual": true,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=102&ts=1782703193"
-  },
-  {
-    "chapter": "SMPS Oklahoma",
-    "state": "Oklahoma",
-    "region": "Southern",
-    "title": "Members Only: How to Inspire AEC Leadership to Care about Marketing",
-    "date": "July 07, 2026",
-    "sort_date": "2026-07-07",
-    "time": "11:00 AM to 12:00 PM",
-    "location": "Zoom Meeting",
-    "description": "Complimentary webinar on July 7: Walk away with practical strategies to increase involvement of your firm\u2019s leaders and technical experts.",
-    "is_virtual": true,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=190&ts=1781803070"
-  },
-  {
-    "chapter": "SMPS Central Pennsylvania",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Marketing Mastery Series | Winning Beyond Price: Building Proposals That Differentiate and Persuade",
-    "date": "July 07, 2026",
-    "sort_date": "2026-07-07",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual Event",
-    "description": "Discover strategies for strengthening proposal messaging, showcasing your firm's unique value, and creating more persuasive submissions that improve win rates.",
-    "is_virtual": true,
-    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=426&ts=1782751955"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -114,7 +75,7 @@
     "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr",
     "description": "Houston,  77041 Join Us for the SMPS Houston New Member Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1783360892"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=212&ts=1783444482"
   },
   {
     "chapter": "SMPS Virginia",
@@ -231,7 +192,7 @@
     "location": "The L Offices North, 1860 East River Road, Ste 325, Tucson, AZ 85718",
     "description": "Join BILD and SMPS for a discussion centered on the realities shaping Southern Arizona\u2019s economic trajectory, with direct insight from the City of Tucson and Pima County. REGISTRATION IS THROUGH BILD AZ CLICK VIEW DETAILS FOR THE LINK!",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1783014769"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1783475792"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -559,17 +520,30 @@
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=547&ts=1782840449"
   },
   {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS Atlanta Pre-Amplify Virtual Meet-Up",
+    "date": "July 20, 2026",
+    "sort_date": "2026-07-20",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Zoom Virtual Platform",
+    "description": "Join SMPS Atlanta for a virtual pre-conference meet-up to connect with fellow Amplify A|E|C attendees, share plans, and get ready for three impactful days of education, strategy, and networking.",
+    "is_virtual": true,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=388&ts=1783454594"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
     "title": "Regional Coffee Meetup - Oakland/East Bay",
     "date": "July 21, 2026",
     "sort_date": "2026-07-21",
-    "time": "8:00 AM - 10:00 AM",
+    "time": "8:00 AM - 9:30 AM",
     "location": "Modern Coffee, 381 19th Street, Oakland, CA 94612, https://www.moderncoffeeoakland.com/",
     "description": "Meet other SMPS members at Modern Coffee in Oakland!",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=631&ts=1782429419"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=631&ts=1783455846"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -674,6 +648,19 @@
     "description": "Every great proposal tells a story. Learn how to make yours unforgettable.",
     "is_virtual": true,
     "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=78&ts=1781872381"
+  },
+  {
+    "chapter": "SMPS Palmetto",
+    "state": "South Carolina",
+    "region": "Southeast",
+    "title": "CREW Midlands & SMPS Palmetto School Supply Drive Benefiting United Way of the Midlands",
+    "date": "July 22, 2026",
+    "sort_date": "2026-07-22",
+    "time": "2:30 PM EDT to 4:30 PM EDT",
+    "location": "United Way of the Midlands, 1818 Blanding Street, Columbia, SC 29201, https://volunteer.uway.org/need/detail/?need_id=1276622, Join us for United Way's 5th Annual School Supply Drive:  Ready, Set, Supply!",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=395&ts=1783443132"
   },
   {
     "chapter": "SMPS Virginia",
@@ -920,7 +907,7 @@
     "location": "Zoom",
     "description": "This fan-favorite course includes tips and best practices for creating and using styles in proposals.  The ideal participant typically uses the software daily and is ready to become more efficient and  consistent with their work.",
     "is_virtual": true,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=245&ts=1783358329"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=245&ts=1783430146"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1336,7 +1323,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1783007437"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1783455107"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1466,7 +1453,7 @@
     "location": "BRICK at Liberty Station, 2863 Historic Decatur Rd, San Diego, CA 92106",
     "description": "Join us for our annual Palm Awards ceremony to recognize excellence in AEC marketing and business development.",
     "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1782779701"
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1783451425"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1531,7 +1518,7 @@
     "location": "HDR Headquarters, 1917 South 67th Street, Omaha, NE 68106",
     "description": "Master your proposal workflow with hands-on Adobe InDesign training built specifically for AEC marketers. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
     "is_virtual": false,
-    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=315&ts=1781642300"
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=315&ts=1783443368"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1622,7 +1609,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1782321383"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1783458289"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1739,7 +1726,7 @@
     "location": "Bricker Graydon Wyatt, 312 Walnut Street, Suite 1800, Cincinnati, OH 45202, https://www.bricker.com/",
     "description": "Learn How To Maximize Your Experience at HRC!",
     "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1781714757"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1783460354"
   },
   {
     "chapter": "SMPS South Florida",
@@ -1987,6 +1974,19 @@
     "description": "Join us for the October Market Luncheon! Follow Us",
     "is_virtual": false,
     "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=256&ts=1765844739"
+  },
+  {
+    "chapter": "SMPS Twin Cities",
+    "state": "Minnesota",
+    "region": "Heartland",
+    "title": "AEC Marketing Solutions Showcase",
+    "date": "October 14, 2026",
+    "sort_date": "2026-10-14",
+    "time": "8:00 AM to 11:00 AM",
+    "location": "Wilder Center, 451 Lexington Parkway N, St. Paul, MN 55104, https://www.wilder.org/",
+    "description": "Join us for our 2nd Annual Marketing Solutions Showcase!",
+    "is_virtual": false,
+    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1783458795"
   },
   {
     "chapter": "SMPS New Mexico",
