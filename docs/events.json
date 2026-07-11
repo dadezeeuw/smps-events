@@ -10,7 +10,7 @@
     "location": "The L Offices North, 1860 East River Road, Ste 325, Tucson, AZ 85718",
     "description": "Join BILD and SMPS for a discussion centered on the realities shaping Southern Arizona\u2019s economic trajectory, with direct insight from the City of Tucson and Pima County. REGISTRATION IS THROUGH BILD AZ CLICK VIEW DETAILS FOR THE LINK!",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1783475792"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1783708873"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -244,7 +244,7 @@
     "location": "Night Shift Brewing, 1 Lovejoy Wharf, Boston, MA 02114",
     "description": "Join us at Night Shift Brewing on Lovejoy Wharf for our annual summer social!",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1783048269"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1783709626"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -543,7 +543,7 @@
     "location": "Zoom",
     "description": "Tired of supporting decisions instead of shaping them? Discover how to build credibility, earn a seat at the table, and transform marketing from a support function into a true growth driver in your firm.",
     "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=189&ts=1782484200"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=189&ts=1783697457"
   },
   {
     "chapter": "SMPS Kansas City",
@@ -676,6 +676,19 @@
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=802&Itemid=115&year=2026&month=07&day=29&title=amplify-a--e--c&uid=385953650b2f467afdb8ec028fca0b69"
   },
   {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "SMPS Hawaii: The Future of Higher Ed Facilities in Hawaii: What Campus Leaders Are Seeing Now",
+    "date": "July 29, 2026",
+    "sort_date": "2026-07-29",
+    "time": "11:30 AM HST to 1:30 PM HST",
+    "location": "Aloha Tower Marketplace (Room MPR 2), 1 Aloha Tower Dr, Honolulu, HI 96813",
+    "description": "Hawaii\u2019s higher education leaders are planning for the future by addressing evolving campus needs, modernization, sustainability, and student success.",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=270&ts=1783740346"
+  },
+  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -801,7 +814,7 @@
     "sort_date": "2026-08-04",
     "time": "4:00 PM to 7:00 PM (Pacific Time)",
     "location": "BarVino, 24671 La Plaza #1, Dana Point, CA 92629",
-    "description": "Join us for a fun summer social mixer in South Orange County with wine tasting, cheese and charcuterie, and networking to keep your summer boredom at bay! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
+    "description": "Join us for a fun summer social mixer in South Orange County with wine tasting, cheese and charcuterie, and networking to keep your summer boredom at bay!",
     "is_virtual": false,
     "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=181&ts=1783553438"
   },
@@ -923,6 +936,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=496&ts=1774560524"
   },
   {
+    "chapter": "SMPS Orange County",
+    "state": "California",
+    "region": "Pacific",
+    "title": "SAME OC & SMPS OC Joint Luncheon",
+    "date": "August 06, 2026",
+    "sort_date": "2026-08-06",
+    "time": "11:30 AM to 1:00 PM (Pacific Time)",
+    "location": "On the Greens Catering and Conference Center, 5660 Orangewood Ave, Cypress, CA 90630",
+    "description": "Join us for a luncheon featuring Major General R. Mark Toy, General Manager for Yorba Linda Water District! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=182&ts=1783723805"
+  },
+  {
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
@@ -972,7 +998,7 @@
     "location": "Zoom meeting. Link to be sent prior to event.",
     "description": "Our nationally recognized bootcamp program will get you ready to tackle the CPSM test in no time - helping you join a distinguished group of professionals committed to professional excellence, career advancement, and an ongoing pursuit of knowledge.",
     "is_virtual": true,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=159&ts=1782509993"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=159&ts=1783698380"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -1008,10 +1034,10 @@
     "date": "August 12, 2026",
     "sort_date": "2026-08-12",
     "time": "10:15 AM to 11:30 AM",
-    "location": "NEFBA Office (Abercrombie Room), 932 Sunbeam Road, Jacksonville, FL 32257",
+    "location": "NEFBA Office (Abercrombie Room), 4932 Sunbeam Road, Jacksonville, FL 32257",
     "description": "Great project photos don\u2019t happen by accident, they\u2019re planned, directed, and executed with intention. This session focuses on the practical side of project photography, giving you the tools to get the images you actually need.",
     "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=103&ts=1783631009"
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=103&ts=1783702004"
   },
   {
     "chapter": "SMPS Wichita",
@@ -1167,7 +1193,7 @@
     "location": "Oswald Conference Center, 950 Main Avenue, Cleveland, OH 44113",
     "description": "Join us for the Annual Awards event to celebrate all the outstanding achievements in marketing and communications within the Northeast Ohio A/E/C industry!",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=206&ts=1776953212"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=206&ts=1783687478"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -1220,6 +1246,32 @@
     "description": "Join us for our September 2026 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=497&ts=1774560614"
+  },
+  {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Risk Management in Healthcare Design and Construction",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "8:00 AM to 11:00 AM",
+    "location": "The Country Club of Orlando, 1601 Country Club Drive, Orlando, FL 32804",
+    "description": "Don't miss the joint AMFP Central Florida and SMPS Central Florida program \u2014 Risk Management in Healthcare Design and Construction. Learn strategies to reduce disruption, improve project outcomes, and navigate evolving compliance requirements.",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=657&ts=1783712393"
+  },
+  {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "SMPS Hawaii: Summer Sipping",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "4:00 PM HST to 6:00 PM HST",
+    "location": "Tentative: AC Hotel Downtown Honolulu",
+    "description": "Unwind and connect with fellow AEC professionals at an evening of networking and wine tasting.",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=272&ts=1783753526"
   },
   {
     "chapter": "SMPS Kentucky",
@@ -1277,14 +1329,14 @@
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
-    "title": "NERC Notes & Nuggets: What You Missed (and What Matters)",
+    "title": "Strategic Thinking for Emerging AEC Marketers \u2022 Panel + Networking",
     "date": "August 25, 2026",
     "sort_date": "2026-08-25",
     "time": "4:00 PM to 6:00 PM",
-    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314",
-    "description": "Missed NERC this year? Catch the best moments, biggest takeaways, and must-know insights in a lively panel built just for Emerging Professionals.",
+    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314, Career advice, proposal wisdom, AI talk, and a happy hour? Everything emerging AEC professionals need in one place.",
+    "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1783345067"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1783699284"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -1323,7 +1375,7 @@
     "location": "The Golf Club of Dublin, 5805 Eiterman Road, Dublin, OH 43016",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1782994303"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1783691287"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1336,7 +1388,7 @@
     "location": "The Clayton House, 3719 N 75th Street, Ste 100, Scottsdale, AZ 85251",
     "description": "Behind every winning pursuit, standout project, and strategic move, there are calculated decisions, quiet coordination, and behind-the-scenes maneuvers that make it all happen. Join SMPS Arizona as we recognize some of the industry's best-kept secrets at",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=280&ts=1782938932"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=280&ts=1783708848"
   },
   {
     "chapter": "SMPS San Diego",
@@ -1493,6 +1545,19 @@
     "description": "-",
     "is_virtual": false,
     "detail_url": "https://www.smpswichita.org/event/marketing-plan-workshop/"
+  },
+  {
+    "chapter": "SMPS Twin Cities",
+    "state": "Minnesota",
+    "region": "Heartland",
+    "title": "The Art of Interview Prep and Coaching",
+    "date": "September 09, 2026",
+    "sort_date": "2026-09-09",
+    "time": "8:30 AM to 11:00 AM",
+    "location": "Wilder Center, 451 Lexington Parkway N, St. Paul, MN 55104, https://www.wilder.org/",
+    "description": "You've built the proposal and landed the shortlist\u2014now comes the interview. Prepping a team can feel like herding cats, but with the right approach, it becomes a chance to showcase strengths and win the work.",
+    "is_virtual": false,
+    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=268&ts=1783718869"
   },
   {
     "chapter": "SMPS North Texas",
@@ -1716,6 +1781,19 @@
     "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=171&ts=1782440001"
   },
   {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "Hawaii Development Update with DBEDT Deputy Director - Dane Wicker",
+    "date": "September 30, 2026",
+    "sort_date": "2026-09-30",
+    "time": "12:00 PM HST to 1:00 PM HST",
+    "location": "TBD",
+    "description": "Gain valuable insights into Hawaii's economic priorities, emerging opportunities, and the investments shaping the state's future.",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=273&ts=1783754332"
+  },
+  {
     "chapter": "SMPS Kansas City",
     "state": "Missouri",
     "region": "Missouri Valley",
@@ -1739,7 +1817,7 @@
     "location": "Hilton Netherlands Plaza Hotel, 35 W. Fifth Street, Cincinnati, OH 45202",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1781532128"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1783724960"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -1937,6 +2015,19 @@
     "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=77&ts=1780304335"
   },
   {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "A/E/C Client Experience Summit",
+    "date": "October 28, 2026",
+    "sort_date": "2026-10-28",
+    "time": "10:00 AM HST to 6:00 PM HST",
+    "location": "TBD",
+    "description": "Insights. Immersion. Connection",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=274&ts=1783756661"
+  },
+  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -2117,6 +2208,19 @@
     "description": "Join us for networking!",
     "is_virtual": false,
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=376&ts=1768332097"
+  },
+  {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "SMPS Hawaii: Holiday Party",
+    "date": "December 12, 2026",
+    "sort_date": "2026-12-12",
+    "time": "5:00 PM HST to 8:00 PM HST",
+    "location": "TBD",
+    "description": "Holiday Party",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1783757028"
   },
   {
     "chapter": "SMPS Tampa Bay",
