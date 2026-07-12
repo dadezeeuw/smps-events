@@ -151,7 +151,7 @@
     "sort_date": "2026-07-15",
     "time": "4:30 PM EDT to 7:00 PM EDT",
     "location": "Glenmede Headquarters, 1650 Market Street, One Liberty Building, 39th Floor, Philadelphia, PA 19103",
-    "description": "In high-stakes industries, your reputation often enters the room before you do. SMPS, ISPE DVC, and 7x24 Exchange are joining forces for an Executive Intensive designed for senior professionals ready to scale their personal impact. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
+    "description": "In high-stakes industries, your reputation often enters the room before you do. SMPS, ISPE DVC, and 7x24 Exchange are joining forces for an Executive Intensive designed for senior professionals ready to scale their personal impact.",
     "is_virtual": false,
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=261&ts=1781104439"
   },
@@ -923,6 +923,19 @@
     "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=101&ts=1781636138"
   },
   {
+    "chapter": "SMPS Philadelphia",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "Career Journeys: Lessons, Milestones, and Mentorship",
+    "date": "August 05, 2026",
+    "sort_date": "2026-08-05",
+    "time": "12:00 PM EDT to 1:00 PM EDT",
+    "location": "Zoom Meeting",
+    "description": "Link Provided Upon Registration Join us for a candid virtual conversation with AEC marketing and business development professionals as they share lessons learned about career development, mentorship, leadership, and professional growth. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
+    "is_virtual": true,
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1783791821"
+  },
+  {
     "chapter": "SMPS Seattle",
     "state": "Washington",
     "region": "Pacific",
@@ -1662,6 +1675,19 @@
     "description": "SMPS Boston is excited to hold our second Volunteer Appreciation Field Day event! Last year, we celebrated a successful chapter year by channeling our inner child and engaging in some friendly competition - and we\u2019re ready for a rematch!",
     "is_virtual": false,
     "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=186&ts=1780666609"
+  },
+  {
+    "chapter": "SMPS North Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Why CX, Why Now?",
+    "date": "September 22, 2026",
+    "sort_date": "2026-09-22",
+    "time": "9:00 AM to 4:00 PM",
+    "location": "Sheraton Jacksonville, 10605 Deerwood Park Boulevard, Jacksonville, FL 32256",
+    "description": "In the A/E/C industry, technical expertise is expected. What differentiates firms today is Client Experience (CX).",
+    "is_virtual": false,
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=102&ts=1783800434"
   },
   {
     "chapter": "SMPS Atlanta",
