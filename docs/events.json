@@ -931,7 +931,7 @@
     "sort_date": "2026-08-05",
     "time": "12:00 PM EDT to 1:00 PM EDT",
     "location": "Zoom Meeting",
-    "description": "Link Provided Upon Registration Join us for a candid virtual conversation with AEC marketing and business development professionals as they share lessons learned about career development, mentorship, leadership, and professional growth. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
+    "description": "Link Provided Upon Registration Join us for a candid virtual conversation with AEC marketing and business development professionals as they share lessons learned about career development, mentorship, leadership, and professional growth.",
     "is_virtual": true,
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1783791821"
   },
@@ -1027,6 +1027,19 @@
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782917226"
   },
   {
+    "chapter": "SMPS Philadelphia",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "MEMBERS ONLY - Tech Tuesday Summer School Edition: Rewatch! Branding in Microsoft Suite",
+    "date": "August 11, 2026",
+    "sort_date": "2026-08-11",
+    "time": "12:00 PM EDT to 12:30 PM EDT",
+    "location": "Zoom Meeting, Join us for Tech Tuesday: Summer School Edition where we'll rewatch a popular past event hand selected by your board! This month, we're going back in time with Bridget Shane's Branding in Microsoft Suite featuring practical tips for applying branding cons",
+    "description": "",
+    "is_virtual": true,
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=263&ts=1783892911"
+  },
+  {
     "chapter": "SMPS San Antonio",
     "state": "Texas",
     "region": "Southern",
@@ -1064,6 +1077,19 @@
     "description": "-",
     "is_virtual": false,
     "detail_url": "https://www.smpswichita.org/event/benefits-of-board-service/"
+  },
+  {
+    "chapter": "SMPS Philadelphia",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "2027 Program Planning Workshop",
+    "date": "August 12, 2026",
+    "sort_date": "2026-08-12",
+    "time": "4:30 PM EDT to 7:00 PM EDT",
+    "location": "McCormick Taylor, 1818 Market Street, 16th Floor, Philadelphia, PA 19103",
+    "description": "Believe it or not, SMPS Philadelphia's 2027 Program Year is right around the corner! Join us for this casual workshop to brainstorm the programs and events you want to see in our next Program Year!",
+    "is_virtual": false,
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=265&ts=1783891808"
   },
   {
     "chapter": "SMPS Houston",
@@ -1363,6 +1389,19 @@
     "description": "CX immersion for AEC marketers & business developers",
     "is_virtual": false,
     "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=80&ts=1783519004"
+  },
+  {
+    "chapter": "SMPS Philadelphia",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "Members Only: Espresso Exchange",
+    "date": "August 25, 2026",
+    "sort_date": "2026-08-25",
+    "time": "9:00 AM EDT to 10:30 AM EDT",
+    "location": "Multiple Locations Throughout the Region",
+    "description": "Join us at one of our locations throughout the SMPS Philadelphia region to meet with other members and have informal discussions about topics relevant to you and your job. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
+    "is_virtual": false,
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=267&ts=1783893873"
   },
   {
     "chapter": "SMPS Houston",
