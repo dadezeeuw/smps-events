@@ -49,7 +49,7 @@
     "location": "VentureX, 1901 Main Street, https://venturex.com/locations/usa/sc/downtown-columbia-sc/",
     "description": "Columbia, SC Join us!",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1782501821"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1783969091"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -231,7 +231,7 @@
     "location": "Gouveia Vineyards, 1339 Whirlwind Hill Road, Wallingford, CT 06492, Join SMPS CT for networking, wine, and great company!",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=287&ts=1781012831"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=287&ts=1783958043"
   },
   {
     "chapter": "SMPS Boston",
@@ -267,10 +267,10 @@
     "date": "July 16, 2026",
     "sort_date": "2026-07-16",
     "time": "11:30 AM MDT - 1:00 PM MDT",
-    "location": "Stantec, 6100 Seagull St NE, Albuquerque, NM 87109",
+    "location": "Stantec, 6501 Americas Parkway NE, Suite 700, Albuquerque, NM 87110",
     "description": "Part 2: Activating Your Brand While Managing Reputational Risk",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1783621229"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1783969887"
   },
   {
     "chapter": "SMPS New York",
@@ -543,7 +543,7 @@
     "location": "Zoom",
     "description": "Tired of supporting decisions instead of shaping them? Discover how to build credibility, earn a seat at the table, and transform marketing from a support function into a true growth driver in your firm.",
     "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=189&ts=1783697457"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=189&ts=1783970504"
   },
   {
     "chapter": "SMPS Kansas City",
@@ -686,7 +686,7 @@
     "location": "Aloha Tower Marketplace (Room MPR 2), 1 Aloha Tower Dr, Honolulu, HI 96813",
     "description": "Hawaii\u2019s higher education leaders are planning for the future by addressing evolving campus needs, modernization, sustainability, and student success.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=270&ts=1783740346"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=270&ts=1784008650"
   },
   {
     "chapter": "SMPS Maryland",
@@ -713,6 +713,19 @@
     "description": "Four leading organizations. One evening. Endless opportunities to connect!",
     "is_virtual": false,
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=176&ts=1783525886"
+  },
+  {
+    "chapter": "SMPS San Antonio",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Marketer Talk: Building Influence:  Social Media for A/E/C",
+    "date": "July 29, 2026",
+    "sort_date": "2026-07-29",
+    "time": "7:45 AM to 9:30 AM",
+    "location": "Joeris Training Lab, 823 Arion Pkwy, San Antonio, TX 78216",
+    "description": "Join us for the July Marketer Talk!",
+    "is_virtual": false,
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=269&ts=1783973671"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -933,7 +946,7 @@
     "location": "Zoom Meeting",
     "description": "Link Provided Upon Registration Join us for a candid virtual conversation with AEC marketing and business development professionals as they share lessons learned about career development, mentorship, leadership, and professional growth.",
     "is_virtual": true,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1783791821"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1784031947"
   },
   {
     "chapter": "SMPS Seattle",
@@ -972,7 +985,7 @@
     "location": "WSP (DC), 80 M Street SE, Suite 310, Washington, DC 20003",
     "description": "At this SMRT event, marketing leaders will have a candid, no-filter conversation about the tension between chasing wins and building something sustainable and what it really takes to do both well.",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=160&ts=1783365194"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=160&ts=1783946785"
   },
   {
     "chapter": "SMPS Oregon",
@@ -1014,6 +1027,19 @@
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=159&ts=1783698380"
   },
   {
+    "chapter": "SMPS Charlotte",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "B2H (Business to Human) Marketing in the Age of Robots",
+    "date": "August 11, 2026",
+    "sort_date": "2026-08-11",
+    "time": "8:30 AM to 10:00 AM",
+    "location": "Samet, 2825 South Blvd., Suite 401, Charlotte, NC 28209, https://sametcorp.com/",
+    "description": "Harness the power of AI and combine it with human-only strategies to build trust in marketing. Our Partners",
+    "is_virtual": false,
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=421&ts=1783953266"
+  },
+  {
     "chapter": "SMPS Research Triangle",
     "state": "North Carolina",
     "region": "Southeast",
@@ -1022,7 +1048,7 @@
     "sort_date": "2026-08-11",
     "time": "11:30 AM to 1:30 PM",
     "location": "Prestonwood Country Club, 300 Prestonwood Parkway, Cary, NC 27513",
-    "description": "We all know A/E/C firms are built on relationships, but relationships alone don't always create preference, protect pricing, or win the room when decision-makers expand beyond the relationship owner. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
+    "description": "We all know A/E/C firms are built on relationships, but relationships alone don't always create preference, protect pricing, or win the room when decision-makers expand beyond the relationship owner.",
     "is_virtual": false,
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782917226"
   },
@@ -1077,6 +1103,19 @@
     "description": "-",
     "is_virtual": false,
     "detail_url": "https://www.smpswichita.org/event/benefits-of-board-service/"
+  },
+  {
+    "chapter": "SMPS Southeast Louisiana",
+    "state": "Louisiana",
+    "region": "Southern",
+    "title": "Mid-City Happy Hour",
+    "date": "August 12, 2026",
+    "sort_date": "2026-08-12",
+    "time": "4:30 PM CDT to 6:30 PM CDT",
+    "location": "The Bulldog, Mid-City, 5135 Canal Blvd, New Orleans, LA 70124",
+    "description": "Great drinks. Great people. Great time ahead!",
+    "is_virtual": false,
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=512&ts=1783975864"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1141,7 +1180,7 @@
     "location": "DPR Construction, 1801 J St Ste 200, Sacramento, CA 95811",
     "description": "Join us as we host a panel of industry leaders for an engaging discussion on putting carbon reduction strategies into practice while balancing project goals, client expectations, and long-term value.",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=478&ts=1783662254"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=478&ts=1783984359"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1391,6 +1430,19 @@
     "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=80&ts=1783519004"
   },
   {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "AI Without An Agenda",
+    "date": "August 25, 2026",
+    "sort_date": "2026-08-25",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Training Room 1st Floor, RALEIGH, NC 27607",
+    "description": "Learn how AI can help AEC marketing and BD professionals work smarter by streamlining administrative tasks, accelerating research, improving communication, and creating more time for strategic, high-value work through practical, real-world applications. Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=175&ts=1783952358"
+  },
+  {
     "chapter": "SMPS Philadelphia",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -1609,7 +1661,7 @@
     "location": "Wilder Center, 451 Lexington Parkway N, St. Paul, MN 55104, https://www.wilder.org/",
     "description": "You've built the proposal and landed the shortlist\u2014now comes the interview. Prepping a team can feel like herding cats, but with the right approach, it becomes a chance to showcase strengths and win the work.",
     "is_virtual": false,
-    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=268&ts=1783718869"
+    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=268&ts=1783974621"
   },
   {
     "chapter": "SMPS North Texas",
@@ -1675,6 +1727,19 @@
     "description": "Save the Date!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=357&ts=1781716846"
+  },
+  {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "SMPS/LA Directors Guild",
+    "date": "September 16, 2026",
+    "sort_date": "2026-09-16",
+    "time": "8:00 AM PDT to 9:30 AM PDT",
+    "location": "Yazdani Studio of CannonDesign, 444 South Flower Street, 47th Floor, Los Angeles, CA 90071",
+    "description": "The Directors Guild is a peer mastermind group tailored to senior marketing, business development, and seller-doer professionals to create a support forum for everyone within the SMPS/LA community experiencing similar business challenges, issues, opportu",
+    "is_virtual": false,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=172&ts=1784041796"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -2028,6 +2093,19 @@
     "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1783611223"
   },
   {
+    "chapter": "SMPS Indiana",
+    "state": "Indiana",
+    "region": "Heartland",
+    "title": "SMPS IN Annual Euchre Tournament",
+    "date": "October 15, 2026",
+    "sort_date": "2026-10-15",
+    "time": "3:00 PM to 5:00 PM",
+    "location": "Four Fingers Distillery Fletcher Place",
+    "description": "Come for the friendly competition or just to network at our 4th annual euchre tournament.",
+    "is_virtual": false,
+    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=410&ts=1783947464"
+  },
+  {
     "chapter": "SMPS New Mexico",
     "state": "New Mexico",
     "region": "Southwest",
@@ -2208,6 +2286,19 @@
     "description": "Stay tuned for details",
     "is_virtual": true,
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=595&ts=1760483537"
+  },
+  {
+    "chapter": "SMPS Indiana",
+    "state": "Indiana",
+    "region": "Heartland",
+    "title": "Holiday Party & Annual Meeting",
+    "date": "December 02, 2026",
+    "sort_date": "2026-12-02",
+    "time": "3:30 PM to 6:00 PM",
+    "location": "Binkley's Kitchen and Bar",
+    "description": "Our annual meeting and holiday party featuring a recap of the year, vote on the new board and food and drinks.",
+    "is_virtual": false,
+    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=411&ts=1783947637"
   },
   {
     "chapter": "SMPS Austin",
