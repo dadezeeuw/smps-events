@@ -1,57 +1,5 @@
 [
   {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
-    "title": "Desert Connections: A Southern Arizona Economic Development Exchange",
-    "date": "July 14, 2026",
-    "sort_date": "2026-07-14",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "The L Offices North, 1860 East River Road, Ste 325, Tucson, AZ 85718",
-    "description": "Join BILD and SMPS for a discussion centered on the realities shaping Southern Arizona\u2019s economic trajectory, with direct insight from the City of Tucson and Pima County. REGISTRATION IS THROUGH BILD AZ CLICK VIEW DETAILS FOR THE LINK!",
-    "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=279&ts=1783708873"
-  },
-  {
-    "chapter": "SMPS Oklahoma",
-    "state": "Oklahoma",
-    "region": "Southern",
-    "title": "Finance 101: What Marketers Need to Know for Career Success with Chris Rickman",
-    "date": "July 14, 2026",
-    "sort_date": "2026-07-14",
-    "time": "11:30 AM to 2:00 PM",
-    "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
-    "description": "To many of us in the exciting field of marketing and business development, finance can be considered dry, boring and somewhat complicated.  But, in order to improve our firms\u2019 profitability and advance our career goals, it\u2019s important to have a basic unde",
-    "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=187&ts=1783527699"
-  },
-  {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "MEMBERS ONLY - Tech Tuesday: Don't Be The Best Kept Secret",
-    "date": "July 14, 2026",
-    "sort_date": "2026-07-14",
-    "time": "12:00 PM EDT to 12:30 PM EDT",
-    "location": "Zoom Meeting",
-    "description": "Stop being the best kept secret. Learn simple, practical ways to strengthen your LinkedIn presence, make a stronger first impression, and show up more intentionally so you are seen, remembered, and connected.",
-    "is_virtual": true,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=262&ts=1781032215"
-  },
-  {
-    "chapter": "SMPS Palmetto",
-    "state": "South Carolina",
-    "region": "Southeast",
-    "title": "Intermediate Adobe Training - Better Together: InDesign Workflows and  Illustrator + Photoshop + Express with Julie Shaffer",
-    "date": "July 14, 2026",
-    "sort_date": "2026-07-14",
-    "time": "9:00 AM EDT to 4:00 PM EDT",
-    "location": "VentureX, 1901 Main Street, https://venturex.com/locations/usa/sc/downtown-columbia-sc/",
-    "description": "Columbia, SC Join us!",
-    "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=394&ts=1783969091"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -101,7 +49,7 @@
     "location": "Virtual Meeting, Learn practical tips for creating effective email campaigns that increase engagement, strengthen brand awareness, and drive action.",
     "description": "",
     "is_virtual": true,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=508&ts=1781724497"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=508&ts=1784071651"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -218,7 +166,7 @@
     "location": "Harrington's Bar & Grill, 245 Front Street, San Francisco, CA 94111, https://www.harringtonssf.com/",
     "description": "Meet other SMPS members at Harrington's Bar & Grill in San Francisco!",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=628&ts=1783374279"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=628&ts=1784082872"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -244,7 +192,7 @@
     "location": "Night Shift Brewing, 1 Lovejoy Wharf, Boston, MA 02114",
     "description": "Join us at Night Shift Brewing on Lovejoy Wharf for our annual summer social!",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1783709626"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1784034195"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -712,7 +660,7 @@
     "location": "The Sailhouse, 238 Green St., Tarrytown, NY 10591",
     "description": "Four leading organizations. One evening. Endless opportunities to connect!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=176&ts=1783525886"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=176&ts=1784057658"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -946,7 +894,7 @@
     "location": "Zoom Meeting",
     "description": "Link Provided Upon Registration Join us for a candid virtual conversation with AEC marketing and business development professionals as they share lessons learned about career development, mentorship, leadership, and professional growth.",
     "is_virtual": true,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1784031947"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1784034940"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1115,7 +1063,7 @@
     "location": "The Bulldog, Mid-City, 5135 Canal Blvd, New Orleans, LA 70124",
     "description": "Great drinks. Great people. Great time ahead!",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=512&ts=1783975864"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=512&ts=1784067186"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1271,7 +1219,7 @@
     "location": "Oswald Conference Center, 950 Main Avenue, Cleveland, OH 44113",
     "description": "Join us for the Annual Awards event to celebrate all the outstanding achievements in marketing and communications within the Northeast Ohio A/E/C industry!",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=206&ts=1783687478"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=206&ts=1784033648"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -1310,7 +1258,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1783455107"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1784062130"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1505,7 +1453,7 @@
     "location": "BRICK at Liberty Station, 2863 Historic Decatur Rd, San Diego, CA 92106",
     "description": "Join us for our annual Palm Awards ceremony to recognize excellence in AEC marketing and business development.",
     "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1783451425"
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1784077233"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1531,7 +1479,7 @@
     "location": "Barton Malow Holdings, 26500 American Drive, Southfield, MI 48034, https://www.bartonmalow.com/",
     "description": "CX immersion for AEC marketers & business developers",
     "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=288&ts=1781283040"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=288&ts=1784058485"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1892,8 +1840,8 @@
     "date": "September 24, 2026",
     "sort_date": "2026-09-24",
     "time": "12:00 AM EDT to 12:00 AM EDT",
-    "location": "Delta Hotels Richmond Downtown, 555 E Canal St, Richmond, VA 23219, 1785 Kitimal Drive, Virginia Beach, VA 23454",
-    "description": "Join us for Building Virginia 2026: A Marketing Summit for A/E/C Professionals Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
+    "location": "Delta Hotels Richmond Downtown, 555 E Canal St, Richmond, VA 23219",
+    "description": "Join us for Building Virginia 2026: A Marketing Summit for A/E/C Professionals",
     "is_virtual": false,
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=242&ts=1777054446"
   },
@@ -2143,6 +2091,19 @@
     "description": "Join our webinar with personal brand strategist, Erin Hoy!",
     "is_virtual": true,
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=195&ts=1763766097"
+  },
+  {
+    "chapter": "SMPS Virginia",
+    "state": "Virginia",
+    "region": "Southeast",
+    "title": "Empower Hour",
+    "date": "October 21, 2026",
+    "sort_date": "2026-10-21",
+    "time": "4:00 PM EDT to 6:00 PM EDT",
+    "location": "Carters Mountain Orchard, 1435 Carters Mountain Trail, Charlottesville, VA 22902, 1785 Kitimal Drive, Virginia Beach, VA 23454",
+    "description": "Take in the fall scenery, enjoy a drink, and connect with AEC professionals old and new. Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=246&ts=1784059504"
   },
   {
     "chapter": "SMPS Las Vegas",
