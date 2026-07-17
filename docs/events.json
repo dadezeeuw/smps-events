@@ -1,174 +1,5 @@
 [
   {
-    "chapter": "SMPS Ozarks",
-    "state": "Arkansas, Missouri",
-    "region": "Missouri Valley",
-    "title": "NWA Summer Happy Hour",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Bar Kapu, 229 S Main Street, Suite 101, Bentonville, AR 72712",
-    "description": "Join SMPS Ozarks for a casual happy hour in Bentonville. Stop by, meet a few new people, and enjoy your first drink on us!",
-    "is_virtual": false,
-    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=91&ts=1783102252"
-  },
-  {
-    "chapter": "SMPS Ozarks",
-    "state": "Arkansas, Missouri",
-    "region": "Missouri Valley",
-    "title": "Springfield Summer Happy Hour",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Wire Road Brewing, 4453 S Timbercreek Ave, Battlefield, MO 65619, Meet us at Wire Road for a relaxed Springfield happy hour with SMPS Ozarks. The first drink is free, and all members, guests, and anyone interested in SMPS are welcome!",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=92&ts=1783103087"
-  },
-  {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Sunshine & Supplies Happy Hour | Thursday, July 16th @ 4PM",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "Alaro Craft Brewery, 2004 Capitol Avenue, Sacramento, CA 95811, https://alarobrewing.com/",
-    "description": "Join us for a summer happy hour to connect, give back, and have some fun while supporting a great cause.",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=471&ts=1781728312"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Regional Happy Hour - San Francisco",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "5:00 PM - 7:00 PM",
-    "location": "Harrington's Bar & Grill, 245 Front Street, San Francisco, CA 94111, https://www.harringtonssf.com/",
-    "description": "Meet other SMPS members at Harrington's Bar & Grill in San Francisco!",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=628&ts=1784082872"
-  },
-  {
-    "chapter": "SMPS Connecticut",
-    "state": "Connecticut",
-    "region": "Northeast",
-    "title": "SMPS CT Summer Networking Social at Gouveia Vineyards",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "5:00 PM EDT to 7:00 PM EDT",
-    "location": "Gouveia Vineyards, 1339 Whirlwind Hill Road, Wallingford, CT 06492, Join SMPS CT for networking, wine, and great company!",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=287&ts=1783958043"
-  },
-  {
-    "chapter": "SMPS Boston",
-    "state": "Massachusetts",
-    "region": "Northeast",
-    "title": "Summer Social",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "5:30 PM to 8:30 PM",
-    "location": "Night Shift Brewing, 1 Lovejoy Wharf, Boston, MA 02114",
-    "description": "Join us at Night Shift Brewing on Lovejoy Wharf for our annual summer social!",
-    "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=188&ts=1784126337"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "Coffee Connections - Grounds for Discussion (MO)",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "8:30 AM CDT to 9:30 AM CDT",
-    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
-    "description": "Join us over coffee for a conversation",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=280&ts=1782237130"
-  },
-  {
-    "chapter": "SMPS New Mexico",
-    "state": "New Mexico",
-    "region": "Southwest",
-    "title": "Summer Education Series Part 2: Activating Your Brand",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "11:30 AM MDT - 1:00 PM MDT",
-    "location": "Stantec, 6501 Americas Parkway NE, Suite 700, Albuquerque, NM 87110",
-    "description": "Part 2: Activating Your Brand While Managing Reputational Risk",
-    "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=114&ts=1783969887"
-  },
-  {
-    "chapter": "SMPS New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "New Jersey Knowledge Exchange: July 2026 \u2013 Getting Started with AI in Proposal Development",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "6:00 PM to 7:30 PM",
-    "location": "Dewberry, 6 Campus Drive, Suite 203, Parsippany, NJ 07054",
-    "description": "July 2026: AI in Proposal Development! Enjoy lite bites and refreshments as you expand your network, reconnect with peers, and earn continuing education credit. This is an evening you won\u2019t want to miss!",
-    "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=174&ts=1783021178"
-  },
-  {
-    "chapter": "SMPS Austin",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "Christmas in July Membership Recruitment Happy Hour",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "4:30 PM to 6:30 PM",
-    "location": "Lala's Little Nugget, 2207 Justin Lane, Austin, TX 78757",
-    "description": "Christmas in July Membership Recruitment Happy Hour",
-    "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
-  },
-  {
-    "chapter": "SMPS Houston",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "SMPS Houston Workshop | InDesign for AEC Marketers: Automation & Efficiency",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "11:00 AM to 2:00 PM",
-    "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr, Houston, TX 77041",
-    "description": "Join us for this hands-on workshop for experienced users with Adobe Certified Professional Audra Allen!",
-    "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=207&ts=1780424282"
-  },
-  {
-    "chapter": "SMPS Utah",
-    "state": "Utah",
-    "region": "Southwest",
-    "title": "Senior Marketers: AI and The Future of Expertise",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "8:00 AM to 9:30 AM",
-    "location": "Urban Sailor Coffee (Sugarhouse Location), 1327 E 2100 S Suite 102, Salt Lake City, UT 84105, https://urbansailorcoffee.com/",
-    "description": "AI and The Future of Expertise: How Senior Marketers Lead with AI in the AEC Industry",
-    "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=461&ts=1781625616"
-  },
-  {
-    "chapter": "SMPS Seattle",
-    "state": "Washington",
-    "region": "Pacific",
-    "title": "A Walk in the Park (Seattle Arboretum)",
-    "date": "July 16, 2026",
-    "sort_date": "2026-07-16",
-    "time": "5:45 PM to 8:00 PM",
-    "location": "Washington Park Arboretum (Graham Visitors Center), 2300 Arboretum Dr E, Seattle, WA 98112, https://botanicgardens.uw.edu/washington-park-arboretum/visit/graham-visitors-center/",
-    "description": "A Walk in the Park: Grab your hat and sunnies, lace up your shoes, and join us for a light walk through the Washington Park Arboretum on Thursday, July 16. VIEW ATTENDEES",
-    "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=502&ts=1781654552"
-  },
-  {
     "chapter": "SMPS Tampa Bay",
     "state": "Florida",
     "region": "Southeast",
@@ -218,7 +49,7 @@
     "location": "Laughing Monk Brewing, 1235 Oakmead Pkwy, Sunnyvale, CA 94085, https://sunnyvale.laughingmonk.com/",
     "description": "Meet other SMPS members at Laughing Monk Brewing in Sunnyvale!",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=629&ts=1783539483"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=629&ts=1784232135"
   },
   {
     "chapter": "SMPS Oregon",
@@ -270,7 +101,7 @@
     "location": "Gypsy Kitchen, 1825 14th St NW, Washington, DC, DC 20009",
     "description": "We're excited to partner with WBC for this laid-back summer networking happy hour at Gypsy Kitchen!",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=158&ts=1783607468"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=158&ts=1784208979"
   },
   {
     "chapter": "SMPS North Florida",
@@ -455,6 +286,19 @@
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=802&Itemid=115&year=2026&month=07&day=27&title=amplify-a--e--c&uid=385953650b2f467afdb8ec028fca0b69"
   },
   {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "SMPS STL Amplify A|E|C Meetup",
+    "date": "July 27, 2026",
+    "sort_date": "2026-07-27",
+    "time": "6:00 PM CDT to 7:00 PM CDT",
+    "location": "Water Grill at The Forum Shops at Caesars Palace, 3500 Las Vegas Blvd S., Las Vegas, NV 89109",
+    "description": "Join your fellow SMPS STL members for a meetup at Amplify A|E|C!",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=281&ts=1784214433"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -517,7 +361,7 @@
     "location": "Aloha Tower Marketplace (Room MPR 2), 1 Aloha Tower Dr, Honolulu, HI 96813",
     "description": "Hawaii\u2019s higher education leaders are planning for the future by addressing evolving campus needs, modernization, sustainability, and student success.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=270&ts=1784008650"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=270&ts=1784250280"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1037,7 +881,7 @@
     "location": "DPR Construction, 1801 J St Ste 200, Sacramento, CA 95811",
     "description": "Join us as we host a panel of industry leaders for an engaging discussion on putting carbon reduction strategies into practice while balancing project goals, client expectations, and long-term value.",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=478&ts=1783984359"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=478&ts=1784232075"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1051,6 +895,19 @@
     "description": "Category: Membership",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=800&Itemid=115&year=2026&month=08&day=13&title=behind-the-build-denver-museum-of-nature-a-science-building-tour&uid=0142618af90931291c34a924f57eada1"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Summer Social 2026",
+    "date": "August 13, 2026",
+    "sort_date": "2026-08-13",
+    "time": "4:00 PM to 7:00 PM",
+    "location": "Bayboro Brewing Co., 2390 5th Ave S, St. Petersburg, FL 33712",
+    "description": "Join us at our summer social!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=548&ts=1784289186"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1090,6 +947,19 @@
     "description": "Join us for networking!",
     "is_virtual": false,
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=372&ts=1768331829"
+  },
+  {
+    "chapter": "SMPS Arizona",
+    "state": "Arizona",
+    "region": "Southwest",
+    "title": "Visualizing Technical Content: Turning Walls of Text into Graphics",
+    "date": "August 18, 2026",
+    "sort_date": "2026-08-18",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Small Giants, 5555 E Van Buren St, Ste 115, Phoenix, AZ 85008",
+    "description": "Learn how to transform complex technical information into clear, compelling visuals that enhance understanding and engagement.",
+    "is_virtual": false,
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=282&ts=1784253679"
   },
   {
     "chapter": "SMPS Southeast Louisiana",
@@ -1245,7 +1115,7 @@
     "location": "Hartman + Majewski Design Group, 120 Vassar Dr SE # 100, Albuquerque, NM 87106",
     "description": "Part 3: The Metrics Behind the Message",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=115&ts=1778870406"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=119&ts=1783556090"
   },
   {
     "chapter": "SMPS New Mexico",
@@ -1258,7 +1128,7 @@
     "location": "Putts n' Pints, 5100 San Mateo Blvd. NE, Albuquerque, NM 87109",
     "description": "August happy hour with SAME",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=118&ts=1783552841"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=115&ts=1778870406"
   },
   {
     "chapter": "SMPS New York",
@@ -1609,7 +1479,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Save the Date!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=357&ts=1781716846"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1713,7 +1583,7 @@
     "location": "Nova Southeastern University - Carl Desantis Building, 3050 Ray Ferrero Jr Blvd., Davie, FL 33314",
     "description": "NextGen Education brings together education leaders and industry partners to explore the future of learning in South Florida.",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=231&ts=1783531881"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=231&ts=1784217668"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1999,7 +1869,7 @@
     "location": "Alibi Rye, 419 Coal Ave SW, Albuquerque, NM 87102",
     "description": "Immersive Masquerade Party",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=116&ts=1783556196"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=118&ts=1783552841"
   },
   {
     "chapter": "SMPS New Mexico",
@@ -2012,7 +1882,7 @@
     "location": "Alibi Rye, 419 Coal Ave SW, Albuquerque, NM 87102",
     "description": "SPONSORSHIPS SMPS Annual Immersive Event",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=119&ts=1783556090"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=116&ts=1783556196"
   },
   {
     "chapter": "SMPS Houston",
@@ -2126,10 +1996,10 @@
     "date": "November 11, 2026",
     "sort_date": "2026-11-11",
     "time": "11:30 AM to 1:00 PM",
-    "location": "TBD",
+    "location": "DBR, 200 Westlake Park Blvd (Westlake Training Room), Houston, TX 77079",
     "description": "Join us to learn winning proposal strategies!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1782163273"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1784245976"
   },
   {
     "chapter": "SMPS Palmetto",
