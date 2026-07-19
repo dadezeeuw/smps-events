@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Monthly Board Meeting: July",
-    "date": "July 17, 2026",
-    "sort_date": "2026-07-17",
-    "time": "9:00 AM to 10:00 AM",
-    "location": "Teams (Virtual)",
-    "description": "Join us for our next board meeting!",
-    "is_virtual": true,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=547&ts=1782840449"
-  },
-  {
     "chapter": "SMPS Atlanta",
     "state": "Georgia",
     "region": "Southeast",
@@ -231,7 +218,7 @@
     "location": "Chicken N Pickle - St. Charles, 1500 S Main St, Saint Charles, MO 63303",
     "description": "Join us for our fifth annual Pickleball Tournament and Happy Hour!",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1782158394"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=276&ts=1784328303"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -621,7 +608,7 @@
     "location": "Zoom Meeting",
     "description": "Link Provided Upon Registration Join us for a candid virtual conversation with AEC marketing and business development professionals as they share lessons learned about career development, mentorship, leadership, and professional growth.",
     "is_virtual": true,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1784138999"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=264&ts=1784307132"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1219,7 +1206,7 @@
     "location": "The Golf Club of Dublin, 5805 Eiterman Road, Dublin, OH 43016",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1783691287"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1784293673"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1495,6 +1482,19 @@
     "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=172&ts=1784041796"
   },
   {
+    "chapter": "SMPS Boston",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "title": "CX Bootcamp: Lead the Future of Client Experience in A/E/C",
+    "date": "September 16, 2026",
+    "sort_date": "2026-09-16",
+    "time": "9:00 AM to 4:00 PM",
+    "location": "AllSteel Showroom, 200 State Street, Boston, MA 02109",
+    "description": "Firms that master CX build loyalty, win repeat business, and become the go-to partner in their markets. The challenge? Most firms don\u2019t know how to define CX, measure it, or prove its ROI. Join SMPS HQ in Boston for a Client Experience (CX) Bootcamp!",
+    "is_virtual": false,
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=190&ts=1784321932"
+  },
+  {
     "chapter": "SMPS Sacramento",
     "state": "California",
     "region": "Pacific",
@@ -1531,7 +1531,7 @@
     "location": "Chapman Construction / Design, 84 Winchester Strreet, Newton, MA 02461",
     "description": "SMPS Boston is excited to hold our second Volunteer Appreciation Field Day event! Last year, we celebrated a successful chapter year by channeling our inner child and engaging in some friendly competition - and we\u2019re ready for a rematch!",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=186&ts=1780666609"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=186&ts=1784319596"
   },
   {
     "chapter": "SMPS North Florida",
