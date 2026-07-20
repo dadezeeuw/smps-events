@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T02:42:15",
+  "last_updated": "2026-07-20T08:22:38",
   "total_events": 171,
   "batch": {
     "batch_index": 0,
@@ -225,7 +225,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 2,
-      "load_attempts": 1,
+      "load_attempts": 3,
       "lines_loaded": 68,
       "rejected_dates": 0,
       "skipped_past_events": 0
