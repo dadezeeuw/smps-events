@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "SMPS Atlanta Pre-Amplify Virtual Meet-Up",
-    "date": "July 20, 2026",
-    "sort_date": "2026-07-20",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Zoom Virtual Platform",
-    "description": "Join SMPS Atlanta for a virtual pre-conference meet-up to connect with fellow Amplify A|E|C attendees, share plans, and get ready for three impactful days of education, strategy, and networking.",
-    "is_virtual": true,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=388&ts=1783454594"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -62,7 +49,7 @@
     "location": "SRBX, 5370 Elvas Ave, Sacramento, CA 95819",
     "description": "Looking to expand your network? Join SMPS for an interactive Speed Networking event featuring experienced marketing and business development professionals from across the region.",
     "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1784138958"
+    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1784593811"
   },
   {
     "chapter": "SMPS Colorado",
@@ -114,7 +101,7 @@
     "location": "Big City Pickle - Fulton Market, 170 N Green Street, Chicago, IL 60607, https://www.chicagocitypickle.com/west-loop, Step Onto the Court and Expand Your Network!",
     "description": "Platinum Sponsors Gold Sponsors Silver Sponsors",
     "is_virtual": false,
-    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=266&ts=1782239636"
+    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=266&ts=1784562912"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -361,7 +348,7 @@
     "location": "Virtual",
     "description": "Join SMPS Maryland for the final Proposals Bootcamp session and learn how to lead stronger proposal teams, streamline the process from kickoff to submission, and turn every pursuit into actionable insight for future success.",
     "is_virtual": true,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=103&ts=1782622031"
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=103&ts=1784556104"
   },
   {
     "chapter": "SMPS New York",
@@ -536,14 +523,14 @@
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
-    "title": "SMPS SF Virtual Program",
+    "title": "Missed Amplify? Catch the Ideas Everyone Will Be Talking About.",
     "date": "August 05, 2026",
     "sort_date": "2026-08-05",
     "time": "12:00 PM - 1:00 PM",
     "location": "Zoom Webinar",
-    "description": "Information to Come",
+    "description": "Save the Date! Registration Opens soon.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1757452226"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1784575656"
   },
   {
     "chapter": "SMPS Colorado",
@@ -712,7 +699,7 @@
     "location": "Samet, 2825 South Blvd., Suite 401, Charlotte, NC 28209, https://sametcorp.com/",
     "description": "Harness the power of AI and combine it with human-only strategies to build trust in marketing.",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=421&ts=1783953266"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=421&ts=1784570519"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -726,6 +713,32 @@
     "description": "We all know A/E/C firms are built on relationships, but relationships alone don't always create preference, protect pricing, or win the room when decision-makers expand beyond the relationship owner.",
     "is_virtual": false,
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=174&ts=1782917226"
+  },
+  {
+    "chapter": "SMPS Oklahoma",
+    "state": "Oklahoma",
+    "region": "Southern",
+    "title": "TULSA Lunchtime Learning Lab - Emerging Trends in AEC Marketing and Business Development - Report Highlights Webinar",
+    "date": "August 11, 2026",
+    "sort_date": "2026-08-11",
+    "time": "11:00 AM to 12:00 PM",
+    "location": "Manhattan Road & Bridge, 12331 E 60th St, Tulsa, OK 74146",
+    "description": "Bring Your Own Lunch And Join Us For A Free Webinar! What are the latest emerging trends in marketing and business development? The SMPS Foundation is back with new research into the trends impacting AEC firms as well as marketing and business development",
+    "is_virtual": true,
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=189&ts=1784560498"
+  },
+  {
+    "chapter": "SMPS Oklahoma",
+    "state": "Oklahoma",
+    "region": "Southern",
+    "title": "Oklahoma City Lunchtime Learning Lab - Emerging Trends in AEC Marketing and Business Development - Report Highlights Webinar",
+    "date": "August 11, 2026",
+    "sort_date": "2026-08-11",
+    "time": "11:00 AM to 12:00 PM",
+    "location": "Renaissance Architecture, 701 W. Sheridan Ave., Suite 210, Oklahoma City, OK 73102",
+    "description": "Bring Your Own Lunch And Join Us For A Free Webinar!  What are the latest emerging trends in marketing and business development? The SMPS Foundation is back with new research into the trends impacting AEC firms as well as marketing and business developmen",
+    "is_virtual": true,
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=192&ts=1784560457"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -897,6 +910,19 @@
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=548&ts=1784289186"
   },
   {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS Atlanta Rock The Block - Gwinnett",
+    "date": "August 13, 2026",
+    "sort_date": "2026-08-13",
+    "time": "4:30 PM to 6:30 PM",
+    "location": "Tequila Mama Buford, 2660 Mall of Georgia Blvd, Buford, GA 30519",
+    "description": "Join your fellow Gwinnett-area A/E/C friends for a happy hour!",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=389&ts=1784555814"
+  },
+  {
     "chapter": "SMPS Indiana",
     "state": "Indiana",
     "region": "Heartland",
@@ -1004,14 +1030,14 @@
     "chapter": "SMPS Central Pennsylvania",
     "state": "Pennsylvania",
     "region": "Northeast",
-    "title": "SAVE THE DATE | Golf Clinic",
+    "title": "Golf Clinic",
     "date": "August 19, 2026",
     "sort_date": "2026-08-19",
-    "time": "4:00 PM to 6:00 PM",
+    "time": "4:30 PM to 7:00 PM",
     "location": "Regents' Glen Country Club, 1000 Golf Club Drive, York, PA 17403",
     "description": "Join us this August 19th for an exciting Golf Seminar hosted in collaboration between NAWIC South Central PA #386 and SMPS Central PA.",
     "is_virtual": false,
-    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=423&ts=1776108234"
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=423&ts=1784577691"
   },
   {
     "chapter": "SMPS Houston",
@@ -1193,7 +1219,7 @@
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
     "description": "Registration is open! Join SMPS Houston in celebrating the Greater Houston Growth & Development Outlook - Insights from regional leaders on the trends, policies, and priorities shaping our communities, and what they mean for AEC firms.",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=201&ts=1783358756"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=201&ts=1784589388"
   },
   {
     "chapter": "SMPS Columbus",
@@ -1573,6 +1599,19 @@
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1783460354"
   },
   {
+    "chapter": "SMPS Los Angeles",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Adaptive Re-Use & Urban Revitalization Breakfast Series",
+    "date": "September 23, 2026",
+    "sort_date": "2026-09-23",
+    "time": "8:30 AM PDT to 10:30 AM PDT",
+    "location": "HED DTLA, 550 S. Hope Street, Suite 2500, Los Angeles, CA 90071",
+    "description": "Explore how adaptive reuse, ARO 2.0, and the Downtown Community Plan are shaping development opportunities and revitalization across Los Angeles.",
+    "is_virtual": false,
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=173&ts=1784622303"
+  },
+  {
     "chapter": "SMPS South Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1605,11 +1644,11 @@
     "title": "Bluebonnet Ball 2026",
     "date": "September 23, 2026",
     "sort_date": "2026-09-23",
-    "time": "12:00 AM to 12:00 AM",
+    "time": "5:30 PM to 9:00 PM",
     "location": "Grand Prairie Events & Convention Center, 2925 S State Hwy 161, Grand Prairie, TX 75052",
-    "description": "Save the date for our annual awards event!",
+    "description": "An evening to celebrate the people and marketing work moving North Texas A/E/C forward.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=284&ts=1783359494"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=306&ts=1784584086"
   },
   {
     "chapter": "SMPS Kansas City",
@@ -1828,7 +1867,7 @@
     "sort_date": "2026-10-13",
     "time": "11:30 AM to 1:00 PM",
     "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
-    "description": "Join us for the October Market Luncheon! Follow Us",
+    "description": "Join us for the October Market Luncheon!",
     "is_virtual": false,
     "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=256&ts=1765844739"
   },
@@ -1935,6 +1974,19 @@
     "description": "Insights. Immersion. Connection",
     "is_virtual": false,
     "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=274&ts=1783756661"
+  },
+  {
+    "chapter": "SMPS San Antonio",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "2026 SMPS Evening of Excellence",
+    "date": "October 29, 2026",
+    "sort_date": "2026-10-29",
+    "time": "6:00 PM to 9:30 PM",
+    "location": "The Alamo, 300 Alamo Plaza, San Antonio, TX 78205",
+    "description": "Join us for the 2026 SMPS Evening of Excellence! Follow Us",
+    "is_virtual": false,
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1784557512"
   },
   {
     "chapter": "SMPS San Francisco",
