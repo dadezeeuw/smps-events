@@ -1,44 +1,5 @@
 [
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Regional Coffee Meetup - Oakland/East Bay",
-    "date": "July 21, 2026",
-    "sort_date": "2026-07-21",
-    "time": "8:00 AM - 9:30 AM",
-    "location": "Modern Coffee, 381 19th Street, Oakland, CA 94612, https://www.moderncoffeeoakland.com/",
-    "description": "Meet other SMPS members at Modern Coffee in Oakland!",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=631&ts=1783455846"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Regional Happy Hour - South Bay",
-    "date": "July 21, 2026",
-    "sort_date": "2026-07-21",
-    "time": "4:30 PM - 6:30 PM",
-    "location": "Laughing Monk Brewing, 1235 Oakmead Pkwy, Sunnyvale, CA 94085, https://sunnyvale.laughingmonk.com/",
-    "description": "Meet other SMPS members at Laughing Monk Brewing in Sunnyvale!",
-    "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=629&ts=1784232135"
-  },
-  {
-    "chapter": "SMPS Oregon",
-    "state": "Oregon",
-    "region": "Pacific",
-    "title": "Did AI Become Your Most Important Salesperson and Head Hunter?",
-    "date": "July 21, 2026",
-    "sort_date": "2026-07-21",
-    "time": "8:30 AM to 11:00 AM",
-    "location": "LMC Construction, 19200 SW Teton Ave, Tualatin, OR 97062",
-    "description": "AI is rewriting buyer discovery, talent acquisition and research-based decisions for professional services. This is the greatest first-mover advantage since social media and it all begins with your website and whether AI can find and properly cite it.",
-    "is_virtual": false,
-    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=216&ts=1782420207"
-  },
-  {
     "chapter": "SMPS Sacramento",
     "state": "California",
     "region": "Pacific",
@@ -68,14 +29,14 @@
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
-    "title": "SMPS DC + WBC Mash-Up Summer Happy Hour",
+    "title": "SMPS DC + WBC Mash-Up Summer Happy Hour **SOLD OUT**",
     "date": "July 22, 2026",
     "sort_date": "2026-07-22",
     "time": "5:00 PM to 7:00 PM",
     "location": "Gypsy Kitchen, 1825 14th St NW, Washington, DC, DC 20009",
     "description": "We're excited to partner with WBC for this laid-back summer networking happy hour at Gypsy Kitchen!",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=158&ts=1784208979"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=158&ts=1784724583"
   },
   {
     "chapter": "SMPS North Florida",
@@ -361,7 +322,7 @@
     "location": "The Sailhouse, 238 Green St., Tarrytown, NY 10591",
     "description": "Four leading organizations. One evening. Endless opportunities to connect!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=176&ts=1784057658"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=176&ts=1784662135"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -387,7 +348,7 @@
     "location": "Xavier's College of Osteopathic Medicine Hard Hat Tour, Dana Avenue",
     "description": "HARD HAT TOUR: Xavier's College of Osteopathic Medicine - REGISTER NOW!",
     "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=395&ts=1783622369"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=395&ts=1784666564"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -689,6 +650,19 @@
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=159&ts=1783698380"
   },
   {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "The Annual IFMA Detroit Riverboat Cruise",
+    "date": "August 11, 2026",
+    "sort_date": "2026-08-11",
+    "time": "5:45 PM to 8:00 PM",
+    "location": "Stroh\u2019s River Place Dock, 201 Joseph Campau, Detroit, MI 48207, https://diamondjack.com/",
+    "description": "In partnership with Corenet Michigan & SMPS Southeast Michigan",
+    "is_virtual": false,
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=289&ts=1784647458"
+  },
+  {
     "chapter": "SMPS Charlotte",
     "state": "North Carolina",
     "region": "Southeast",
@@ -813,10 +787,10 @@
     "date": "August 12, 2026",
     "sort_date": "2026-08-12",
     "time": "11:30 AM to 1:30 PM",
-    "location": "TBD",
+    "location": "Marous Brothers Construction, 36933 Vine Street, Willoughby, OH 44094",
     "description": "What do clients really want from their AEC partners? Hear directly from owners and clients as they discuss the communication, collaboration, and relationship-building skills that set exceptional firms apart.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=209&ts=1784145599"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=209&ts=1784661920"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -985,7 +959,7 @@
     "location": "Juban's Restaurant, 3739 Perkins Rd., Baton Rouge, LA 70808, https://www.jubans.com/",
     "description": "Our annual State of the State luncheon with heavy-hitting representatives from various State offices.",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1783375090"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1784649939"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1063,7 +1037,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1784062130"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1784688259"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1258,7 +1232,7 @@
     "location": "BRICK at Liberty Station, 2863 Historic Decatur Rd, San Diego, CA 92106",
     "description": "Join us for our annual Palm Awards ceremony to recognize excellence in AEC marketing and business development.",
     "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1784077233"
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1784659821"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1440,7 +1414,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1784135498"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1784688431"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1609,7 +1583,7 @@
     "location": "HED DTLA, 550 S. Hope Street, Suite 2500, Los Angeles, CA 90071",
     "description": "Explore how adaptive reuse, ARO 2.0, and the Downtown Community Plan are shaping development opportunities and revitalization across Los Angeles.",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=173&ts=1784622303"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=173&ts=1784660295"
   },
   {
     "chapter": "SMPS South Florida",
