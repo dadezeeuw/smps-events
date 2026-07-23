@@ -1,109 +1,5 @@
 [
   {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Marketing & Business Development Speed Networking",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "4:00 PM to 7:00 PM",
-    "location": "SRBX, 5370 Elvas Ave, Sacramento, CA 95819",
-    "description": "Looking to expand your network? Join SMPS for an interactive Speed Networking event featuring experienced marketing and business development professionals from across the region.",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=477&ts=1784593811"
-  },
-  {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "Get to Know SMPS Breakfast",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: Membership",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=797&Itemid=115&year=2026&month=07&day=22&title=get-to-know-smps-breakfast&uid=10bc4d58225d1af5901518ddd0d21da3"
-  },
-  {
-    "chapter": "SMPS Washington, DC",
-    "state": "District of Columbia, Maryland, Virginia",
-    "region": "Northeast",
-    "title": "SMPS DC + WBC Mash-Up Summer Happy Hour **SOLD OUT**",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Gypsy Kitchen, 1825 14th St NW, Washington, DC, DC 20009",
-    "description": "We're excited to partner with WBC for this laid-back summer networking happy hour at Gypsy Kitchen!",
-    "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=158&ts=1784724583"
-  },
-  {
-    "chapter": "SMPS North Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Show Up Smarter: Navigating Conferences with Purpose",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual",
-    "description": "Make every conference count. Join SMPS North Florida for a practical webinar with Donna Corlew, FSMPS, CPSM, and learn how to network intentionally, prioritize opportunities, and turn conference conversations into meaningful business results.",
-    "is_virtual": true,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=104&ts=1781119195"
-  },
-  {
-    "chapter": "SMPS Chicago",
-    "state": "Illinois",
-    "region": "Heartland",
-    "title": "Serving Up Connections",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "5:00 PM CDT to 7:00 PM CDT",
-    "location": "Big City Pickle - Fulton Market, 170 N Green Street, Chicago, IL 60607, https://www.chicagocitypickle.com/west-loop, Step Onto the Court and Expand Your Network!",
-    "description": "Platinum Sponsors Gold Sponsors Silver Sponsors",
-    "is_virtual": false,
-    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=266&ts=1784562912"
-  },
-  {
-    "chapter": "SMPS West Michigan",
-    "state": "Michigan",
-    "region": "Heartland",
-    "title": "Summer Series Part 1 - Connecting the Plot Points: Strategy & Storytelling in Proposals and Qualifications",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "12:00 PM EDT to 1:30 PM EDT",
-    "location": "Zoom",
-    "description": "Every great proposal tells a story. Learn how to make yours unforgettable.",
-    "is_virtual": true,
-    "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=78&ts=1781872381"
-  },
-  {
-    "chapter": "SMPS Palmetto",
-    "state": "South Carolina",
-    "region": "Southeast",
-    "title": "CREW Midlands & SMPS Palmetto School Supply Drive Benefiting United Way of the Midlands",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "2:30 PM EDT to 4:30 PM EDT",
-    "location": "United Way of the Midlands, 1818 Blanding Street, Columbia, SC 29201, https://volunteer.uway.org/need/detail/?need_id=1276622, Join us for United Way's 5th Annual School Supply Drive:  Ready, Set, Supply!",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=395&ts=1783519818"
-  },
-  {
-    "chapter": "SMPS Virginia",
-    "state": "Virginia",
-    "region": "Southeast",
-    "title": "Virginia Beach Empower Hour!",
-    "date": "July 22, 2026",
-    "sort_date": "2026-07-22",
-    "time": "5:00 PM EDT to 7:00 PM EDT",
-    "location": "New Realm Brewing Company, 1209 Craft Lane, Virginia Beach, VA 23454",
-    "description": "Building Connections, Empowering People",
-    "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=244&ts=1780934106"
-  },
-  {
     "chapter": "SMPS San Diego",
     "state": "California",
     "region": "Pacific",
@@ -822,14 +718,14 @@
     "chapter": "SMPS Utah",
     "state": "Utah",
     "region": "Southwest",
-    "title": "Beyond Burnout: Sustainable Leadership in a High-Performance Industry",
+    "title": "August Education + Service Project Event",
     "date": "August 12, 2026",
     "sort_date": "2026-08-12",
     "time": "8:15 AM to 10:00 AM",
     "location": "Resolut, 181 E 5600 S #200, Murray, UT 84123",
     "description": "We work in an industry built on achievement\u2014but success at all costs often comes with a hidden price. Join SMPS Utah for an engaging discussion on burnout, leadership, and sustainable performance. Discover why burnout is often rooted in more than workload",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=460&ts=1781568800"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=460&ts=1784763304"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1066,6 +962,45 @@
     "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=657&ts=1784127504"
   },
   {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - Tampa",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Blind Tiger Coffee Roasters (Ybor), 1823 E 7th Ave, Tampa, FL 33605",
+    "description": "Come network over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=549&ts=1784726727"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - St. Pete",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Say Coffee House, 2414 Central Avenue, St. Petersburg, FL 33712",
+    "description": "Come join us for networking over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=551&ts=1784728712"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - Lakeland",
+    "date": "August 20, 2026",
+    "sort_date": "2026-08-20",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Foxtail Coffee, 322 Kathleen Rd., Lakeland, FL 33815",
+    "description": "Come join us for networking over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=552&ts=1784728776"
+  },
+  {
     "chapter": "SMPS Hawaii",
     "state": "Hawaii",
     "region": "Pacific",
@@ -1129,6 +1064,19 @@
     "description": "Honoring Excellence in Marketing Communications & Professional Achievement!",
     "is_virtual": false,
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=163&ts=1783548335"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Mastering the AI Spellbook: Practical Magic for AEC Marketers",
+    "date": "August 21, 2026",
+    "sort_date": "2026-08-21",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Education",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=798&Itemid=115&year=2026&month=08&day=21&title=mastering-the-ai-spellbook-practical-magic-for-aec-marketers&uid=ec5a8a828647d8bcba8f7bf9019f0281"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -1206,7 +1154,7 @@
     "location": "The Golf Club of Dublin, 5805 Eiterman Road, Dublin, OH 43016",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1784293673"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=170&ts=1784748776"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1232,7 +1180,7 @@
     "location": "BRICK at Liberty Station, 2863 Historic Decatur Rd, San Diego, CA 92106",
     "description": "Join us for our annual Palm Awards ceremony to recognize excellence in AEC marketing and business development.",
     "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1784659821"
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=136&ts=1784770408"
   },
   {
     "chapter": "SMPS Indiana",
@@ -2091,6 +2039,19 @@
     "description": "Stay tuned for details",
     "is_virtual": true,
     "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=595&ts=1760483537"
+  },
+  {
+    "chapter": "SMPS San Francisco",
+    "state": "California",
+    "region": "Pacific",
+    "title": "2026 Topaz Awards & Holiday Celebration",
+    "date": "December 02, 2026",
+    "sort_date": "2026-12-02",
+    "time": "5:00 PM - 9:00 PM",
+    "location": "The City Club of San Francisco, 155 Sansome Street, 10th Floor, San Francisco, CA 94104, https://cityclubsf.com/",
+    "description": "Celebrate award-winning work, connect with industry peers, and kick off the holiday season with SMPS SFBAC.",
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1784777031"
   },
   {
     "chapter": "SMPS Indiana",
