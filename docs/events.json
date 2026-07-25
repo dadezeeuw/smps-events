@@ -166,7 +166,7 @@
     "location": "The Athenaeum at HASTINGS Architecture, 225 Polk Ave, Nashville, TN 37204",
     "description": "This session explores the full lifecycle of teaming in today\u2019s AEC industry, from early collaboration and pursuit strategies to real-world delivery and long-term outcomes.",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=282&ts=1783545656"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=282&ts=1784911197"
   },
   {
     "chapter": "SMPS North Texas",
@@ -192,7 +192,7 @@
     "location": "Zoom",
     "description": "This fan-favorite course includes tips and best practices for creating and using styles in proposals.  The ideal participant typically uses the software daily and is ready to become more efficient and  consistent with their work.",
     "is_virtual": true,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=245&ts=1783430146"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1784910255"
   },
   {
     "chapter": "SMPS Seattle",
@@ -738,7 +738,7 @@
     "location": "Small Giants, 5555 E Van Buren St, Ste 115, Phoenix, AZ 85008",
     "description": "Learn how to transform complex technical information into clear, compelling visuals that enhance understanding and engagement.",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=282&ts=1784253679"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=282&ts=1784943472"
   },
   {
     "chapter": "SMPS Southeast Louisiana",
@@ -829,7 +829,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1784831889"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1784903758"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1284,7 +1284,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1784688431"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1784904036"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1323,7 +1323,7 @@
     "location": "Metro Tech, 1900 Springlake Drive, Oklahoma City, OK 73111",
     "description": "Join SMPS Oklahoma on Thursday, September 10, for an engaging discussion with Oklahoma City leaders as they share insights into upcoming projects, the proposal and interview process, and what A/E/C firms should know about pursuing work in the region.",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=193&ts=1784821332"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=193&ts=1784915925"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -1482,6 +1482,19 @@
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1784548960"
   },
   {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "Coaching Strategies for Senior Leaders",
+    "date": "September 22, 2026",
+    "sort_date": "2026-09-22",
+    "time": "8:30 AM to 11:00 AM",
+    "location": "NBS Commercial Interiors, 2595 Bellingham Rd, Troy, MI 48083, https://www.yournbs.com/who-we-are/locations/",
+    "description": "How to Stop Managing and Start Coaching",
+    "is_virtual": false,
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=290&ts=1784906056"
+  },
+  {
     "chapter": "SMPS Greater Cincinnati",
     "state": "Ohio",
     "region": "Heartland",
@@ -1492,7 +1505,7 @@
     "location": "Bricker Graydon Wyatt, 312 Walnut Street, Suite 1800, Cincinnati, OH 45202, https://www.bricker.com/",
     "description": "Learn How To Maximize Your Experience at HRC!",
     "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1783460354"
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1784913990"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1518,7 +1531,7 @@
     "location": "Nova Southeastern University - Carl Desantis Building, 3050 Ray Ferrero Jr Blvd., Davie, FL 33314",
     "description": "NextGen Education brings together education leaders and industry partners to explore the future of learning in South Florida.",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=231&ts=1784217668"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=231&ts=1784904960"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1579,11 +1592,11 @@
     "title": "2026 Building Virginia Summit",
     "date": "September 24, 2026",
     "sort_date": "2026-09-24",
-    "time": "12:00 AM EDT to 12:00 AM EDT",
+    "time": "9:00 AM EDT to 5:10 PM EDT",
     "location": "Delta Hotels Richmond Downtown, 555 E Canal St, Richmond, VA 23219",
-    "description": "Join us for Building Virginia 2026: A Marketing Summit for A/E/C Professionals",
+    "description": "Building Virginia 2026: Brick by Brick",
     "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=242&ts=1777054446"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=245&ts=1783430146"
   },
   {
     "chapter": "SMPS Los Angeles",
