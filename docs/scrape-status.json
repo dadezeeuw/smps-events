@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T12:50:23",
+  "last_updated": "2026-07-27T06:24:54",
   "total_events": 169,
   "batch": {
     "batch_index": 0,
@@ -14,11 +14,11 @@
       "state": "Alabama",
       "region": "Southeast",
       "url": "https://smpsalabama.starchapter.com/meetinginfo.php?cat=ALL",
-      "status": "success",
-      "message": "Scraped successfully.",
+      "status": "failed",
+      "message": "Failed after 3 attempts: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://smpsalabama.starchapter.com/meetinginfo.php?cat=ALL\nCall log:\n  - navigating to \"https://smpsalabama.starchapter.com/meetinginfo.php?cat=ALL\", waiting until \"domcontentloaded\"\n",
       "events_found": 0,
-      "load_attempts": 1,
-      "lines_loaded": 34,
+      "load_attempts": 3,
+      "lines_loaded": 0,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -30,7 +30,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 0,
-      "load_attempts": 1,
+      "load_attempts": 3,
       "lines_loaded": 40,
       "rejected_dates": 0,
       "skipped_past_events": 0
@@ -434,7 +434,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 96,
+      "lines_loaded": 95,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -563,7 +563,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 2,
-      "load_attempts": 2,
+      "load_attempts": 1,
       "lines_loaded": 60,
       "rejected_dates": 0,
       "skipped_past_events": 0
