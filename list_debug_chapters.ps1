@@ -4,7 +4,10 @@ $targets = @(
     "*Northern New England*",
     "*Southeast Michigan*",
     "*Orange County*",
-    "*San Francisco*"
+    "*San Francisco*",
+    "*North Florida*",
+    "*Maryland*",
+    "*Boston*"
 )
 
 $chapters = Get-Content chapters.json -Raw | ConvertFrom-Json
