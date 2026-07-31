@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T08:09:29",
-  "total_events": 179,
+  "last_updated": "2026-07-31T09:06:07",
+  "total_events": 177,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -68,9 +68,9 @@
       "url": "https://smpsie.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 0,
       "load_attempts": 1,
-      "lines_loaded": 60,
+      "lines_loaded": 51,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -133,9 +133,9 @@
       "url": "https://smpssf.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 12,
+      "events_found": 13,
       "load_attempts": 1,
-      "lines_loaded": 146,
+      "lines_loaded": 152,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -174,7 +174,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 76,
+      "lines_loaded": 75,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -252,7 +252,7 @@
       "message": "Scraped successfully.",
       "events_found": 4,
       "load_attempts": 1,
-      "lines_loaded": 67,
+      "lines_loaded": 70,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -393,9 +393,9 @@
       "url": "https://smpswm.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 56,
+      "lines_loaded": 65,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -549,9 +549,9 @@
       "url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 3,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 74,
+      "lines_loaded": 66,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -563,7 +563,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 2,
-      "load_attempts": 3,
+      "load_attempts": 1,
       "lines_loaded": 60,
       "rejected_dates": 0,
       "skipped_past_events": 0
@@ -576,7 +576,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 6,
-      "load_attempts": 2,
+      "load_attempts": 1,
       "lines_loaded": 96,
       "rejected_dates": 0,
       "skipped_past_events": 0
@@ -590,7 +590,7 @@
       "message": "Scraped successfully.",
       "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 59,
+      "lines_loaded": 61,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -601,9 +601,9 @@
       "url": "https://smpscentralpa.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 6,
+      "events_found": 5,
       "load_attempts": 1,
-      "lines_loaded": 106,
+      "lines_loaded": 98,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -653,9 +653,9 @@
       "url": "https://smpsnashville.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 66,
+      "lines_loaded": 57,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -692,9 +692,9 @@
       "url": "https://smpsntx.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 4,
+      "events_found": 5,
       "load_attempts": 1,
-      "lines_loaded": 89,
+      "lines_loaded": 96,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -707,7 +707,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 69,
+      "lines_loaded": 70,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -733,7 +733,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 69,
+      "lines_loaded": 72,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -757,9 +757,9 @@
       "url": "https://smpsseattle.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 3,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 81,
+      "lines_loaded": 72,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
