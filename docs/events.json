@@ -296,7 +296,7 @@
     "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
     "description": "Join us for the August Market Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=255&ts=1785506176"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=255&ts=1785509847"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -630,11 +630,24 @@
     "title": "The Biggest Challenges and Drivers Shaping Healthcare in Texas",
     "date": "August 19, 2026",
     "sort_date": "2026-08-19",
-    "time": "11:00 AM to 1:00 PM",
+    "time": "11:30 AM to 1:00 PM",
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join SMPS North Texas for an engaging healthcare-focused program exploring the key challenges, trends, and opportunities shaping the future of healthcare development across Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1784903758"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=301&ts=1785636810"
+  },
+  {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "2026 Sponsors-Only Event: Time Management",
+    "date": "August 19, 2026",
+    "sort_date": "2026-08-19",
+    "time": "8:15 AM to 10:00 AM",
+    "location": "Architectural Nexus, 2505 E Parleys Way, Salt Lake City, UT 84109, https://www.archnexus.com/",
+    "description": "Time Management is a skill you can improve!",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=463&ts=1785521598"
   },
   {
     "chapter": "SMPS Seattle",
@@ -923,6 +936,19 @@
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=267&ts=1784815146"
   },
   {
+    "chapter": "SMPS Nashville",
+    "state": "Tennessee",
+    "region": "Southeast",
+    "title": "Sponsor Breakfast 2026",
+    "date": "August 25, 2026",
+    "sort_date": "2026-08-25",
+    "time": "8:00 AM to 10:00 AM",
+    "location": "The Chloe Hotel, 1906 Acklen Ave, Nashville, TN 37212, https://www.chloenashville.com/",
+    "description": "Margaret Emley, Vanderbilt\u2019s Real Estate Director, will join SMPS sponsors for an exclusive conversation on Vanderbilt\u2019s transformative growth\u2014including the Innovation Neighborhood, strategic expansion initiatives, development challenges, and what\u2019s next",
+    "is_virtual": false,
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=283&ts=1785532736"
+  },
+  {
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
@@ -1128,7 +1154,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Explore the funding, policies, and learning trends shaping Florida's K-12 and higher education facilities",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1785166399"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1785510774"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1141,7 +1167,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Sponsor the SMPS Tampa Bay Education Panel Today!",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=554&ts=1785170455"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=554&ts=1785510871"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1219,7 +1245,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1784904036"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1785637462"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1911,6 +1937,19 @@
     "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=116&ts=1783556196"
   },
   {
+    "chapter": "SMPS Greater Cincinnati",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Cocktails and Commendations 2026",
+    "date": "October 15, 2026",
+    "sort_date": "2026-10-15",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "The Firehouse, 401 Greenup Street, Covington, KY 41011, https://covingtonyard.com/firehouse-no2/",
+    "description": "Celebrating A/E/C Marketing & Business Development Excellence",
+    "is_virtual": false,
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=403&ts=1785521548"
+  },
+  {
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
@@ -1976,19 +2015,6 @@
     "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=77&ts=1780304335"
   },
   {
-    "chapter": "SMPS Hawaii",
-    "state": "Hawaii",
-    "region": "Pacific",
-    "title": "A/E/C Client Experience Summit",
-    "date": "October 28, 2026",
-    "sort_date": "2026-10-28",
-    "time": "10:00 AM HST to 6:00 PM HST",
-    "location": "TBD",
-    "description": "Insights. Immersion. Connection",
-    "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=274&ts=1783756661"
-  },
-  {
     "chapter": "SMPS San Antonio",
     "state": "Texas",
     "region": "Southern",
@@ -1999,7 +2025,7 @@
     "location": "The Alamo, 300 Alamo Plaza, San Antonio, TX 78205",
     "description": "Join us for the 2026 SMPS Evening of Excellence! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1785192177"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1785511133"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -2090,7 +2116,7 @@
     "location": "To be announced",
     "description": "Join us for this exciting workshop where you'll learn how photography fits into business development and marketing strategy!",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=183&ts=1784160884"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=183&ts=1785542484"
   },
   {
     "chapter": "SMPS Las Vegas",
@@ -2272,7 +2298,7 @@
     "location": "Hyatt Regency Irvine",
     "description": "Save the date! Join us in Orange County for the 2027 Pacific Regional Conference \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=184&ts=1785183720"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=184&ts=1785542521"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
