@@ -582,7 +582,7 @@
     "location": "Pincho Loco Ice Cream, 1918 Perry Street, Durham, NC 27705",
     "description": "Join us for an SMPS RT Meet Up - free to attend but please register at the link below!",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=177&ts=1785265686"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=177&ts=1785759485"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -1196,6 +1196,19 @@
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=286&ts=1785192912"
   },
   {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Off the Record: Industry Dialogues",
+    "date": "September 08, 2026",
+    "sort_date": "2026-09-08",
+    "time": "3:30 PM to 4:30 PM",
+    "location": "Warner Woods Pavilion, 4747 Central College Road, Westerville, OH 43081",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=174&ts=1785731354"
+  },
+  {
     "chapter": "SMPS Wichita",
     "state": "Kansas",
     "region": "Missouri Valley",
@@ -1713,7 +1726,7 @@
     "location": "Hilton Netherlands Plaza Hotel, 35 W. Fifth Street, Cincinnati, OH 45202",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1783724960"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1785731158"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -1857,6 +1870,19 @@
     "description": "Follow Us",
     "is_virtual": false,
     "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=144&ts=1779462787"
+  },
+  {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Healthcare Growth in Central Ohio: Strategic Planning and Execution",
+    "date": "October 13, 2026",
+    "sort_date": "2026-10-13",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Grange Insurance Audubon Center, 505 W Whittier Street, Columbus, OH 43215",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=160&ts=1785760474"
   },
   {
     "chapter": "SMPS Austin",
