@@ -296,7 +296,7 @@
     "location": "The Witte Museum - Dawson Family Hall, 3801 Broadway, San Antonio, TX 78209",
     "description": "Join us for the August Market Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=255&ts=1785509847"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=255&ts=1785768180"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -309,7 +309,7 @@
     "location": "Zoom Webinar",
     "description": "Three panelists will share their biggest takeaways and memorable moments from Amplify A|E|C. Don\u2019t miss this opportunity to revisit the conference\u2019s energy, ideas, and inspiration!",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1785456932"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=590&ts=1785808926"
   },
   {
     "chapter": "SMPS North Florida",
@@ -361,7 +361,7 @@
     "location": "Marous Brothers Construction, 36933 Vine Street, Willoughby, OH 44094",
     "description": "What do clients really want from their AEC partners? Hear directly from owners and clients as they discuss the communication, collaboration, and relationship-building skills that set exceptional firms apart.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=209&ts=1785440766"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=209&ts=1785770324"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -401,6 +401,19 @@
     "description": "We work in an industry built on achievement\u2014but success at all costs often comes with a hidden price. Join SMPS Utah for an engaging discussion on burnout, leadership, and sustainable performance. Discover why burnout is often rooted in more than workload",
     "is_virtual": false,
     "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=460&ts=1784763304"
+  },
+  {
+    "chapter": "SMPS Wisconsin",
+    "state": "Wisconsin",
+    "region": "Heartland",
+    "title": "Discover SMPS - Madison",
+    "date": "August 12, 2026",
+    "sort_date": "2026-08-12",
+    "time": "3:00 PM CDT to 5:00 PM CDT",
+    "location": "The Kickback, 7622 Lisa Lane, Middleton, WI 53562",
+    "description": "Discover the people, programs, and opportunities that make SMPS Wisconsin a valuable resource for AEC professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=198&ts=1785774446"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -647,7 +660,20 @@
     "location": "Architectural Nexus, 2505 E Parleys Way, Salt Lake City, UT 84109, https://www.archnexus.com/",
     "description": "Time Management is a skill you can improve!",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=463&ts=1785521598"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=463&ts=1785786545"
+  },
+  {
+    "chapter": "SMPS Wisconsin",
+    "state": "Wisconsin",
+    "region": "Heartland",
+    "title": "Discover SMPS - Waukesha",
+    "date": "August 19, 2026",
+    "sort_date": "2026-08-19",
+    "time": "3:00 PM CDT to 5:00 PM CDT",
+    "location": "BSI, W222N630 Cheaney Road, Waukesha, WI 53186",
+    "description": "Discover the people, programs, and opportunities that make SMPS Wisconsin a valuable resource for AEC professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=199&ts=1785774421"
   },
   {
     "chapter": "SMPS Seattle",
@@ -788,9 +814,9 @@
     "sort_date": "2026-08-20",
     "time": "5:00 PM MDT - 8:00 PM MDT",
     "location": "Putts n' Pints, 5100 San Mateo Blvd. NE, Albuquerque, NM 87109",
-    "description": "August happy hour with SAME",
+    "description": "Joint happy hour with SAME - Register at Eventbrite, see event page for link",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=115&ts=1785137846"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=115&ts=1785787003"
   },
   {
     "chapter": "SMPS New York",
@@ -829,7 +855,7 @@
     "location": "Online",
     "description": "The CPSM exam is coming up and SMPS NTX is offering a study group for our members and non-members to adequately prepare for the exam.",
     "is_virtual": true,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=311&ts=1785422170"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=311&ts=1785793271"
   },
   {
     "chapter": "SMPS Colorado",
@@ -855,7 +881,7 @@
     "location": "Zoom Webinar",
     "description": "Your strategic plan sets direction; your growth plan makes it real.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=597&ts=1784851010"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=597&ts=1785808105"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -868,7 +894,7 @@
     "location": "Zoom Webinar",
     "description": "Building a successful business is like constructing a strong building; it starts with a blueprint.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=604&ts=1784842797"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=604&ts=1785807968"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -960,6 +986,19 @@
     "description": "Registration is open! Join SMPS Houston in celebrating the Greater Houston Growth & Development Outlook - Insights from regional leaders on the trends, policies, and priorities shaping our communities, and what they mean for AEC firms.",
     "is_virtual": false,
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=201&ts=1785439440"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "CPSM Practice Exam Session",
+    "date": "August 25, 2026",
+    "sort_date": "2026-08-25",
+    "time": "6:00 PM to 7:30 PM",
+    "location": "Online",
+    "description": "The CPSM exam is coming up and SMPS NTX is offering a study group for our members and non-members to adequately prepare for the exam.",
+    "is_virtual": true,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=315&ts=1785794467"
   },
   {
     "chapter": "SMPS Boston",
@@ -1079,6 +1118,19 @@
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=315&ts=1783443368"
   },
   {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "Member Appreciation Event",
+    "date": "August 27, 2026",
+    "sort_date": "2026-08-27",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Market Street Grill, 2985 East Cottonwood Parkway, Cottonwood Heights, UT 84121, https://www.marketstreetgrill.com/, 2026 Annual Member Appreciation Luncheon",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=466&ts=1785797022"
+  },
+  {
     "chapter": "SMPS North Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1115,7 +1167,7 @@
     "location": "Zoom Webinar",
     "description": "Business planning doesn\u2019t need to be complicated\u2014or exhausting.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=598&ts=1784851085"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=598&ts=1785808136"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1154,7 +1206,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Explore the funding, policies, and learning trends shaping Florida's K-12 and higher education facilities",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1785510774"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1785766604"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1258,20 +1310,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1785637462"
-  },
-  {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Brew Boat",
-    "date": "September 10, 2026",
-    "sort_date": "2026-09-10",
-    "time": "4:30 PM to 7:00 PM",
-    "location": "Venue: TBD",
-    "description": "Stay tuned for details about this upcoming event!",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=474&ts=1780616498"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1785788107"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1284,7 +1323,7 @@
     "location": "Zoom Webinar",
     "description": "Marketing isn\u2019t just promotion; it is positioning.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=599&ts=1784850441"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=599&ts=1785808280"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1362,7 +1401,7 @@
     "location": "Zoom Webinar",
     "description": "Opportunities do not just appear; they are cultivated.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=600&ts=1784850355"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=600&ts=1785808201"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1456,6 +1495,19 @@
     "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=81&ts=1780304240"
   },
   {
+    "chapter": "SMPS Wisconsin",
+    "state": "Wisconsin",
+    "region": "Heartland",
+    "title": "Discover SMPS - Appleton",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "3:00 PM CDT to 5:00 PM CDT",
+    "location": "Ope! North, 1932 W College Avenue, Appleton, WI 54914",
+    "description": "Discover the people, programs, and opportunities that make SMPS Wisconsin a valuable resource for AEC professionals.",
+    "is_virtual": false,
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=202&ts=1785790762"
+  },
+  {
     "chapter": "SMPS Boston",
     "state": "Massachusetts",
     "region": "Northeast",
@@ -1492,7 +1544,7 @@
     "location": "Zoom Webinar",
     "description": "The best strategies fall flat if no one knows the story.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=601&ts=1785288451"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=601&ts=1785807885"
   },
   {
     "chapter": "SMPS North Florida",
@@ -1518,7 +1570,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1785177527"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1785792659"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -1667,14 +1719,14 @@
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
-    "title": "A New View: MCAs Garden Party at Northside Social *SAVE THE DATE!*",
+    "title": "A New View: Awards Garden Party at Northside Social *SAVE THE DATE!*",
     "date": "September 29, 2026",
     "sort_date": "2026-09-29",
     "time": "5:30 PM to 8:00 PM",
     "location": "Northside Social Clarendon, 3211 Wilson Boulevard, Arlington, VA 22201",
     "description": "Northside Social will be transformed into a garden oasis for an evening of celebrating members, building connections, and recognizing marketing excellence!",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1785424050"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1785781876"
   },
   {
     "chapter": "SMPS Hawaii",
@@ -1788,10 +1840,10 @@
     "date": "October 07, 2026",
     "sort_date": "2026-10-07",
     "time": "3:00 PM - 6:00 PM",
-    "location": "Zoom Webinar",
+    "location": "David Brower Center, 2150 Allston Way, Suite 100, Berkeley, CA 94704, https://browercenter.org",
     "description": "Building Real Partnerships with Small and Diverse Firms",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=593&ts=1785445945"
+    "is_virtual": false,
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=593&ts=1785817199"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -1856,7 +1908,7 @@
     "location": "Carrco Painting, 10379 Plano Rd, Dallas, TX 75238",
     "description": "Andrea Pender and Kelly Ellsworth are the team behind the Hard Hats & Horizons podcast, where marketing, business development, and authentic industry conversations come together.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=313&ts=1785423625"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=313&ts=1785794315"
   },
   {
     "chapter": "SMPS Pittsburgh",
@@ -1934,7 +1986,7 @@
     "location": "Four Fingers Distillery Fletcher Place",
     "description": "Come for the friendly competition or just to network at our 4th annual euchre tournament.",
     "is_virtual": false,
-    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=410&ts=1783947464"
+    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=410&ts=1785762358"
   },
   {
     "chapter": "SMPS New Mexico",
@@ -1947,7 +1999,7 @@
     "location": "Alibi Rye, 419 Coal Ave SW, Albuquerque, NM 87102",
     "description": "Immersive Masquerade Party",
     "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=118&ts=1783552841"
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=118&ts=1785786251"
   },
   {
     "chapter": "SMPS New Mexico",
@@ -2171,17 +2223,17 @@
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1757429739"
   },
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "SMPS SF Virtual Program",
-    "date": "December 02, 2026",
-    "sort_date": "2026-12-02",
-    "time": "12:00 PM - 1:00 PM",
-    "location": "Zoom Webinar, http://www.zoom.com",
-    "description": "Stay tuned for details",
+    "chapter": "SMPS Connecticut",
+    "state": "Connecticut",
+    "region": "Northeast",
+    "title": "Humans at the Helm: Guiding AI in Proposal Management",
+    "date": "November 18, 2026",
+    "sort_date": "2026-11-18",
+    "time": "1:00 PM EST to 2:00 PM EST",
+    "location": "Virtual Program",
+    "description": "Registrants will receive the access link in the bottom section of their registration confirmation email, and a reminder email the morning of the virtual program. Join us for a closer look at how AI is changing proposal management, and the essential role proposal professionals play in shaping what comes next.",
     "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=595&ts=1760483537"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=289&ts=1785778426"
   },
   {
     "chapter": "SMPS San Francisco",
