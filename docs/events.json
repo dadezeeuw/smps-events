@@ -10,7 +10,7 @@
     "location": "Small Giants, 5555 E Van Buren St, Ste 115, Phoenix, AZ 85008",
     "description": "Learn how to transform complex technical information into clear, compelling visuals that enhance understanding and engagement.",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=282&ts=1784943472"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=282&ts=1786996061"
   },
   {
     "chapter": "SMPS Southeast Louisiana",
@@ -140,7 +140,7 @@
     "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr, Houston, TX 77041, We\u2019re sharing chapter updates and future plans at our Members?Only Annual Meeting & Volunteer Drive Happy Hour. Interested in getting more involved? Come meet our leaders and learn about open roles. Virtual option available.",
     "description": "",
     "is_virtual": true,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=210&ts=1786488358"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=210&ts=1786981360"
   },
   {
     "chapter": "SMPS North Texas",
@@ -205,7 +205,7 @@
     "location": "The Country Club of Orlando, 1601 Country Club Drive, Orlando, FL 32804",
     "description": "Don't miss the joint AMFP Central Florida and SMPS Central Florida program \u2014 Risk Management in Healthcare Design and Construction. Learn strategies to reduce disruption, improve project outcomes, and navigate evolving compliance requirements.",
     "is_virtual": false,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=657&ts=1786898216"
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=657&ts=1786989852"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -361,7 +361,7 @@
     "location": "The Haven Rooftop at The Sanctuary Hotel, 132 W 47th St, New York, NY 10036",
     "description": "Honoring Excellence in Marketing Communications & Professional Achievement!",
     "is_virtual": false,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=163&ts=1786842516"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=163&ts=1786981745"
   },
   {
     "chapter": "SMPS Austin",
@@ -777,7 +777,7 @@
     "location": "Joeris Training Lab, 823 Arion Pkwy, San Antonio, TX 78216",
     "description": "Join us for the September Marketer Talk!",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=271&ts=1786636634"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=271&ts=1786991671"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -790,7 +790,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Explore the funding, policies, and learning trends shaping Florida's K-12 and higher education facilities",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1786644996"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1786983347"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -907,7 +907,7 @@
     "location": "Warner Woods Pavilion, 4747 Central College Road, Westerville, OH 43081",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=174&ts=1785850394"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=174&ts=1786978488"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -920,7 +920,7 @@
     "location": "Marous Brothers Construction, 36933 Vine Street, Willoughby, OH 44094",
     "description": "What do clients really want from their AEC partners? Hear directly from owners and clients as they discuss the communication, collaboration, and relationship-building skills that set exceptional firms apart.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=210&ts=1786627982"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=210&ts=1787003319"
   },
   {
     "chapter": "SMPS Houston",
@@ -1074,7 +1074,7 @@
     "sort_date": "2026-09-10",
     "time": "11:30 AM to 1:00 PM",
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Registration Opens August 17th!",
+    "description": "Registration and Sponsorships Available!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=359&ts=1785345631"
   },
@@ -1129,6 +1129,19 @@
     "description": "Cheer on the Rays!",
     "is_virtual": false,
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=555&ts=1785853611"
+  },
+  {
+    "chapter": "SMPS Columbus",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "New Member Breakfast",
+    "date": "September 15, 2026",
+    "sort_date": "2026-09-15",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Panera Bread | Grandview Yard, 300 West Lane Avenue, Columbus, OH 43201",
+    "description": "",
+    "is_virtual": false,
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=176&ts=1786969414"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1414,7 +1427,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1786484502"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1786970839"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -1427,7 +1440,7 @@
     "location": "NBS Commercial Interiors, 2595 Bellingham Rd, Troy, MI 48083, https://www.yournbs.com/who-we-are/locations/",
     "description": "How to Stop Managing and Start Coaching",
     "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=290&ts=1784906056"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=290&ts=1786979237"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1505,7 +1518,7 @@
     "location": "Ralph's on the Park, 900 City Park Avenue, New Orleans, LA 70119, http://www.ralphsonthepark.com",
     "description": "Join us for an engaging luncheon with Jeffrey Schwartz, Deputy Mayor for Community and Economic Development for the City of New Orleans, as he shares insights into the city\u2019s ongoing economic growth and the initiatives driving progress.",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1785960702"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=511&ts=1786992302"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1544,7 +1557,7 @@
     "location": "Fortis Construction, 5331 S Macadam Ave., Suite 100, Portland, OR 97239",
     "description": "Learn practical Adobe InDesign techniques designed specifically for AEC marketers. This hands-on workshop will help you create stronger proposals, work more efficiently, and master time-saving tools, templates, and workflows you can use immediately.",
     "is_virtual": false,
-    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=219&ts=1786564099"
+    "detail_url": "https://smpsoregon.starchapter.com/meetinginfo.php?id=219&ts=1786990795"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1648,7 +1661,7 @@
     "location": "Out Door Country Club, 1157 Detwiler Drive, York, PA 17404",
     "description": "Join our industry partners for our annual and highly anticipated charitable golf outing. Sponsorships and foursomes are available!",
     "is_virtual": false,
-    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=421&ts=1782917942"
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=421&ts=1786986809"
   },
   {
     "chapter": "SMPS Virginia",
@@ -1687,7 +1700,7 @@
     "location": "Northside Social Clarendon, 3211 Wilson Boulevard, Arlington, VA 22201",
     "description": "Northside Social will be transformed into a garden oasis for an evening of celebrating members, building connections, and recognizing marketing excellence!",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1785857769"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1786997891"
   },
   {
     "chapter": "SMPS Hawaii",
@@ -1817,7 +1830,7 @@
     "location": "Lakeside Memorial Golf Course, 5201 N. Washington Street, Stillwater, OK 74075",
     "description": "Join us as we kick off our first annual golf tournament in 2026!",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=157&ts=1786641338"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=157&ts=1787006542"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1934,7 +1947,7 @@
     "location": "Grange Insurance Audubon Center, 505 W Whittier Street, Columbus, OH 43215",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=160&ts=1785760474"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=160&ts=1786978846"
   },
   {
     "chapter": "SMPS Austin",
@@ -1947,7 +1960,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Stay Tuned!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=351&ts=1786636472"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=351&ts=1786981083"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -1961,6 +1974,19 @@
     "description": "Join us for the October Market Luncheon!",
     "is_virtual": false,
     "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=256&ts=1765844739"
+  },
+  {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "Video Editing 101 for AEC Marketers",
+    "date": "October 14, 2026",
+    "sort_date": "2026-10-14",
+    "time": "10:00 AM to 12:30 PM",
+    "location": "Wilmot Sanz, 77 Upper Rock Circle, Suite 300, Rockville, MD 20850",
+    "description": "Create engaging social media videos using today's most accessible and powerful creative tools",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=166&ts=1786981662"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -2090,7 +2116,7 @@
     "location": "Carters Mountain Orchard, 1435 Carters Mountain Trail, Charlottesville, VA 22902",
     "description": "Take in the fall scenery, enjoy a drink, and connect with AEC professionals old and new.",
     "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1786727801"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1786982593"
   },
   {
     "chapter": "SMPS Virginia",
@@ -2113,10 +2139,23 @@
     "date": "October 21, 2026",
     "sort_date": "2026-10-21",
     "time": "4:00 PM EDT to 6:00 PM EDT",
-    "location": "Twisted Track Brewpub, 523 Shenandoah Ave. NW, Roanoke, VA 24016, 1785 Kitimal Drive, Virginia Beach, VA 23454",
-    "description": "Join SMPS Virginia for a casual evening of networking and connection at Twisted Track Brewpub. Meet fellow AEC professionals, enjoy great conversation, and expand your network in a relaxed Roanoke setting Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
+    "location": "Twisted Track Brewpub, 523 Shenandoah Ave. NW, Roanoke, VA 24016",
+    "description": "Join SMPS Virginia for a casual evening of networking and connection at Twisted Track Brewpub. Meet fellow AEC professionals, enjoy great conversation, and expand your network in a relaxed Roanoke setting",
     "is_virtual": false,
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=249&ts=1786133656"
+  },
+  {
+    "chapter": "SMPS Virginia",
+    "state": "Virginia",
+    "region": "Southeast",
+    "title": "VA Beach Empower Hour",
+    "date": "October 21, 2026",
+    "sort_date": "2026-10-21",
+    "time": "4:00 PM EDT to 6:00 PM EDT",
+    "location": "Farmhouse Brewing Co., 1805 Kempersville Road, Virginia Beach, VA 23464, 1785 Kitimal Drive, Virginia Beach, VA 23454",
+    "description": "Step away from your desk and join fellow AEC professionals for a relaxed evening at Back Bay Farmhouse Brewing Co. Connect, recharge, and grow your network while enjoying great conversation in a unique Virginia Beach setting. Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=250&ts=1786134453"
   },
   {
     "chapter": "SMPS Tampa Bay",
