@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "Mastering the AI Spellbook: Practical Magic for AEC Marketers",
-    "date": "August 21, 2026",
-    "sort_date": "2026-08-21",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: Education",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=798&Itemid=115&year=2026&month=08&day=21&title=mastering-the-ai-spellbook-practical-magic-for-aec-marketers&uid=ec5a8a828647d8bcba8f7bf9019f0281"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -413,7 +400,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Explore the funding, policies, and learning trends shaping Florida's K-12 and higher education facilities",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1787230246"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1787333460"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -426,7 +413,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Sponsor the SMPS Tampa Bay Education Panel Today!",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=554&ts=1787230326"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=554&ts=1787317073"
   },
   {
     "chapter": "SMPS Indiana",
@@ -582,7 +569,7 @@
     "location": "Hurst Conference Center, 1601 Campus Drive, Hurst, TX 76054",
     "description": "Join us for a timely discussion on the trends, challenges, and opportunities shaping the future of data center development in Texas.",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1787244207"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=302&ts=1787325543"
   },
   {
     "chapter": "SMPS Arizona",
@@ -752,6 +739,19 @@
     "description": "Join SMPS Seattle on the Eastside for our quarterly Sip & Social on Thursday, September 10, from 4:30-6:30 PM at Tapster in Bellevue. Enjoy light snacks, network meaningfully, and connect with your A/E/C marketing community! VIEW ATTENDEES",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=505&ts=1786578182"
+  },
+  {
+    "chapter": "SMPS Orange County",
+    "state": "California",
+    "region": "Pacific",
+    "title": "You Tell the Story. Agents do the Drafting.",
+    "date": "September 15, 2026",
+    "sort_date": "2026-09-15",
+    "time": "11:30 AM to 1:00 PM (Pacific Time)",
+    "location": "Virtual",
+    "description": "A live demo a AI agents drafting a real AEC proposal, and an honest look at what stays human.",
+    "is_virtual": true,
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=186&ts=1787356920"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1300,6 +1300,19 @@
     "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=285&ts=1785206615"
   },
   {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Get to Know SMPS: Exploring Careers in Marketing, Communications & Business Development",
+    "date": "September 24, 2026",
+    "sort_date": "2026-09-24",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Membership",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=807&Itemid=115&year=2026&month=09&day=24&title=get-to-know-smps-exploring-careers-in-marketing-communications-a-business-development&uid=2fd08fc18d6dc3733d9e46ad865a80fa"
+  },
+  {
     "chapter": "SMPS Atlanta",
     "state": "Georgia",
     "region": "Southeast",
@@ -1375,7 +1388,7 @@
     "location": "Southern Tier Brewery, 316 North Shore Drive, Pittsburgh, PA 15212",
     "description": "Board & Brews: Fall Happy Hour & Networking Event",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=159&ts=1787168279"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=159&ts=1787325854"
   },
   {
     "chapter": "SMPS Nashville",
@@ -1700,7 +1713,7 @@
     "location": "Taylor Design, 1735 Flight Wy, Suite 300, Tustin, CA 92782",
     "description": "A two-hour AEC marketing competition, learning experience, and member mixer",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=185&ts=1787272640"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=185&ts=1787355316"
   },
   {
     "chapter": "SMPS Charlotte",
@@ -1882,7 +1895,7 @@
     "location": "Carters Mountain Orchard, 1435 Carters Mountain Trail, Charlottesville, VA 22902",
     "description": "Take in the fall scenery, enjoy a drink, and connect with AEC professionals old and new.",
     "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1787059016"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1787330563"
   },
   {
     "chapter": "SMPS Virginia",
@@ -1934,7 +1947,7 @@
     "location": "Center for Architecture & Design, Tampa Bay, 1208 N Howard Ave, Tampa, FL 33607",
     "description": "Join us for a marketing boot camp!",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=556&ts=1787257631"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=556&ts=1787323544"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1973,7 +1986,7 @@
     "location": "Hilton West Palm Beach, 600 Okeechobee Blvd., West Palm Beach, FL 33401",
     "description": "Join us for our 40-Year Anniversary gala event - Featuring recognition of our 2026 Board of Directors, a special tribute to our Past Presidents, introduction of our 2027 Board of Directors, presentation of our Palm Awards as well as dinner and celebration",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=232&ts=1786552922"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=232&ts=1787397122"
   },
   {
     "chapter": "SMPS Las Vegas",
