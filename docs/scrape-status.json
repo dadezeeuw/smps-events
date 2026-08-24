@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T11:24:19",
-  "total_events": 185,
+  "last_updated": "2026-08-24T08:35:40",
+  "total_events": 187,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -303,8 +303,8 @@
       "status": "success",
       "message": "Scraped successfully with Wichita WordPress parser.",
       "events_found": 1,
-      "load_attempts": 1,
-      "lines_loaded": 80,
+      "load_attempts": 2,
+      "lines_loaded": 81,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -354,9 +354,9 @@
       "url": "https://smpsmaryland.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 72,
+      "lines_loaded": 80,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -562,9 +562,9 @@
       "url": "https://smpsneo.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 1,
+      "events_found": 2,
       "load_attempts": 1,
-      "lines_loaded": 50,
+      "lines_loaded": 60,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },

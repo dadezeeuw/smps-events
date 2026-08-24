@@ -455,6 +455,19 @@
     "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=158&ts=1787168623"
   },
   {
+    "chapter": "SMPS Northeast Ohio",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Brew and Banter: SMPS NEO's Monthly Coffee Connect",
+    "date": "September 04, 2026",
+    "sort_date": "2026-09-04",
+    "time": "9:30 AM to 10:30 AM",
+    "location": "The Ardmore Coffee and more..., 55 Ghent Rd., Akron, OH 44333",
+    "description": "Dive into engaging discussions about the latest trends in marketing and business development within the AEC industry.",
+    "is_virtual": false,
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=211&ts=1787414528"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -960,6 +973,19 @@
     "description": "Category: Conference",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=804&Itemid=115&year=2026&month=09&day=17&title=smps-southwest-regional-conference&uid=941bb0fb7d3d7243a97e00250359c529"
+  },
+  {
+    "chapter": "SMPS Maryland",
+    "state": "Maryland",
+    "region": "Northeast",
+    "title": "Back to Basics: Mastering the Art of Project Storytelling",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual",
+    "description": "Learn how to turn technical project details into narratives that are memorable and that win work.",
+    "is_virtual": true,
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=104&ts=1787502994"
   },
   {
     "chapter": "SMPS St. Louis",
