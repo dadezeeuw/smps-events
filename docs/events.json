@@ -1,135 +1,5 @@
 [
   {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "The Business Blueprint Series: Strategic/Growth Plan",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "12:00 PM - 1:30 PM",
-    "location": "Zoom Webinar",
-    "description": "Your strategic plan sets direction; your growth plan makes it real.",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=597&ts=1787608275"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "The Business Blueprint Series - Purchase Multipack",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "12:00 PM - 1:30 PM",
-    "location": "Zoom Webinar",
-    "description": "Building a successful business is like constructing a strong building; it starts with a blueprint.",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=604&ts=1787608208"
-  },
-  {
-    "chapter": "SMPS Washington, DC",
-    "state": "District of Columbia, Maryland, Virginia",
-    "region": "Northeast",
-    "title": "Strategic Thinking for Emerging AEC Marketers \u2022 Panel + Networking",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "SMPS Headquarters, 625 N Washington Street, Suite 302, Alexandria, VA 22314, Career advice, proposal wisdom, AI talk, and a happy hour? Everything emerging AEC professionals need in one place.",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=154&ts=1787085858"
-  },
-  {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "Sip, Serve & Connect SMPS Atlanta: Leverage Your Beverage",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "4:30 PM to 6:30 PM",
-    "location": "Painted Pickle, 279 Ottley Drive NE, Atlanta, GA 30324",
-    "description": "Celebrate the excitement of the US Open with an evening of networking, sips & bites, and friendly pickleball-inspired competition as you connect with fellow AEC marketing and business development professionals.",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=390&ts=1787247981"
-  },
-  {
-    "chapter": "SMPS West Michigan",
-    "state": "Michigan",
-    "region": "Heartland",
-    "title": "CX Immersion: Lead the Future of Client Experience in A/E/C",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "9:00 AM EDT to 4:00 PM EDT",
-    "location": "Sheraton Grand Rapids Airport, 5700 28th St SE, Grand Rapids, MI 49546",
-    "description": "CX immersion for AEC marketers & business developers",
-    "is_virtual": false,
-    "detail_url": "https://smpswm.starchapter.com/meetinginfo.php?id=80&ts=1783519004"
-  },
-  {
-    "chapter": "SMPS Research Triangle",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "AI Without An Agenda",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Coffman Engineers, Inc. Raleigh Office, 701 Corporate Center Drive, Training Room 1st Floor, RALEIGH, NC 27607",
-    "description": "Learn how AI can help AEC marketing and BD professionals work smarter by streamlining administrative tasks, accelerating research, improving communication, and creating more time for strategic, high-value work through practical, real-world applications.",
-    "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=175&ts=1785950368"
-  },
-  {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Members Only: Espresso Exchange",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "9:00 AM EDT to 10:30 AM EDT",
-    "location": "Multiple Locations Throughout the Region",
-    "description": "Join us at one of our locations throughout the SMPS Philadelphia region to meet with other members and have informal discussions about topics relevant to you and your job.",
-    "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=267&ts=1787577341"
-  },
-  {
-    "chapter": "SMPS Nashville",
-    "state": "Tennessee",
-    "region": "Southeast",
-    "title": "Sponsor Breakfast 2026",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "8:00 AM to 10:00 AM",
-    "location": "The Chloe Hotel, 1906 Acklen Ave, Nashville, TN 37212, https://www.chloenashville.com/",
-    "description": "Margaret Emley, Vanderbilt\u2019s Real Estate Director, will join SMPS sponsors for an exclusive conversation on Vanderbilt\u2019s transformative growth\u2014including the Innovation Neighborhood, strategic expansion initiatives, development challenges, and what\u2019s next",
-    "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=283&ts=1786117803"
-  },
-  {
-    "chapter": "SMPS Houston",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "SMPS Houston Program | Greater Houston Growth & Development Outlook",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
-    "description": "Registration is open! Join SMPS Houston in celebrating the Greater Houston Growth & Development Outlook - Insights from regional leaders on the trends, policies, and priorities shaping our communities, and what they mean for AEC firms.",
-    "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=201&ts=1787616895"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "CPSM Practice Exam Session",
-    "date": "August 25, 2026",
-    "sort_date": "2026-08-25",
-    "time": "6:00 PM to 7:30 PM",
-    "location": "Online",
-    "description": "The CPSM exam is coming up and SMPS NTX is offering a study group for our members and non-members to adequately prepare for the exam.",
-    "is_virtual": true,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=315&ts=1785951183"
-  },
-  {
     "chapter": "SMPS Boston",
     "state": "Massachusetts",
     "region": "Northeast",
@@ -400,7 +270,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Explore the funding, policies, and learning trends shaping Florida's K-12 and higher education facilities",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1787578600"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1787680431"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -556,7 +426,7 @@
     "location": "Marous Brothers Construction, 36933 Vine Street, Willoughby, OH 44094",
     "description": "What do clients really want from their AEC partners? Hear directly from owners and clients as they discuss the communication, collaboration, and relationship-building skills that set exceptional firms apart.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=210&ts=1787241886"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=210&ts=1787670087"
   },
   {
     "chapter": "SMPS Houston",
@@ -595,7 +465,7 @@
     "location": "Kitchell, 2231 East Camelback Rd., Ste 400, Phoenix, AZ 85016",
     "description": "Join the experts using the technology that's supposed to make our lives better as they share how that actually works!",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=288&ts=1787176413"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=288&ts=1787712048"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -660,7 +530,7 @@
     "location": "Caf\u00e9 Sous Terre, 445 W Forest Ave, Detroit, MI 48201, https://www.cafesousterre.com/",
     "description": "An opportunity to catch up, meet new people, and build relationships within the chapter in a relaxed, intimate setting!",
     "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=291&ts=1787145439"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=291&ts=1787683393"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -975,6 +845,45 @@
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=804&Itemid=115&year=2026&month=09&day=17&title=smps-southwest-regional-conference&uid=941bb0fb7d3d7243a97e00250359c529"
   },
   {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - Tampa",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Ginger Beard Coffee, 1208 E Kennedy Blvd, Suite 112, Tampa, FL 33602, http://www.gingerbeardcoffee.com/",
+    "description": "Join us for networking over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=558&ts=1787691477"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - St. Pete",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Ruya, 2200 1st Ave S, St. Petersburg, FL 33712",
+    "description": "Join us for networking over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=559&ts=1787691796"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - Lakeland",
+    "date": "September 17, 2026",
+    "sort_date": "2026-09-17",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Foxtail Coffee, 322 Kathleen Rd., Lakeland, FL 33815",
+    "description": "Join us for networking over coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=560&ts=1787691917"
+  },
+  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -1141,7 +1050,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1787622918"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1787678978"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -1180,7 +1089,7 @@
     "location": "Larder Coffee at Hotel Emma, 136 E Grayson St., San Antonio, TX 78215",
     "description": "Join us for a New Member Coffee!",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=272&ts=1786719291"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=272&ts=1787668539"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -1193,7 +1102,7 @@
     "location": "HED DTLA, 550 S. Hope Street, Suite 2500, Los Angeles, CA 90071",
     "description": "Explore how adaptive reuse, ARO 2.0, and the Downtown Community Plan are shaping development opportunities and revitalization across Los Angeles.",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=173&ts=1787276255"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=173&ts=1787686491"
   },
   {
     "chapter": "SMPS South Florida",
@@ -1391,6 +1300,19 @@
     "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=175&ts=1787080385"
   },
   {
+    "chapter": "SMPS Charlotte",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "The Rise of Retail",
+    "date": "September 24, 2026",
+    "sort_date": "2026-09-24",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Choate Construction, 2907 Providence Road, 300 Level Meeting Room, Charlotte, NC 28211, https://choateco.com/",
+    "description": "Join SMPS for The Rise of Retail, a discussion exploring the trends shaping the future of retail development.",
+    "is_virtual": false,
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=424&ts=1787686897"
+  },
+  {
     "chapter": "SMPS Central Pennsylvania",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -1542,7 +1464,7 @@
     "sort_date": "2026-10-01",
     "time": "4:00 PM to 6:30 PM",
     "location": "JE Dunn Construction, 2555 Cumberland Pkwy SE, Atlanta, GA 30339",
-    "description": "Mentoring Reimagined: A New Approach to Growth and Connection ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Palacio Collaborative \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Mentoring Reimagined: A New Approach to Growth and Connection",
     "is_virtual": false,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=374&ts=1769538761"
   },
@@ -1635,7 +1557,7 @@
     "location": "The Kya Group Office, 1800 East McFadden Avenue, Santa Ana, CA 92705",
     "description": "A strong proposal gets you shortlisted. A strong interview wins the room.",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=187&ts=1787622766"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=187&ts=1787681391"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -1846,6 +1768,19 @@
     "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1783611223"
   },
   {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS Atlanta Level Up Live: Mind Marketing for Winning Proposals",
+    "date": "October 15, 2026",
+    "sort_date": "2026-10-15",
+    "time": "8:00 AM to 1:00 PM",
+    "location": "Pond, 3500 Parkway Lane - Suite 500, Peachtree Corners, GA 30092",
+    "description": "A hands on, science backed workshop that teaches you how to influence client decisions and build winning proposals. ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Palacio Collaborative \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=392&ts=1787681895"
+  },
+  {
     "chapter": "SMPS New Mexico",
     "state": "New Mexico",
     "region": "Southwest",
@@ -1999,7 +1934,7 @@
     "location": "Center for Architecture & Design, Tampa Bay, 1208 N Howard Ave, Tampa, FL 33607",
     "description": "Join us for a marketing boot camp!",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=556&ts=1787600663"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=556&ts=1787673785"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -2166,7 +2101,7 @@
     "sort_date": "2026-11-12",
     "time": "6:00 PM CST to 9:00 PM CST",
     "location": "Filmore at Bayou Oaks, 1040 Filmore Ave, New Orleans, LA 70124, http://www.filmoreintheoaks.com/",
-    "description": "Join SMPS Southeast Louisiana as we celebrate the marketers, communicators, and members whose work builds our industry\u2014one idea, one campaign, one contribution at a time.",
+    "description": "Join SMPS Southeast Louisiana for SeLAbration, an evening recognizing the best in AEC marketing and celebrating the people, programs, and accomplishments that make our chapter and industry stronger.",
     "is_virtual": false,
     "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=513&ts=1785961032"
   },
