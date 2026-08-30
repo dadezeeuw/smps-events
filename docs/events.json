@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS North Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Jacksonville Jaguars Pre-Season Game",
-    "date": "August 28, 2026",
-    "sort_date": "2026-08-28",
-    "time": "7:30 PM to 10:30 PM",
-    "location": "EverBank Stadium, 1 EverBank Stadium Dr., Jacksonville, FL 32202",
-    "description": "Join SMPS North Florida for the Jacksonville Jaguars versus the Tampa Bay Buccaneers game on 8/28!",
-    "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=105&ts=1786542927"
-  },
-  {
     "chapter": "SMPS San Francisco",
     "state": "California",
     "region": "Pacific",
@@ -23,7 +10,7 @@
     "location": "Smith Group San Francisco Office, 301 Battery Street, San Francisco, CA 94111",
     "description": "New date and time!",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1787793389"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=588&ts=1787966757"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -127,7 +114,7 @@
     "location": "Bryan Glazer Family JCC, 522 N. Howard Avenue, Tampa, FL 33606",
     "description": "Explore the funding, policies, and learning trends shaping Florida's K-12 and higher education facilities",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1787860677"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=553&ts=1787943613"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -491,7 +478,7 @@
     "location": "Virtual",
     "description": "A live demo a AI agents drafting a real AEC proposal, and an honest look at what stays human.",
     "is_virtual": true,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=186&ts=1787356920"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=186&ts=1787968228"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1034,10 +1021,10 @@
     "date": "September 23, 2026",
     "sort_date": "2026-09-23",
     "time": "8:30 AM to 11:00 AM",
-    "location": "Baltimore Metro Area",
-    "description": "MD A high-impact, cohort-based leadership experience designed to help A/E/C marketers and business developers lead with clarity, confidence, and measurable results.",
+    "location": "Mahan Rykiel, 3300 Clipper Mill Road, Suite 200, Baltimore, MD 21211",
+    "description": "A high-impact, cohort-based leadership experience designed to help A/E/C marketers and business developers lead with clarity, confidence, and measurable results.",
     "is_virtual": false,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=99&ts=1782703261"
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=99&ts=1787952709"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -1115,7 +1102,7 @@
     "location": "Virtual Program",
     "description": "Learn how finance and marketing work together to build, manage, and align effective marketing budgets with your firm\u2019s overall business strategy.",
     "is_virtual": true,
-    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=200&ts=1785856837"
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=200&ts=1787934784"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1274,6 +1261,19 @@
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1787076482"
   },
   {
+    "chapter": "SMPS Maryland",
+    "state": "Maryland",
+    "region": "Northeast",
+    "title": "Building Healthcare Today: What Owners Need from AEC Partners",
+    "date": "September 29, 2026",
+    "sort_date": "2026-09-29",
+    "time": "8:30 AM to 10:30 AM",
+    "location": "4MLK at the UM BioPark, 4 N. Martin Luther King, Jr. Blvd., Baltimore, MD 21201",
+    "description": "Healthcare is evolving rapidly, and healthcare facilities must evolve with it. This panel will explore capital project priorities, team selection, and relationship-building, giving attendees an inside look at how healthcare leaders make decisions and what",
+    "is_virtual": false,
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=107&ts=1787950366"
+  },
+  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -1362,7 +1362,7 @@
     "location": "JE Dunn Construction, 2555 Cumberland Pkwy SE, Atlanta, GA 30339",
     "description": "Mentoring Reimagined: A New Approach to Growth and Connection",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=374&ts=1769538761"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=374&ts=1787923525"
   },
   {
     "chapter": "SMPS Research Triangle",
@@ -1388,7 +1388,7 @@
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
     "description": "Join us for an engaging discussion with industry leaders as they explore the realities of guiding land development projects from concept to construction across the Greater Houston region.",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=216&ts=1786489643"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=216&ts=1787933650"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -1453,7 +1453,7 @@
     "location": "The Kya Group Office, 1800 East McFadden Avenue, Santa Ana, CA 92705",
     "description": "A strong proposal gets you shortlisted. A strong interview wins the room.",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=187&ts=1787681391"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=187&ts=1787968314"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -1698,7 +1698,7 @@
     "sort_date": "2026-10-15",
     "time": "8:00 AM to 1:00 PM",
     "location": "Pond, 3500 Parkway Lane - Suite 500, Peachtree Corners, GA 30092",
-    "description": "A hands on, science backed workshop that teaches you how to influence client decisions and build winning proposals. ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Fortune-Johnson \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "A hands on, science backed workshop that teaches you how to influence client decisions and build winning proposals. ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Axis Infrastructure, Inc \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": false,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=392&ts=1787681895"
   },
@@ -1778,7 +1778,7 @@
     "location": "Webinar",
     "description": "URL to be distribution upon registration confirmation. Explore how mergers and acquisitions affect AEC firms, teams, brands, client relationships, and careers, with practical guidance from industry leaders.",
     "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=177&ts=1787881529"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=177&ts=1787948788"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1791,7 +1791,7 @@
     "location": "Virtual Program",
     "description": "Registrants will receive the access link in the bottom section of their registration confirmation email, and a reminder email the morning of the virtual program. Join us for a candid conversation on navigating mergers and acquisitions in the AEC industry while maintaining firm culture, integrating teams, and protecting client relationships.",
     "is_virtual": true,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=290&ts=1787859951"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=290&ts=1787937140"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -2028,6 +2028,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1784245976"
   },
   {
+    "chapter": "SMPS Maryland",
+    "state": "Maryland",
+    "region": "Northeast",
+    "title": "Member Meet Up & Social at Strategic Factory",
+    "date": "November 12, 2026",
+    "sort_date": "2026-11-12",
+    "time": "5:00 PM to 7:00 PM",
+    "location": "Strategic Factory, 11195 Dofield Boulevard, Owings Mills, MD 21117",
+    "description": "Curious about SMPS Maryland? Join us for a casual evening of food, drinks, and conversation with current members and discover what makes our community so special.",
+    "is_virtual": false,
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=106&ts=1787925451"
+  },
+  {
     "chapter": "SMPS Oregon",
     "state": "Oregon",
     "region": "Pacific",
@@ -2062,9 +2075,9 @@
     "sort_date": "2026-11-17",
     "time": "3:00 PM to 5:30 PM (Pacific Time)",
     "location": "To be announced",
-    "description": "Join us for this exciting workshop where you'll learn how photography fits into business development and marketing strategy! \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
+    "description": "Join us for this exciting workshop where you'll learn how photography fits into business development and marketing strategy!",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=183&ts=1785542484"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=183&ts=1787968337"
   },
   {
     "chapter": "SMPS Las Vegas",
@@ -2325,6 +2338,19 @@
     "description": "Whether you're building your personal brand, strengthening your firm's market presence, or navigating what's next in our industry, SRC 2027 will provide the insights, tools, and connections to help you move forward with purpose. Follow Us",
     "is_virtual": false,
     "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=191&ts=1782251938"
+  },
+  {
+    "chapter": "SMPS Orange County",
+    "state": "California",
+    "region": "Pacific",
+    "title": "Pacific Regional Conference 2027",
+    "date": "March 15, 2027",
+    "sort_date": "2027-03-15",
+    "time": "8:00 AM to 5:00 PM (Pacific Time)",
+    "location": "Hyatt Regency Irvine",
+    "description": "Save the date! Join us in Orange County for the 2027 Pacific Regional Conference \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=184&ts=1787944405"
   },
   {
     "chapter": "SMPS Central Pennsylvania",

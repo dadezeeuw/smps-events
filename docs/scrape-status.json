@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T08:43:50",
-  "total_events": 181,
+  "last_updated": "2026-08-30T16:32:50",
+  "total_events": 183,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -94,9 +94,9 @@
       "url": "https://smpsoc.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 4,
+      "events_found": 5,
       "load_attempts": 1,
-      "lines_loaded": 82,
+      "lines_loaded": 88,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -135,7 +135,7 @@
       "message": "Scraped successfully.",
       "events_found": 7,
       "load_attempts": 1,
-      "lines_loaded": 113,
+      "lines_loaded": 112,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -198,9 +198,9 @@
       "url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 2,
+      "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 61,
+      "lines_loaded": 53,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -213,7 +213,7 @@
       "message": "Scraped successfully.",
       "events_found": 4,
       "load_attempts": 1,
-      "lines_loaded": 91,
+      "lines_loaded": 96,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -354,9 +354,9 @@
       "url": "https://smpsmaryland.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 3,
+      "events_found": 5,
       "load_attempts": 1,
-      "lines_loaded": 90,
+      "lines_loaded": 112,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -446,7 +446,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 1,
-      "load_attempts": 1,
+      "load_attempts": 2,
       "lines_loaded": 48,
       "rejected_dates": 0,
       "skipped_past_events": 0
