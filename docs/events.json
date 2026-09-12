@@ -192,7 +192,7 @@
     "location": "Bloc83 Rooftop at One Glenwood (10th Floor Sky Lounge), 1 Glenwood Avenue, Raleigh, NC 27603",
     "description": "Join SMPS Research Triangle at One Glenwood Rooftop for an evening of networking, recognition, and celebration as we honor members, volunteers, mentors, and incoming chapter leadership. Free for SMPS members to attend.",
     "is_virtual": false,
-    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=178&ts=1788991408"
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=178&ts=1789157928"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -219,6 +219,19 @@
     "description": "Join SMPS Pittsburgh for our September 2026 Luncheon!",
     "is_virtual": false,
     "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=150&ts=1789047538"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Group Information Session",
+    "date": "September 16, 2026",
+    "sort_date": "2026-09-16",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for a virtual Info Session on Sept 16, 2026, where we\u2019ll review program details, expectations, and timelines\u2014and answer your questions so you can determine if the cohort is the right fit for you.",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=511&ts=1789191308"
   },
   {
     "chapter": "SMPS Ozarks",
@@ -530,7 +543,7 @@
     "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
     "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1788892527"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1789159998"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -608,7 +621,7 @@
     "location": "Island Brew Coffeehouse, Ala Moana, 1450 Ala Moana Blvd, Honolulu, HI 96814",
     "description": "You're invited!",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=278&ts=1788934033"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=278&ts=1789176033"
   },
   {
     "chapter": "SMPS Idaho",
@@ -920,7 +933,7 @@
     "location": "Delta Hotels Richmond Downtown, 555 E Canal St, Richmond, VA 23219",
     "description": "Start your day with a fresh new headshot and a light breakfast! This event is great for summit attendees with early arrivals, or is a great networking opportunity for those unable to make this year's summit.",
     "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1788187179"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1789149914"
   },
   {
     "chapter": "SMPS Seattle",
@@ -933,7 +946,7 @@
     "location": "Marymoor Park, 6046 West Lake Sammamish Parkway Northeast, Redmond, WA 98052, https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/parks/marymoor",
     "description": "A Walk in the Park (Marymoor Park) VIEW ATTENDEES",
     "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=510&ts=1789074779"
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=510&ts=1789150297"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -946,7 +959,7 @@
     "location": "Virtual",
     "description": "Who inspires, leads, and goes above and beyond in our chapter? Now is the time to celebrate them! Nominations for the 2025-2026 SMPS Central Florida Member Awards are officially open.",
     "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=662&ts=1789079504"
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=662&ts=1789151440"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -972,7 +985,7 @@
     "location": "Northside Social Clarendon, 3211 Wilson Boulevard, Arlington, VA 22201",
     "description": "Northside Social will be transformed into a garden oasis for an evening of celebrating members, building connections, and recognizing marketing excellence!",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1787076482"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1789154245"
   },
   {
     "chapter": "SMPS Hawaii",
@@ -1040,6 +1053,19 @@
     "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=291&ts=1789049538"
   },
   {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "Call for Nominations for the 2027 Board of Directors",
+    "date": "September 30, 2026",
+    "sort_date": "2026-09-30",
+    "time": "4:55 PM to 5:00 PM",
+    "location": "Applications are due Wednesday, September 30, by 5PM",
+    "description": "The 2027 Board of Directors nominations are now open!",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=110&ts=1789192545"
+  },
+  {
     "chapter": "SMPS Northern New England",
     "state": "Maine",
     "region": "Northeast",
@@ -1103,6 +1129,19 @@
     "description": "Insights + Ideas: A/E/C Marketing in Focus",
     "is_virtual": true,
     "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=201&ts=1785863671"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Group Kick-Off Session",
+    "date": "September 30, 2026",
+    "sort_date": "2026-09-30",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "We will host a Kick-Off Session on Sept 30, 2026 to prepare you for the months ahead and provide you with the opportunity to meet your fellow study-group peers.",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=512&ts=1789191237"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -1326,19 +1365,6 @@
     "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=176&ts=1786453448"
   },
   {
-    "chapter": "SMPS Nashville",
-    "state": "Tennessee",
-    "region": "Southeast",
-    "title": "YDK: Thought Leadership",
-    "date": "October 07, 2026",
-    "sort_date": "2026-10-07",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "BELL, 1000 Health Park Dr #150, Brentwood, TN 37027, https://bellconstructioncompany.com/",
-    "description": "Your firm is full of expertise. The firms that win are the ones that know how to turn that expertise into compelling stories that make their firm visible.",
-    "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=286&ts=1788990066"
-  },
-  {
     "chapter": "SMPS Austin",
     "state": "Texas",
     "region": "Southern",
@@ -1402,6 +1428,19 @@
     "description": "Join us for networking!",
     "is_virtual": false,
     "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=374&ts=1788981263"
+  },
+  {
+    "chapter": "SMPS Nashville",
+    "state": "Tennessee",
+    "region": "Southeast",
+    "title": "YDK: Thought Leadership",
+    "date": "October 08, 2026",
+    "sort_date": "2026-10-08",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "BELL, 1000 Health Park Dr #150, Brentwood, TN 37027, https://bellconstructioncompany.com/",
+    "description": "Your firm is full of expertise. The firms that win are the ones that know how to turn that expertise into compelling stories that make their firm visible.",
+    "is_virtual": false,
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=286&ts=1789142002"
   },
   {
     "chapter": "SMPS Nashville",
@@ -1570,7 +1609,20 @@
     "location": "Wilder Center, 451 Lexington Parkway N, St. Paul, MN 55104, https://www.wilder.org/",
     "description": "Join us for our 2nd Annual AEC Marketing Solutions Showcase!",
     "is_virtual": false,
-    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1789072506"
+    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1789143153"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Domain 1 (Marketing Research)",
+    "date": "October 14, 2026",
+    "sort_date": "2026-10-14",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=513&ts=1789192058"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -1802,9 +1854,9 @@
     "sort_date": "2026-10-21",
     "time": "11:30 AM - 1:30 PM",
     "location": "Rivers Club, 301 Grant Street, Suite 411, Pittsburgh, PA 15219",
-    "description": "Save the Date - Details TBA",
+    "description": "Join SMPS Pittsburgh for our October 2026 Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=151&ts=1786727681"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=151&ts=1789156485"
   },
   {
     "chapter": "SMPS Houston",
@@ -1906,7 +1958,7 @@
     "sort_date": "2026-10-22",
     "time": "4:30 PM to 6:30 PM",
     "location": "Politan Row at Ashford Lane, 4550 Olde Perimeter Way, Dunwoody, GA 30346",
-    "description": "Join us for a lively happy hour with A/E/C professionals from across Atlanta. Enjoy great conversation, make new connections, and discover what SMPS Atlanta has to offer. ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Newcomb & Boyd, LLP \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join us for a lively happy hour with A/E/C professionals from across Atlanta. Enjoy great conversation, make new connections, and discover what SMPS Atlanta has to offer. ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Palacio Collaborative \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": false,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=393&ts=1789045326"
   },
@@ -1995,11 +2047,11 @@
     "title": "2027 Emerging Trends with The SMPS Foundation",
     "date": "October 27, 2026",
     "sort_date": "2026-10-27",
-    "time": "7:00 AM to 9:00 AM",
-    "location": "TBD",
+    "time": "3:00 PM to 5:00 PM",
+    "location": "IMEG, 6100 Oak Tree Blvd., Independence, OH 44131",
     "description": "What trends are shaping the future of AEC marketing and business development, and how can you use that intelligence to stay ahead?",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=212&ts=1788899009"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=212&ts=1789152970"
   },
   {
     "chapter": "SMPS Inland Empire",
@@ -2028,6 +2080,19 @@
     "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=109&ts=1788625687"
   },
   {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Domain 2 (Marketing Planning)",
+    "date": "October 28, 2026",
+    "sort_date": "2026-10-28",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=514&ts=1789192829"
+  },
+  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -2051,7 +2116,7 @@
     "location": "The Alamo, 300 Alamo Plaza, San Antonio, TX 78205",
     "description": "Join us for the 2026 SMPS Evening of Excellence! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1788984885"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1789153727"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -2130,6 +2195,19 @@
     "description": "Join us to learn winning proposal strategies!",
     "is_virtual": false,
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1784245976"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Domain 3 (Client and Business Development)",
+    "date": "November 11, 2026",
+    "sort_date": "2026-11-11",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=515&ts=1789192421"
   },
   {
     "chapter": "SMPS Maryland",
@@ -2296,9 +2374,9 @@
     "sort_date": "2026-11-18",
     "time": "11:30 AM - 1:30 PM",
     "location": "Rivers Club, 301 Grant Street, Suite 411, Pittsburgh, PA 15219",
-    "description": "Save the Date - Details TBA",
+    "description": "Join SMPS Pittsburgh for our November 2026 Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=152&ts=1786727724"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=152&ts=1789156771"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -2364,6 +2442,19 @@
     "description": "Our annual meeting and holiday party featuring a recap of the year, vote on the new board and food and drinks.",
     "is_virtual": false,
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=411&ts=1783947637"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Domain 4 (Proposals)",
+    "date": "December 02, 2026",
+    "sort_date": "2026-12-02",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=516&ts=1789192531"
   },
   {
     "chapter": "SMPS Austin",
@@ -2467,7 +2558,7 @@
     "location": "Skirball Cultural Center, 2701 N Sepulveda Blvd., Los Angeles, CA 90049",
     "description": "Celebrate 40 years of the Leonardo Awards with SMPS/LA, honoring AEC leaders, marketing excellence, and the year together in style",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1789082604"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1789172763"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -2483,6 +2574,19 @@
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=350&ts=1787073481"
   },
   {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Domain 5 (Promotional Activity)",
+    "date": "January 06, 2027",
+    "sort_date": "2027-01-06",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=517&ts=1789192972"
+  },
+  {
     "chapter": "SMPS Las Vegas",
     "state": "Nevada",
     "region": "Pacific",
@@ -2496,6 +2600,32 @@
     "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=80&ts=1780304305"
   },
   {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Domain 6 (Management)",
+    "date": "January 20, 2027",
+    "sort_date": "2027-01-20",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=518&ts=1789193145"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Cram Session 1",
+    "date": "February 03, 2027",
+    "sort_date": "2027-02-03",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=519&ts=1789193279"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -2507,6 +2637,19 @@
     "description": "Whether you're building your personal brand, strengthening your firm's market presence, or navigating what's next in our industry, SRC 2027 will provide the insights, tools, and connections to help you move forward with purpose. Follow Us",
     "is_virtual": false,
     "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=191&ts=1782251938"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Pacific Regional CPSM Study Session | Cram Session 2",
+    "date": "February 17, 2027",
+    "sort_date": "2027-02-17",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
+    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
+    "is_virtual": true,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=520&ts=1789193390"
   },
   {
     "chapter": "SMPS Orange County",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T09:21:53",
-  "total_events": 196,
+  "last_updated": "2026-09-12T13:26:16",
+  "total_events": 207,
   "batch": {
     "batch_index": 0,
     "batch_count": 1,
@@ -172,9 +172,9 @@
       "url": "https://smpsdc.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 6,
+      "events_found": 7,
       "load_attempts": 1,
-      "lines_loaded": 106,
+      "lines_loaded": 112,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -394,7 +394,7 @@
       "status": "success",
       "message": "Scraped successfully.",
       "events_found": 2,
-      "load_attempts": 1,
+      "load_attempts": 2,
       "lines_loaded": 64,
       "rejected_dates": 0,
       "skipped_past_events": 0
@@ -525,7 +525,7 @@
       "message": "Scraped successfully.",
       "events_found": 3,
       "load_attempts": 1,
-      "lines_loaded": 78,
+      "lines_loaded": 77,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -564,7 +564,7 @@
       "message": "Scraped successfully.",
       "events_found": 1,
       "load_attempts": 1,
-      "lines_loaded": 47,
+      "lines_loaded": 49,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -629,7 +629,7 @@
       "message": "Scraped successfully.",
       "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 97,
+      "lines_loaded": 96,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
@@ -757,9 +757,9 @@
       "url": "https://smpsseattle.starchapter.com/meetinginfo.php?cat=ALL",
       "status": "success",
       "message": "Scraped successfully.",
-      "events_found": 4,
+      "events_found": 14,
       "load_attempts": 1,
-      "lines_loaded": 99,
+      "lines_loaded": 159,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
