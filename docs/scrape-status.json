@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T07:37:31",
+  "last_updated": "2026-09-21T08:34:24",
   "total_events": 205,
   "batch": {
     "batch_index": 0,
@@ -369,7 +369,7 @@
       "message": "Scraped successfully.",
       "events_found": 6,
       "load_attempts": 1,
-      "lines_loaded": 102,
+      "lines_loaded": 101,
       "rejected_dates": 0,
       "skipped_past_events": 0
     },
