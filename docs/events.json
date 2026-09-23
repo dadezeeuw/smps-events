@@ -1,109 +1,5 @@
 [
   {
-    "chapter": "SMPS Alaska",
-    "state": "Alaska",
-    "region": "Pacific",
-    "title": "September Luncheon - JBER Fightertown Program",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "12:00 PM AKDT to 1:00 PM AKDT",
-    "location": "The Dena\u2019ina Center, 600 W. Seventh Avenue, Anchorage, AK 99501",
-    "description": "Join the SMPS Alaska Chapter for an exclusive discussion on one of Alaska's most significant military infrastructure initiatives\u2014Joint Base Elmendorf-Richardson's (JBER) Fightertown Program.",
-    "is_virtual": false,
-    "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=154&ts=1789596442"
-  },
-  {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Amplify Tech Download: What\u2019s New, What Matters, What\u2019s Next",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "12:00 PM PDT to 1:00 PM PDT",
-    "location": "Webinar",
-    "description": "URL to be distribution upon registration confirmation. Missed Amplify? Join Nikhil Almeida from Kantiv who will recap his presentation at this year\u2019s Amplify conference. He will deliver a focused download of the most impactful tech shaping how AEC firms win work, collaborate, and deliver. Then participate in",
-    "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=175&ts=1787183245"
-  },
-  {
-    "chapter": "SMPS San Francisco",
-    "state": "California",
-    "region": "Pacific",
-    "title": "The Business Blueprint Series: Communications Plan",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "12:00 PM - 1:30 PM",
-    "location": "Zoom Webinar",
-    "description": "The best strategies fall flat if no one knows the story.",
-    "is_virtual": true,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=601&ts=1787608746"
-  },
-  {
-    "chapter": "SMPS North Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Why CX, Why Now?",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "9:00 AM to 4:00 PM",
-    "location": "Sheraton Jacksonville, 10605 Deerwood Park Boulevard, Jacksonville, FL 32256",
-    "description": "In the A/E/C industry, technical expertise is expected. What differentiates firms today is Client Experience (CX).",
-    "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=102&ts=1783800434"
-  },
-  {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "SMPS Atlanta September 22, 2026 MEGA Meeting",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "10:30 AM to 1:30 PM",
-    "location": "City Springs, 1 Galambos Way, Sandy Springs, GA 30328",
-    "description": "Join us for the 2026 MEGA Meeting, one of Georgia\u2019s biggest A/E/C networking events!",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=380&ts=1790024747"
-  },
-  {
-    "chapter": "SMPS Southeast Michigan",
-    "state": "Michigan",
-    "region": "Heartland",
-    "title": "Coaching Strategies for Senior Leaders",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "8:30 AM to 11:00 AM",
-    "location": "NBS Commercial Interiors, 2595 Bellingham Rd, Troy, MI 48083, https://www.yournbs.com/who-we-are/locations/",
-    "description": "How to Stop Managing and Start Coaching",
-    "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=290&ts=1790003082"
-  },
-  {
-    "chapter": "SMPS Greater Cincinnati",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "HRC: How to Network, Learn, and Lead at SMPS Heartland Regional Conference",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "3:00 PM to 4:30 PM",
-    "location": "Bricker Graydon Wyatt, 312 Walnut Street, Suite 1800, Cincinnati, OH 45202, https://www.bricker.com/",
-    "description": "Learn How To Maximize Your Experience at HRC!",
-    "is_virtual": false,
-    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=401&ts=1789056606"
-  },
-  {
-    "chapter": "SMPS San Antonio",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "New Member Coffee - Brew New Connections",
-    "date": "September 22, 2026",
-    "sort_date": "2026-09-22",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Larder Coffee at Hotel Emma, 136 E Grayson St., San Antonio, TX 78215",
-    "description": "Join us for a New Member Coffee!",
-    "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=272&ts=1787668539"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -164,7 +60,7 @@
     "sort_date": "2026-09-23",
     "time": "11:30 AM CDT to 1:00 PM CDT",
     "location": "Ralph's on the Park, 900 City Park Avenue, New Orleans, LA 70119, http://www.ralphsonthepark.com",
-    "description": "Join us for an engaging luncheon with Jeffrey Schwartz, Deputy Mayor for Community and Economic Development for the City of New Orleans, as he shares insights into the city\u2019s ongoing economic growth and the initiatives driving progress.",
+    "description": "Join us for an engaging luncheon with Courtney Stuckwisch Wong, Deputy Director of Economic Development for the City of New Orleans, as she shares insights into the city\u2019s ongoing economic growth and the initiatives driving progress.",
     "is_virtual": false,
     "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=514"
   },
@@ -296,7 +192,7 @@
     "location": "Burns & McDonnell, 1850 N. Central Ave, Suite 800, Phoenix, AZ 85004",
     "description": "Our Membership Director will walk you through SMPS membership and show you everything SMPS has to offer! This is a great networking opportunity for anyone involved or interested in SMPS Arizona.",
     "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=285&ts=1785206615"
+    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=285&ts=1790131152"
   },
   {
     "chapter": "SMPS Colorado",
@@ -413,7 +309,7 @@
     "location": "Southern Tier Brewery, 316 North Shore Drive, Pittsburgh, PA 15212",
     "description": "Board & Brews: Fall Happy Hour & Networking Event",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=159&ts=1789500811"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=159&ts=1790081737"
   },
   {
     "chapter": "SMPS Nashville",
@@ -452,7 +348,7 @@
     "location": "Delta Hotels Richmond Downtown, 555 E Canal St, Richmond, VA 23219",
     "description": "Start your day with a fresh new headshot and a light breakfast! This event is great for summit attendees with early arrivals, or is a great networking opportunity for those unable to make this year's summit.",
     "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1789733943"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1790096075"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -492,19 +388,6 @@
     "description": "Northside Social will be transformed into a garden oasis for an evening of celebrating members, building connections, and recognizing marketing excellence!",
     "is_virtual": false,
     "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=161&ts=1789736495"
-  },
-  {
-    "chapter": "SMPS Hawaii",
-    "state": "Hawaii",
-    "region": "Pacific",
-    "title": "Invest in Hawai'i\u2019s Future Business Leaders",
-    "date": "September 29, 2026",
-    "sort_date": "2026-09-29",
-    "time": "4:30 PM HST to 7:00 PM HST",
-    "location": "UH Manoa, Pacific Asian Center for Entrepreneurship (PACE), 2404 Maile Way, Honolulu, HI 96822",
-    "description": "SMPS Hawai'i partners with UH Manoa Shidler College of Business to connect students with local business leaders and career opportunities.",
-    "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=277&ts=1788931307"
   },
   {
     "chapter": "SMPS Maryland",
@@ -790,7 +673,7 @@
     "location": "Lakeside Memorial Golf Course, 5201 N. Washington Street, Stillwater, OK 74075",
     "description": "Join us as we kick off our first annual golf tournament in 2026!",
     "is_virtual": false,
-    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=157&ts=1789660508"
+    "detail_url": "https://smpsoklahoma.starchapter.com/meetinginfo.php?id=157&ts=1790099347"
   },
   {
     "chapter": "SMPS Ozarks",
@@ -1310,7 +1193,7 @@
     "location": "Providence Engineering, 11124 Julia Aubin Dr, Baton Rouge, LA 70809",
     "description": "Join SMPS Southeast Louisiana for Coffee + Conversations in Baton Rouge! Connect with fellow A/E/C professionals over coffee and conversation.",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=513&ts=1788371536"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=513&ts=1790107901"
   },
   {
     "chapter": "SMPS Maryland",
@@ -1336,7 +1219,7 @@
     "location": "Fort Point Room, 290 Congress Street (Ground Floor)",
     "description": "Boston, MA Join us in celebrating the participants of the 2026 Canstruction Boston competition!",
     "is_virtual": false,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=199&ts=1790029241"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=199&ts=1790083608"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1389,6 +1272,19 @@
     "description": "Celebrating A/E/C Marketing & Business Development Excellence",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=403&ts=1785521548"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Words That Build: Inclusive Communication & Marketing in AEC",
+    "date": "October 15, 2026",
+    "sort_date": "2026-10-15",
+    "time": "4:00 PM to 6:00 PM",
+    "location": "BNBuilders Seattle Office, 2815 Elliott Ave, Seattle, WA 98121, https://www.bnbuilders.com/offices/seattle",
+    "description": "Join SMPS Seattle and Build with Pride Seattle (BWPS) for an informative and honest discussion on inclusive communication and marketing in AEC. This panel discussion explores how to foster inclusive environments on paper and in person. VIEW ATTENDEES",
+    "is_virtual": false,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=522&ts=1790119540"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1505,7 +1401,7 @@
     "location": "Webinar",
     "description": "URL to be distribution upon registration confirmation. Explore how mergers and acquisitions affect AEC firms, teams, brands, client relationships, and careers, with practical guidance from industry leaders.",
     "is_virtual": true,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=177&ts=1789509743"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=177&ts=1790138059"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1661,7 +1557,7 @@
     "location": "Virtual",
     "description": "Interested in getting your CPSM or joining our chapter study group?",
     "is_virtual": true,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=253&ts=1788197295"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=253&ts=1790087799"
   },
   {
     "chapter": "SMPS Virginia",
@@ -1674,7 +1570,7 @@
     "location": "Carters Mountain Orchard, 1435 Carters Mountain Trail, Charlottesville, VA 22902",
     "description": "Take in the fall scenery, enjoy a drink, and connect with AEC professionals old and new.",
     "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=254&ts=1789675887"
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=254&ts=1790101283"
   },
   {
     "chapter": "SMPS Virginia",
@@ -1714,6 +1610,19 @@
     "description": "Step away from your desk and join fellow AEC professionals for a relaxed evening at Back Bay Farmhouse Brewing Co. Connect, recharge, and grow your network while enjoying great conversation in a unique Virginia Beach setting. Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
     "is_virtual": false,
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=250&ts=1786134453"
+  },
+  {
+    "chapter": "SMPS Central Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "SMPS Central Florida End of Year Celebration",
+    "date": "October 22, 2026",
+    "sort_date": "2026-10-22",
+    "time": "5:30 PM to 8:00 PM",
+    "location": "The Mezz, 100 S.Eola Drive, Suite 200, Orlando, FL 32801",
+    "description": "Come join us for our 2026 End of the Year Celebration!",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=663&ts=1790090526"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1830,7 +1739,7 @@
     "location": "Hilton West Palm Beach, 600 Okeechobee Blvd., West Palm Beach, FL 33401",
     "description": "Join us for our 40-Year Anniversary gala event - Featuring recognition of our 2026 Board of Directors, a special tribute to our Past Presidents, introduction of our 2027 Board of Directors, presentation of our Palm Awards as well as dinner and celebration",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=232&ts=1790006922"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=232&ts=1790093408"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1895,7 +1804,7 @@
     "location": "WSKY Stadium, 5625 Polaris Ave Suite 100, Las Vegas, NV 89118",
     "description": "The Historic Westside of Las Vegas is undergoing a transformative revitalization focused on education, workforce development, housing, and community investment.",
     "is_virtual": false,
-    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=77&ts=1789475066"
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=77&ts=1790105075"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -1971,9 +1880,9 @@
     "sort_date": "2026-10-28",
     "time": "5:00 PM to 7:00 PM",
     "location": "Dunwoody Nature Center, 5343 Roberts Drive, Dunwoody, GA 30338",
-    "description": "Celebrate the fall season and another incredible year with SMPS Atlanta at our Fall F\u00eate, featuring festive drinks, delicious bites, exciting raffle prizes, and plenty of fall-inspired fun! ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors KBD Group \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Celebrate the fall season and another incredible year with SMPS Atlanta at our Fall F\u00eate, featuring festive drinks, delicious bites, exciting raffle prizes, and plenty of fall-inspired fun! ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Blue Cypress Consulting \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1790022220"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1790111979"
   },
   {
     "chapter": "SMPS Hawaii",
@@ -2051,7 +1960,7 @@
     "location": "The Alamo, 300 Alamo Plaza, San Antonio, TX 78205",
     "description": "Join us for the 2026 SMPS Evening of Excellence! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1789422391"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1790090332"
   },
   {
     "chapter": "SMPS Seattle",
@@ -2091,6 +2000,19 @@
     "description": "A one-day, hands-on program designed for A/E/C marketers and business developers ready to lead the CX charge inside their firms.",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=509&ts=1789074611"
+  },
+  {
+    "chapter": "SMPS San Diego",
+    "state": "California",
+    "region": "Pacific",
+    "title": "November Principals Roundtable: Many Principals, One Firm",
+    "date": "November 04, 2026",
+    "sort_date": "2026-11-04",
+    "time": "7:30 AM to 9:00 AM",
+    "location": "Randall Lamb Associates, Inc., 3131 Camino del Rio North, Suite 860, San Diego, CA 92108",
+    "description": "Join this free roundtable for a candid discussion on how principal groups stay aligned and accountable when leadership spans different skill sets, offices, markets, and working arrangements.",
+    "is_virtual": false,
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=144&ts=1790103411"
   },
   {
     "chapter": "SMPS Indiana",
@@ -2142,7 +2064,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Save the Date!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=361&ts=1789768659"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=361&ts=1790131942"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -2438,8 +2360,8 @@
     "date": "November 19, 2026",
     "sort_date": "2026-11-19",
     "time": "8:30 AM CST to 9:30 AM CST",
-    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
-    "description": "Join us over coffee for a conversation Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
+    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
+    "description": "Join us over coffee for a conversation",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=289&ts=1789681340"
   },
@@ -2483,6 +2405,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=516&ts=1789192531"
   },
   {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "Coffee Connections - December 2026 (IL)",
+    "date": "December 03, 2026",
+    "sort_date": "2026-12-03",
+    "time": "8:30 AM CST to 9:30 AM CST",
+    "location": "June's Breakfast + Patio, 430 S Main St, Shiloh, IL 62269",
+    "description": "Join us over coffee for a conversation",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=291&ts=1790096419"
+  },
+  {
     "chapter": "SMPS Austin",
     "state": "Texas",
     "region": "Southern",
@@ -2516,10 +2451,10 @@
     "date": "December 09, 2026",
     "sort_date": "2026-12-09",
     "time": "11:30 AM EST to 2:30 PM EST",
-    "location": "Market Plae Kitchen & Bar, 3331 Berlin Tpke, Newington, CT 06111, Join SMPS CT for a lively luncheon with Chris Abel!",
+    "location": "Market Place Kitchen & Bar, 3331 Berlin Tpke, Newington, CT 06111, Join SMPS CT for a lively luncheon with Chris Abel!",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=286&ts=1789485900"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=286&ts=1790165978"
   },
   {
     "chapter": "SMPS Boston",
@@ -2598,6 +2533,19 @@
     "description": "Celebrate 40 years of the Leonardo Awards with SMPS/LA, honoring AEC leaders, marketing excellence, and the year together in style",
     "is_virtual": false,
     "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1789769974"
+  },
+  {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "Coffee Connections - December 2026 (MO)",
+    "date": "December 17, 2026",
+    "sort_date": "2026-12-17",
+    "time": "8:30 AM CST to 9:30 AM CST",
+    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
+    "description": "Join us over coffee for a conversation Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=292&ts=1790096569"
   },
   {
     "chapter": "SMPS Tampa Bay",
