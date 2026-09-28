@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Project Angel Food Volunteer Day with SMPS/LA!",
-    "date": "September 27, 2026",
-    "sort_date": "2026-09-27",
-    "time": "8:00 AM PDT to 12:00 PM PDT",
-    "location": "Project Angel Food, 922 Vine Street, Los Angeles, CA 90038",
-    "description": "Join SMPS/LA in preparing and packaging meals for the community with Project Angel Food.",
-    "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=171&ts=1786046542"
-  },
-  {
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
@@ -36,7 +23,7 @@
     "location": "4MLK at the UM BioPark, 4 N. Martin Luther King, Jr. Blvd., Baltimore, MD 21201",
     "description": "Healthcare is evolving rapidly, and healthcare facilities must evolve with it. This panel will explore capital project priorities, team selection, and relationship-building, giving attendees an inside look at how healthcare leaders make decisions and what",
     "is_virtual": false,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=107&ts=1789651078"
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=107&ts=1790547794"
   },
   {
     "chapter": "SMPS New York",
@@ -141,19 +128,6 @@
     "description": "Learn smarter corporate gifting strategies, then explore 30 vendors' latest merchandise and promo products.",
     "is_virtual": false,
     "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=318&ts=1786634102"
-  },
-  {
-    "chapter": "SMPS Columbus",
-    "state": "Ohio",
-    "region": "Heartland",
-    "title": "2026 SMPS Heartland Regional Conference, Cincinnati",
-    "date": "September 30, 2026",
-    "sort_date": "2026-09-30",
-    "time": "8:00 AM to 4:00 PM",
-    "location": "Hilton Netherlands Plaza Hotel, 35 W. Fifth Street, Cincinnati, OH 45202",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=164&ts=1785731158"
   },
   {
     "chapter": "SMPS Wisconsin",
@@ -450,7 +424,7 @@
     "sort_date": "2026-10-07",
     "time": "5:00 PM CDT to 8:00 PM CDT",
     "location": "Puttery Chicago, 932 W. Randolph St., Chicago, IL 60607, https://www.puttery.com/locations/chicago/",
-    "description": "Join SMPS for a Night of Connections, Competitive Spirits and Hardy Laughs. Platinum Sponsors Gold Sponsors Silver Sponsors",
+    "description": "Join SMPS for a Night of Connections, Competitive Spirits and Hardy Laughs.",
     "is_virtual": false,
     "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=267&ts=1788484993"
   },
@@ -1378,6 +1352,19 @@
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=393&ts=1789045326"
   },
   {
+    "chapter": "SMPS Chicago",
+    "state": "Illinois",
+    "region": "Heartland",
+    "title": "Wait, AI Can Do What? You are the \"I\" in AI.",
+    "date": "October 22, 2026",
+    "sort_date": "2026-10-22",
+    "time": "1:00 PM CDT to 5:00 PM CDT",
+    "location": "One South Wacker, 1 S Wacker Drive, Chicago, IL 60606, https://www.onesouthwacker.net/ *Building access information will be sent to attendees prior to the event.",
+    "description": "Join this interactive half-day workshop to learn about AI tools for the AEC industry and how they can help address everyday work challenges. Platinum Sponsors Gold Sponsors Silver Sponsors",
+    "is_virtual": false,
+    "detail_url": "https://smpschi.starchapter.com/meetinginfo.php?id=269&ts=1790566479"
+  },
+  {
     "chapter": "SMPS Indiana",
     "state": "Indiana",
     "region": "Heartland",
@@ -1620,7 +1607,7 @@
     "sort_date": "2026-10-28",
     "time": "5:00 PM to 7:00 PM",
     "location": "Dunwoody Nature Center, 5343 Roberts Drive, Dunwoody, GA 30338",
-    "description": "Celebrate the fall season and another incredible year with SMPS Atlanta at our Fall F\u00eate, featuring festive drinks, delicious bites, exciting raffle prizes, and plenty of fall-inspired fun! ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors KBD Group \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Celebrate the fall season and another incredible year with SMPS Atlanta at our Fall F\u00eate, featuring festive drinks, delicious bites, exciting raffle prizes, and plenty of fall-inspired fun! ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Blue Cypress Consulting \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": false,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1790192287"
   },
