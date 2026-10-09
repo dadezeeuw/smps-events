@@ -1,96 +1,5 @@
 [
   {
-    "chapter": "SMPS Alaska",
-    "state": "Alaska",
-    "region": "Pacific",
-    "title": "October MiX: What\u2019s Next: Top Trends Shaping A/E/C Marketing in the Age of AI",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "12:00 PM AKDT to 1:00 PM AKDT",
-    "location": "Webinar",
-    "description": "Your Desk Join us for a presentation on what new AI trends are taking shape in the AEC industry",
-    "is_virtual": true,
-    "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=155&ts=1788902225"
-  },
-  {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Nails & Networking",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "Moonshine & Co., 2905 30th Street, Sacramento, CA 95817",
-    "description": "Get your glam on, network, and relax with SMPS Sacramento at Moonshine & Co. Come for the networking and stay for a relaxing hand massage at this unique venue featuring a bar and nail salon. Your ticket includes a drink, appetizers, a warm towel treatment",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=476&ts=1790275474"
-  },
-  {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Align and Achieve: Building Confidence, Building Connections",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "5:00 PM EDT to 8:00 PM EDT",
-    "location": "Global Furniture Group, 1735 Market Street, Philadelphia, PA 19103",
-    "description": "Join SMPS Philadelphia and WiSE Philadelphia for Align & Achieve: Building Confidence, Building Connections, an interactive evening focused on developing authentic, lasting professional relationships.",
-    "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=273&ts=1790863726"
-  },
-  {
-    "chapter": "SMPS Palmetto",
-    "state": "South Carolina",
-    "region": "Southeast",
-    "title": "October Empower Hour",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "8:30 AM EDT to 9:30 AM EDT",
-    "location": "Bar Mash (Charleston), Coffee Underground (Greenville), Piecewise Coffee Co (Columbia)",
-    "description": "Join us for networking!",
-    "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=374&ts=1788981263"
-  },
-  {
-    "chapter": "SMPS Nashville",
-    "state": "Tennessee",
-    "region": "Southeast",
-    "title": "YDK: Thought Leadership",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "BELL, 1000 Health Park Dr #150, Brentwood, TN 37027, https://bellconstructioncompany.com/",
-    "description": "Your firm is full of expertise. The firms that win are the ones that know how to turn that expertise into compelling stories that make their firm visible.",
-    "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=286&ts=1790349527"
-  },
-  {
-    "chapter": "SMPS Nashville",
-    "state": "Tennessee",
-    "region": "Southeast",
-    "title": "Site Series: Franklin City Hall",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "3:30 PM to 4:30 PM",
-    "location": "Franklin City Hall, 112 Second Ave South, Franklin, TN 37064",
-    "description": "Join SMPS Nashville, CSDG, and Skanska for a tour of Franklin City Hall!",
-    "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=277&ts=1790009383"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "Just Hit Record: A New Approach to Marketing & Business Development",
-    "date": "October 08, 2026",
-    "sort_date": "2026-10-08",
-    "time": "11:00 AM to 12:30 PM",
-    "location": "Carrco Painting, 10379 Plano Rd, Dallas, TX 75238",
-    "description": "Andrea Pender and Kelly Ellsworth are the team behind the Hard Hats & Horizons podcast, where marketing, business development, and authentic industry conversations come together.",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=313&ts=1785794315"
-  },
-  {
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
@@ -270,7 +179,7 @@
     "location": "Wilmot Sanz, 77 Upper Rock Circle, Suite 300, Rockville, MD 20850",
     "description": "Create engaging social media videos using today's most accessible and powerful creative tools",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=166&ts=1788368201"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=166&ts=1791497701"
   },
   {
     "chapter": "SMPS South Florida",
@@ -309,7 +218,7 @@
     "location": "Wilder Center, 451 Lexington Parkway N, St. Paul, MN 55104, https://www.wilder.org/",
     "description": "Join us for our 2nd Annual AEC Marketing Solutions Showcase!",
     "is_virtual": false,
-    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1791384747"
+    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=267&ts=1791474497"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -322,7 +231,7 @@
     "location": "Benjamin Rose Conference Center, 11890 Fairhill Road, Cleveland, OH 44120",
     "description": "Moving from preconstruction to field execution marks a pivotal phase in the project life cycle. Gain valuable insights directly from key clients and project stakeholders regarding their expectations for AEC partners during this transition.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=213&ts=1791397794"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=213&ts=1791491903"
   },
   {
     "chapter": "SMPS Austin",
@@ -384,10 +293,10 @@
     "date": "October 15, 2026",
     "sort_date": "2026-10-15",
     "time": "8:30 AM to 9:30 AM",
-    "location": "TBD",
+    "location": "Armature Works, 1910 N Ola Ave, Tampa, FL 33602",
     "description": "Join us for networking over coffee!",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=562&ts=1791381190"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=562&ts=1791486017"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -414,6 +323,19 @@
     "description": "Join us for networking over coffee!",
     "is_virtual": false,
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=564&ts=1791381768"
+  },
+  {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee & Connections - Lakeland",
+    "date": "October 15, 2026",
+    "sort_date": "2026-10-15",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Foxtail Coffee, 322 Kathleen Rd., Lakeland, FL 33815",
+    "description": "Join us for networking and coffee!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=565&ts=1791485967"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -738,7 +660,7 @@
     "location": "San Jose Country Club, 7529 San Jose Blvd., Jacksonville, FL 32217",
     "description": "Bringing Healthcare Leaders and A/E/C Industry Professionals Together",
     "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=108&ts=1788891476"
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=108&ts=1791480509"
   },
   {
     "chapter": "SMPS Wichita",
@@ -1336,7 +1258,7 @@
     "location": "Dunwoody Nature Center, 5343 Roberts Drive, Dunwoody, GA 30338",
     "description": "Celebrate the fall season and another incredible year with SMPS Atlanta at our Fall F\u00eate, featuring festive drinks, delicious bites, exciting raffle prizes, and plenty of fall-inspired fun!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1790971267"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1791519178"
   },
   {
     "chapter": "SMPS Hawaii",
@@ -1427,7 +1349,7 @@
     "location": "Multiple Locations",
     "description": "What\u2019s haunting your marketing and business development?",
     "is_virtual": false,
-    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=236&ts=1790186412"
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=236&ts=1791476822"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -1453,7 +1375,20 @@
     "location": "The Alamo, 300 Alamo Plaza, San Antonio, TX 78205",
     "description": "Join us for the 2026 SMPS Evening of Excellence! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1790863613"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1791494899"
+  },
+  {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "From Brand Promise to Client Experience",
+    "date": "October 29, 2026",
+    "sort_date": "2026-10-29",
+    "time": "8:00 AM to 9:30 AM",
+    "location": "Urban Sailor Coffee (Sugarhouse Location), 1327 E 2100 S Suite 102, Salt Lake City, UT 84105, https://urbansailorcoffee.com/",
+    "description": "Does your client experience deliver on your brand promise? Join fellow senior marketers for a conversation about aligning brand strategy, communications, and client touchpoints to create an experience that consistently reflects who your firm says it is.",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=473&ts=1791492874"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1560,6 +1495,19 @@
     "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=200&ts=1790793291"
   },
   {
+    "chapter": "SMPS Research Triangle",
+    "state": "North Carolina",
+    "region": "Southeast",
+    "title": "Fireside Farewell to 2026 - Member Meet-Up",
+    "date": "November 04, 2026",
+    "sort_date": "2026-11-04",
+    "time": "4:30 PM to 6:00 PM",
+    "location": "Vita Vite Midtown, 200 Park At North Hills Street, #130, Raleigh, NC 27609",
+    "description": "Join us for our last Member Meet Up for this chapter year! Sponsors We Love Our Sponsors! Gain exposure to key potential business partners and decision makers through one of our dynamic sponsorship opportunities... Become a Sponsor \u00a9 2026 SMPS Research Triangle All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS Research Triangle ID: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpstriangle.starchapter.com/meetinginfo.php?id=180&ts=1791548970"
+  },
+  {
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
@@ -1571,6 +1519,19 @@
     "description": "Category: SOCO",
     "is_virtual": false,
     "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=817&Itemid=115&year=2026&month=11&day=05&title=save-the-date-soco-mixer&uid=5ef59e4b5e04ceeb57fcd38ea135f0ce"
+  },
+  {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "The Small but Mighty Investment: How Brand Template Systems Unlock Efficiency",
+    "date": "November 05, 2026",
+    "sort_date": "2026-11-05",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual Zoom Meeting",
+    "description": "Learn how strategic brand templates can save A/E/C firms time, strengthen brand consistency, and turn everyday deliverables into a more efficient, high-value process.",
+    "is_virtual": true,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=396&ts=1791487250"
   },
   {
     "chapter": "SMPS Indiana",
@@ -1664,17 +1625,17 @@
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=361&ts=1790799002"
   },
   {
-    "chapter": "SMPS Virginia",
-    "state": "Virginia",
-    "region": "Southeast",
-    "title": "What's Your Number? An Enneagram Experience",
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Ownership Unpacked: How Ownership Models Shape AEC Firms, People & Performance",
     "date": "November 05, 2026",
     "sort_date": "2026-11-05",
-    "time": "11:00 AM EST to 12:00 PM EST",
-    "location": "Timmons Group & Virtual, 7053 Celebration Park Ave Ste 300, Richmond, VA 23225, 1785 Kitimal Drive, Virginia Beach, VA 23454",
-    "description": "Discover your Enneagram type and uncover the motivations, strengths, and hidden superpowers that make you uniquely you. Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
-    "is_virtual": true,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=252&ts=1786932994"
+    "time": "5:00 PM to 7:00 PM",
+    "location": "McKinstry - Innovation Center Building, 3rd Floor, 210 S Hudson St, Seattle, WA 98134, https://www.mckinstry.com/",
+    "description": "Joint event between American Society of Civil Engineers (ASCE), American Council of Engineering Companies (ACEC), and Society for Marketing Professional Services (SMPS) to discuss how different ownership models influence everything from governance to cult VIEW ATTENDEES",
+    "is_virtual": false,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=525&ts=1791516494"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -1765,7 +1726,7 @@
     "location": "DBR, 200 Westlake Park Blvd (Westlake Training Room), Houston, TX 77079",
     "description": "Join us to learn winning proposal strategies!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1784245976"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1791491686"
   },
   {
     "chapter": "SMPS Utah",
@@ -1934,7 +1895,7 @@
     "location": "Bar Mash (Charleston), Coffee Underground (Greenville), Piecewise Coffee Co (Columbia)",
     "description": "Join us for networking!",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=375&ts=1788981346"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=375&ts=1791472937"
   },
   {
     "chapter": "SMPS Austin",
@@ -1948,6 +1909,32 @@
     "description": "",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=353&ts=1791216313"
+  },
+  {
+    "chapter": "SMPS Virginia",
+    "state": "Virginia",
+    "region": "Southeast",
+    "title": "Find Your Why: Combine your Unique Motivations and Strengths to Excel at Work",
+    "date": "November 12, 2026",
+    "sort_date": "2026-11-12",
+    "time": "11:00 AM EST to 12:00 PM EST",
+    "location": "Timmons Group & Virtual, 7053 Celebration Park Ave Ste 300, Richmond, VA 23225, 1785 Kitimal Drive, Virginia Beach, VA 23454",
+    "description": "Discover your Enneagram type and uncover the motivations, strengths, and hidden superpowers that make you uniquely you. Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
+    "is_virtual": true,
+    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=252&ts=1786932994"
+  },
+  {
+    "chapter": "SMPS Seattle",
+    "state": "Washington",
+    "region": "Pacific",
+    "title": "Fall 2026 Volunteer Opportunity with Food Lifeline",
+    "date": "November 13, 2026",
+    "sort_date": "2026-11-13",
+    "time": "1:15 PM to 3:30 PM",
+    "location": "Food Lifeline, 815 S 96th St, Seattle, WA 98108, https://foodlifeline.org/volunteer",
+    "description": "November 13 is World Kindness Day! Give back and spread kindness by volunteering with SMPS Seattle at Food Lifeline to sort and pack foods for our community. VIEW ATTENDEES",
+    "is_virtual": false,
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=524&ts=1791504005"
   },
   {
     "chapter": "SMPS Orange County",
@@ -1971,9 +1958,9 @@
     "sort_date": "2026-11-17",
     "time": "4:30 PM to 6:30 PM",
     "location": "Cohen's Retreat, 5715 Skidaway Road, Savannah, GA 31406",
-    "description": "Join us for Current & Cocktails, a laid-back evening for our SMPS Coastal Cru members! ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Salas O'Brien \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join us for Current & Cocktails, a laid-back evening for our SMPS Coastal Cru members!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=395&ts=1790694738"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=395&ts=1791467680"
   },
   {
     "chapter": "SMPS Kansas City",
@@ -2051,7 +2038,7 @@
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
     "description": "Save the Date!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=202&ts=1788202284"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=202&ts=1791491236"
   },
   {
     "chapter": "SMPS Orange County",
@@ -2171,6 +2158,19 @@
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=289&ts=1789681340"
   },
   {
+    "chapter": "SMPS New Mexico",
+    "state": "New Mexico",
+    "region": "Southwest",
+    "title": "November Program",
+    "date": "November 19, 2026",
+    "sort_date": "2026-11-19",
+    "time": "11:30 AM MST - 1:00 PM MST",
+    "location": "TBD",
+    "description": "An Interactive Roundtable Event",
+    "is_virtual": false,
+    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=119&ts=1784242568"
+  },
+  {
     "chapter": "SMPS Northeast Ohio",
     "state": "Ohio",
     "region": "Heartland",
@@ -2207,7 +2207,20 @@
     "location": "The City Club of San Francisco, 155 Sansome Street, 10th Floor, San Francisco, CA 94104, https://cityclubsf.com/",
     "description": "Celebrate award-winning work, connect with industry peers, and kick off the holiday season with SMPS SFBAC.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1788313524"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1791511811"
+  },
+  {
+    "chapter": "SMPS Hawaii",
+    "state": "Hawaii",
+    "region": "Pacific",
+    "title": "SMPS Hawaii: Holiday Party",
+    "date": "December 02, 2026",
+    "sort_date": "2026-12-02",
+    "time": "5:00 PM HST to 8:00 PM HST",
+    "location": "TBD",
+    "description": "Holiday Party",
+    "is_virtual": false,
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1791526887"
   },
   {
     "chapter": "SMPS Indiana",
@@ -2234,6 +2247,19 @@
     "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=516&ts=1789192531"
+  },
+  {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "SMPS Atlanta Market Exchange: Literary Leaders Book Club Dare to Lead by Bren\u00e9 Brown",
+    "date": "December 03, 2026",
+    "sort_date": "2026-12-03",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Virtual Zoom Meeting",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors TLC Engineering, Inc. \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "is_virtual": true,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791489764"
   },
   {
     "chapter": "SMPS West Michigan",
@@ -2291,14 +2317,14 @@
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
-    "title": "SMPS Houston | Holiday Luncheon and Donation Drive",
+    "title": "SMPS Houston | Holiday Luncheon 2026: Mentor Program Graduation & Member Awards",
     "date": "December 03, 2026",
     "sort_date": "2026-12-03",
-    "time": "11:30 AM to 1:00 PM",
+    "time": "11:00 AM to 1:00 PM",
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
-    "description": "Save the Date! \u00a9 2026 SMPS HOUSTON CHAPTER All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS HOUSTON CHAPTER ID: Password: Forgot Username/Password?",
+    "description": "Join us as we celebrate the year's mentors, graduates, and award winners from our One2One Mentor Program and chapter! \u00a9 2026 SMPS HOUSTON CHAPTER All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS HOUSTON CHAPTER ID: Password: Forgot Username/Password?",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=203&ts=1766005889"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=203&ts=1791506804"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -2363,20 +2389,7 @@
     "location": "Bar Mash (Charleston), Coffee Underground (Greenville), Piecewise Coffee Co (Columbia)",
     "description": "Join us for networking!",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=376&ts=1788981412"
-  },
-  {
-    "chapter": "SMPS Hawaii",
-    "state": "Hawaii",
-    "region": "Pacific",
-    "title": "SMPS Hawaii: Holiday Party",
-    "date": "December 12, 2026",
-    "sort_date": "2026-12-12",
-    "time": "5:00 PM HST to 8:00 PM HST",
-    "location": "TBD",
-    "description": "Holiday Party",
-    "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1783757028"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=376&ts=1791472962"
   },
   {
     "chapter": "SMPS Los Angeles",
@@ -2444,6 +2457,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=517&ts=1789192972"
   },
   {
+    "chapter": "SMPS South Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Virtual Learning Series: Planning & Research",
+    "date": "January 08, 2027",
+    "sort_date": "2027-01-08",
+    "time": "12:00 PM to 12:30 PM",
+    "location": "Virtual Meeting - Online",
+    "description": "Planning & Research",
+    "is_virtual": true,
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=238&ts=1791477609"
+  },
+  {
     "chapter": "SMPS Las Vegas",
     "state": "Nevada",
     "region": "Pacific",
@@ -2483,6 +2509,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=519&ts=1789193279"
   },
   {
+    "chapter": "SMPS South Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Virtual Learning Series: Business Development and Promotional Activities",
+    "date": "February 05, 2027",
+    "sort_date": "2027-02-05",
+    "time": "12:00 PM to 12:30 PM",
+    "location": "Virtual Meeting - Online",
+    "description": "Business Development and Promotional Activities",
+    "is_virtual": true,
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=239&ts=1791478676"
+  },
+  {
     "chapter": "SMPS Oklahoma",
     "state": "Oklahoma",
     "region": "Southern",
@@ -2509,6 +2548,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=520&ts=1789193390"
   },
   {
+    "chapter": "SMPS South Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "In-Person Learning Series: Proposals",
+    "date": "March 05, 2027",
+    "sort_date": "2027-03-05",
+    "time": "12:00 PM to 12:30 PM",
+    "location": "Location to be determined",
+    "description": "Save the date: Location and details to follow",
+    "is_virtual": false,
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=240&ts=1791479569"
+  },
+  {
     "chapter": "SMPS Orange County",
     "state": "California",
     "region": "Pacific",
@@ -2520,6 +2572,19 @@
     "description": "Save the date! Join us in Orange County for the 2027 Pacific Regional Conference \u00a9 2026 SMPS Orange County All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS ID or Email: Password: Forgot Username/Password?",
     "is_virtual": false,
     "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=184&ts=1787944405"
+  },
+  {
+    "chapter": "SMPS South Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Virtual Learning Series: Management and Leadership",
+    "date": "April 02, 2027",
+    "sort_date": "2027-04-02",
+    "time": "12:00 PM to 12:30 PM",
+    "location": "Virtual Meeting - Online",
+    "description": "Management and Leadership",
+    "is_virtual": true,
+    "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=241&ts=1791479524"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
