@@ -101,7 +101,7 @@
     "location": "Multiple Locations Throughout the Region",
     "description": "Join us at one of our locations throughout the SMPS Philadelphia region to meet with other members and have informal discussions about topics relevant to you and your job.",
     "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=275&ts=1789560533"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=275&ts=1793047128"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -153,7 +153,7 @@
     "location": "Dunwoody Nature Center, 5343 Roberts Drive, Dunwoody, GA 30338",
     "description": "Celebrate the fall season and another incredible year with SMPS Atlanta at our Fall F\u00eate, featuring festive drinks, delicious bites, exciting raffle prizes, and plenty of fall-inspired fun!",
     "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1792433829"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=394&ts=1792974110"
   },
   {
     "chapter": "SMPS Hawaii",
@@ -179,7 +179,7 @@
     "location": "Virtual",
     "description": "Learn how strong organizational habits directly support improved pursuit outcomes, client relationships, and proposal quality.",
     "is_virtual": true,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=109&ts=1788625687"
+    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=109&ts=1793043605"
   },
   {
     "chapter": "SMPS Boston",
@@ -296,7 +296,7 @@
     "location": "The Alamo, 300 Alamo Plaza, San Antonio, TX 78205",
     "description": "Join us for the 2026 SMPS Evening of Excellence! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1792698471"
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=270&ts=1792975059"
   },
   {
     "chapter": "SMPS Utah",
@@ -1300,19 +1300,6 @@
     "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=295&ts=1792795035"
   },
   {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "Save the Date: NoCO Happy Hour",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: NOCO",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=821&Itemid=115&year=2026&month=11&day=19&title=save-the-date-noco-happy-hour&uid=4ac2f0ee59bdf2fbe709842b6368ca57"
-  },
-  {
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
@@ -1521,6 +1508,19 @@
     "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=99&ts=1792429339"
   },
   {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "SMPS DC Lunch and Leads Series \u2014 RFK Stadium: Our Team | Our Opportunities",
+    "date": "December 03, 2026",
+    "sort_date": "2026-12-03",
+    "time": "11:30 AM to 1:30 PM",
+    "location": "Maggiano's Chevy Chase, 5333 Wisconsin Ave NW, Washington, DC 20015",
+    "description": "Get answers to your procurement and project questions \u2014 right from the source. Join us for an engaging and informative Lunch & Leads program focused on the exciting RFK Stadium and surrounding area development.",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=175&ts=1793050473"
+  },
+  {
     "chapter": "SMPS North Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1542,7 +1542,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Blue Cypress Consulting \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Thomas & Hutton \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -1625,6 +1625,19 @@
     "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=158&ts=1791850737"
   },
   {
+    "chapter": "SMPS Washington, DC",
+    "state": "District of Columbia, Maryland, Virginia",
+    "region": "Northeast",
+    "title": "SMPS DC New & Prospective Member Orientation Breakfast",
+    "date": "December 08, 2026",
+    "sort_date": "2026-12-08",
+    "time": "9:00 AM to 11:00 AM",
+    "location": "Perkins Eastman, One Thomas Circle, NW Second Floor, Washington, DC 20005",
+    "description": "If you\u2019re new to SMPS, thinking about becoming a member, or just looking for a refresher on member benefits, join this complimentary breakfast program to hear from current SMPS DC members and Board members about everything the chapter has to offer.",
+    "is_virtual": false,
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=174&ts=1793044576"
+  },
+  {
     "chapter": "SMPS Columbus",
     "state": "Ohio",
     "region": "Heartland",
@@ -1636,6 +1649,19 @@
     "description": "",
     "is_virtual": false,
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=181&ts=1791661663"
+  },
+  {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Save the Date: Higher Education Event",
+    "date": "December 09, 2026",
+    "sort_date": "2026-12-09",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Programs",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=823&Itemid=115&year=2026&month=12&day=09&title=save-the-date-higher-education-event&uid=c41570a9315a5600b54f12d0ab0ecc59"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1674,7 +1700,7 @@
     "location": "Virtual Workshop",
     "description": "CPSM Study Group - Domain 4",
     "is_virtual": true,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=297&ts=1792689036"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=297&ts=1793032200"
   },
   {
     "chapter": "SMPS Boston",
@@ -1752,7 +1778,7 @@
     "location": "Jason Aldean's Kitchen + Bar, 393 North Shore Drive, Pittsburgh, PA 15212",
     "description": "Join SMPS Pittsburgh for our Annual Ugly Sweater Holiday Party! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=160&ts=1792765320"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=160&ts=1793022320"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -1911,6 +1937,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=518&ts=1789193145"
   },
   {
+    "chapter": "SMPS Connecticut",
+    "state": "Connecticut",
+    "region": "Northeast",
+    "title": "CPSM Study Group - Domain 5",
+    "date": "January 27, 2027",
+    "sort_date": "2027-01-27",
+    "time": "4:00 PM EST to 6:00 PM EST",
+    "location": "Virtual Workshop",
+    "description": "CPSM Study Group - Domain 5",
+    "is_virtual": true,
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=298&ts=1793032399"
+  },
+  {
     "chapter": "SMPS North Texas",
     "state": "Texas",
     "region": "Southern",
@@ -1948,6 +1987,19 @@
     "description": "Business Development and Promotional Activities",
     "is_virtual": true,
     "detail_url": "https://smpssouthflorida.starchapter.com/meetinginfo.php?id=239&ts=1791554230"
+  },
+  {
+    "chapter": "SMPS Connecticut",
+    "state": "Connecticut",
+    "region": "Northeast",
+    "title": "CPSM Study Group - Domain 6",
+    "date": "February 10, 2027",
+    "sort_date": "2027-02-10",
+    "time": "4:00 PM EST to 6:00 PM EST",
+    "location": "Virtual Workshop",
+    "description": "CPSM Study Group - Domain 6",
+    "is_virtual": true,
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=299&ts=1793032568"
   },
   {
     "chapter": "SMPS Oklahoma",
