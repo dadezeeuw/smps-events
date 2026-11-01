@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Monthly Board Meeting: October",
-    "date": "October 30, 2026",
-    "sort_date": "2026-10-30",
-    "time": "9:00 AM to 10:00 AM",
-    "location": "Teams (Virtual)",
-    "description": "Members, join our next board meeting!",
-    "is_virtual": true,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=566&ts=1791647985"
-  },
-  {
     "chapter": "SMPS Alaska",
     "state": "Alaska",
     "region": "Pacific",
@@ -179,7 +166,7 @@
     "location": "Tustin Ranch Golf Club, 12442 Tustin Ranch Rd, Tustin, CA 92782",
     "description": "Connect. Be inspired. Grow your network.",
     "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=189&ts=1793236737"
+    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=189&ts=1793414235"
   },
   {
     "chapter": "SMPS Atlanta",
@@ -192,7 +179,7 @@
     "location": "Virtual Zoom Meeting",
     "description": "Learn how strategic brand templates can save A/E/C firms time, strengthen brand consistency, and turn everyday deliverables into a more efficient, high-value process.",
     "is_virtual": true,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=396&ts=1792612297"
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=396&ts=1793388672"
   },
   {
     "chapter": "SMPS Indiana",
@@ -686,7 +673,7 @@
     "location": "JE Dunn Construction, 2901 Via Fortuna , Suite 400, Austin, TX 78746, An interactive roundtable where marketing and business development professionals can share experiences, ask questions, and explore practical ways to use AI to streamline workflows, uncover insights, enhance client engagement, and drive growth while mainta",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=353&ts=1793137821"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=353&ts=1793391991"
   },
   {
     "chapter": "SMPS Austin",
@@ -777,7 +764,7 @@
     "location": "Zoom",
     "description": "In Part 1 of this series, attendees will focus on establishing a strong foundation in Canva for day-to-day AEC marketing needs.",
     "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=204&ts=1793151242"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=204&ts=1793366938"
   },
   {
     "chapter": "SMPS Kansas City",
@@ -803,7 +790,7 @@
     "location": "Simpson Strong-Tie, 7050 S. Buffalo Drive, Suite 100, Las Vegas, NV 89113",
     "description": "Learn. Lead. Lift., A practical framework for building meaningful professional relationships.",
     "is_virtual": false,
-    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=78&ts=1791841559"
+    "detail_url": "https://smpslasvegas.starchapter.com/meetinginfo.php?id=78&ts=1793391526"
   },
   {
     "chapter": "SMPS Upstate New York",
@@ -842,7 +829,7 @@
     "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1757429739"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1793385743"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -985,7 +972,7 @@
     "location": "Virtual",
     "description": "Back by popular demand! Join SMPS-NY for a practical look at AI in proposal development with Alex Borowick of EnTech Engineering. Explore AI tools, best practices, and real-world applications to streamline your proposal workflow. Free for SMPS members!",
     "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=180&ts=1793219608"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=180&ts=1793384085"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -1232,7 +1219,7 @@
     "location": "The City Club of San Francisco, 155 Sansome Street, 10th Floor, San Francisco, CA 94104, https://cityclubsf.com/",
     "description": "Celebrate award-winning work, connect with industry peers, and kick off the holiday season with SMPS SFBAC.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1792021285"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1793403877"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1284,7 +1271,7 @@
     "location": "Zoom",
     "description": "In Part 2 of this series, you\u2019ll build on the fundamentals by exploring dynamic content creation for higher engagement.",
     "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=205&ts=1793201864"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=205&ts=1793366978"
   },
   {
     "chapter": "SMPS Nashville",
@@ -1360,7 +1347,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Wallace Design Collective \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Palacio Collaborative \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -1389,6 +1376,19 @@
     "description": "Join us over coffee for a conversation",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=291&ts=1790096419"
+  },
+  {
+    "chapter": "SMPS Greater Cincinnati",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "GCSMPS Jingle & Jive Holiday Party",
+    "date": "December 03, 2026",
+    "sort_date": "2026-12-03",
+    "time": "4:00 PM to 7:00 PM",
+    "location": "Element Eatery, 5350 Medpace Way #7, Cincinnati, OH 45227",
+    "description": "Celebrate the season with GCSMPS and give back while you\u2019re at it!",
+    "is_virtual": false,
+    "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=405&ts=1793376769"
   },
   {
     "chapter": "SMPS Oregon",
@@ -1438,7 +1438,7 @@
     "sort_date": "2026-12-03",
     "time": "11:00 AM to 1:00 PM",
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
-    "description": "Join us as we celebrate the year's mentors, graduates, and award winners from our One2One Mentor Program and chapter! \u00a9 2026 SMPS HOUSTON CHAPTER All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS HOUSTON CHAPTER ID: Password: Forgot Username/Password?",
+    "description": "Join us as we celebrate the year's mentors, graduates, and award winners from our One2One Mentor Program and chapter!",
     "is_virtual": false,
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=203&ts=1791920199"
   },
@@ -1479,7 +1479,7 @@
     "location": "Woodland's Backyard, 668 Grandview Avenue, Columbus, OH 43215",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=181&ts=1791661663"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=181&ts=1793382249"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1779,6 +1779,19 @@
     "description": "SAVE THE DATE",
     "is_virtual": false,
     "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=295&ts=1792697467"
+  },
+  {
+    "chapter": "SMPS Houston",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS and AGC Houston Program | Economic Forecast 2027",
+    "date": "January 20, 2027",
+    "sort_date": "2027-01-20",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Associated General Contractors, 3825 Dacoma Street, Houston, TX 77092",
+    "description": "Save the date! \u00a9 2026 SMPS HOUSTON CHAPTER All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS HOUSTON CHAPTER ID: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=219&ts=1793391517"
   },
   {
     "chapter": "SMPS Seattle",
