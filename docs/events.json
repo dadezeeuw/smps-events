@@ -49,7 +49,7 @@
     "location": "Randall Lamb Associates, Inc., 3131 Camino del Rio North, Suite 860, San Diego, CA 92108",
     "description": "Join this free roundtable for a candid discussion on how principal groups stay aligned and accountable when leadership spans different skill sets, offices, markets, and working arrangements.",
     "is_virtual": false,
-    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=144&ts=1790689705"
+    "detail_url": "https://smpssd.starchapter.com/meetinginfo.php?id=144&ts=1793658382"
   },
   {
     "chapter": "SMPS San Francisco",
@@ -120,6 +120,19 @@
     "chapter": "SMPS Central Pennsylvania",
     "state": "Pennsylvania",
     "region": "Northeast",
+    "title": "Marketing Communication Awards 101",
+    "date": "November 04, 2026",
+    "sort_date": "2026-11-04",
+    "time": "12:00 PM to 1:00 PM",
+    "location": "Zoom Meeting - Register at the Link Below",
+    "description": "The ins and outs of award submissions are unique to each program. This session will break down the local SMPS Marketing Communications Award (MCA) program, covering what you need to know, how to write an entry that will speak to the selection team.",
+    "is_virtual": true,
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=436&ts=1793635728"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
     "title": "CPSM Study Group Interest Meeting",
     "date": "November 04, 2026",
     "sort_date": "2026-11-04",
@@ -140,7 +153,7 @@
     "location": "Zoom Meeting",
     "description": "The ins and outs of award submissions are unique to each program. This session will break down the local SMPS Marketing Communications Award (MCA) program, covering what you need to know, how to write an entry that will speak to the selection team and mak",
     "is_virtual": true,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=282&ts=1792695733"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=282&ts=1793629704"
   },
   {
     "chapter": "SMPS Houston",
@@ -205,7 +218,7 @@
     "location": "RiverWalk Brewing Co., 40 Parker Street",
     "description": "Newburyport, MA Raise a glass to new connections at Brew & Build, a networking event bringing together AEC industry marketers and business development professionals!",
     "is_virtual": false,
-    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=165&ts=1792517228"
+    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=165&ts=1793642733"
   },
   {
     "chapter": "SMPS Boston",
@@ -281,7 +294,7 @@
     "sort_date": "2026-11-05",
     "time": "11:30 AM to 1:00 PM",
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
-    "description": "Sponsorships and Registration Open!",
+    "description": "Registration is Open!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=325&ts=1770238586"
   },
@@ -673,7 +686,7 @@
     "location": "JE Dunn Construction, 2901 Via Fortuna , Suite 400, Austin, TX 78746, An interactive roundtable where marketing and business development professionals can share experiences, ask questions, and explore practical ways to use AI to streamline workflows, uncover insights, enhance client engagement, and drive growth while mainta",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=353&ts=1793391991"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=353&ts=1793650970"
   },
   {
     "chapter": "SMPS Austin",
@@ -700,6 +713,19 @@
     "description": "Led by Steve Gavatorta, this high-impact, interactive program helps teams separate from equally qualified competitors during critical finalist interviews. The focus is on strengthening confidence, reducing client uncertainty, and positioning your team as",
     "is_virtual": true,
     "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=204&ts=1792685027"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "SMPS Central PA's Chapter Award Submissions Due November 13th!",
+    "date": "November 13, 2026",
+    "sort_date": "2026-11-13",
+    "time": "12:00 AM to 11:59 PM",
+    "location": "Submit at the Link Below",
+    "description": "Chapter Award submissions for SMPS Central PA are due November 13th! Submit your entry today!",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=438&ts=1793655071"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1024,7 +1050,7 @@
     "location": "Little America Hotel, 500 South Main Street, Salt Lake City, UT 84101",
     "description": "Meet leaders from DFCM and top architecture firms in small, focused groups. Three quick rounds, direct dialogue, and practical takeaways. Tickets sell out fast for this annual event!",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1793605264"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1793663465"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1155,6 +1181,19 @@
     "description": "Join us for our next in-person board meeting!",
     "is_virtual": false,
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=567&ts=1792784725"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "SMPS Philadelphia's MCA Award Submissions Due November 25th!",
+    "date": "November 25, 2026",
+    "sort_date": "2026-11-25",
+    "time": "12:00 AM to 11:59 PM",
+    "location": "Submit at the Link Below",
+    "description": "Award submissions for SMPS Philadelphia's Marketing Communications Awards (MCA) are due November 25th! Submit your entry today!",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=437&ts=1793636361"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -1307,10 +1346,10 @@
     "date": "December 03, 2026",
     "sort_date": "2026-12-03",
     "time": "6:00 PM to 8:00 PM",
-    "location": "TBA",
+    "location": "The Fermentary Public House, 1000 W Monroe Ave F, Lowell, AR 72745",
     "description": "Celebrate 2026 with your fellow SMPS Ozarks members! Join us Thursday, December 3, from 6:00\u20138:00 PM for a complimentary member appreciation dinner and a first look at what's ahead for 2027. Members only, and space is limited!",
     "is_virtual": false,
-    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=99&ts=1793309788"
+    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=99&ts=1793656140"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -1347,7 +1386,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Palacio Collaborative \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Axis Infrastructure, Inc \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -1412,7 +1451,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM EST to 1:00 PM EST",
     "location": "Zoom Meeting",
-    "description": "Preparing for the CPSM Exam is a commitment, and SMPS Philadelphia is here to help! Boot Camp will walk through the materials on a micro level, provide space for discussion for understanding, and connect you with others preparing for the exam! Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
+    "description": "Preparing for the CPSM Exam is a commitment, and SMPS Philadelphia is here to help! Boot Camp will walk through the materials on a micro level, provide space for discussion for understanding, and connect you with others preparing for the exam!",
     "is_virtual": true,
     "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=279&ts=1792592980"
   },
@@ -1482,17 +1521,30 @@
     "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=181&ts=1793382249"
   },
   {
+    "chapter": "SMPS Philadelphia",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "Members Making a Difference: Serving Together at Philly House",
+    "date": "December 08, 2026",
+    "sort_date": "2026-12-08",
+    "time": "11:45 AM EST to 7:00 PM EST",
+    "location": "Philly House - Please choose your serving time to register, 302 N. 13th Street, Philadelphia, PA 19107",
+    "description": "Give back to Philadelphia alongside your SMPS Philly community. On Tuesday, December 8, we\u2019re taking our spirit of service into the community at Philly House, where volunteers will serve lunch or dinner to guests. Refund Policy Refunds for cancellations made two business days (48 hours) in advance of an event will be provided and are subject to a $5.00 processing fee. Contact Treasurer via email with requests.",
+    "is_virtual": false,
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=283&ts=1793629851"
+  },
+  {
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
-    "title": "Save the Date: Higher Education Event",
+    "title": "Higher Education Panel",
     "date": "December 09, 2026",
     "sort_date": "2026-12-09",
     "time": "TBD",
     "location": "See event details",
     "description": "Category: Programs",
     "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=823&Itemid=115&year=2026&month=12&day=09&title=save-the-date-higher-education-event&uid=c41570a9315a5600b54f12d0ab0ecc59"
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=823&Itemid=115&year=2026&month=12&day=09&title=higher-education-panel&uid=c41570a9315a5600b54f12d0ab0ecc59"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1781,6 +1833,32 @@
     "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=295&ts=1792697467"
   },
   {
+    "chapter": "SMPS Northern New England",
+    "state": "Maine",
+    "region": "Northeast",
+    "title": "SMPS NNE Holiday & New Year Party!",
+    "date": "January 14, 2027",
+    "sort_date": "2027-01-14",
+    "time": "4:30 PM to 7:30 PM",
+    "location": "OTTO Pizza - Portsmouth, 110 Brewery Lane, Portsmouth, NH 03801",
+    "description": "Join us for a festive evening as we celebrate the holidays and toast to the year ahead!",
+    "is_virtual": false,
+    "detail_url": "https://smpsnne.starchapter.com/meetinginfo.php?id=166&ts=1793653132"
+  },
+  {
+    "chapter": "SMPS Central Pennsylvania",
+    "state": "Pennsylvania",
+    "region": "Northeast",
+    "title": "SMPS Central PA 2026-2027 Membership Drive",
+    "date": "January 15, 2027",
+    "sort_date": "2027-01-15",
+    "time": "12:00 AM to 11:59 PM",
+    "location": "Join at the Link Below",
+    "description": "Join SMPS Central PA by January 15 for exclusive new member perks, two free event registrations, and a chance to win your $449 membership for FREE!            Convert to PDF",
+    "is_virtual": false,
+    "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=439&ts=1793637133"
+  },
+  {
     "chapter": "SMPS Houston",
     "state": "Texas",
     "region": "Southern",
@@ -1831,6 +1909,19 @@
     "description": "Join SMPS North Texas and CMAA North Texas for a special transportation-focused event bringing together industry and public-sector leaders to explore the future of mobility across North Texas",
     "is_virtual": false,
     "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=325&ts=1792595132"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "February Programs Luncheon",
+    "date": "February 02, 2027",
+    "sort_date": "2027-02-02",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
+    "description": "Stay Tuned!",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=355&ts=1792689958"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1911,6 +2002,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=520&ts=1789193390"
   },
   {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "March Programs Luncheon",
+    "date": "March 02, 2027",
+    "sort_date": "2027-03-02",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
+    "description": "Stay Tuned!",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=366&ts=1793636990"
+  },
+  {
     "chapter": "SMPS South Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1966,6 +2070,19 @@
     "chapter": "SMPS Austin",
     "state": "Texas",
     "region": "Southern",
+    "title": "April Programs Luncheon",
+    "date": "April 13, 2027",
+    "sort_date": "2027-04-13",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
+    "description": "Stay Tuned!",
+    "is_virtual": false,
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=367&ts=1793637230"
+  },
+  {
+    "chapter": "SMPS Austin",
+    "state": "Texas",
+    "region": "Southern",
     "title": "Drinks with Developers May 13th 2027",
     "date": "May 13, 2027",
     "sort_date": "2027-05-13",
@@ -1973,6 +2090,6 @@
     "location": "The Junior League of Austin, 5330 Bluffstone Cv, Austin , TX 78759",
     "description": "Save The Date",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=355&ts=1792689958"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=368&ts=1793637420"
   }
 ]
