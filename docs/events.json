@@ -1,44 +1,5 @@
 [
   {
-    "chapter": "SMPS Alaska",
-    "state": "Alaska",
-    "region": "Pacific",
-    "title": "Design Simplified: Canva's Role in AEC Marketing",
-    "date": "November 03, 2026",
-    "sort_date": "2026-11-03",
-    "time": "12:00 PM AKST to 1:00 PM AKST",
-    "location": "Webinar",
-    "description": "Your Desk Using Canva to produce polished, on-brand content for efficency and consistancy",
-    "is_virtual": true,
-    "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=157&ts=1792797610"
-  },
-  {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "SMPS/LA x AIA|LA: Win the Room, Win the Work!",
-    "date": "November 03, 2026",
-    "sort_date": "2026-11-03",
-    "time": "10:00 AM PST to 2:00 PM PST",
-    "location": "AIA|LA Center For Communities, 4450 W. Adams Blvd., Los Angeles, CA 90016",
-    "description": "Learn how to build authentic influence, strengthen relationships, and collaborate across generations to win trust, lead conversations, and win more work.",
-    "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=162&ts=1788300326"
-  },
-  {
-    "chapter": "SMPS Seattle",
-    "state": "Washington",
-    "region": "Pacific",
-    "title": "CX Immersion: Lead the Future of Client Experience in A/E/C (powered locally by SMPS Seattle)",
-    "date": "November 03, 2026",
-    "sort_date": "2026-11-03",
-    "time": "9:00 AM to 4:00 PM",
-    "location": "Westin Seattle, 1900 5th Avenue, Seattle, WA 98101, https://www.marriott.com/en-us/hotels/seawi-the-westin-seattle/overview/",
-    "description": "A one-day, hands-on program designed for A/E/C marketers and business developers ready to lead the CX charge inside their firms.",
-    "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=509&ts=1791575763"
-  },
-  {
     "chapter": "SMPS San Diego",
     "state": "California",
     "region": "Pacific",
@@ -153,7 +114,7 @@
     "location": "Zoom Meeting",
     "description": "The ins and outs of award submissions are unique to each program. This session will break down the local SMPS Marketing Communications Award (MCA) program, covering what you need to know, how to write an entry that will speak to the selection team and mak",
     "is_virtual": true,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=282&ts=1793629704"
+    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=282&ts=1793719014"
   },
   {
     "chapter": "SMPS Houston",
@@ -309,7 +270,7 @@
     "location": "McKinstry - Innovation Center Building, 3rd Floor, 210 S Hudson St, Seattle, WA 98134, https://www.mckinstry.com/",
     "description": "Joint event between American Society of Civil Engineers (ASCE), American Council of Engineering Companies (ACEC), and Society for Marketing Professional Services (SMPS) to discuss how different ownership models influence everything from governance to cult VIEW ATTENDEES",
     "is_virtual": false,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=525&ts=1793220046"
+    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=525&ts=1793761277"
   },
   {
     "chapter": "SMPS Sacramento",
@@ -465,7 +426,7 @@
     "location": "Okland Construction, 1978 S. West Temple, Salt Lake City, UT 84115",
     "description": "Turn pursuit intelligence into winning proposal strategies.",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=470&ts=1790212352"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=470&ts=1793753718"
   },
   {
     "chapter": "SMPS Seattle",
@@ -712,7 +673,7 @@
     "location": "Virtual Program",
     "description": "Led by Steve Gavatorta, this high-impact, interactive program helps teams separate from equally qualified competitors during critical finalist interviews. The focus is on strengthening confidence, reducing client uncertainty, and positioning your team as",
     "is_virtual": true,
-    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=204&ts=1792685027"
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=204&ts=1793721713"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -736,7 +697,7 @@
     "sort_date": "2026-11-13",
     "time": "1:15 PM to 3:30 PM",
     "location": "Food Lifeline, 815 S 96th St, Seattle, WA 98108, https://foodlifeline.org/volunteer",
-    "description": "November 13 is World Kindness Day! Give back and spread kindness by volunteering with SMPS Seattle at Food Lifeline to sort and pack foods for our community. VIEW ATTENDEES",
+    "description": "November 13 is World Kindness Day! Give back and spread kindness by volunteering with SMPS Seattle at Food Lifeline to sort and pack foods for our community.",
     "is_virtual": false,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=524&ts=1791839373"
   },
@@ -790,7 +751,7 @@
     "location": "Zoom",
     "description": "In Part 1 of this series, attendees will focus on establishing a strong foundation in Canva for day-to-day AEC marketing needs.",
     "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=204&ts=1793366938"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=204&ts=1793741968"
   },
   {
     "chapter": "SMPS Kansas City",
@@ -855,7 +816,7 @@
     "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1793385743"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1793730258"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -988,6 +949,19 @@
     "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=196&ts=1788371595"
   },
   {
+    "chapter": "SMPS Nebraska",
+    "state": "Nebraska",
+    "region": "Missouri Valley",
+    "title": "Breakfast & Learn: The Power of Listening in Leadership Watch Party",
+    "date": "November 18, 2026",
+    "sort_date": "2026-11-18",
+    "time": "8:30 AM to 9:45 AM",
+    "location": "Ronco Construction, 1717 N 74th St, Omaha, NE 68114",
+    "description": "Explore how active listening can strengthen collaboration, build trust, and help you navigate difficult conversations with confidence. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
+    "is_virtual": false,
+    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=320&ts=1793726738"
+  },
+  {
     "chapter": "SMPS New York",
     "state": "New York",
     "region": "Northeast",
@@ -1050,7 +1024,7 @@
     "location": "Little America Hotel, 500 South Main Street, Salt Lake City, UT 84101",
     "description": "Meet leaders from DFCM and top architecture firms in small, focused groups. Three quick rounds, direct dialogue, and practical takeaways. Tickets sell out fast for this annual event!",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1793663465"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1793727514"
   },
   {
     "chapter": "SMPS Arizona",
@@ -1310,7 +1284,7 @@
     "location": "Zoom",
     "description": "In Part 2 of this series, you\u2019ll build on the fundamentals by exploring dynamic content creation for higher engagement.",
     "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=205&ts=1793366978"
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=205&ts=1793741929"
   },
   {
     "chapter": "SMPS Nashville",
@@ -1323,7 +1297,7 @@
     "location": "Nicky's Coal Fired Pizza, 5026 Centennial Blvd, Nashville, TN 37209, https://www.nickysnashville.com/",
     "description": "We\u2019ve made the connections, attended the events, and survived another year in AEC. Sounds like a good reason to celebrate.",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=290&ts=1793135082"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=290&ts=1793721974"
   },
   {
     "chapter": "SMPS Seattle",
@@ -1346,10 +1320,10 @@
     "date": "December 03, 2026",
     "sort_date": "2026-12-03",
     "time": "6:00 PM to 8:00 PM",
-    "location": "The Fermentary Public House, 1000 W Monroe Ave F, Lowell, AR 72745",
+    "location": "The Fermentary Public House, 1000 W Monroe Ave Ste F, Lowell, AR 72745",
     "description": "Celebrate 2026 with your fellow SMPS Ozarks members! Join us Thursday, December 3, from 6:00\u20138:00 PM for a complimentary member appreciation dinner and a first look at what's ahead for 2027. Members only, and space is limited!",
     "is_virtual": false,
-    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=99&ts=1793656140"
+    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=99&ts=1793749700"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -1386,7 +1360,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Axis Infrastructure, Inc \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors KBD Group \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -1495,6 +1469,19 @@
     "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=158&ts=1791850737"
   },
   {
+    "chapter": "SMPS Tampa Bay",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "2027 Transportation Event - Connecting Tomorrow: Ideas and Innovation - Call for Presentations",
+    "date": "December 07, 2026",
+    "sort_date": "2026-12-07",
+    "time": "11:59 PM to 11:59 PM",
+    "location": "Call for Presentations",
+    "description": "Submit your Presentation idea to be a featured speaker!",
+    "is_virtual": false,
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=570&ts=1793722521"
+  },
+  {
     "chapter": "SMPS Washington, DC",
     "state": "District of Columbia, Maryland, Virginia",
     "region": "Northeast",
@@ -1557,7 +1544,7 @@
     "location": "Market Place Kitchen & Bar, 3331 Berlin Tpke, Newington, CT 06111, Join SMPS CT for a lively luncheon with Chris Abel!",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=286&ts=1790165978"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=286&ts=1793722821"
   },
   {
     "chapter": "SMPS Connecticut",
@@ -1687,7 +1674,7 @@
     "location": "Jason Aldean's Kitchen + Bar, 393 North Shore Drive, Pittsburgh, PA 15212",
     "description": "Join SMPS Pittsburgh for our Annual Ugly Sweater Holiday Party! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=160&ts=1793022320"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=160&ts=1793720422"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -1823,14 +1810,14 @@
     "chapter": "SMPS Southeast Michigan",
     "state": "Michigan",
     "region": "Heartland",
-    "title": "**SAVE THE DATE ** Corenet MI 2027 Economic Forecast",
+    "title": "CoreNet Michigan 2027 Economic Forecast",
     "date": "January 13, 2027",
     "sort_date": "2027-01-13",
-    "time": "11:00 AM to 1:00 PM",
-    "location": "Dearborn Inn, Autograph Collection, 20301 Oakwood Blvd, Dearborn, MI 48124, https://www.marriott.com/en-us/hotels/dtwdk-dearborn-inn-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-    "description": "SAVE THE DATE",
+    "time": "11:00 AM to 1:30 PM",
+    "location": "The Dearborn Inn, 20301 Oakwood Blvd., Dearborn, MI 48124, https://www.marriott.com/en-us/hotels/dtwdk-dearborn-inn-autograph-collection/overview/?nst=paid&cid=PAI_GLB0004YFY_GLE000BHOR_GLF000OCGE&nst=paid&gclsrc=aw.ds&gad_source=1&gad_campaignid=21847286054&gbraid=0AAAAADilnic_UGzI4gQ01SrW3tVXucbJl&gclid=CjwKCAi",
+    "description": "Join us for an engaging discussion about national and local corporate real estate trends and the impact on the corporate real estate industry for the year ahead.",
     "is_virtual": false,
-    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=295&ts=1792697467"
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=297&ts=1793722696"
   },
   {
     "chapter": "SMPS Northern New England",
@@ -1921,7 +1908,7 @@
     "location": "Renaissance Hotel Arboretum, 9721 Arboretum Blvd., Austin , TX 78759",
     "description": "Stay Tuned!",
     "is_virtual": false,
-    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=355&ts=1792689958"
+    "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=355&ts=1793744260"
   },
   {
     "chapter": "SMPS Seattle",
