@@ -1,18 +1,5 @@
 [
   {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Applications Due! The Kelly McGann Path to CPSM Certification Scholarship",
-    "date": "November 09, 2026",
-    "sort_date": "2026-11-09",
-    "time": "6:00 PM EST to 6:00 PM EST",
-    "location": "Applications Details Below!",
-    "description": "Advance your career with a Certified Professional Services Marketer (CPSM) scholarship from SMPS Philadelphia. Apply by November 9th!",
-    "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=278&ts=1791301905"
-  },
-  {
     "chapter": "SMPS Alaska",
     "state": "Alaska",
     "region": "Pacific",
@@ -23,7 +10,7 @@
     "location": "The Dena\u2019ina Center, 600 W. Seventh Avenue, Anchorage, AK 99501",
     "description": "Discover how federal investment is moving Port MacKenzie forward.",
     "is_virtual": false,
-    "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=159&ts=1793921229"
+    "detail_url": "https://smpsalaska.starchapter.com/meetinginfo.php?id=159&ts=1794277227"
   },
   {
     "chapter": "SMPS Arizona",
@@ -49,7 +36,7 @@
     "location": "HFA, 1705 S Walton Blvd, Ste 3, Bentonville, AR 72712-7113",
     "description": "What trends are shaping the future of AEC marketing and BD? Gabe Lett, CPSM, FSMPS, brings the SMPS Foundation's newest research to our chapter, followed by a happy hour. Join us in person or online.",
     "is_virtual": true,
-    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=98&ts=1793893827"
+    "detail_url": "https://smpsozarks.starchapter.com/meetinginfo.php?id=98&ts=1794241616"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -75,7 +62,7 @@
     "location": "Construction Employers Association, 5633 Brecksville Rd Unit A, Independence, OH 44131",
     "description": "Join a panel of higher education leaders as they discuss what helps project teams better understand institutional goals and contribute to successful outcomes.",
     "is_virtual": false,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=217&ts=1793208400"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=217&ts=1794243761"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -101,7 +88,7 @@
     "location": "Hood Construction, 1215 Shop Road, Columbia, SC 29201, https://www.hoodconstruction.com/",
     "description": "Join us and the SMPS Foundation for an interactive, research-driven program exploring the industry\u2019s biggest emerging trends: talent development, strategic client growth, and technology adoption.",
     "is_virtual": false,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=399&ts=1793298412"
+    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=399&ts=1794252345"
   },
   {
     "chapter": "SMPS Houston",
@@ -387,7 +374,7 @@
     "location": "Virtual Program",
     "description": "Led by Steve Gavatorta, this high-impact, interactive program helps teams separate from equally qualified competitors during critical finalist interviews. The focus is on strengthening confidence, reducing client uncertainty, and positioning your team as",
     "is_virtual": true,
-    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=204&ts=1793721713"
+    "detail_url": "https://smpswisconsin.starchapter.com/meetinginfo.php?id=204&ts=1794258358"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -543,7 +530,7 @@
     "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1793977650"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1794260051"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -650,6 +637,19 @@
     "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=667&ts=1793297859"
   },
   {
+    "chapter": "SMPS North Florida",
+    "state": "Florida",
+    "region": "Southeast",
+    "title": "Coffee Connections",
+    "date": "November 18, 2026",
+    "sort_date": "2026-11-18",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Hilite Coffee, 4424 Hendricks Ave, Jacksonville, FL 32207",
+    "description": "Join SMPS North Florida for coffee and casual conversation at our November Coffee Connections!",
+    "is_virtual": false,
+    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=111&ts=1794241618"
+  },
+  {
     "chapter": "SMPS Maryland",
     "state": "Maryland",
     "region": "Northeast",
@@ -725,7 +725,7 @@
     "location": "Rivers Club, 301 Grant Street, Suite 411, Pittsburgh, PA 15219",
     "description": "Join SMPS Pittsburgh for our November 2026 Luncheon!",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=152&ts=1792674529"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=152&ts=1794242167"
   },
   {
     "chapter": "SMPS Houston",
@@ -1235,6 +1235,19 @@
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=203&ts=1791920199"
   },
   {
+    "chapter": "SMPS San Antonio",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "Annual Members Only Holiday Luncheon + Donation Drive",
+    "date": "December 03, 2026",
+    "sort_date": "2026-12-03",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Centre Club (Weston Centre), 112 E Pecan Street, 30th Floor, San Antonio, TX 78205, Join us for the Annual Members Only Holiday Luncheon + Donation Drive",
+    "description": "Follow Us",
+    "is_virtual": false,
+    "detail_url": "https://sanantoniosmps.starchapter.com/meetinginfo.php?id=274&ts=1794267706"
+  },
+  {
     "chapter": "SMPS Alaska",
     "state": "Alaska",
     "region": "Pacific",
@@ -1259,6 +1272,19 @@
     "description": "Submit your Presentation idea to be a featured speaker!",
     "is_virtual": false,
     "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=570&ts=1793885619"
+  },
+  {
+    "chapter": "SMPS North Texas",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS North Texas Annual Week of Giving",
+    "date": "December 07, 2026",
+    "sort_date": "2026-12-07",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Multiple Locations",
+    "description": "TX SMPS Annual Week of Giving 2026",
+    "is_virtual": false,
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=328&ts=1794261577"
   },
   {
     "chapter": "SMPS Washington, DC",
@@ -1495,6 +1521,19 @@
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=406&ts=1793903176"
   },
   {
+    "chapter": "SMPS Northeast Ohio",
+    "state": "Ohio",
+    "region": "Heartland",
+    "title": "Virtual Hot Takes: Coffee & Connections",
+    "date": "December 10, 2026",
+    "sort_date": "2026-12-10",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Virtual Meeting",
+    "description": "Grab a coffee and join SMPS peers from across the region to swap lessons learned on strategy, networking, marketing and BD, proposals, and what\u2019s ahead for 2027.",
+    "is_virtual": true,
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=218&ts=1794237959"
+  },
+  {
     "chapter": "SMPS Pittsburgh",
     "state": "Pennsylvania",
     "region": "Northeast",
@@ -1505,7 +1544,7 @@
     "location": "Jason Aldean's Kitchen + Bar, 393 North Shore Drive, Pittsburgh, PA 15212",
     "description": "Join SMPS Pittsburgh for our Annual Ugly Sweater Holiday Party! Follow Us",
     "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=160&ts=1793720422"
+    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=160&ts=1794234880"
   },
   {
     "chapter": "SMPS Palmetto",
@@ -1560,6 +1599,19 @@
     "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=484&ts=1793939637"
   },
   {
+    "chapter": "SMPS Twin Cities",
+    "state": "Minnesota",
+    "region": "Heartland",
+    "title": "Hall & Notes",
+    "date": "December 15, 2026",
+    "sort_date": "2026-12-15",
+    "time": "8:30 AM to 10:00 AM",
+    "location": "Weis Builders, 2 Meridian Crossings STE 500, Minneapolis, MN 55423, https://www.weisbuilders.com/",
+    "description": "Join SMPS-TC for coffee and conversation at Weis Builders in Minneapolis!",
+    "is_virtual": false,
+    "detail_url": "https://smpstc.starchapter.com/meetinginfo.php?id=272&ts=1794269191"
+  },
+  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -1593,10 +1645,23 @@
     "date": "December 17, 2026",
     "sort_date": "2026-12-17",
     "time": "8:30 AM CST to 9:30 AM CST",
-    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
-    "description": "Join us over coffee for a conversation Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
+    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
+    "description": "Join us over coffee for a conversation",
     "is_virtual": false,
     "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=292&ts=1790096569"
+  },
+  {
+    "chapter": "SMPS St. Louis",
+    "state": "Missouri",
+    "region": "Missouri Valley",
+    "title": "Marketing Holiday Mixer 2026",
+    "date": "December 17, 2026",
+    "sort_date": "2026-12-17",
+    "time": "4:00 PM CST to 6:00 PM CST",
+    "location": "TOKY, 3141 Locust St,, St. Louis, MO 63103, Celebrate the season with a festive gathering of the St. Louis marketing community!, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
+    "description": "Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
+    "is_virtual": false,
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=297&ts=1794256297"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1752,7 +1817,7 @@
     "location": "The Shop Club, 9100 John W. Carpenter Fwy, Dallas, TX 75247",
     "description": "Join SMPS North Texas and CMAA North Texas for a special transportation-focused event bringing together industry and public-sector leaders to explore the future of mobility across North Texas",
     "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=325&ts=1792595132"
+    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=325&ts=1794261879"
   },
   {
     "chapter": "SMPS Austin",
