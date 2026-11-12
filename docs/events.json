@@ -1,57 +1,5 @@
 [
   {
-    "chapter": "SMPS Houston",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "NEW DATE! SMPS Houston Professional Development | Proposing to Win: RFQ/RFP 101",
-    "date": "November 11, 2026",
-    "sort_date": "2026-11-11",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "DBR, 200 Westlake Park Blvd (Westlake Training Room), Houston, TX 77079",
-    "description": "Join us to learn winning proposal strategies!",
-    "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=198&ts=1794362142"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "SMPS North Texas Happy Hour",
-    "date": "November 11, 2026",
-    "sort_date": "2026-11-11",
-    "time": "5:30 PM to 7:30 PM",
-    "location": "Bankhead Brewpub, 13090 Bee St., Farmers Branch, TX 75234",
-    "description": "Join us for our next SMPS North Texas Happy Hour!",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=324&ts=1792602298"
-  },
-  {
-    "chapter": "SMPS Utah",
-    "state": "Utah",
-    "region": "Southwest",
-    "title": "November Education: Level Up: Endgame",
-    "date": "November 11, 2026",
-    "sort_date": "2026-11-11",
-    "time": "8:00 AM to 1:30 PM",
-    "location": "Okland Construction, 1978 S. West Temple, Salt Lake City, UT 84115",
-    "description": "Turn pursuit intelligence into winning proposal strategies.",
-    "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=470&ts=1793753718"
-  },
-  {
-    "chapter": "SMPS Seattle",
-    "state": "Washington",
-    "region": "Pacific",
-    "title": "Pacific Regional CPSM Study Session | Domain 3 (Client and Business Development)",
-    "date": "November 11, 2026",
-    "sort_date": "2026-11-11",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual - Register through the CPSM Study Group website to receive the ZOOM link.",
-    "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
-    "is_virtual": true,
-    "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=515&ts=1789192421"
-  },
-  {
     "chapter": "SMPS Los Angeles",
     "state": "California",
     "region": "Pacific",
@@ -192,7 +140,7 @@
     "location": "Urban Chestnut Grove Brewery & Bierhall, 4465 Manchester Ave, St. Louis, MO 63110",
     "description": "Join us over drinks for conversation and community!",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=293&ts=1790187067"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=293&ts=1794431536"
   },
   {
     "chapter": "SMPS Oregon",
@@ -348,7 +296,7 @@
     "location": "Central Pacific Bank, 20th Floor Waimea Conference Room, 220 South King St, Honolulu, HI 96813",
     "description": "Join SMPS and CREDA for an insightful look at Hawaii's construction market as we approach 2027.",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=280&ts=1793848308"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=280&ts=1794444945"
   },
   {
     "chapter": "SMPS Boston",
@@ -426,7 +374,7 @@
     "location": "Nationwide & Ohio Farm Bureau 4-H Center, 2201 Fred Taylor Dr., Columbus, OH 43210",
     "description": "",
     "is_virtual": false,
-    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1794337432"
+    "detail_url": "https://smpscolumbus.starchapter.com/meetinginfo.php?id=158&ts=1794420912"
   },
   {
     "chapter": "SMPS Oklahoma",
@@ -920,7 +868,7 @@
     "location": "The City Club of San Francisco, 155 Sansome Street, 10th Floor, San Francisco, CA 94104, https://cityclubsf.com/",
     "description": "Celebrate award-winning work, connect with industry peers, and kick off the holiday season with SMPS SFBAC.",
     "is_virtual": false,
-    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1793403877"
+    "detail_url": "https://smpssf.starchapter.com/meetinginfo.php?id=632&ts=1794440308"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1048,7 +996,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Axis Infrastructure, Inc \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Thomas & Hutton \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -1378,6 +1326,19 @@
     "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=416&ts=1793884402"
   },
   {
+    "chapter": "SMPS Southeast Michigan",
+    "state": "Michigan",
+    "region": "Heartland",
+    "title": "Virtual Hot Takes: Coffee + Conntections",
+    "date": "December 10, 2026",
+    "sort_date": "2026-12-10",
+    "time": "8:30 AM to 9:30 AM",
+    "location": "Virtual via Zoom, https://smpsindiana.starchapter.com/meet-reg1.php?id=416",
+    "description": "Topic: Keep, Change, or Ditch",
+    "is_virtual": true,
+    "detail_url": "https://smpssoutheastmi.starchapter.com/meetinginfo.php?id=298&ts=1794427192"
+  },
+  {
     "chapter": "SMPS West Michigan",
     "state": "Michigan",
     "region": "Heartland",
@@ -1570,7 +1531,20 @@
     "location": "Skirball Cultural Center, 2701 N Sepulveda Blvd., Los Angeles, CA 90049",
     "description": "Celebrate 40 years of the Leonardo Awards with SMPS/LA, honoring AEC leaders, marketing excellence, and the year together in style",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1793304435"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1794468102"
+  },
+  {
+    "chapter": "SMPS Boston",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "title": "What's Next? A State of the AEC Industry as We Head into 2027",
+    "date": "December 16, 2026",
+    "sort_date": "2026-12-16",
+    "time": "12:00 PM to 1:30 PM",
+    "location": "Zoom",
+    "description": "What will 2027 hold for the architecture, engineering, construction, and environmental industries? Join us for a preview of what's ahead for AEC firms",
+    "is_virtual": true,
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=209&ts=1794449033"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -1589,14 +1563,14 @@
     "chapter": "SMPS Colorado",
     "state": "Colorado",
     "region": "Southwest",
-    "title": "The Proposal Glow Up",
+    "title": "The Proposal Glow Up: Strategies for Last Minute Wins",
     "date": "December 17, 2026",
     "sort_date": "2026-12-17",
     "time": "TBD",
     "location": "See event details",
     "description": "Category: SOCO \u2013 Virtual",
     "is_virtual": true,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=833&Itemid=115&year=2026&month=12&day=17&title=the-proposal-glow-up&uid=4b15e41693d5e71c626c2ebc01915752"
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=833&Itemid=115&year=2026&month=12&day=17&title=the-proposal-glow-up-strategies-for-last-minute-wins&uid=4b15e41693d5e71c626c2ebc01915752"
   },
   {
     "chapter": "SMPS St. Louis",
@@ -1615,14 +1589,14 @@
     "chapter": "SMPS St. Louis",
     "state": "Missouri",
     "region": "Missouri Valley",
-    "title": "Marketing Holiday Mixer 2026",
+    "title": "Merry Marketing Mixer",
     "date": "December 17, 2026",
     "sort_date": "2026-12-17",
-    "time": "4:00 PM CST to 6:00 PM CST",
+    "time": "4:00 PM CST to 7:00 PM CST",
     "location": "TOKY, 3141 Locust St,, St. Louis, MO 63103, Celebrate the season with a festive gathering of the St. Louis marketing community!, Photos are frequently taken at our chapter events. The SMPS St. Louis Chapter has the right to use photos from our events for any purpose, including but not limited to use in publications, on social media, in the newsletter, promotional materials, or on our website.",
     "description": "Policies Substitution Policy Any substitution to a Member exclusive event will be charged a $100 fee. Walk-in Policy To ensure we can comfortably accommodate all attendees, anyone who registers after the deadline will be charged an additional $10 walk-in fee. Cancellation/Refund Policy Cancellations made 48-hours/2 days prior to the event will be fully refunded. Due to our commitment with the meeting facility for food and beverage quantities, all other cancellations or no-shows will be invoiced for the full cost of the event. In the event the registrant is unable to attend, another individual from their firm can attend and the attendee will be expected to pay-at-the-door any applicable cost difference (ie: member vs non-member). Photography Disclaimer",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=297&ts=1794256297"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=297&ts=1794435529"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -1649,6 +1623,19 @@
     "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=517&ts=1789192972"
+  },
+  {
+    "chapter": "SMPS Boston",
+    "state": "Massachusetts",
+    "region": "Northeast",
+    "title": "SMPS Boston 2027 Holiday Party",
+    "date": "January 07, 2027",
+    "sort_date": "2027-01-07",
+    "time": "5:30 PM to 8:30 PM",
+    "location": "Back Bay Social, 867 Boylston Street, Boston, MA 02116",
+    "description": "This year's celebration brings together AEC marketing and business development professionals for an evening of festive drinks, delicious bites, and meaningful connections.",
+    "is_virtual": false,
+    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=208&ts=1794442988"
   },
   {
     "chapter": "SMPS Colorado",
@@ -1755,19 +1742,6 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=518&ts=1789193145"
   },
   {
-    "chapter": "SMPS Connecticut",
-    "state": "Connecticut",
-    "region": "Northeast",
-    "title": "CPSM Study Group - Domain 5",
-    "date": "January 27, 2027",
-    "sort_date": "2027-01-27",
-    "time": "4:00 PM EST to 6:00 PM EST",
-    "location": "Virtual Workshop",
-    "description": "CPSM Study Group - Domain 5",
-    "is_virtual": true,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=298&ts=1793032399"
-  },
-  {
     "chapter": "SMPS Greater Cincinnati",
     "state": "Ohio",
     "region": "Heartland",
@@ -1779,6 +1753,19 @@
     "description": "Join us for an Economic Update with AGC of America Chief Economist Ken Simonson!",
     "is_virtual": false,
     "detail_url": "https://greatercincinnatismps.starchapter.com/meetinginfo.php?id=407&ts=1794333369"
+  },
+  {
+    "chapter": "SMPS Houston",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS Houston Professional Development | Help Your Stars Shine: How to Lead Short-List Interview Preparation",
+    "date": "January 27, 2027",
+    "sort_date": "2027-01-27",
+    "time": "12:00 AM to 12:00 AM",
+    "location": "TBD",
+    "description": "The session covers best practices for three key areas of shortlist interview preparation: kick-off meeting, content development, and practice, including Q&A",
+    "is_virtual": false,
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=222&ts=1794444929"
   },
   {
     "chapter": "SMPS North Texas",
@@ -1805,6 +1792,19 @@
     "description": "Stay Tuned!",
     "is_virtual": false,
     "detail_url": "https://smpsaustin.starchapter.com/meetinginfo.php?id=355&ts=1793744260"
+  },
+  {
+    "chapter": "SMPS Connecticut",
+    "state": "Connecticut",
+    "region": "Northeast",
+    "title": "CPSM Study Group - Domain 5",
+    "date": "February 03, 2027",
+    "sort_date": "2027-02-03",
+    "time": "4:00 PM EST to 6:00 PM EST",
+    "location": "Virtual Workshop",
+    "description": "CPSM Study Group - Domain 5",
+    "is_virtual": true,
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=298&ts=1794421630"
   },
   {
     "chapter": "SMPS Boston",
