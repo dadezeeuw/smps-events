@@ -26,19 +26,6 @@
     "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=183&ts=1792710086"
   },
   {
-    "chapter": "SMPS Atlanta",
-    "state": "Georgia",
-    "region": "Southeast",
-    "title": "Coastal Cru Currents and Cocktails",
-    "date": "November 17, 2026",
-    "sort_date": "2026-11-17",
-    "time": "4:30 PM to 6:30 PM",
-    "location": "Cohen's Retreat, 5715 Skidaway Road, Savannah, GA 31406",
-    "description": "Join us for Current & Cocktails, a laid-back evening for our SMPS Coastal Cru members!",
-    "is_virtual": false,
-    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=395&ts=1791467680"
-  },
-  {
     "chapter": "SMPS Hawaii",
     "state": "Hawaii",
     "region": "Pacific",
@@ -102,19 +89,6 @@
     "description": "Stop reinventing the wheel \u2014 just change the tires.",
     "is_virtual": true,
     "detail_url": "https://smpsupstateny.starchapter.com/meetinginfo.php?id=270&ts=1793191775"
-  },
-  {
-    "chapter": "SMPS Charlotte",
-    "state": "North Carolina",
-    "region": "Southeast",
-    "title": "In Defense of Adversity",
-    "date": "November 17, 2026",
-    "sort_date": "2026-11-17",
-    "time": "8:30 AM to 10:00 AM",
-    "location": "JE Dunn Construction, 227 Southside Drive, Charlotte, NC 28217-1727, http://www.jedunn.com",
-    "description": "Join SMPS Charlotte peers for a live watch party or virtual presentation with Steve Gavatorta.",
-    "is_virtual": true,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=426&ts=1792681792"
   },
   {
     "chapter": "SMPS Columbus",
@@ -293,10 +267,10 @@
     "date": "November 18, 2026",
     "sort_date": "2026-11-18",
     "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual",
+    "location": "Virtual - Zoom",
     "description": "Back by popular demand! Join SMPS-NY for a practical look at AI in proposal development with Alex Borowick of EnTech Engineering. Explore AI tools, best practices, and real-world applications to streamline your proposal workflow. Free for SMPS members!",
     "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=180&ts=1793384085"
+    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=180&ts=1794856090"
   },
   {
     "chapter": "SMPS Philadelphia",
@@ -387,7 +361,7 @@
     "location": "Little America Hotel, 500 South Main Street, Salt Lake City, UT 84101",
     "description": "Meet leaders from DFCM and top architecture firms in small, focused groups. Three quick rounds, direct dialogue, and practical takeaways. Tickets sell out fast for this annual event!",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1794532310"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1794857286"
   },
   {
     "chapter": "SMPS Ontario",
@@ -559,6 +533,19 @@
     "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=437&ts=1793636361"
   },
   {
+    "chapter": "SMPS Atlanta",
+    "state": "Georgia",
+    "region": "Southeast",
+    "title": "Coastal Cru Currents and Cocktails",
+    "date": "December 01, 2026",
+    "sort_date": "2026-12-01",
+    "time": "4:30 PM to 6:30 PM",
+    "location": "Cohen's Retreat, 5715 Skidaway Road, Savannah, GA 31406",
+    "description": "Join us for Current & Cocktails, a laid-back evening for our SMPS Coastal Cru members!",
+    "is_virtual": false,
+    "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=395&ts=1794853626"
+  },
+  {
     "chapter": "SMPS Northeast Ohio",
     "state": "Ohio",
     "region": "Heartland",
@@ -579,8 +566,8 @@
     "date": "December 01, 2026",
     "sort_date": "2026-12-01",
     "time": "11:15 AM EST to 1:00 PM EST",
-    "location": "Timmons Group & Virtual, 7053 Celebration Park Ave Ste 300, Richmond, VA 23225",
-    "description": "Discover your Enneagram type and uncover the motivations, strengths, and hidden superpowers that make you uniquely you.",
+    "location": "Timmons Group & Virtual, 7053 Celebration Park Ave Ste 300, Richmond, VA 23225, 1785 Kitimal Drive, Virginia Beach, VA 23454",
+    "description": "Discover your Enneagram type and uncover the motivations, strengths, and hidden superpowers that make you uniquely you. Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=248&ts=1784910255"
   },
@@ -647,7 +634,7 @@
     "location": "Leahi Brewing Company, 1 Aloha Tower Dr, Honolulu, HI 96813",
     "description": "Holiday Party",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1794806307"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1794880392"
   },
   {
     "chapter": "SMPS Indiana",
@@ -686,7 +673,7 @@
     "location": "Nicky's Coal Fired Pizza, 5026 Centennial Blvd, Nashville, TN 37209, https://www.nickysnashville.com/",
     "description": "We\u2019ve made the connections, attended the events, and survived another year in AEC. Sounds like a good reason to celebrate.",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=290&ts=1793994547"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=290&ts=1794846449"
   },
   {
     "chapter": "SMPS Seattle",
@@ -749,7 +736,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Fortune-Johnson \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Thomas & Hutton \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -842,7 +829,7 @@
     "location": "The Junior League of Houston, 1811 Briar Oaks Lane, Houston, TX 77027",
     "description": "Join us as we celebrate the year's mentors, graduates, and award winners from our One2One Mentor Program and chapter!",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=203&ts=1791920199"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=203&ts=1794871887"
   },
   {
     "chapter": "SMPS San Antonio",
@@ -1024,7 +1011,7 @@
     "location": "Maggiano's Little Italy, #2 The Boulevard, Richmond Heights, MO 63117",
     "description": "Combined event to celebrate the holidays and our chapter's success over the past year, all for a good cause!",
     "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=294&ts=1794502984"
+    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=294&ts=1794864798"
   },
   {
     "chapter": "SMPS Northeast Ohio",
@@ -1038,19 +1025,6 @@
     "description": "Join us for our annual Holiday Celebration honoring members and supporters of the SMPS Northeast Ohio Chapter. Enjoy cocktails and tasty food on the East Bank of the Flats while wrapping up the year with fellow industry peers and friends.",
     "is_virtual": false,
     "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=216&ts=1792067356"
-  },
-  {
-    "chapter": "SMPS Virginia",
-    "state": "Virginia",
-    "region": "Southeast",
-    "title": "SMPS Holiday Social | Richmond, Virginia",
-    "date": "December 09, 2026",
-    "sort_date": "2026-12-09",
-    "time": "4:30 PM EST to 6:30 PM EST",
-    "location": "Drive Shack Richmond, 1647 Four Rings Drive, Richmond, VA 23233, Celebrate the season with SMPS Virginia at Drive Shack Richmond!, 1785 Kitimal Drive, Virginia Beach, VA 23454",
-    "description": "Follow Us Contact Us Get in Touch Sponsors Join Mailing List E-blasts include important announcements, upcoming events, and member/sponsor highlights. Get the latest news \u00a9 2026 SMPS Virginia All rights reserved. Terms of Use Privacy Policy Admin",
-    "is_virtual": false,
-    "detail_url": "https://smpsva.starchapter.com/meetinginfo.php?id=255&ts=1793110684"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -1134,14 +1108,27 @@
     "chapter": "SMPS Charlotte",
     "state": "North Carolina",
     "region": "Southeast",
+    "title": "Holiday MIX: Cookie Decorating",
+    "date": "December 10, 2026",
+    "sort_date": "2026-12-10",
+    "time": "8:30 AM to 10:00 AM",
+    "location": "McFarland Construction, 7140 Forest Point Blvd., Charlotte, NC 28217, https://mcfarlandconstructionus.com/",
+    "description": "Enjoy holiday cheer, decorate cookies, and network with your SMPS colleagues!",
+    "is_virtual": false,
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=428&ts=1794845717"
+  },
+  {
+    "chapter": "SMPS Charlotte",
+    "state": "North Carolina",
+    "region": "Southeast",
     "title": "Growing Together: The Future of Parks & Recreation in Mecklenburg County",
     "date": "December 10, 2026",
     "sort_date": "2026-12-10",
     "time": "11:30 AM to 1:00 PM",
-    "location": "TBD, Charlotte, NC 12345",
-    "description": "TBD Join parks and recreation leaders for a conversation about the changing needs of our communities. Our Partners",
+    "location": "Canopy Realtor Association, 1120 Pearl Park Way, Room 101B, Charlotte, NC 28204, https://www.carolinahome.com/",
+    "description": "Join parks and recreation leaders for a conversation about the changing needs of our communities. Our Partners",
     "is_virtual": false,
-    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=427&ts=1794320814"
+    "detail_url": "https://smpscharlotte.starchapter.com/meetinginfo.php?id=427&ts=1794856001"
   },
   {
     "chapter": "SMPS Greater Cincinnati",
@@ -1167,7 +1154,7 @@
     "location": "Virtual Meeting",
     "description": "Grab a coffee and join SMPS peers from across the region to swap lessons learned on strategy, networking, marketing and BD, proposals, and what\u2019s ahead for 2027.",
     "is_virtual": true,
-    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=218&ts=1794341423"
+    "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=218&ts=1794839221"
   },
   {
     "chapter": "SMPS Pittsburgh",
