@@ -1,265 +1,5 @@
 [
   {
-    "chapter": "SMPS Los Angeles",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Bake, Swap & Celebrate \u2013 Mix, Mingle, and Take Home Something Sweet with SMPS/LA",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "5:00 PM PST to 7:00 PM PST",
-    "location": "Swinerton, 1150 Olive St, 27th Floor, Los Angeles, CA 90015",
-    "description": "Join SMPS/LA for a festive Cookie Exchange celebrating the season and our vibrant AEC community.",
-    "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=181&ts=1792135645"
-  },
-  {
-    "chapter": "SMPS Orange County",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Caffeinate & Connect - November 2026",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "8:30 AM to 9:30 AM (Pacific Time)",
-    "location": "W.E. O'Neil Construction, 2100 Main Street, Suite 300, Irvine, CA 92614",
-    "description": "Join us for a morning of coffee, conversation, and connection at our Caffeinate & Connect breakfast!",
-    "is_virtual": false,
-    "detail_url": "https://smpsoc.starchapter.com/meetinginfo.php?id=188&ts=1790215293"
-  },
-  {
-    "chapter": "SMPS Sacramento",
-    "state": "California",
-    "region": "Pacific",
-    "title": "Friendsgiving Gathering | November 18th @ 5PM",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "5:00 PM to 7:00 PM",
-    "location": "Air Systems Service & Construction, 151 Blue Ravine Road, Folsom, CA 95630",
-    "description": "Celebrate the season with SMPS Sacramento at our Friendsgiving Gathering, a relaxed evening of conversation, connections, and friendly competition.",
-    "is_virtual": false,
-    "detail_url": "https://smpssac.starchapter.com/meetinginfo.php?id=483&ts=1792704940"
-  },
-  {
-    "chapter": "SMPS Colorado",
-    "state": "Colorado",
-    "region": "Southwest",
-    "title": "Colorado K-12 Education",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "TBD",
-    "location": "See event details",
-    "description": "Category: Programs",
-    "is_virtual": false,
-    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=826&Itemid=115&year=2026&month=11&day=18&title=colorado-k-12-education-&uid=62b89568ab56122c2551c46c249d38fb"
-  },
-  {
-    "chapter": "SMPS Connecticut",
-    "state": "Connecticut",
-    "region": "Northeast",
-    "title": "Humans at the Helm: Guiding AI in Proposal Management",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "1:00 PM EST to 2:00 PM EST",
-    "location": "Virtual Program",
-    "description": "Registrants will receive the access link in the bottom section of their registration confirmation email, and a reminder email the morning of the virtual program. Join us for a closer look at how AI is changing proposal management, and the essential role proposal professionals play in shaping what comes next.",
-    "is_virtual": true,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=289&ts=1791815292"
-  },
-  {
-    "chapter": "SMPS Connecticut",
-    "state": "Connecticut",
-    "region": "Northeast",
-    "title": "CPSM Study Group - Domain 2",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "4:00 PM EST to 6:00 PM EST",
-    "location": "Virtual Workshop",
-    "description": "CPSM Study Group - Domain 2",
-    "is_virtual": true,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=295&ts=1792441598"
-  },
-  {
-    "chapter": "SMPS Central Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Call for 2027 Committee Chairs",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "5:00 PM to 5:00 PM",
-    "location": "Virtual",
-    "description": "Ready to get more involved with SMPS Central Florida? Applications are now open for committee chairs! Bring your ideas, grow your network, and help shape the future of our chapter. Connect. Contribute. Grow. Lead. Apply today!",
-    "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=667&ts=1794595160"
-  },
-  {
-    "chapter": "SMPS North Florida",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee Connections",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Hilite Coffee, 4424 Hendricks Ave, Jacksonville, FL 32207",
-    "description": "Join SMPS North Florida for coffee and casual conversation at our November Coffee Connections!",
-    "is_virtual": false,
-    "detail_url": "https://smpsnorthflorida.starchapter.com/meetinginfo.php?id=111&ts=1794241618"
-  },
-  {
-    "chapter": "SMPS Maryland",
-    "state": "Maryland",
-    "region": "Northeast",
-    "title": "Designing Perfect Proposals & MacGyver Hacks for When Everything Goes Wrong",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual",
-    "description": "Explore visual storytelling techniques and troubleshooting hacks to help you deliver standout proposals under pressure.",
-    "is_virtual": true,
-    "detail_url": "https://smpsmaryland.starchapter.com/meetinginfo.php?id=110&ts=1791142790"
-  },
-  {
-    "chapter": "SMPS Boston",
-    "state": "Massachusetts",
-    "region": "Northeast",
-    "title": "CPSM Study Group \u2013 Domain 3: Client and Business Development",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "12:00 PM to 1:30 PM",
-    "location": "Microsoft Teams",
-    "description": "The CPSM Study Group will be meeting to review Domain 3: Client and Business Development.",
-    "is_virtual": true,
-    "detail_url": "https://smpsboston.starchapter.com/meetinginfo.php?id=196&ts=1788371595"
-  },
-  {
-    "chapter": "SMPS Nebraska",
-    "state": "Nebraska",
-    "region": "Missouri Valley",
-    "title": "Breakfast & Learn: The Power of Listening in Leadership Watch Party",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "8:30 AM to 9:45 AM",
-    "location": "Ronco Construction, 1717 N 74th St, Omaha, NE 68114",
-    "description": "Explore how active listening can strengthen collaboration, build trust, and help you navigate difficult conversations with confidence. \u00a9 2026 SMPS Nebraska All rights reserved. Press Terms of Use Privacy Policy Member Area Admin",
-    "is_virtual": false,
-    "detail_url": "https://smpsnebraska.starchapter.com/meetinginfo.php?id=320&ts=1793726738"
-  },
-  {
-    "chapter": "SMPS New York",
-    "state": "New York",
-    "region": "Northeast",
-    "title": "Knowledge Exchange Rewind: Getting Started with AI in Proposal Development",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "12:00 PM to 1:00 PM",
-    "location": "Virtual - Zoom",
-    "description": "Back by popular demand! Join SMPS-NY for a practical look at AI in proposal development with Alex Borowick of EnTech Engineering. Explore AI tools, best practices, and real-world applications to streamline your proposal workflow. Free for SMPS members!",
-    "is_virtual": true,
-    "detail_url": "https://smpsny.starchapter.com/meetinginfo.php?id=180&ts=1794856090"
-  },
-  {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Event Canceled: Village of Industry & Arts Tour",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "4:30 PM EST to 6:00 PM EST",
-    "location": "Village of Industry & Arts, 320 S. Broad Street, Philadelphia, PA 19102",
-    "description": "This meeting has been canceled.",
-    "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=281&ts=1794579302"
-  },
-  {
-    "chapter": "SMPS Philadelphia",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "Applications Due! The Kelly McGann Path to CPSM Certification Scholarship",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "6:00 PM EST to 6:00 PM EST",
-    "location": "Applications Details Below!",
-    "description": "DEADLINE EXTENDED! Advance your career with a Certified Professional Services Marketer (CPSM) scholarship from SMPS Philadelphia. Apply by November 18th!",
-    "is_virtual": false,
-    "detail_url": "https://smpsphiladelphia.starchapter.com/meetinginfo.php?id=278&ts=1794320021"
-  },
-  {
-    "chapter": "SMPS Pittsburgh",
-    "state": "Pennsylvania",
-    "region": "Northeast",
-    "title": "November 2026 Luncheon: Education",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "11:30 AM - 1:30 PM",
-    "location": "Rivers Club, 301 Grant Street, Suite 411, Pittsburgh, PA 15219",
-    "description": "Join SMPS Pittsburgh for our November 2026 Luncheon!",
-    "is_virtual": false,
-    "detail_url": "https://smpspittsburgh.starchapter.com/meetinginfo.php?id=152&ts=1794580561"
-  },
-  {
-    "chapter": "SMPS Houston",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "AEC.AI Conference",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "12:00 AM to 12:00 AM",
-    "location": "JW Marriott, 110 E 2nd St,, Austin, TX , TX 78701",
-    "description": "Presented by the Society for Marketing Professional Services (SMPS), AEC.AI brings together AEC marketing, business development, and growth leaders who are actively shaping how AI will influence firm strategy, client experience, and long-term competitiven",
-    "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=217&ts=1792512113"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "NTX Morning Meetups - Frisco",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "8:00 AM to 9:00 AM",
-    "location": "La Madeleine - Frisco, 8008 State Hwy 121, Suite 100, Frisco, TX 75034",
-    "description": "Join us in Frisco for our new Morning Meetups! Everyone is welcome!",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=326&ts=1793821933"
-  },
-  {
-    "chapter": "SMPS North Texas",
-    "state": "Texas",
-    "region": "Southern",
-    "title": "NTX Morning Meetup - Dallas",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "8:00 AM to 9:00 AM",
-    "location": "Ascension Coffee - Design District, 1621 Oak Lawn Ave., Dallas, TX 75207",
-    "description": "Join us in Dallas for our new Morning Meetups! Everyone is welcome!",
-    "is_virtual": false,
-    "detail_url": "https://smpsntx.starchapter.com/meetinginfo.php?id=327&ts=1793821894"
-  },
-  {
-    "chapter": "SMPS Utah",
-    "state": "Utah",
-    "region": "Southwest",
-    "title": "November 2026 Industry Roundtable",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "11:30 AM to 1:00 PM",
-    "location": "Little America Hotel, 500 South Main Street, Salt Lake City, UT 84101",
-    "description": "Meet leaders from DFCM and top architecture firms in small, focused groups. Three quick rounds, direct dialogue, and practical takeaways. Tickets sell out fast for this annual event!",
-    "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=474&ts=1794937024"
-  },
-  {
-    "chapter": "SMPS Ontario",
-    "state": "Ontario",
-    "region": "Northeast",
-    "title": "Accessible by Design: What AODA Compliance Means for Your Website",
-    "date": "November 18, 2026",
-    "sort_date": "2026-11-18",
-    "time": "12:00 PM EST to 1:00 PM EST",
-    "location": "Zoom",
-    "description": "Learn what web accessibility means for Ontario firms, why it matters more than ever in an AI-enabled world, and the practical steps and free tools you can use to make your website more accessible and compliant.",
-    "is_virtual": true,
-    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=259&ts=1793897192"
-  },
-  {
     "chapter": "SMPS Arizona",
     "state": "Arizona",
     "region": "Southwest",
@@ -283,7 +23,7 @@
     "location": "GHT, 1110 N. Glebe Road, Suite 300, Arlington, VA 22201",
     "description": "A Social Media Roundtable for Emerging Professionals",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=164&ts=1790626142"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=164&ts=1795084151"
   },
   {
     "chapter": "SMPS Tampa Bay",
@@ -400,7 +140,7 @@
     "location": "RS&H, 1715 North Westshore Blvd, Suite 600, Tampa, FL 33607",
     "description": "Join us for our next in-person board meeting!",
     "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=567&ts=1792784725"
+    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=567&ts=1795019919"
   },
   {
     "chapter": "SMPS Central Pennsylvania",
@@ -515,9 +255,9 @@
     "sort_date": "2026-12-02",
     "time": "5:00 PM HST to 8:00 PM HST",
     "location": "Leahi Brewing Company, 1 Aloha Tower Dr, Honolulu, HI 96813",
-    "description": "Holiday Party",
+    "description": "Come ready to mix, mingle, and build a little holiday magic",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1794880392"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1795075108"
   },
   {
     "chapter": "SMPS Indiana",
@@ -572,6 +312,19 @@
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=516&ts=1789192531"
   },
   {
+    "chapter": "SMPS Ontario",
+    "state": "Ontario",
+    "region": "Northeast",
+    "title": "2026 AGM and Amplify Insights Panel Discussion",
+    "date": "December 02, 2026",
+    "sort_date": "2026-12-02",
+    "time": "5:30 PM EST to 8:00 PM EST",
+    "location": "KPMB Architects, 351 King St E Ste 1200",
+    "description": "Toronto, ON M5A 0L6 Join SMPS Ontario on December 2 for our Annual General Meeting, followed by a panel discussion on the insights of Amplify A|E|C 2026.",
+    "is_virtual": false,
+    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=260&ts=1795020208"
+  },
+  {
     "chapter": "SMPS Ozarks",
     "state": "Arkansas, Missouri",
     "region": "Missouri Valley",
@@ -595,7 +348,7 @@
     "location": "Maggiano's Chevy Chase, 5333 Wisconsin Ave NW, Washington, DC 20015",
     "description": "An engaging and informative Lunch & Leads program focused on the exciting RFK Stadium and surrounding area development.",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=175&ts=1793297522"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=175&ts=1795024555"
   },
   {
     "chapter": "SMPS North Florida",
@@ -619,7 +372,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors United Consulting \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Salas O'Brien \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -910,6 +663,19 @@
     "detail_url": "https://smpsneo.starchapter.com/meetinginfo.php?id=216&ts=1792067356"
   },
   {
+    "chapter": "SMPS Utah",
+    "state": "Utah",
+    "region": "Southwest",
+    "title": "2026 Holiday Gala",
+    "date": "December 09, 2026",
+    "sort_date": "2026-12-09",
+    "time": "11:30 AM to 1:30 PM",
+    "location": "Eaglewood Golf Course Clubhouse, 1110 E Eaglewood Dr, North Salt Lake, UT 84054",
+    "description": "Members Only Holiday Gala",
+    "is_virtual": false,
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=476&ts=1795050723"
+  },
+  {
     "chapter": "SMPS Central Florida",
     "state": "Florida",
     "region": "Southeast",
@@ -1128,7 +894,7 @@
     "location": "Virtual",
     "description": "Curious about the Mentor/Prot\u00e9g\u00e9 Program? Whether you\u2019re looking for guidance, new connections or an opportunity to share what you\u2019ve learned, the SMPS Central Florida Mentor/Prot\u00e9g\u00e9 Program is about growing together.",
     "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=670&ts=1794344916"
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=670&ts=1795058817"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -1141,7 +907,7 @@
     "location": "Virtual",
     "description": "Curious about the Mentor/Prot\u00e9g\u00e9 Program? Whether you\u2019re looking for guidance, new connections or an opportunity to share what you\u2019ve learned, the SMPS Central Florida Mentor/Prot\u00e9g\u00e9 Program is about growing together.",
     "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=671&ts=1794345316"
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=671&ts=1795059128"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -1365,6 +1131,19 @@
     "detail_url": "https://smpscentralpa.starchapter.com/meetinginfo.php?id=439&ts=1793637133"
   },
   {
+    "chapter": "SMPS Colorado",
+    "state": "Colorado",
+    "region": "Southwest",
+    "title": "Save the Date: Get to Know SMPS Breakfast",
+    "date": "January 20, 2027",
+    "sort_date": "2027-01-20",
+    "time": "TBD",
+    "location": "See event details",
+    "description": "Category: Membership",
+    "is_virtual": false,
+    "detail_url": "https://smpsc.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=827&Itemid=115&year=2027&month=01&day=20&title=save-the-date-get-to-know-smps-breakfast&uid=c9e19d57e5f74e088f05d94d9b940769"
+  },
+  {
     "chapter": "SMPS Connecticut",
     "state": "Connecticut",
     "region": "Northeast",
@@ -1375,7 +1154,7 @@
     "location": "Urban Lodge Brewing Co., 47 Purnell Pl, Manchester, CT 06040",
     "description": "A strategic approach to repurposing content across platforms, campaigns, and client conversations.",
     "is_virtual": false,
-    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=300&ts=1794949440"
+    "detail_url": "https://smpsct.starchapter.com/meetinginfo.php?id=300&ts=1795037843"
   },
   {
     "chapter": "SMPS Houston",
