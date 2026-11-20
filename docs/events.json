@@ -1,135 +1,5 @@
 [
   {
-    "chapter": "SMPS Arizona",
-    "state": "Arizona",
-    "region": "Southwest",
-    "title": "Movers + Shakers: Blind Date with a Book",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "5:30 PM to 7:00 PM",
-    "location": "Social Bean, 715 S McClintock Drive, Tempe, AZ 85288",
-    "description": "Join SMPS Arizona Movers & Shakers for a Blind Date with a Book at a local coffee shop. Bring one wrapped book with a few clues about its contents, swap with a fellow reader, and leave with a new story to love. Grab a coffee, meet new people, and enjoy a",
-    "is_virtual": false,
-    "detail_url": "https://smpsarizona.starchapter.com/meetinginfo.php?id=295&ts=1792795035"
-  },
-  {
-    "chapter": "SMPS Washington, DC",
-    "state": "District of Columbia, Maryland, Virginia",
-    "region": "Northeast",
-    "title": "SMPS DC Emerging Professionals: The Social Media Exchange",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "4:00 PM to 6:00 PM",
-    "location": "GHT, 1110 N. Glebe Road, Suite 300, Arlington, VA 22201",
-    "description": "A Social Media Roundtable for Emerging Professionals",
-    "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=164&ts=1795084151"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee & Connections - Tampa",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Caf\u00e9 Quiquiriqui, 1402 E 7th Ave, Tampa, FL 33605",
-    "description": "Join us for networking over coffee!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=568&ts=1793205602"
-  },
-  {
-    "chapter": "SMPS Tampa Bay",
-    "state": "Florida",
-    "region": "Southeast",
-    "title": "Coffee & Connections - St. Pete",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "8:30 AM to 9:30 AM",
-    "location": "Atomic Cat Coffee, 10387 Gandy Blvd N, St. Petersburg, FL 33702",
-    "description": "Join us for networking over coffee!",
-    "is_virtual": false,
-    "detail_url": "https://smpstampabay.starchapter.com/meetinginfo.php?id=569&ts=1793205711"
-  },
-  {
-    "chapter": "SMPS Indiana",
-    "state": "Indiana",
-    "region": "Heartland",
-    "title": "SMPS Indiana Volunteer Day at Gleaners",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "1:00 PM to 4:30 PM",
-    "location": "Gleaner's Food Bank, Whether you are a longtime member or still building connections within the chapter, this volunteer day offers a welcoming way to get involved, meet other AEC marketing professionals, and serve our community together.",
-    "description": "",
-    "is_virtual": false,
-    "detail_url": "https://smpsindiana.starchapter.com/meetinginfo.php?id=413&ts=1789067830"
-  },
-  {
-    "chapter": "SMPS Southeast Louisiana",
-    "state": "Louisiana",
-    "region": "Southern",
-    "title": "SeLAbration Awards Gala",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "6:00 PM CST to 9:00 PM CST",
-    "location": "Filmore at Bayou Oaks, 1040 Filmore Ave, New Orleans, LA 70124, http://www.filmoreintheoaks.com/",
-    "description": "Join SMPS Southeast Louisiana for SeLAbration, an evening recognizing the best in AEC marketing and celebrating the people, programs, and accomplishments that make our chapter and industry stronger.",
-    "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=514"
-  },
-  {
-    "chapter": "SMPS St. Louis",
-    "state": "Missouri",
-    "region": "Missouri Valley",
-    "title": "Coffee Connections - November 2026 (MO)",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "8:30 AM CST to 9:30 AM CST",
-    "location": "Coma Coffee, 1034 S Brentwood Blvd Suite 101, Richmond Heights, MO 63117",
-    "description": "Join us over coffee for a conversation",
-    "is_virtual": false,
-    "detail_url": "https://smpsstlouis.starchapter.com/meetinginfo.php?id=289&ts=1793826692"
-  },
-  {
-    "chapter": "SMPS New Mexico",
-    "state": "New Mexico",
-    "region": "Southwest",
-    "title": "November Program",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "11:30 AM MST - 1:00 PM MST",
-    "location": "Jaynes Corporation, 2906 Broadway Blvd NE, Albuquerque, NM 87107",
-    "description": "An Interactive Roundtable Event",
-    "is_virtual": false,
-    "detail_url": "https://smpsnewmexico.starchapter.com/meetinginfo.php?id=119&ts=1783556090"
-  },
-  {
-    "chapter": "SMPS Palmetto",
-    "state": "South Carolina",
-    "region": "Southeast",
-    "title": "Crescent Program - Learn more info session",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "3:00 PM EST to 3:30 PM EST",
-    "location": "Virtual",
-    "description": "Interested in learning more about the Crescent Program? Liz and Julie are available to answer all of your questions!",
-    "is_virtual": true,
-    "detail_url": "https://smpspalmetto.starchapter.com/meetinginfo.php?id=402&ts=1794947585"
-  },
-  {
-    "chapter": "SMPS Utah",
-    "state": "Utah",
-    "region": "Southwest",
-    "title": "EPG November Social",
-    "date": "November 19, 2026",
-    "sort_date": "2026-11-19",
-    "time": "10:00 AM to 11:00 AM",
-    "location": "BHB Structural, 2766 S. Main Street, Salt Lake City, UT 84115",
-    "description": "EPG Social",
-    "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=475&ts=1793815992"
-  },
-  {
     "chapter": "SMPS Tampa Bay",
     "state": "Florida",
     "region": "Southeast",
@@ -257,7 +127,7 @@
     "location": "Leahi Brewing Company, 1 Aloha Tower Dr, Honolulu, HI 96813",
     "description": "Come ready to mix, mingle, and build a little holiday magic",
     "is_virtual": false,
-    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1795075108"
+    "detail_url": "https://smpshawaii.starchapter.com/meetinginfo.php?id=276&ts=1795135973"
   },
   {
     "chapter": "SMPS Indiana",
@@ -322,7 +192,7 @@
     "location": "KPMB Architects, 351 King St E Ste 1200",
     "description": "Toronto, ON M5A 0L6 Join SMPS Ontario on December 2 for our Annual General Meeting, followed by a panel discussion on the insights of Amplify A|E|C 2026.",
     "is_virtual": false,
-    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=260&ts=1795020208"
+    "detail_url": "https://smpsontario.starchapter.com/meetinginfo.php?id=260&ts=1795134235"
   },
   {
     "chapter": "SMPS Ozarks",
@@ -348,7 +218,7 @@
     "location": "Maggiano's Chevy Chase, 5333 Wisconsin Ave NW, Washington, DC 20015",
     "description": "An engaging and informative Lunch & Leads program focused on the exciting RFK Stadium and surrounding area development.",
     "is_virtual": false,
-    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=175&ts=1795024555"
+    "detail_url": "https://smpsdc.starchapter.com/meetinginfo.php?id=175&ts=1795125130"
   },
   {
     "chapter": "SMPS North Florida",
@@ -372,7 +242,7 @@
     "sort_date": "2026-12-03",
     "time": "12:00 PM to 1:00 PM",
     "location": "Virtual Zoom Meeting",
-    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors Salas O'Brien \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
+    "description": "Join the Market Exchange: Literary Leaders Book Club as we discuss Dare to Lead by Bren\u00e9 Brown. Explore courageous leadership, vulnerability, trust, and the skills needed to build stronger teams and cultures. Bring your lunch and join fellow SMPS Atlanta ABOUT SMPS HEADQUARTERS The Society for Marketing Professional Services is the only marketing organization dedicated to creating business opportunities  in the A/E/C industry. Learn more  \u00bb Sign Up For Our Newsletter Subscribe Sponsors TLC Engineering, Inc. \u00a9 2026 SMPS Atlanta All rights reserved. Terms of Use Privacy Policy Cancellation Policy Admin",
     "is_virtual": true,
     "detail_url": "https://smpsatl.starchapter.com/meetinginfo.php?id=397&ts=1791811329"
   },
@@ -671,9 +541,9 @@
     "sort_date": "2026-12-09",
     "time": "11:30 AM to 1:30 PM",
     "location": "Eaglewood Golf Course Clubhouse, 1110 E Eaglewood Dr, North Salt Lake, UT 84054",
-    "description": "Members Only Holiday Gala",
+    "description": "SMPS Utah Annual Holiday Gala",
     "is_virtual": false,
-    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=476&ts=1795050723"
+    "detail_url": "https://smpsutah.starchapter.com/meetinginfo.php?id=476&ts=1795128450"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -712,7 +582,7 @@
     "location": "Landry's Seafood House, 8000 Lakeshore Dr., New Orleans, LA 70124",
     "description": "Join us for Holiday Happy Hour!",
     "is_virtual": false,
-    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=514&ts=1793901773"
+    "detail_url": "https://smpssela.starchapter.com/meetinginfo.php?id=514"
   },
   {
     "chapter": "SMPS Southeast Michigan",
@@ -842,7 +712,7 @@
     "location": "Four Seasons Hotel, 100 Demonbreun St, Nashville, TN 37201",
     "description": "Tennessee is growing, and the decisions we make today will shape how our communities, infrastructure, and economy evolve for generations to come. Meeting that challenge will take more than individual expertise. It will take an industry working together. Follow us! Join our mailing list Subscribe \u00a9 2026 SMPS Nashville All rights reserved. Press Terms of Use Privacy Policy Member Area Site Map Admin",
     "is_virtual": false,
-    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=289&ts=1794595188"
+    "detail_url": "https://smpsnashville.starchapter.com/meetinginfo.php?id=289&ts=1795144228"
   },
   {
     "chapter": "SMPS Houston",
@@ -894,7 +764,7 @@
     "location": "Virtual",
     "description": "Curious about the Mentor/Prot\u00e9g\u00e9 Program? Whether you\u2019re looking for guidance, new connections or an opportunity to share what you\u2019ve learned, the SMPS Central Florida Mentor/Prot\u00e9g\u00e9 Program is about growing together.",
     "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=670&ts=1795058817"
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=670&ts=1795119896"
   },
   {
     "chapter": "SMPS Central Florida",
@@ -907,7 +777,7 @@
     "location": "Virtual",
     "description": "Curious about the Mentor/Prot\u00e9g\u00e9 Program? Whether you\u2019re looking for guidance, new connections or an opportunity to share what you\u2019ve learned, the SMPS Central Florida Mentor/Prot\u00e9g\u00e9 Program is about growing together.",
     "is_virtual": true,
-    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=671&ts=1795059128"
+    "detail_url": "https://smpscentralflorida.starchapter.com/meetinginfo.php?id=671&ts=1795119950"
   },
   {
     "chapter": "SMPS Twin Cities",
@@ -933,7 +803,7 @@
     "location": "Skirball Cultural Center, 2701 N Sepulveda Blvd., Los Angeles, CA 90049",
     "description": "Celebrate 40 years of the Leonardo Awards with SMPS/LA, honoring AEC leaders, marketing excellence, and the year together in style",
     "is_virtual": false,
-    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1794468102"
+    "detail_url": "https://smpsla.starchapter.com/meetinginfo.php?id=176&ts=1795143945"
   },
   {
     "chapter": "SMPS Boston",
@@ -1202,11 +1072,11 @@
     "title": "SMPS Houston Professional Development | Help Your Stars Shine: How to Lead Short-List Interview Preparation",
     "date": "January 27, 2027",
     "sort_date": "2027-01-27",
-    "time": "12:00 AM to 12:00 AM",
-    "location": "TBD",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "Satterfield & Pontikes Construction Auditorium, 11000 Equity Dr, Houston, TX 77041",
     "description": "The session covers best practices for three key areas of shortlist interview preparation: kick-off meeting, content development, and practice, including Q&A",
     "is_virtual": false,
-    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=222&ts=1794444929"
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=222&ts=1795128320"
   },
   {
     "chapter": "SMPS North Texas",
@@ -1308,7 +1178,7 @@
     "sort_date": "2027-02-10",
     "time": "12:00 AM to 12:00 AM",
     "location": "Omni Fort Worth",
-    "description": "Join us in Fort Worth, Texas for SRC! \u00a9 2026 SMPS HOUSTON CHAPTER All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS HOUSTON CHAPTER ID: Password: Forgot Username/Password?",
+    "description": "Join us in Fort Worth, Texas for SRC!",
     "is_virtual": false,
     "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=220&ts=1794332870"
   },
@@ -1337,6 +1207,19 @@
     "description": "Join us for our March 2027 Study Group Cohort domain review and cram sessions!",
     "is_virtual": true,
     "detail_url": "https://smpsseattle.starchapter.com/meetinginfo.php?id=520&ts=1789193390"
+  },
+  {
+    "chapter": "SMPS Houston",
+    "state": "Texas",
+    "region": "Southern",
+    "title": "SMPS Houston Professional Development | The AI Process Matters More Than the Platform",
+    "date": "February 24, 2027",
+    "sort_date": "2027-02-24",
+    "time": "11:30 AM to 1:00 PM",
+    "location": "TBD",
+    "description": "Join us in exploring a process-first approach to working with generative AI, demonstrating how to think through a task, build an effective prompting sequence, and apply AI to realistic business situations. \u00a9 2026 SMPS HOUSTON CHAPTER All rights reserved. Terms of Use Privacy Policy Admin \u00d7 Member Login Members Log In SMPS HOUSTON CHAPTER ID: Password: Forgot Username/Password?",
+    "is_virtual": false,
+    "detail_url": "https://smpshouston.starchapter.com/meetinginfo.php?id=223&ts=1795130053"
   },
   {
     "chapter": "SMPS Austin",
